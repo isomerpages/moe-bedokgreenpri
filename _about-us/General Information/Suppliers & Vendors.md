@@ -102,3 +102,22 @@ The canteen has adequate tables and benches to ensure that students can consume 
 
 <img src="![](/images/Photo%205.jpeg)"  
 style="width:40%">
+
+Canteen Menu and Price Lists 
+-----------------------------
+
+There are 8 food stalls in the school canteen. The respective menu and prices of the food items can be found in the table below:  
+  
+
+| Stall Number | Type of Food | Menu and Price List |
+| --- | --- | --- |
+| 1 | Hot Drinks & Snacks | [Stall 1.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Canteen/Stall%201.pdf)  
+ |
+| 2 | Malay Rice  | [Stall 2.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Canteen/Stall%202.pdf)  
+ |
+| 3 |  Malay Noodles |  [Stall 3.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Canteen/Stall%203.pdf) |
+| 4  |  Chinese Noodles |  [Stall 4.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Canteen/Stall%204.pdf) |
+| 5 |  Chicken Rice | [Stall 5.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Canteen/Stall%205.pdf)   |
+| 6 |  Chinese Rice (Vacant) | Vacant  |
+| 7 |  Western Food |  [Stall 7.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Canteen/Stall%207.pdf) |
+| 8  |  Cold Drinks & Fruits | [Stall 8.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Canteen/Stall%208.pdf)   |

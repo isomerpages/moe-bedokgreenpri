@@ -27,8 +27,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/82)%20MDM%20TOH%20JIT%20HO.jpeg)" alt="82) MDM TOH JIT HO.jpg" width="114" height="144"><br>Mdm Toh Jit Ho<br></td>
-    <td class="tg-hp8w"><img src="![](/images/Aloysius_%20final.jpeg)" alt="Aloysius_ final.jpg" width="140" height="150"><br>Mr Aloysius Fu</td>
+    <td class="tg-hp8w"><img src="/images/82)%20MDM%20TOH%20JIT%20HO.jpeg" alt="82) MDM TOH JIT HO.jpg" width="114" height="144"><br>Mdm Toh Jit Ho<br></td>
+    <td class="tg-hp8w"><img src="/images/Aloysius_%20final.jpeg" alt="Aloysius_ final.jpg" width="140" height="150"><br>Mr Aloysius Fu</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:toh_jit_ho_adeline@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">toh_jit_ho_adeline@schools.gov.sg</span></a><br></td>
@@ -58,8 +58,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/70)%20MRS%20ANGELINE%20ONG.jpeg)" alt="70) MRS ANGELINE ONG.jpg" width="104" height="128"><br>Mrs Angeline Ong</td>
-    <td class="tg-hp8w"><img src="![](/images/16)%20MS%20JUNE%20LEE%20SUAN%20LING.jpeg)" alt="16) MS JUNE LEE SUAN LING.jpg" width="112" height="143"><br>Ms Lee Suan Ling June</td>
+    <td class="tg-hp8w"><img src="/images/70)%20MRS%20ANGELINE%20ONG.jpeg" alt="70) MRS ANGELINE ONG.jpg" width="104" height="128"><br>Mrs Angeline Ong</td>
+    <td class="tg-hp8w"><img src="/images/16)%20MS%20JUNE%20LEE%20SUAN%20LING.jpeg" alt="16) MS JUNE LEE SUAN LING.jpg" width="112" height="143"><br>Ms Lee Suan Ling June</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:angeline_chia_lin@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">angeline_chia_lin@schools.gov.sg</span></a></td>
@@ -91,9 +91,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/12)%20MS%20NEO%20SIN%20YI.jpeg)" alt="12) MS NEO SIN YI.jpg" width="120" height="141"><br>Ms Neo Sin Yi<br></td>
-    <td class="tg-hp8w"><img src="![](/images/Nur%20Ain%20Binte%20Abdul%20Razak.jpeg)" alt="Nur Ain Binte Abdul Razak.jpg" width="109" height="138"><br>Mdm Nur Ain Abdul Razak</td>
-    <td class="tg-hp8w"><img src="![](/images/Zulaikha.jpeg)" alt="Zulaikha.jpg" width="114" height="151"><br>Miss Siti Nur Zulaikha    <br></td>
+    <td class="tg-hp8w"><img src="/images/12)%20MS%20NEO%20SIN%20YI.jpeg" alt="12) MS NEO SIN YI.jpg" width="120" height="141"><br>Ms Neo Sin Yi<br></td>
+    <td class="tg-hp8w"><img src="/images/Nur%20Ain%20Binte%20Abdul%20Razak.jpeg" alt="Nur Ain Binte Abdul Razak.jpg" width="109" height="138"><br>Mdm Nur Ain Abdul Razak</td>
+    <td class="tg-hp8w"><img src="/images/Zulaikha.jpeg" alt="Zulaikha.jpg" width="114" height="151"><br>Miss Siti Nur Zulaikha    <br></td>
   </tr>
   <tr>
     <td class="tg-e3yx"><a href="mailto:neo_sin_yi@schools.gov.sg"><span style="text-decoration:none;color:#0382CB">neo_sin_yi@schools.gov.sg</span></a></td>
@@ -125,9 +125,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/Min%20Yan.jpeg)" alt="Min Yan.jpg" width="127" height="170"><br>Ms Tse Ming Yan</td>
-    <td class="tg-hp8w"><img src="![](/images/151)%20Mr%20Mazlan%20Bin%20Muhammad.jpeg)" alt="151) Mr Mazlan Bin Muhammad.jpeg" width="145" height="182"><br>Mr Mazlan Muhammad<br>(On course)</td>
-    <td class="tg-hp8w"><img src="![](/images/DSC06782.jpeg)" alt="DSC06782.jpg" width="128" height="169"><br>Mr Horis Bin Hosri<br></td>
+    <td class="tg-hp8w"><img src="/images/Min%20Yan.jpeg" alt="Min Yan.jpg" width="127" height="170"><br>Ms Tse Ming Yan</td>
+    <td class="tg-hp8w"><img src="/images/151)%20Mr%20Mazlan%20Bin%20Muhammad.jpeg" alt="151) Mr Mazlan Bin Muhammad.jpeg" width="145" height="182"><br>Mr Mazlan Muhammad<br>(On course)</td>
+    <td class="tg-hp8w"><img src="/images/DSC06782.jpeg" alt="DSC06782.jpg" width="128" height="169"><br>Mr Horis Bin Hosri<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:tse_min_yan@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">tse_min_yan@schools.gov.sg</span></a><br></td>
@@ -159,9 +159,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/113)%20MR%20DARREN%20KENG.jpeg)" alt="113) MR DARREN KENG.jpg" width="117" height="144"><br>Mr Darren Keng</td>
-    <td class="tg-hp8w"><img src="![](/images/Edited%20-%201.jpeg)" alt="Ms Tan Wei Wen.jpg" width="110" height="146"><br>Ms Tan Wei Wen</td>
-    <td class="tg-hp8w"><img src="![](/images/Ms%20Tan%20Wei%20Wen.jpeg)" alt="Edited - 1.jpg" width="100" height="149"><br>Miss Andrea Chua Cher Lih</td>
+    <td class="tg-hp8w"><img src="/images/113)%20MR%20DARREN%20KENG.jpeg" alt="113) MR DARREN KENG.jpg" width="117" height="144"><br>Mr Darren Keng</td>
+    <td class="tg-hp8w"><img src="/images/Ms%20Tan%20Wei%20Wen.jpeg" alt="Ms Tan Wei Wen.jpg" width="110" height="146"><br>Ms Tan Wei Wen</td>
+    <td class="tg-hp8w"><img src="/images/Edited%20-%201.jpeg" alt="Edited - 1.jpg" width="100" height="149"><br>Miss Andrea Chua Cher Lih</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:keng_xing_wei_darren@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">keng_xing_wei_darren@schools.gov.sg</span></a><br></td>
@@ -193,9 +193,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/149)%20Ms%20Nurul%20Shamin%20Binte%20Mohamed%20Ekbal.jpeg)" alt="149) Ms Nurul Shamin Binte Mohamed Ekbal.jpeg" width="132" height="165"><br>Ms Nurul Shamin Mohd Ekbal</td>
-    <td class="tg-hp8w"><img src="![](/images/Danielle%20-%202.jpeg)" alt="Danielle - 2.jpg" width="128" height="157"><br>Miss Danielle Rachel Chong</td>
-    <td class="tg-hp8w"><img src="![](/images/51)%20MR%20LIM%20FANG%20RUI.jpeg)" alt="51) MR LIM FANG RUI.jpg" width="124" height="157"><br>Mr Lim Fang Rui</td>
+    <td class="tg-hp8w"><img src="/images/149)%20Ms%20Nurul%20Shamin%20Binte%20Mohamed%20Ekbal.jpeg" alt="149) Ms Nurul Shamin Binte Mohamed Ekbal.jpeg" width="132" height="165"><br>Ms Nurul Shamin Mohd Ekbal</td>
+    <td class="tg-hp8w"><img src="/images/Danielle%20-%202.jpeg" alt="Danielle - 2.jpg" width="128" height="157"><br>Miss Danielle Rachel Chong</td>
+    <td class="tg-hp8w"><img src="/images/51)%20MR%20LIM%20FANG%20RUI.jpeg" alt="51) MR LIM FANG RUI.jpg" width="124" height="157"><br>Mr Lim Fang Rui</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:nurul_shamin_mohamed_ekbal@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">nurul_shamin_mohamed_ekbal@</span></a><br><a href="mailto:nurul_shamin_mohamed_ekbal@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">schools.gov.sg</span></a><br></td>

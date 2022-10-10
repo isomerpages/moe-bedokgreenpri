@@ -1,4 +1,4 @@
 collections:
-  teachers:
+  staff:
     output: true
     order: []

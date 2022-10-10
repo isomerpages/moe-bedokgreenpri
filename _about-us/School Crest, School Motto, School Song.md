@@ -6,7 +6,8 @@ description: ""
 School Crest
 ------------
 
-![School Crest High Resolution.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/About%20Us/Vision%20n%20Mission/School%20Crest%20High%20Resolution.png)The rows in the open book represent the school striving to achieve the Desired Outcomes of Education.
+<img src="/images/School%20Crest%20High%20Resolution.png"  
+style="width:30%">The rows in the open book represent the school striving to achieve the Desired Outcomes of Education.
 
 The lighted torch stands for a passion for continuous learning.
 
@@ -18,8 +19,7 @@ Persevere and Succeed
 School Song
 -----------
 
-We, in Bedok Green Primary 
-
+We, in Bedok Green Primary  <br>
 We always strive to do our best   
 
 We learn and play together

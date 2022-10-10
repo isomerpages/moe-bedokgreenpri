@@ -122,8 +122,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/89)%20MS%20FARZANAH%20DO%20ABDUL%20SAMAD.jpg" alt="89) MS FARZANAH DO ABDUL SAMAD.jpg" width="120" height="149"><br>Ms Farzanah Abdul Samad</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/85)%20MR%20MOHD%20NAJEEB.jpg" alt="85) MR MOHD NAJEEB.jpg" width="120" height="149"><br>Mr Mohd Najeeb Hassan</td>
+    <td class="tg-hp8w"><img src="![](/images/89)%20MS%20FARZANAH%20DO%20ABDUL%20SAMAD.jpeg)" alt="89) MS FARZANAH DO ABDUL SAMAD.jpg" width="120" height="149"><br>Ms Farzanah Abdul Samad</td>
+    <td class="tg-hp8w"><img src="![](/images/85)%20MR%20MOHD%20NAJEEB.jpeg)" alt="85) MR MOHD NAJEEB.jpg" width="120" height="149"><br>Mr Mohd Najeeb Hassan</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:farzanah_abdul_samad@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">farzanah_abdul_samad@schools.gov.sg</span></a><br></td>
@@ -154,8 +154,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/104)%20MR%20PASUPATHY%20MAGESVARAN.jpg" alt="104) MR PASUPATHY MAGESVARAN.jpg" width="118" height="140"><br>Mr Pasupathy Magesvaran</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/21)%20MR%20NG%20CHEE%20KEONG_2.jpg" alt="21) MR NG CHEE KEONG_2.jpg" width="119" height="149"><br>Mr Ng Chee Keong</td>
+    <td class="tg-hp8w"><img src="![](/images/104)%20MR%20PASUPATHY%20MAGESVARAN.jpeg)" alt="104) MR PASUPATHY MAGESVARAN.jpg" width="118" height="140"><br>Mr Pasupathy Magesvaran</td>
+    <td class="tg-hp8w"><img src="![](/images/21)%20MR%20NG%20CHEE%20KEONG_2.jpeg)" alt="21) MR NG CHEE KEONG_2.jpg" width="119" height="149"><br>Mr Ng Chee Keong</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:pasupathy_magesvaran@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">pasupathy_magesvaran@schools.gov.sg</span></a><br></td>

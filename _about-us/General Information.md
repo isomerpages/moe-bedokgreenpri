@@ -65,29 +65,12 @@ The school uniform is to be worn whenever a student comes to school and at all s
 
 School Uniform
 
-![Front G.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/About%20Us/General%20Info/Front%20G.JPG)
-
-![Front B.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/About%20Us/General%20Info/Front%20B.JPG)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+![School Uniform](/images/School%20Uniform.jpg)
   
 
 PE Attire
 
-![PE Front G.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/About%20Us/General%20Info/PE%20Front%20G.JPG)![PE Front B.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/About%20Us/General%20Info/PE%20Front%20B.JPG)  
+![PE Attire](/images/PE%20Attire.jpg)
 
 Canteen Rules
 -------------

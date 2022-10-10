@@ -13,45 +13,30 @@ style="width:40%">
 School Procedures
 -----------------
 
-#### Absence From School
-
+##### Absence From School
 Students who are absent from school must present a medical certificate from a qualified doctor or a letter from the parent stating reasons for their absence. The school must be informed if the child urgently needs to be away for a long period of time.
 
-#### 
-
-  
-
-Visitors to the School
+##### Visitors to the School
 
 All visitors to the school must report at the school general office and inform the school clerk the purpose of their visit. They must show their Identification Card and in return get a "Visitor's Pass" from the clerk, before proceeding to other parts of the school premises.
 
-  
-
-Leaving School Early  
+##### Leaving School Early  
 If a student is feeling unwell, he/she must inform both the teacher and the parents/guardian. An ill child must be picked up by a parent/guardian, the school will not allow him/her to return home unescorted. The parents/guardian must sign the "Early Departure Register" placed in the office. Parents/Guardians have to produce their Identification Card for verification reasons.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Dismissal
+##### Dismissal
 
 All parents/guardians must wait at Gate 4 or Gate 5 to receive their children after dismissal. During the inclement weather, they can collect their children from the porch or sheltered part of Gate 4 or Gate 5.
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Accidents
+##### Accidents
 
 If a student sustains minor injury in the school, the form teacher will attend to the student. If the injury is serious the school will take the initiative to send the student to a clinic or hospital immediately. However, every effort will be made to contact the student's parents before he is taken to the hospital.
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 School Rules
 ------------
 
-### **B**e proud of our school  
-
+**B**e proud of our school  
 **G**ain respect through respecting one another  
 **R**espect school property  
 **E**xhibit good behaviour at all times  
@@ -63,12 +48,11 @@ Uniform
 
 The school uniform is to be worn whenever a student comes to school and at all school-related activities including those held during school vacation or outside the school premises. Students are to wear the prescribed school uniform and modifications to the school uniform is not allowed.  
 
-School Uniform
+<u>School Uniform</u>
 
 ![School Uniform](/images/School%20Uniform.jpg)
   
-
-PE Attire
+<u>PE Attire</u>
 
 ![PE Attire](/images/PE%20Attire.jpg)
 
@@ -96,8 +80,6 @@ At the assembly area, listen to the roll call carefully.
 Good Learning Habits
 --------------------
 
-### 
-
 *   You can develop good learning habits to do well in your studies.
 *   Pay careful attention to your teacher in class.
 *   Plan a personal time-table and fix your hours of study and play.
@@ -109,11 +91,11 @@ Good Learning Habits
 Student Welfare
 ---------------
 
-### Fire Drills  
+##### Fire Drills  
 
 The school will carry out the fire drill termly. Students will be informed in advance of the first fire drill in the year. This is to familiarize the new P1 pupils with the system. Subsequent fire drills will be carried out without advance notice.
 
-#### Road safety
+##### Road safety
 
 *   The school is very concerned about the safety of her pupils. Here are some tips on road safety:
 *   Cross roads and traffic junctions where there are pedestrian traffic lights, zebra crossing, overhead bridges and underpasses. Avoid walking in front of buses, lorries or large vehicles that block oncoming motorists' view of you.
@@ -141,7 +123,7 @@ You Can Be A Good Student
 Guidelines On The Use Of Handphone
 ----------------------------------
 
-### Students should not bring their mobile phones to school unless special permission has been granted. Students who wish to bring their mobile phones to school must obtain a mobile phone contract from the HOD/CCE. **Music players** and **handheld computer games** should not be brought to school.
+Students should not bring their **mobile phones** to school unless special permission has been granted. Students who wish to bring their mobile phones to school must obtain a mobile phone contract from the HOD/CCE. **Music players and handheld computer games should not be brought to school.**
 
 Safety First In School
 ----------------------
@@ -158,7 +140,7 @@ Safety First In School
 Examination Regulations
 -----------------------
 
-### All students must:  
+##### All students must:  
 
 *   Adhere to the examination regulations and time table strictly.
 

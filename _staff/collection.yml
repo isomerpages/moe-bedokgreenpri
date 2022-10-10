@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Teachers/P6 Teachers.md
       - Teachers/Other Teachers.md
       - Teachers/.keep

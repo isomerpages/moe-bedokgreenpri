@@ -60,3 +60,45 @@ School Holiday          7.30 a.m. to 7.00 p.m.
 **The Enablers II Pte Ltd** <br>
 Tel: 87689011 / 90061535 <br>
 Email: [bedokgreenscc@nable2.com](mailto:bedokgreenscc@nable2.com)
+
+POSB Smart Buddy
+================
+
+We are now cashless enabled! 
+
+  
+
+Your child may minimise contact risk by paying with any of these options:  <br>
+\- POSB Smart Buddy Watch/Card <br>
+\- School Smartcard <br>
+\- EZ-Link Card
+
+  
+
+To manage your child’s daily finances and encourage smart living and saving habits, you may wish to consider signing up for POSB Smart Buddy. You may also open a bank account for your child to enjoy monthly transfer of savings or to receive Edusave award (if any).
+
+  
+
+Register at [www.posb.com.sg/bgps](http://www.posb.com.sg/bgps) to get started.
+
+School Canteen
+==============
+
+The school environment plays an important role in nurturing and sustaining good eating habits. We strongly encourage students to consume a meal before snacking. The school canteen serves a healthy plate consisting of wholemeal noodles or brown rice with meat, vegetables and fruits. Here in BGPS, we ensure that there are a variety of stalls which help nurture and sustain good eating habits in all our students.
+
+<img src="![](/images/Photo%201.jpeg)"  
+style="width:40%">
+
+<img src="![](/images/Photo%203.jpeg)"  
+style="width:40%">
+
+<img src="![](/images/Photo%204.jpeg)"  
+style="width:40%">
+
+<img src="![](/images/Photo%202.jpeg)"  
+style="width:40%">
+
+The canteen has adequate tables and benches to ensure that students can consume their meals in a clean and safe environment.
+
+<img src="![](/images/Photo%205.jpeg)"  
+style="width:40%">

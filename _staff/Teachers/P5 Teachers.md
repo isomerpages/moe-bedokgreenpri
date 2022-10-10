@@ -27,8 +27,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/82)%20MDM%20TOH%20JIT%20HO.jpg" alt="82) MDM TOH JIT HO.jpg" width="114" height="144"><br>Mdm Toh Jit Ho<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Aloysius_%20final.jpg" alt="Aloysius_ final.jpg" width="140" height="150"><br>Mr Aloysius Fu</td>
+    <td class="tg-hp8w"><img src="![](/images/82)%20MDM%20TOH%20JIT%20HO.jpeg)" alt="82) MDM TOH JIT HO.jpg" width="114" height="144"><br>Mdm Toh Jit Ho<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Aloysius_%20final.jpeg)" alt="Aloysius_ final.jpg" width="140" height="150"><br>Mr Aloysius Fu</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:toh_jit_ho_adeline@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">toh_jit_ho_adeline@schools.gov.sg</span></a><br></td>
@@ -58,7 +58,7 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/70)%20MRS%20ANGELINE%20ONG.jpg" alt="70) MRS ANGELINE ONG.jpg" width="104" height="128"><br>Mrs Angeline Ong</td>
+    <td class="tg-hp8w"><img src="![](/images/70)%20MRS%20ANGELINE%20ONG.jpeg)" alt="70) MRS ANGELINE ONG.jpg" width="104" height="128"><br>Mrs Angeline Ong</td>
     <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/16)%20MS%20JUNE%20LEE%20SUAN%20LING.jpg" alt="16) MS JUNE LEE SUAN LING.jpg" width="112" height="143"><br>Ms Lee Suan Ling June</td>
   </tr>
   <tr>

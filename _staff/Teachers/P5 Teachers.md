@@ -59,7 +59,7 @@ third_nav_title: Teachers
 <tbody>
   <tr>
     <td class="tg-hp8w"><img src="![](/images/70)%20MRS%20ANGELINE%20ONG.jpeg)" alt="70) MRS ANGELINE ONG.jpg" width="104" height="128"><br>Mrs Angeline Ong</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/16)%20MS%20JUNE%20LEE%20SUAN%20LING.jpg" alt="16) MS JUNE LEE SUAN LING.jpg" width="112" height="143"><br>Ms Lee Suan Ling June</td>
+    <td class="tg-hp8w"><img src="![](/images/16)%20MS%20JUNE%20LEE%20SUAN%20LING.jpeg)" alt="16) MS JUNE LEE SUAN LING.jpg" width="112" height="143"><br>Ms Lee Suan Ling June</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:angeline_chia_lin@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">angeline_chia_lin@schools.gov.sg</span></a></td>
@@ -91,9 +91,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/12)%20MS%20NEO%20SIN%20YI.jpg" alt="12) MS NEO SIN YI.jpg" width="120" height="141"><br>Ms Neo Sin Yi<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/Nur%20Ain%20Binte%20Abdul%20Razak.jpg" alt="Nur Ain Binte Abdul Razak.jpg" width="109" height="138"><br>Mdm Nur Ain Abdul Razak</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Zulaikha.jpg" alt="Zulaikha.jpg" width="114" height="151"><br>Miss Siti Nur Zulaikha    <br></td>
+    <td class="tg-hp8w"><img src="![](/images/12)%20MS%20NEO%20SIN%20YI.jpeg)" alt="12) MS NEO SIN YI.jpg" width="120" height="141"><br>Ms Neo Sin Yi<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Nur%20Ain%20Binte%20Abdul%20Razak.jpeg)" alt="Nur Ain Binte Abdul Razak.jpg" width="109" height="138"><br>Mdm Nur Ain Abdul Razak</td>
+    <td class="tg-hp8w"><img src="![](/images/Zulaikha.jpeg)" alt="Zulaikha.jpg" width="114" height="151"><br>Miss Siti Nur Zulaikha    <br></td>
   </tr>
   <tr>
     <td class="tg-e3yx"><a href="mailto:neo_sin_yi@schools.gov.sg"><span style="text-decoration:none;color:#0382CB">neo_sin_yi@schools.gov.sg</span></a></td>

@@ -36,4 +36,4 @@ third_nav_title: General Information
 </table>
 
 <img src="/images/Slide1.png"  
-style="width:40%">
+style="width:90%">

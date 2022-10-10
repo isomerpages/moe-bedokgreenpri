@@ -14,4 +14,4 @@ description: ""
 Disclaimer
 ----------
 
-The dates are correct at that point in time and are subject to change
+The dates are correct at that point in time and are subject to change.

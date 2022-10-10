@@ -40,4 +40,23 @@ Singapore 828794
 Mr Rae Tan 96801592</u>
 
 Email: [chenkai\_bt@yahoo.com.sg](mailto:chenkai_bt@yahoo.com.sg) or  
-[kosentransport@gmail.com](mailto:kosentransport@gmail.coom)
+[kosentransport@gmail.com](mailto:kosentransport@gmail.com)
+
+  
+Student Care
+===============
+
+**The Enablers II Pte Ltd** <br>
+No 77  High Street <br>
+#09-11  High Street Plaza <br>
+Singapore 179433
+
+  
+
+**Operating Hours**  
+School Term             11.00 a.m. to 7.00 p.m.  
+School Holiday          7.30 a.m. to 7.00 p.m.
+
+**The Enablers II Pte Ltd** <br>
+Tel: 87689011 / 90061535 <br>
+Email: [bedokgreenscc@nable2.com](mailto:bedokgreenscc@nable2.com)

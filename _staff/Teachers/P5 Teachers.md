@@ -159,9 +159,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/113)%20MR%20DARREN%20KENG.jpg" alt="113) MR DARREN KENG.jpg" width="117" height="144"><br>Mr Darren Keng</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/Ms%20Tan%20Wei%20Wen.jpg" alt="Ms Tan Wei Wen.jpg" width="110" height="146"><br>Ms Tan Wei Wen</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Edited%20-%201.jpg" alt="Edited - 1.jpg" width="100" height="149"><br>Miss Andrea Chua Cher Lih</td>
+    <td class="tg-hp8w"><img src="![](/images/113)%20MR%20DARREN%20KENG.jpeg)" alt="113) MR DARREN KENG.jpg" width="117" height="144"><br>Mr Darren Keng</td>
+    <td class="tg-hp8w"><img src="![](/images/Edited%20-%201.jpeg)" alt="Ms Tan Wei Wen.jpg" width="110" height="146"><br>Ms Tan Wei Wen</td>
+    <td class="tg-hp8w"><img src="![](/images/Ms%20Tan%20Wei%20Wen.jpeg)" alt="Edited - 1.jpg" width="100" height="149"><br>Miss Andrea Chua Cher Lih</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:keng_xing_wei_darren@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">keng_xing_wei_darren@schools.gov.sg</span></a><br></td>

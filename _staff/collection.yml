@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - Teachers/Other Teachers.md
       - Teachers/.keep

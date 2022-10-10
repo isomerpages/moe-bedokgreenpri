@@ -8,54 +8,158 @@ third_nav_title: Teachers
 
 **6 INTEGRITY**  
 
-| Form Teacher | Form Teacher |
-| --- | --- |
-| ![15) MRS NG YEN NEE.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/15)%20MRS%20NG%20YEN%20NEE.jpg)Ms Neo Yen Nee | ![26) MS SANGEETHA YADAV.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/26)%20MS%20SANGEETHA%20YADAV.jpg)Ms Sangeetha Yadav |
-| [neo\_yen\_nee@schools.gov.sg](mailto:neo_yen_nee@schools.gov.sg) | [sangeetha\_yadav@schools.gov.sg](mailto:sangeetha_yadav@schools.gov.sg)  
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/15)%20MRS%20NG%20YEN%20NEE.jpg" alt="15) MRS NG YEN NEE.jpg" width="127" height="159"><br>Ms Neo Yen Nee</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/26)%20MS%20SANGEETHA%20YADAV.jpg" alt="26) MS SANGEETHA YADAV.jpg" width="121" height="150"><br>Ms Sangeetha Yadav</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:neo_yen_nee@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">neo_yen_nee@schools.gov.sg</span></a></td>
+    <td class="tg-8k3w"><a href="mailto:sangeetha_yadav@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">sangeetha_yadav@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 **6 RESPECT**&nbsp;
 
-| Form Teacher | Form Teacher |
-| --- | --- |
-| ![80) MS LIM POH TSE ELLEN.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/80)%20MS%20LIM%20POH%20TSE%20ELLEN.jpg)Ms Lim Poh Tse Ellen  
- | ![105) MRS JESSIE SOH_2.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/105)%20MRS%20JESSIE%20SOH_2.jpg)Mdm Lim Chieh Sze  
- |
-| [lim\_poh\_tse\_ellen@schools.gov.sg](mailto:lim_poh_tse_ellen@schools.gov.sg)  
- | [lim\_chieh\_sze@schools.gov.sg](mailto:lim_chieh_sze@schools.gov.sg)  
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/80)%20MS%20LIM%20POH%20TSE%20ELLEN.jpg" alt="80) MS LIM POH TSE ELLEN.jpg" width="118" height="142"><br>Ms Lim Poh Tse Ellen<br></td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/105)%20MRS%20JESSIE%20SOH_2.jpg" alt="105) MRS JESSIE SOH_2.jpg" width="112" height="138"><br>Mdm Lim Chieh Sze<br></td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:lim_poh_tse_ellen@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lim_poh_tse_ellen@schools.gov.sg</span></a><br></td>
+    <td class="tg-8k3w"><a href="mailto:lim_chieh_sze@schools.gov.sg">lim_chieh_sze@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
 
   
 **6 RESPONSIBILITY**&nbsp;  
 
-| Form Teacher  
- | Form Teacher |
-| --- | --- |
-| ![100) MDM ZAHIDAH SHAMSUL.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/100)%20MDM%20ZAHIDAH%20SHAMSUL.jpg)Mdm Zahidah Shamsul | ![62) MR KENNETH WONG.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/62)%20MR%20KENNETH%20WONG.jpg)Mr Kenneth Wong  
- |
-| [](https://bedokgreenpri.moe.edu.sg/about-us/staff/teachers/goog_125431699)[zahidah\_shamsul@schools.gov.sg](mailto:zahidah_shamsul@schools.gov.sg)  
-[](mailto:nurul_huda_jalali@moe.edu.sg) | [wong\_wen\_kin\_kenneth@schools.gov.sg](mailto:wong_wen_kin_kenneth@schools.gov.sg)  
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher<br></th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/100)%20MDM%20ZAHIDAH%20SHAMSUL.jpg" alt="100) MDM ZAHIDAH SHAMSUL.jpg" width="121" height="153"><br>Mdm Zahidah Shamsul</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/62)%20MR%20KENNETH%20WONG.jpg" alt="62) MR KENNETH WONG.jpg" width="120" height="153"><br>Mr Kenneth Wong</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:zahidah_shamsul@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">zahidah_shamsul@schools.gov.sg</span></a><br></td>
+    <td class="tg-8k3w"><a href="mailto:wong_wen_kin_kenneth@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">wong_wen_kin_kenneth@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
   
 **6 RESILIENCE**  
 
-| Form Teacher | Form Teacher |
-| --- | --- |
-| ![89) MS FARZANAH DO ABDUL SAMAD.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/89)%20MS%20FARZANAH%20DO%20ABDUL%20SAMAD.jpg)Ms Farzanah Abdul Samad  
- | ![85) MR MOHD NAJEEB.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/85)%20MR%20MOHD%20NAJEEB.jpg)Mr Mohd Najeeb Hassan  
- |
-| [farzanah\_abdul\_samad@schools.gov.sg](mailto:farzanah_abdul_samad@schools.gov.sg)  
- | [Najeeb\_Hassan@schools.gov.sg](mailto:Najeeb_Hassan@schools.gov.sg)  
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/89)%20MS%20FARZANAH%20DO%20ABDUL%20SAMAD.jpg" alt="89) MS FARZANAH DO ABDUL SAMAD.jpg" width="120" height="149"><br>Ms Farzanah Abdul Samad</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/85)%20MR%20MOHD%20NAJEEB.jpg" alt="85) MR MOHD NAJEEB.jpg" width="120" height="149"><br>Mr Mohd Najeeb Hassan</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:farzanah_abdul_samad@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">farzanah_abdul_samad@schools.gov.sg</span></a><br></td>
+    <td class="tg-8k3w"><a href="mailto:Najeeb_Hassan@schools.gov.sg">Najeeb_Hassan@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
 
   
 **6 COMPASSION**  
 
-| Form Teacher | Form Teacher |
-| --- | --- |
-| ![104) MR PASUPATHY MAGESVARAN.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/104)%20MR%20PASUPATHY%20MAGESVARAN.jpg)Mr Pasupathy Magesvaran  
- | ![21) MR NG CHEE KEONG_2.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/21)%20MR%20NG%20CHEE%20KEONG_2.jpg)Mr Ng Chee Keong  
- |
-| [pasupathy\_magesvaran@schools.gov.sg](mailto:pasupathy_magesvaran@schools.gov.sg)  
- | [ng\_chee\_keong\_b@schools.gov.sg](mailto:ng_chee_keong@schools.gov.sg) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/104)%20MR%20PASUPATHY%20MAGESVARAN.jpg" alt="104) MR PASUPATHY MAGESVARAN.jpg" width="118" height="140"><br>Mr Pasupathy Magesvaran</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/21)%20MR%20NG%20CHEE%20KEONG_2.jpg" alt="21) MR NG CHEE KEONG_2.jpg" width="119" height="149"><br>Mr Ng Chee Keong</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:pasupathy_magesvaran@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">pasupathy_magesvaran@schools.gov.sg</span></a><br></td>
+    <td class="tg-8k3w"><a href="mailto:ng_chee_keong@schools.gov.sg">ng_chee_keong_b@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>

@@ -125,9 +125,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Min%20Yan.jpg" alt="Min Yan.jpg" width="127" height="170"><br>Ms Tse Ming Yan</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/151)%20Mr%20Mazlan%20Bin%20Muhammad.jpeg" alt="151) Mr Mazlan Bin Muhammad.jpeg" width="145" height="182"><br>Mr Mazlan Muhammad<br>(On course)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/DSC06782.jpg" alt="DSC06782.jpg" width="128" height="169"><br>Mr Horis Bin Hosri<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Min%20Yan.jpeg)" alt="Min Yan.jpg" width="127" height="170"><br>Ms Tse Ming Yan</td>
+    <td class="tg-hp8w"><img src="![](/images/151)%20Mr%20Mazlan%20Bin%20Muhammad.jpeg)" alt="151) Mr Mazlan Bin Muhammad.jpeg" width="145" height="182"><br>Mr Mazlan Muhammad<br>(On course)</td>
+    <td class="tg-hp8w"><img src="![](/images/DSC06782.jpeg)" alt="DSC06782.jpg" width="128" height="169"><br>Mr Horis Bin Hosri<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:tse_min_yan@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">tse_min_yan@schools.gov.sg</span></a><br></td>

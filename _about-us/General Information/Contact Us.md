@@ -4,10 +4,10 @@ permalink: /about-us/general-information/contact-us/
 description: ""
 third_nav_title: General Information
 ---
-**Address:** 1 Bedok South Ave 2, Singapore 469317 <br>
-**General Office:** [6442 5416](https://www.google.com/search?q=bedok+green+primary+school&rlz=1C1GCEA_enSG824SG824&oq=bedok+green&aqs=chrome.2.0j69i57j0l3j69i60l3.6298j0j7&sourceid=chrome&ie=UTF-8#) <br>
-**Fax:** 64491491 <br>
-**Email:** [bgps@moe.edu.sg](mailto:bgps@moe.edu.sg)
+**Address:**&nbsp;1 Bedok South Ave 2, Singapore 469317 <br>
+**General Office:**&nbsp;[6442 5416](https://www.google.com/search?q=bedok+green+primary+school&amp;rlz=1C1GCEA_enSG824SG824&amp;oq=bedok+green&amp;aqs=chrome.2.0j69i57j0l3j69i60l3.6298j0j7&amp;sourceid=chrome&amp;ie=UTF-8#) <br>
+**Fax:**&nbsp;64491491 <br>
+**Email:**&nbsp;[bgps@moe.edu.sg](mailto:bgps@moe.edu.sg)
 
 **Operating hours:**
 
@@ -35,5 +35,10 @@ third_nav_title: General Information
 </tbody>
 </table>
 
-<img src="/images/Slide1.png"  
-style="width:90%">
+<img style="width:90%" src="/images/Slide1.png">
+
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3988.7526663945237!2d103.937519!3d1.324277!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x362047e31d59970a!2sBedok%20Green%20Primary%20School!5e0!3m2!1sen!2ssg!4v1665394991675!5m2!1sen!2ssg"></iframe>
+
+You can get to Bedok Green Primary School by bus or train. These are the bus numbers and MRT line that have stops nearby:  
+Bus: 2, 24, 31, 45, 47, 506  
+MRT: East-West Line; Alight at Bedok MRT Station

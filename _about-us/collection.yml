@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/Suppliers & Vendors.md
       - General Information/Contact Us.md
       - General Information/General Information.md
       - General Information/.keep

@@ -193,9 +193,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/149)%20Ms%20Nurul%20Shamin%20Binte%20Mohamed%20Ekbal.jpeg" alt="149) Ms Nurul Shamin Binte Mohamed Ekbal.jpeg" width="132" height="165"><br>Ms Nurul Shamin Mohd Ekbal</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/Danielle%20-%202.jpg" alt="Danielle - 2.jpg" width="128" height="157"><br>Miss Danielle Rachel Chong</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/51)%20MR%20LIM%20FANG%20RUI.jpg" alt="51) MR LIM FANG RUI.jpg" width="124" height="157"><br>Mr Lim Fang Rui</td>
+    <td class="tg-hp8w"><img src="![](/images/149)%20Ms%20Nurul%20Shamin%20Binte%20Mohamed%20Ekbal.jpeg)" alt="149) Ms Nurul Shamin Binte Mohamed Ekbal.jpeg" width="132" height="165"><br>Ms Nurul Shamin Mohd Ekbal</td>
+    <td class="tg-hp8w"><img src="![](/images/Danielle%20-%202.jpeg)" alt="Danielle - 2.jpg" width="128" height="157"><br>Miss Danielle Rachel Chong</td>
+    <td class="tg-hp8w"><img src="![](/images/51)%20MR%20LIM%20FANG%20RUI.jpeg)" alt="51) MR LIM FANG RUI.jpg" width="124" height="157"><br>Mr Lim Fang Rui</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:nurul_shamin_mohamed_ekbal@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">nurul_shamin_mohamed_ekbal@</span></a><br><a href="mailto:nurul_shamin_mohamed_ekbal@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">schools.gov.sg</span></a><br></td>

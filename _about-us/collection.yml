@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/.keep
+      - General Information/General Information.md
       - General Information/Admission.md
       - General Information/School Hours.md
       - General Information/Suppliers & Vendors.md
       - General Information/Contact Us.md
-      - General Information/General Information.md
-      - General Information/.keep
       - School Crest, School Motto, School Song.md
       - Vision, Mission & Values.md
       - Principal’s Message.md

@@ -20,40 +20,26 @@ School Song
 -----------
 
 We, in Bedok Green Primary  <br>
-We always strive to do our best   
-
-We learn and play together
-
-And work hard as a team
-
-Persevere and we will succeed
-
-Strive we must for excellence
-
-To nation give the best we can
-
-We’re proud of school and country
-
-We pledge our loyalty
-
-Persevere and we will succeed
-
-Chorus
-
-Here we can build a future
-
-A people with compassion and a heart
-
-Be creative in our work and play
-
-Together hand in hand in perfect harmony
-
-Persevere and succeed
-
-We believe in our dreams
-
+We always strive to do our best   <br>
+We learn and play together <br>
+And work hard as a team <br>
+Persevere and we will succeed <br>
+Strive we must for excellence <br>
+To nation give the best we can <br>
+We’re proud of school and country <br>
+We pledge our loyalty <br>
+Persevere and we will succeed <br> <br>
+Chorus <br> <br>
+Here we can build a future <br>
+A people with compassion and a heart <br>
+Be creative in our work and play <br>
+Together hand in hand in perfect harmony <br>
+Persevere and succeed <br>
+We believe in our dreams <br>
 Be a vibrant learning community
 
   
 
 Play school song (audio)
+
+**MP3 file?**

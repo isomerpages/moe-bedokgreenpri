@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/Contact Us.md
       - General Information/General Information.md
       - General Information/.keep
       - School Crest, School Motto, School Song.md

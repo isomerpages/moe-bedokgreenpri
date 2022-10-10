@@ -22,7 +22,7 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/116)%20Mdm%20Lee%20Oi%20Foong%20Margaret.jpeg)" alt="116) Mdm Lee Oi Foong Margaret.jpg" width="103" height="129"><br>Mdm Lee Oi Foong Margaret</td>
+    <td class="tg-hp8w"><img src="/images/116)%20Mdm%20Lee%20Oi%20Foong%20Margaret.jpeg" alt="116) Mdm Lee Oi Foong Margaret.jpg" width="103" height="129"><br>Mdm Lee Oi Foong Margaret</td>
   </tr>
   <tr>
     <td class="tg-0bqx"><a href="mailto:lee_oi_foong_margaret@schools.gov.sg"><span style="background-color:#FFF">lee_oi_foong_margaret@schools.gov.sg</span></a></td>
@@ -52,8 +52,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/40)%20MS%20NG%20JIEYING.jpeg)" alt="40) MS NG JIEYING.jpg" width="110" height="141"><br>Ms Ng Jieying</td>
-    <td class="tg-hp8w"><img src="![](/images/153%20Miss%20Jee%20Si%20Min.jpeg)" alt="153 Miss Jee Si Min.jpg" width="117" height="147"><br>Miss Jee Si Min<br></td>
+    <td class="tg-hp8w"><img src="/images/40)%20MS%20NG%20JIEYING.jpeg" alt="40) MS NG JIEYING.jpg" width="110" height="141"><br>Ms Ng Jieying</td>
+    <td class="tg-hp8w"><img src="/images/153%20Miss%20Jee%20Si%20Min.jpeg" alt="153 Miss Jee Si Min.jpg" width="117" height="147"><br>Miss Jee Si Min<br></td>
   </tr>
   <tr>
     <td class="tg-nl4o"><a href="mailto:ng_jieying@schools.gov.sg"><span style="text-decoration:none;color:#0382CB;background-color:#FFF">ng_jieying@schools.gov.sg</span></a></td>
@@ -84,9 +84,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/120)%20Ms%20Lim%20Hui%20Min%20Gladys.jpeg)" alt="120) Ms Lim Hui Min Gladys.jpg" width="99" height="126"><br>Ms Lim Hui Min Gladys</td>
-    <td class="tg-hp8w"><img src="![](/images/42)%20MR%20ALVIN%20THIO_2.jpeg)" alt="42) MR ALVIN THIO_2.jpg" width="101" height="130"><br>Mr Thio Beng Lou Alvin</td>
-    <td class="tg-hp8w"><img src="![](/images/mdm%20nurhana.jpeg)" alt="mdm nurhana.jpg" width="102" height="126"><br>Ms Nurhana Hafiz</td>
+    <td class="tg-hp8w"><img src="/images/120)%20Ms%20Lim%20Hui%20Min%20Gladys.jpeg" alt="120) Ms Lim Hui Min Gladys.jpg" width="99" height="126"><br>Ms Lim Hui Min Gladys</td>
+    <td class="tg-hp8w"><img src="/images/42)%20MR%20ALVIN%20THIO_2.jpeg" alt="42) MR ALVIN THIO_2.jpg" width="101" height="130"><br>Mr Thio Beng Lou Alvin</td>
+    <td class="tg-hp8w"><img src="/images/mdm%20nurhana.jpeg" alt="mdm nurhana.jpg" width="102" height="126"><br>Ms Nurhana Hafiz</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:lim_hui_min_gladys@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lim_hui_min_gladys@schools.gov.sg</span></a><br></td>
@@ -117,8 +117,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/Miss%20Jubilee%20Lim.jpeg)" alt="Miss Jubilee Lim.jpg" width="141" height="173"><br>Ms Jubilee Lim<br></td>
-    <td class="tg-hp8w"><img src="![](/images/Eu%20Eu.jpeg)" alt="Eu Eu.jpg" width="138" height="184"><br>Ms Lim Eu Eu</td>
+    <td class="tg-hp8w"><img src="/images/Miss%20Jubilee%20Lim.jpeg" alt="Miss Jubilee Lim.jpg" width="141" height="173"><br>Ms Jubilee Lim<br></td>
+    <td class="tg-hp8w"><img src="/images/Eu%20Eu.jpeg" alt="Eu Eu.jpg" width="138" height="184"><br>Ms Lim Eu Eu</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:jubilee_lim@schools.gov.sg">jubilee_lim@schools.gov.sg</a></td>
@@ -148,8 +148,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/65)%20MR%20GWEE%20BOON%20TIONG.jpeg)" alt="65) MR GWEE BOON TIONG.jpg" width="116" height="148"><br>Mr Gwee Boon Tiong</td>
-    <td class="tg-hp8w"><img src="![](/images/97)%20MDM%20ZAIDAH%20YUSOFF.jpeg)" alt="97) MDM ZAIDAH YUSOFF.jpg" width="120" height="150"><br>Mdm Zaidah Yusoff</td>
+    <td class="tg-hp8w"><img src="/images/65)%20MR%20GWEE%20BOON%20TIONG.jpeg" alt="65) MR GWEE BOON TIONG.jpg" width="116" height="148"><br>Mr Gwee Boon Tiong</td>
+    <td class="tg-hp8w"><img src="/images/97)%20MDM%20ZAIDAH%20YUSOFF.jpeg" alt="97) MDM ZAIDAH YUSOFF.jpg" width="120" height="150"><br>Mdm Zaidah Yusoff</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:gwee_boon_tiong@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">gwee_boon_tiong@schools.gov.sg</span></a><br></td>
@@ -179,8 +179,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/8)%20MS%20LYNN%20TAY%20ERN%20HWEE.jpeg)" alt="8) MS LYNN TAY ERN HWEE.jpg" width="109" height="138"><br>Ms Lynn Tay Ern Hwee</td>
-    <td class="tg-hp8w"><img src="![](/images/ms%20nurul%20aini.jpeg)" alt="ms nurul aini.jpg" width="114" height="143"><br>Miss Nurul Aini Zainol</td>
+    <td class="tg-hp8w"><img src="/images/8)%20MS%20LYNN%20TAY%20ERN%20HWEE.jpeg" alt="8) MS LYNN TAY ERN HWEE.jpg" width="109" height="138"><br>Ms Lynn Tay Ern Hwee</td>
+    <td class="tg-hp8w"><img src="/images/ms%20nurul%20aini.jpeg" alt="ms nurul aini.jpg" width="114" height="143"><br>Miss Nurul Aini Zainol</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:lynn_tay_ern_hwee@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lynn_tay_ern_hwee@schools.gov.sg</span></a><br></td>
@@ -210,8 +210,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/Ashikin.jpeg)" alt="Ashikin.jpg" width="113" height="151"><br>Miss Nur Ashikin Jutfri<br></td>
-    <td class="tg-hp8w"><img src="![](/images/88)%20MR%20MUHD%20KHAIRI%202.jpeg)" alt="88) MR MUHD KHAIRI 2.jpg" width="112" height="142"><br>Mr Muhammad Khairi Iqbal</td>
+    <td class="tg-hp8w"><img src="/images/Ashikin.jpeg" alt="Ashikin.jpg" width="113" height="151"><br>Miss Nur Ashikin Jutfri<br></td>
+    <td class="tg-hp8w"><img src="/images/88)%20MR%20MUHD%20KHAIRI%202.jpeg" alt="88) MR MUHD KHAIRI 2.jpg" width="112" height="142"><br>Mr Muhammad Khairi Iqbal</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:Nur_Ashikin_Jufri@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">Nur_Ashikin_Jufri@schools.gov.sg</span></a><br></td>

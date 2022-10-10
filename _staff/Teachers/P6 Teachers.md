@@ -58,8 +58,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/80)%20MS%20LIM%20POH%20TSE%20ELLEN.jpg" alt="80) MS LIM POH TSE ELLEN.jpg" width="118" height="142"><br>Ms Lim Poh Tse Ellen<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/105)%20MRS%20JESSIE%20SOH_2.jpg" alt="105) MRS JESSIE SOH_2.jpg" width="112" height="138"><br>Mdm Lim Chieh Sze<br></td>
+    <td class="tg-hp8w"><img src="![](/images/80)%20MS%20LIM%20POH%20TSE%20ELLEN.jpeg)" alt="80) MS LIM POH TSE ELLEN.jpg" width="118" height="142"><br>Ms Lim Poh Tse Ellen<br></td>
+    <td class="tg-hp8w"><img src="![](/images/105)%20MRS%20JESSIE%20SOH_2.jpeg)" alt="105) MRS JESSIE SOH_2.jpg" width="112" height="138"><br>Mdm Lim Chieh Sze<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:lim_poh_tse_ellen@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lim_poh_tse_ellen@schools.gov.sg</span></a><br></td>
@@ -90,8 +90,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/100)%20MDM%20ZAHIDAH%20SHAMSUL.jpg" alt="100) MDM ZAHIDAH SHAMSUL.jpg" width="121" height="153"><br>Mdm Zahidah Shamsul</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/62)%20MR%20KENNETH%20WONG.jpg" alt="62) MR KENNETH WONG.jpg" width="120" height="153"><br>Mr Kenneth Wong</td>
+    <td class="tg-hp8w"><img src="![](/images/100)%20MDM%20ZAHIDAH%20SHAMSUL.jpeg)" alt="100) MDM ZAHIDAH SHAMSUL.jpg" width="121" height="153"><br>Mdm Zahidah Shamsul</td>
+    <td class="tg-hp8w"><img src="![](/images/62)%20MR%20KENNETH%20WONG.jpeg)" alt="62) MR KENNETH WONG.jpg" width="120" height="153"><br>Mr Kenneth Wong</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:zahidah_shamsul@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">zahidah_shamsul@schools.gov.sg</span></a><br></td>

@@ -152,9 +152,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/49)%20MS%20JAYASARASVATHI%20DURAI%20KANNU.jpeg)" alt="49) MS JAYASARASVATHI DURAI KANNU.jpg" width="123" height="154"><br>Ms Jayasarasvathi Durai Kannu<br></td>
-    <td class="tg-hp8w"><img src="![](/images/Hilwah.jpeg)" alt="Hilwah.jpg" width="123" height="164"><br>Mdm Hilwah Lukman</td>
-    <td class="tg-hp8w"><img src="![](/images/Kavitha.jpeg)" alt="Kavitha.jpg" width="128" height="171"><br>Mdm Narayanasamy Kavitha<br></td>
+    <td class="tg-hp8w"><img src="/images/49)%20MS%20JAYASARASVATHI%20DURAI%20KANNU.jpeg" alt="49) MS JAYASARASVATHI DURAI KANNU.jpg" width="123" height="154"><br>Ms Jayasarasvathi Durai Kannu<br></td>
+    <td class="tg-hp8w"><img src="/images/Hilwah.jpeg" alt="Hilwah.jpg" width="123" height="164"><br>Mdm Hilwah Lukman</td>
+    <td class="tg-hp8w"><img src="/images/Kavitha.jpeg" alt="Kavitha.jpg" width="128" height="171"><br>Mdm Narayanasamy Kavitha<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:jayasarasvathi_durai_kannu@schools.gov.sg">jayasarasvathi_durai_kannu@</a><br><a href="mailto:jayasarasvathi_durai_kannu@schools.gov.sg">schools.gov.sg</a></td>
@@ -185,8 +185,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/44)%20MR%20DAVE%20LIU.jpeg)" alt="44) MR DAVE LIU.jpg" width="121" height="159"><br>Mr Dave Liu</td>
-    <td class="tg-hp8w"><img src="![](/images/DSC05196.jpeg)" alt="DSC05196.jpg" width="119" height="157"># <br>Ms Nur 'Aliah Dafir</td>
+    <td class="tg-hp8w"><img src="/images/44)%20MR%20DAVE%20LIU.jpeg" alt="44) MR DAVE LIU.jpg" width="121" height="159"><br>Mr Dave Liu</td>
+    <td class="tg-hp8w"><img src="/images/DSC05196.jpeg" alt="DSC05196.jpg" width="119" height="157"># <br>Ms Nur 'Aliah Dafir</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:liu_dave@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">liu_dave@schools.gov.sg</span></a><br></td>
@@ -216,8 +216,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/54)%20MRS%20LEE-LIM%20MEI%20YIN.jpeg)" alt="54) MRS LEE-LIM MEI YIN.jpg" width="108" height="135"><br>Mdm Lim Mei Yin Diane</td>
-    <td class="tg-hp8w"><img src="![](/images/55)%20MRS%20JACINTA%20GOMES.jpeg)" alt="55) MRS JACINTA GOMES.jpg" width="107" height="133"><br>Mdm Jacinta Mary De Almeida</td>
+    <td class="tg-hp8w"><img src="/images/54)%20MRS%20LEE-LIM%20MEI%20YIN.jpeg" alt="54) MRS LEE-LIM MEI YIN.jpg" width="108" height="135"><br>Mdm Lim Mei Yin Diane</td>
+    <td class="tg-hp8w"><img src="/images/55)%20MRS%20JACINTA%20GOMES.jpeg" alt="55) MRS JACINTA GOMES.jpg" width="107" height="133"><br>Mdm Jacinta Mary De Almeida</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:lim_mei_yin@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lim_mei_yin@schools.gov.sg</span></a><br></td>
@@ -248,9 +248,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/Faith.jpeg)" alt="Faith.jpg" width="111" height="112"><br>Ms Ong Su San Faith<br></td>
-    <td class="tg-hp8w"><img src="![](/images/129)%20Mr%20Liu%20Peng.jpeg)" alt="129) Mr Liu Peng.jpg" width="118" height="130"><br>Mr Liu Peng</td>
-    <td class="tg-hp8w"><img src="![](/images/Nurrashidah%20Binte%20Mansoor.jpeg)" alt="Nurrashidah Binte Mansoor.JPG" width="105" height="157"><br>Mdm Nurrashidah Binte Mansoor</td>
+    <td class="tg-hp8w"><img src="/images/Faith.jpeg" alt="Faith.jpg" width="111" height="112"><br>Ms Ong Su San Faith<br></td>
+    <td class="tg-hp8w"><img src="/images/129)%20Mr%20Liu%20Peng.jpeg" alt="129) Mr Liu Peng.jpg" width="118" height="130"><br>Mr Liu Peng</td>
+    <td class="tg-hp8w"><img src="/images/Nurrashidah%20Binte%20Mansoor.jpeg" alt="Nurrashidah Binte Mansoor.JPG" width="105" height="157"><br>Mdm Nurrashidah Binte Mansoor</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:ong_su_san@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">ong_su_san@schools.gov.sg</span></a></td>
@@ -281,8 +281,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-46dd"><img src="![](/images/Ms%20Chin%20Ching%20Shia.jpeg)" alt="Ms Chin Ching Shia.JPG" width="118" height="148"><br><span style="font-weight:400">Miss Chin Ching</span> <span style="font-weight:normal">Shia</span> </td>
-    <td class="tg-46dd"><img src="![](/images/109)%20MDM%20NOORLIN%20HARON_2.jpeg)" alt="109) MDM NOORLIN HARON_2.jpg" width="123" height="155"><br><span style="font-weight:400">Mdm Noorlin Haron</span><br></td>
+    <td class="tg-46dd"><img src="/images/Ms%20Chin%20Ching%20Shia.jpeg" alt="Ms Chin Ching Shia.JPG" width="118" height="148"><br><span style="font-weight:400">Miss Chin Ching</span> <span style="font-weight:normal">Shia</span> </td>
+    <td class="tg-46dd"><img src="/images/109)%20MDM%20NOORLIN%20HARON_2.jpeg" alt="109) MDM NOORLIN HARON_2.jpg" width="123" height="155"><br><span style="font-weight:400">Mdm Noorlin Haron</span><br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:chin_ching_shia@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chin_ching_shia@schools.gov.sg</span></a><br></td>

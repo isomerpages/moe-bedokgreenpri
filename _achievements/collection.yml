@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Students/English.md
       - Students/Mother Tongue.md
       - Students/Mathematics.md
       - Students/Science.md

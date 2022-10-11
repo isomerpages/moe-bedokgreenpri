@@ -157,8 +157,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/Miss%20Valerie.jpg" alt="Miss Valerie.jpg" width="101" height="128"><br>Miss Cheng Yuning Valerie</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/36)%20MRS%20GOH%20EE%20SZE.jpg" alt="36) MRS GOH EE SZE.jpg" width="106" height="135"><br>Mrs Goh Ee Sze<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Miss%20Valerie.jpeg)" alt="Miss Valerie.jpg" width="101" height="128"><br>Miss Cheng Yuning Valerie</td>
+    <td class="tg-hp8w"><img src="![](/images/36)%20MRS%20GOH%20EE%20SZE.jpeg)" alt="36) MRS GOH EE SZE.jpg" width="106" height="135"><br>Mrs Goh Ee Sze<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:valerie_cheng_yuning@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">valerie_cheng_yuning@schools.gov.sg</span></a><br></td>
@@ -189,9 +189,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/20)%20MR%20MARTIN%20HO.jpg" alt="20) MR MARTIN HO.jpg" width="119" height="151"><br>Mr Martin Ho Koon Min<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/148)%20Ms%20Elyani%20Bte%20Mohamed.jpeg" alt="148) Ms Elyani Bte Mohamed.jpeg" width="110" height="141"><br>Ms Elyani Mohamed<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Edited.jpg" alt="Edited.jpg" width="98" height="145"><br>Ms Lee Xuan Harn</td>
+    <td class="tg-hp8w"><img src="![](/images/20)%20MR%20MARTIN%20HO.jpeg)" alt="20) MR MARTIN HO.jpg" width="119" height="151"><br>Mr Martin Ho Koon Min<br></td>
+    <td class="tg-hp8w"><img src="![](/images/148)%20Ms%20Elyani%20Bte%20Mohamed.jpeg)" alt="148) Ms Elyani Bte Mohamed.jpeg" width="110" height="141"><br>Ms Elyani Mohamed<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Edited.jpeg)" alt="Edited.jpg" width="98" height="145"><br>Ms Lee Xuan Harn</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:ho_koon_min_martin@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">ho_koon_min_martin@schools.gov.sg</span></a><br></td>

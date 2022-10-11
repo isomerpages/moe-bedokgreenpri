@@ -129,22 +129,22 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-46dd"><br>Assistant Year Head<br>Primary 2</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/45)%20MS%20NOEL%20LIM_2.jpg" alt="45) MS NOEL LIM_2.jpg" width="114" height="145"><br>Ms Noel Lim <br></td>
+    <td class="tg-hp8w"><img src="![](/images/45)%20MS%20NOEL%20LIM_2.jpeg)" alt="45) MS NOEL LIM_2.jpg" width="114" height="145"><br>Ms Noel Lim <br></td>
     <td class="tg-hp8w"><br><br><a href="mailto:chua-lim_sock_keow@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chua-lim_sock_keow@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Year Head<br>Middle Primary<br><span style="color:inherit">Primary 3 and 4</span></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/116)%20Mdm%20Lee%20Oi%20Foong%20Margaret.jpg" alt="116) Mdm Lee Oi Foong Margaret.jpg" width="115" height="146"><br>Mdm Margaret Lee  <br></td>
+    <td class="tg-hp8w"><img src="![](/images/116)%20Mdm%20Lee%20Oi%20Foong%20Margaret.jpeg)" alt="116) Mdm Lee Oi Foong Margaret.jpg" width="115" height="146"><br>Mdm Margaret Lee  <br></td>
     <td class="tg-hp8w"><br><br><br><a href="mailto:lee_oi_foong_margaret@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lee_oi_foong_margaret@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-hp8w">    Assistant Year Head<br>Primary 3</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/37)%20MDM%20HALIMATON%20ABDULLAH_2.jpg" alt="37) MDM HALIMATON ABDULLAH_2.jpg" width="117" height="145"><br>Mdm Halimaton Abdullah </td>
+    <td class="tg-hp8w"><img src="![](/images/37)%20MDM%20HALIMATON%20ABDULLAH_2.jpeg)" alt="37) MDM HALIMATON ABDULLAH_2.jpg" width="117" height="145"><br>Mdm Halimaton Abdullah </td>
     <td class="tg-e3yx"><a href="mailto:judy_lim_lian_soon@schools.gov.sg"> </a><br><br><br><a href="mailto:halimaton_abdullah@schools.gov.sg">halimaton_abdullah@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-46dd"> <span style="color:inherit">Year Head</span> <br><span style="color:inherit">Upper Primary Primary 5 and 6</span><br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/103)%20MS%20LI%20WENLIN.jpg" alt="103) MS LI WENLIN.jpg" width="113" height="142"><br>Ms Li Wenlin  <br></td>
+    <td class="tg-hp8w"><img src="![](/images/103)%20MS%20LI%20WENLIN.jpeg)" alt="103) MS LI WENLIN.jpg" width="113" height="142"><br>Ms Li Wenlin  <br></td>
     <td class="tg-hp8w"><br><br><a href="mailto:li_wenlin@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">li_wenlin@schools.gov.sg</span></a> </td>
   </tr>
 </tbody>

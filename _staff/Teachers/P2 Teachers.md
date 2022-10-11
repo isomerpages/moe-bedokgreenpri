@@ -8,17 +8,192 @@ third_nav_title: Teachers
 
 **2 INTEGRITY**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/79)%20MS%20CHUNG%20PEI%20LING.jpg" alt="79) MS CHUNG PEI LING.jpg" width="102" height="127"><br>Ms Chung Pei Ling    <br></td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/13)%20MR%20LEUNG%20PAK%20KIN.jpg" alt="13) MR LEUNG PAK KIN.jpg" width="99" height="124"><br>Mr Leung Pak Kin</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:chung_pei_ling@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chung_pei_ling@schools.gov.sg</span></a><br></td>
+    <td class="tg-8k3w"><a href="mailto:leung_pak_kin@schools.gov.sg">leung_pak_kin@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
+
 **2 RESPECT**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/163%20Miss%20Jazmin%20Ahamed.jpg" alt="163 Miss Jazmin Ahamed.jpg" width="101" height="123"><br>Miss Jazmin Ahamed</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/45)%20MS%20NOEL%20LIM_2.jpg" alt="45) MS NOEL LIM_2.jpg" width="100" height="126"><br>Ms Noel Lim</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:jazmin_ahamed@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">jazmin_ahamed@schools.gov.sg</span></a><br></td>
+    <td class="tg-8k3w"><a href="mailto:chua-lim_sock_keow@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chua-lim_sock_keow@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 **2 RESPONSIBILITY**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/72)%20MDM%20SURYATI%20SHARIFF%20MARICAN.jpg" alt="72) MDM SURYATI SHARIFF MARICAN.jpg" width="107" height="133"><br>Ms Suryati Shariff Marican<br></td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/Ms%20Sylvina%20Tan.JPG" alt="Ms Sylvina Tan.JPG" width="102" height="133"><br>Miss Sylvina Maylie Nathan Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:suryati_shariff_marican@schools.gov.sg">suryati_shariff_marican@schools.gov.sg</a></td>
+    <td class="tg-8k3w"><a href="mailto:sylvina_maylie_nathan_tan@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">sylvina_maylie_nathan_tan@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
 **2 RESILIENCE**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/77)%20MR%20LUKMAN%20NURHAKIM.jpg" alt="77) MR LUKMAN NURHAKIM.jpg" width="108" height="134"><br>Mr Lukman Nurhakim Bin Noordin</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/146)%20Mdm%20Fang%20Fang.jpeg" alt="146) Mdm Fang Fang.jpeg" width="111" height="139"><br>Mdm Fang Fang</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:lukman_nurhakim_noordin@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lukman_nurhakim_noordin@schools.gov.sg</span></a><br></td>
+    <td class="tg-8k3w"><a href="mailto:fang_fang_a@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">fang_fang_a@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 **2 COMPASSION**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv"> Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/49)%20MS%20JAYASARASVATHI%20DURAI%20KANNU.jpg" alt="49) MS JAYASARASVATHI DURAI KANNU.jpg" width="123" height="154"><br>Ms Jayasarasvathi Durai Kannu<br></td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Hilwah.jpg" alt="Hilwah.jpg" width="123" height="164"><br>Mdm Hilwah Lukman</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Kavitha.jpg" alt="Kavitha.jpg" width="128" height="171"><br>Mdm Narayanasamy Kavitha<br></td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:jayasarasvathi_durai_kannu@schools.gov.sg">jayasarasvathi_durai_kannu@</a><br><a href="mailto:jayasarasvathi_durai_kannu@schools.gov.sg">schools.gov.sg</a></td>
+    <td class="tg-8k3w"><a href="mailto:hilwah_lukman@schools.gov.sg">hilwah_lukman@schools.gov.sg</a><br></td>
+    <td class="tg-8k3w"><a href="mailto:narayanasamy_kavitha@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">narayanasamy_kavitha@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
 **2 BRAVERY**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Form Teacher</th>
+    <th class="tg-a4yv">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/44)%20MR%20DAVE%20LIU.jpg" alt="44) MR DAVE LIU.jpg" width="121" height="159"><br>Mr Dave Liu</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/DSC05196.jpg" alt="DSC05196.jpg" width="119" height="157"># <br>Ms Nur 'Aliah Dafir</td>
+  </tr>
+  <tr>
+    <td class="tg-8k3w"><a href="mailto:liu_dave@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">liu_dave@schools.gov.sg</span></a><br></td>
+    <td class="tg-8k3w"><a href="mailto:nur_aliah_dafir@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">nur_aliah_dafir@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 **2 GRACIOUSNESS**
 

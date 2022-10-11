@@ -31,22 +31,22 @@ third_nav_title: Staff
 <tbody>
   <tr>
     <td class="tg-46dd">Administration Manager (AM)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/130)%20Ms%20Sharon%20Chantale%20Kok%20Yeng%20Ling.jpg" alt="130) Ms Sharon Chantale Kok Yeng Ling.jpg" width="115" height="142"><br>Ms Sharon Kok</td>
+    <td class="tg-hp8w"><img src="![](/images/130)%20Ms%20Sharon%20Chantale%20Kok%20Yeng%20Ling.jpeg)" alt="130) Ms Sharon Chantale Kok Yeng Ling.jpg" width="115" height="142"><br>Ms Sharon Kok</td>
     <td class="tg-hp8w"> <a href="mailto:Sharon_kok@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">Sharon_kok@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Operations Manager (OM)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/115)%20MR%20DE%20SILVA%20CHRISTOPHER%20BRYAN.jpg" alt="115) MR DE SILVA CHRISTOPHER BRYAN.jpg" width="114" height="140"><br><span style="color:inherit">Mr Christopher De Silva</span><br></td>
+    <td class="tg-hp8w"><img src="![](/images/115)%20MR%20DE%20SILVA%20CHRISTOPHER%20BRYAN.jpeg)" alt="115) MR DE SILVA CHRISTOPHER BRYAN.jpg" width="114" height="140"><br><span style="color:inherit">Mr Christopher De Silva</span><br></td>
     <td class="tg-8k3w"><a href="mailto:de_silva_christopher_bryan@schools.gov.sg">de_silva_christopher_bryan@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-8i02"><br><br><br><span style="color:inherit">ICT Manager </span><br><br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Li%20King.png" alt="Li King.png" width="118" height="148"><br><span style="color:inherit">Mdm Lim Li King</span><br></td>
+    <td class="tg-hp8w"><img src="![](/images/Li%20King.png)" alt="Li King.png" width="118" height="148"><br><span style="color:inherit">Mdm Lim Li King</span><br></td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent">                                 </span> <a href="mailto:Lim_Li_king@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lim_li_king@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Admin<br>Executive (AE)<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/147.%20Mdm%20Liew%20Siew%20Hong%20Alicia.jpeg" alt="147. Mdm Liew Siew Hong Alicia.jpeg" width="115" height="148"><br>Mdm Lim Siew Hong<br></td>
+    <td class="tg-hp8w"><img src="h![](/images/147%20Mdm%20Liew%20Siew%20Hong%20Alicia.jpeg)" alt="147. Mdm Liew Siew Hong Alicia.jpeg" width="115" height="148"><br>Mdm Lim Siew Hong<br></td>
     <td class="tg-8i02">                     <a href="mailto:lim_siew_hong@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lim_siew_hong@schools.gov.sg</span></a> <br></td>
   </tr>
   <tr>

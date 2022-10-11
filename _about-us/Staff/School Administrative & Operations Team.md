@@ -66,47 +66,47 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-hp8w"><span style="color:inherit"> </span><span style="font-weight:bold;color:inherit"> </span><span style="color:inherit">Corporate Support Officer                  (CSO)</span></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/125.%20Mdm%20Neo%20Chye%20Ling.jpg" alt="125. Mdm Neo Chye Ling.jpg" width="119" height="149"><br><span style="color:inherit">Ms Neo Chye Ling</span></td>
+    <td class="tg-hp8w"><img src="![](/images/125%20Mdm%20Neo%20Chye%20Ling.jpg)" alt="125. Mdm Neo Chye Ling.jpg" width="119" height="149"><br><span style="color:inherit">Ms Neo Chye Ling</span></td>
     <td class="tg-hp8w">    <a href="mailto:neo_chye_ling@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">neo_chye_ling@schools.gov.sg</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-8i02"><span style="color:inherit">Corporate </span><br><span style="color:inherit">Support Officer </span><br><span style="color:inherit">(CSO) </span></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/135)%20Mdm%20Evelyn%20Yap%20Poh%20Kwee.jpg" alt="135) Mdm Evelyn Yap Poh Kwee.jpg" width="108" height="137"><br><span style="color:inherit">Mdm Evelyn Yap Poh Khee</span></td>
+    <td class="tg-hp8w"><img src="![](/images/135)%20Mdm%20Evelyn%20Yap%20Poh%20Kwee.jpeg)" alt="135) Mdm Evelyn Yap Poh Kwee.jpg" width="108" height="137"><br><span style="color:inherit">Mdm Evelyn Yap Poh Khee</span></td>
     <td class="tg-hp8w">     <a href="mailto:evelyn_yap_poh_kwee@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">evelyn_yap_poh_kwee@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent">   </span>ICT Associate </td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/Faiz%20Nazirul.jpg" alt="Faiz Nazirul.jpg" width="110" height="150"><br><span style="color:inherit">Mr Faiz Nazirul Azman</span></td>
+    <td class="tg-hp8w"><img src="h![](/images/Faiz%20Nazirul.jpeg)" alt="Faiz Nazirul.jpg" width="110" height="150"><br><span style="color:inherit">Mr Faiz Nazirul Azman</span></td>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent">         </span>      <a href="mailto:Faiz_Nazirul_Azman@schools.gov.sg">Faiz_Nazirul_Azman@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span>Librarian</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/DSC06783.jpg" alt="DSC06783.jpg" width="118" height="144"><br><span style="color:inherit">Ms Efi Elfina</span></td>
+    <td class="tg-hp8w"><img src="![](/images/DSC06783.jpeg)" alt="DSC06783.jpg" width="118" height="144"><br><span style="color:inherit">Ms Efi Elfina</span></td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span>Operation Support Officer (OSO)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Ms%20Lina%20Tay.png" alt="Ms Lina Tay.png" width="109" height="136"><br>Ms Lina Tay</td>
+    <td class="tg-hp8w"><img src="![](/images/Ms%20Lina%20Tay.png)" alt="Ms Lina Tay.png" width="109" height="136"><br>Ms Lina Tay</td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span>Operation Support Officer (OSO)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/151%20Mdm%20Weevin%20Henry%20Fernando.jpg" alt="151 Mdm Weevin Henry Fernando.jpg" width="109" height="138"><br>Mdm Weevin Henry Fernando<br></td>
+    <td class="tg-hp8w"><img src="![](/images/151%20Mdm%20Weevin%20Henry%20Fernando.jpeg)" alt="151 Mdm Weevin Henry Fernando.jpg" width="109" height="138"><br>Mdm Weevin Henry Fernando<br></td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span>Operation Support Officer (OSO)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/58%20MDM%20KAYATI%20SALIKIN.jpg" alt="58 MDM KAYATI SALIKIN.jpg" width="116" height="144"><br><span style="color:inherit;background-color:transparent">Mdm Kayati Salikin </span></td>
+    <td class="tg-hp8w"><img src="![](/images/58%20MDM%20KAYATI%20SALIKIN.jpeg)" alt="58 MDM KAYATI SALIKIN.jpg" width="116" height="144"><br><span style="color:inherit;background-color:transparent">Mdm Kayati Salikin </span></td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span>Operation Support Officer (OSO)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Masturah.jpg" alt="Masturah.jpg" width="114" height="152"><br><span style="color:inherit;background-color:transparent">Mdm Masturah</span></td>
+    <td class="tg-hp8w"><img src="![](/images/Masturah.jpeg)" alt="Masturah.jpg" width="114" height="152"><br><span style="color:inherit;background-color:transparent">Mdm Masturah</span></td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span>Operation Support Officer (OSO)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/hobenghong.jpg" alt="hobenghong.jpg" width="119" height="149"><br><span style="color:inherit;background-color:transparent">Mdm Ho Beng Ho</span></td>
+    <td class="tg-hp8w"><img src="![](/images/hobenghong.jpeg)" alt="hobenghong.jpg" width="119" height="149"><br><span style="color:inherit;background-color:transparent">Mdm Ho Beng Ho</span></td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
 </tbody>

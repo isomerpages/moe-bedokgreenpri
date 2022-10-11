@@ -12,7 +12,7 @@ Thank you for visiting our school website. 
 
 Please take note of the following points as you browse our website:
 
-**For website browsing:**
+**<u>For website browsing:</u>**
 
 1) We do not capture data that allows us to identify you individually. 
 
@@ -22,7 +22,7 @@ Please take note of the following points as you browse our website:
 
 4) The school may occasionally publish photographs, videos and students’ work/achievements together with the names of the students. Photographs, videos, and/or sound recordings of students will not be used in publicity campaigns placed with external media outlets unless parental consent is given.  
 
-**For communication with the school:**
+**<u>For communication with the school:</u>**
 
 5) When an application or email enquiry is made, the school may share necessary data(e.g. personally identifiable data) with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. 
 

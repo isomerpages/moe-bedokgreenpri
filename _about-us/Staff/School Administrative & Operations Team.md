@@ -51,17 +51,17 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><span style="color:inherit">Admin Executive (AE) </span></td>
-    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent">    </span><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/138)%20Mdm%20Tety%20Suzanna%20Binte%20Sulaiman.jpg" alt="138) Mdm Tety Suzanna Binte Sulaiman.jpg" width="124" height="152"><br>Mdm Tety Suzanna Sulaiman</td>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent">    </span><img src="![](/images/138)%20Mdm%20Tety%20Suzanna%20Binte%20Sulaiman.jpeg)" alt="138) Mdm Tety Suzanna Binte Sulaiman.jpg" width="124" height="152"><br>Mdm Tety Suzanna Sulaiman</td>
     <td class="tg-8k3w"><a href="mailto:tety_suzanna_sulaiman@schools.gov.sg">tety_suzanna_sulaiman@schools.gov.sg</a> <br></td>
   </tr>
   <tr>
     <td class="tg-46dd"><span style="color:inherit">Admin </span><br><span style="color:inherit">Executive (AE) </span></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/141)%20Mr%20Leow%20Zi%20Jian.jpg" alt="141) Mr Leow Zi Jian.jpg" width="116" height="144"><br>Mr Leow Zi Jian</td>
+    <td class="tg-hp8w"><img src="![](/images/141)%20Mr%20Leow%20Zi%20Jian.jpeg)" alt="141) Mr Leow Zi Jian.jpg" width="116" height="144"><br>Mr Leow Zi Jian</td>
     <td class="tg-8k3w"><a href="mailto:leow_zi_jian@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">leow_zi_jian@schools.gov.sg</span></a> <br><br></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent">     </span>Corporate       Support Officer<br>(CSO)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/95)%20MDM%20LIM%20LIAN%20CHOO.jpg" alt="95) MDM LIM LIAN CHOO.jpg" width="120" height="147"><br>Mdm Lim Lian Choo</td>
+    <td class="tg-hp8w"><img src="![](/images/95)%20MDM%20LIM%20LIAN%20CHOO.jpeg)" alt="95) MDM LIM LIAN CHOO.jpg" width="120" height="147"><br>Mdm Lim Lian Choo</td>
     <td class="tg-8k3w"><br><a href="mailto:lim_lian_choo@schools.gov.sg">lim_lian_choo@schools.gov.sg</a><br></td>
   </tr>
   <tr>

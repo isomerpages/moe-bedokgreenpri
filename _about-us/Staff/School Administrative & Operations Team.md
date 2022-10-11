@@ -129,24 +129,24 @@ third_nav_title: Staff
 <thead>
   <tr>
     <th class="tg-46dd">School Counsellor</th>
-    <th class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/128)%20Ms%20Janice%20Aw%20Chiew%20Khim.jpg" alt="128) Ms Janice Aw Chiew Khim.jpg" width="111" height="138"><br>Mdm Janice Aw Chiew Khim</th>
+    <th class="tg-hp8w"><img src="![](/images/128)%20Ms%20Janice%20Aw%20Chiew%20Khim.jpeg)" alt="128) Ms Janice Aw Chiew Khim.jpg" width="111" height="138"><br>Mdm Janice Aw Chiew Khim</th>
     <th class="tg-hp8w"> <a href="mailto:aw_chiew_khim_janice@schools.gov.sg">aw_chiew_khim_janice@schools.gov.sg</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-46dd"> School Counsellor</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Siang%20Hua.jpg" alt="Siang Hua.jpg" width="124" height="186"><br><span style="color:inherit">Mr See Siang Hua</span></td>
+    <td class="tg-hp8w"><img src="![](/images/Siang%20Hua.jpeg)" alt="Siang Hua.jpg" width="124" height="186"><br><span style="color:inherit">Mr See Siang Hua</span></td>
     <td class="tg-8k3w"><a href="http://see_siang_hua@schools.gov.sg/"><span style="text-decoration:none;color:#4067AE"> see_siang_hua@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><span style="color:inherit">Special Educational Needs (SEN) Officer </span></td>
-    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/134)%20Ms%20Kee%20Ee%20Kheng.jpg" alt="134) Ms Kee Ee Kheng.jpg" width="130" height="162"><br><span style="color:inherit">Ms Kee Ee Kheng</span></td>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><img src="![](/images/134)%20Ms%20Kee%20Ee%20Kheng.jpeg)" alt="134) Ms Kee Ee Kheng.jpg" width="130" height="162"><br><span style="color:inherit">Ms Kee Ee Kheng</span></td>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><a href="mailto:kee_ee_kheng@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">kee_ee_kheng@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-46dd"><span style="color:inherit">Special Educational Needs (SEN) Officer      </span></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/155)%20Mdm%20Suriani%20Bte%20Abd%20Shukor.jpeg" alt="155) Mdm Suriani Bte Abd Shukor.jpeg" width="118" height="142"><br>Ms Suriani Abdul Shukor</td>
+    <td class="tg-hp8w"><img src="![](/images/155)%20Mdm%20Suriani%20Bte%20Abd%20Shukor.jpeg)" alt="155) Mdm Suriani Bte Abd Shukor.jpeg" width="118" height="142"><br>Ms Suriani Abdul Shukor</td>
     <td class="tg-8k3w"><a href="mailto:suriani_abd_shukor@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">suriani_abd_shukor@schools.gov.sg</span></a></td>
   </tr>
   <tr>

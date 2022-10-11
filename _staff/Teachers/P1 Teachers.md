@@ -186,8 +186,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/24)%20MS%20IRENE%20KWAY.jpg" alt="24) MS IRENE KWAY.jpg" width="118" height="150"><br>Mrs Irene Kway<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/Miss%20Shantini.jpg" alt="Miss Shantini.jpg" width="120" height="153"><br>Ms Shanthini d/o Ramalingam</td>
+    <td class="tg-hp8w"><img src="![](/images/24)%20MS%20IRENE%20KWAY.jpeg)" alt="24) MS IRENE KWAY.jpg" width="118" height="150"><br>Mrs Irene Kway<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Miss%20Shantini.jpeg)" alt="Miss Shantini.jpg" width="120" height="153"><br>Ms Shanthini d/o Ramalingam</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:kway_irene@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">kway_irene@schools.gov.sg</span></a><br></td>
@@ -217,8 +217,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/121)%20Ms%20Chua%20Shu%20Hui%20Vivian.jpg" alt="121) Ms Chua Shu Hui Vivian.jpg" width="123" height="154"><br>Ms Vivian Chua</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/35)%20MRS%20KOH%20CHEE%20SENG.jpg" alt="35) MRS KOH CHEE SENG.jpg" width="123" height="159"><br>Mrs Koh Chee Seng</td>
+    <td class="tg-hp8w"><img src="![](/images/121)%20Ms%20Chua%20Shu%20Hui%20Vivian.jpeg)" alt="121) Ms Chua Shu Hui Vivian.jpg" width="123" height="154"><br>Ms Vivian Chua</td>
+    <td class="tg-hp8w"><img src="![](/images/35)%20MRS%20KOH%20CHEE%20SENG.jpeg)" alt="35) MRS KOH CHEE SENG.jpg" width="123" height="159"><br>Mrs Koh Chee Seng</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:chua_shu_hui_vivian@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chua_shu_hui_vivian@schools.gov.sg</span></a><br></td>
@@ -248,8 +248,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Mavis.jpg" alt="Mavis.jpg" width="127" height="162"><br>Ms Mavis Tan</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/87)%20MS%20LIU%20XIAOYUN.jpg" alt="87) MS LIU XIAOYUN.jpg" width="133" height="167"><br>Ms Liu Xiaoyun</td>
+    <td class="tg-hp8w"><img src="![](/images/Mavis.jpeg)" alt="Mavis.jpg" width="127" height="162"><br>Ms Mavis Tan</td>
+    <td class="tg-hp8w"><img src="![](/images/87)%20MS%20LIU%20XIAOYUN.jpeg)" alt="87) MS LIU XIAOYUN.jpg" width="133" height="167"><br>Ms Liu Xiaoyun</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:tan_jinwen_mavis@schools.gov.sg">tan_jinwen_mavis@schools.gov.sg</a><br></td>

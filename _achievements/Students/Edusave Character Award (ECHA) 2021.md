@@ -23,12 +23,12 @@ The objectives of the ECHA are:
 
 2.         Students must, **on a consistent basis,** demonstrate good character and values.  Students will be identified for demonstrating the following qualities:          
 
-*   School values
+*   **School values**
     
-*   <u>A high level of civic responsibility:</u>   <br> <br>
+*   <u>**A high level of civic responsibility:**</u>   <br> <br>
 Students who are concerned about issues in the community or issues faced by others, initiate action to address these issues to improve the lives of others, and demonstrate commitment to make a positive difference.
     
-*   <u>Qualities associated with resilience:</u>  <br> <br>
+*   <u>**Qualities associated with resilience:**</u>  <br> <br>
 Students who have persevered despite facing difficult circumstances (e.g. financial problems, family issues, health issues), and managed to overcome the odds and still do commendably well in academic and non-academic domains. Students may be nominated regardless of their academic results provided that their weak academic results are not due to negative character traits but attributed to difficulties that go beyond the control of the student.
 
 **Nomination**

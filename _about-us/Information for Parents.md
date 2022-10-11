@@ -34,4 +34,4 @@ Student Care Centre (SCC)
 
 Click on the following link to submit your request - [SCC Request](https://forms.gle/fvnhom9pvzYCuAGc7)  
 Please refer to the following attachment:  
-[SCC Brochure.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/About%20Us/Info%20for%20Parents%20(2022)/SCC%20Brochure.pdf)
+[SCC Brochure.pdf](/files/SCC%20Brochure.pdf)

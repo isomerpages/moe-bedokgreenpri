@@ -153,8 +153,8 @@ third_nav_title: Teachers
 <tbody>
   <tr>
     <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/49)%20MS%20JAYASARASVATHI%20DURAI%20KANNU.jpg" alt="49) MS JAYASARASVATHI DURAI KANNU.jpg" width="123" height="154"><br>Ms Jayasarasvathi Durai Kannu<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Hilwah.jpg" alt="Hilwah.jpg" width="123" height="164"><br>Mdm Hilwah Lukman</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Kavitha.jpg" alt="Kavitha.jpg" width="128" height="171"><br>Mdm Narayanasamy Kavitha<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Hilwah.jpeg)" alt="Hilwah.jpg" width="123" height="164"><br>Mdm Hilwah Lukman</td>
+    <td class="tg-hp8w"><img src="![](/images/Kavitha.jpeg)" alt="Kavitha.jpg" width="128" height="171"><br>Mdm Narayanasamy Kavitha<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:jayasarasvathi_durai_kannu@schools.gov.sg">jayasarasvathi_durai_kannu@</a><br><a href="mailto:jayasarasvathi_durai_kannu@schools.gov.sg">schools.gov.sg</a></td>

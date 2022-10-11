@@ -58,8 +58,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/163%20Miss%20Jazmin%20Ahamed.jpg" alt="163 Miss Jazmin Ahamed.jpg" width="101" height="123"><br>Miss Jazmin Ahamed</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/45)%20MS%20NOEL%20LIM_2.jpg" alt="45) MS NOEL LIM_2.jpg" width="100" height="126"><br>Ms Noel Lim</td>
+    <td class="tg-hp8w"><img src="![](/images/163%20Miss%20Jazmin%20Ahamed.jpeg)" alt="163 Miss Jazmin Ahamed.jpg" width="101" height="123"><br>Miss Jazmin Ahamed</td>
+    <td class="tg-hp8w"><img src="![](/images/45)%20MS%20NOEL%20LIM_2.jpeg)" alt="45) MS NOEL LIM_2.jpg" width="100" height="126"><br>Ms Noel Lim</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:jazmin_ahamed@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">jazmin_ahamed@schools.gov.sg</span></a><br></td>
@@ -89,8 +89,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/72)%20MDM%20SURYATI%20SHARIFF%20MARICAN.jpg" alt="72) MDM SURYATI SHARIFF MARICAN.jpg" width="107" height="133"><br>Ms Suryati Shariff Marican<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/Ms%20Sylvina%20Tan.JPG" alt="Ms Sylvina Tan.JPG" width="102" height="133"><br>Miss Sylvina Maylie Nathan Tan</td>
+    <td class="tg-hp8w"><img src="![](/images/72)%20MDM%20SURYATI%20SHARIFF%20MARICAN.jpeg)" alt="72) MDM SURYATI SHARIFF MARICAN.jpg" width="107" height="133"><br>Ms Suryati Shariff Marican<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Ms%20Sylvina%20Tan.jpeg)" alt="Ms Sylvina Tan.JPG" width="102" height="133"><br>Miss Sylvina Maylie Nathan Tan</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:suryati_shariff_marican@schools.gov.sg">suryati_shariff_marican@schools.gov.sg</a></td>
@@ -120,8 +120,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/77)%20MR%20LUKMAN%20NURHAKIM.jpg" alt="77) MR LUKMAN NURHAKIM.jpg" width="108" height="134"><br>Mr Lukman Nurhakim Bin Noordin</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/146)%20Mdm%20Fang%20Fang.jpeg" alt="146) Mdm Fang Fang.jpeg" width="111" height="139"><br>Mdm Fang Fang</td>
+    <td class="tg-hp8w"><img src="![](/images/77)%20MR%20LUKMAN%20NURHAKIM.jpeg)" alt="77) MR LUKMAN NURHAKIM.jpg" width="108" height="134"><br>Mr Lukman Nurhakim Bin Noordin</td>
+    <td class="tg-hp8w"><img src="![](/images/146)%20Mdm%20Fang%20Fang.jpeg)" alt="146) Mdm Fang Fang.jpeg" width="111" height="139"><br>Mdm Fang Fang</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:lukman_nurhakim_noordin@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lukman_nurhakim_noordin@schools.gov.sg</span></a><br></td>

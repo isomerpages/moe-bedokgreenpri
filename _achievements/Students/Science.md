@@ -4,10 +4,6 @@ permalink: /achievements/student/science/
 description: ""
 third_nav_title: Students
 ---
-  
-Science
-==========
-
 2021
 ----
 

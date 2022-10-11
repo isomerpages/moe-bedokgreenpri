@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Students/Edusave Character Award (ECHA) 2021.md
       - Students/Student.md
       - Students/.keep

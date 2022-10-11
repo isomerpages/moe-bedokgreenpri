@@ -25,13 +25,12 @@ The objectives of the ECHA are:
 
 *   School values
     
-*   A high level of civic responsibility:   
+*   <u>A high level of civic responsibility:</u>   <br> <br>
 Students who are concerned about issues in the community or issues faced by others, initiate action to address these issues to improve the lives of others, and demonstrate commitment to make a positive difference.
     
-*   Qualities associated with resilience**:  
-      
+*   <u>Qualities associated with resilience:</u>  <br> <br>
 Students who have persevered despite facing difficult circumstances (e.g. financial problems, family issues, health issues), and managed to overcome the odds and still do commendably well in academic and non-academic domains. Students may be nominated regardless of their academic results provided that their weak academic results are not due to negative character traits but attributed to difficulties that go beyond the control of the student.
-  
-#### **Nomination**
 
-The form must be duly completed and submitted through your child’s Form Teacher by 15 September 2021. A copy of the nomination form can be downloaded [here](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/About%20Us/Achievements/A2_ECHA%20nomination%20form%202021%20for%20stakeholders.pdf).
+**Nomination**
+
+The form must be duly completed and submitted through your child’s Form Teacher by 15 September 2021. A copy of the nomination form can be downloaded [here](/files/A2_ECHA%20nomination%20form%202021%20for%20stakeholders.pdf).

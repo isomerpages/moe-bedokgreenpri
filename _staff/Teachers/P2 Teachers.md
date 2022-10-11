@@ -248,9 +248,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Faith.jpg" alt="Faith.jpg" width="111" height="112"><br>Ms Ong Su San Faith<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/129)%20Mr%20Liu%20Peng.jpg" alt="129) Mr Liu Peng.jpg" width="118" height="130"><br>Mr Liu Peng</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Nurrashidah%20Binte%20Mansoor.JPG" alt="Nurrashidah Binte Mansoor.JPG" width="105" height="157"><br>Mdm Nurrashidah Binte Mansoor</td>
+    <td class="tg-hp8w"><img src="![](/images/Faith.jpeg)" alt="Faith.jpg" width="111" height="112"><br>Ms Ong Su San Faith<br></td>
+    <td class="tg-hp8w"><img src="![](/images/129)%20Mr%20Liu%20Peng.jpeg)" alt="129) Mr Liu Peng.jpg" width="118" height="130"><br>Mr Liu Peng</td>
+    <td class="tg-hp8w"><img src="![](/images/Nurrashidah%20Binte%20Mansoor.jpeg)" alt="Nurrashidah Binte Mansoor.JPG" width="105" height="157"><br>Mdm Nurrashidah Binte Mansoor</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:ong_su_san@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">ong_su_san@schools.gov.sg</span></a></td>
@@ -281,8 +281,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-46dd"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/Ms%20Chin%20Ching%20Shia.JPG" alt="Ms Chin Ching Shia.JPG" width="118" height="148"><br><span style="font-weight:400">Miss Chin Ching</span> <span style="font-weight:normal">Shia</span> </td>
-    <td class="tg-46dd"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/109)%20MDM%20NOORLIN%20HARON_2.jpg" alt="109) MDM NOORLIN HARON_2.jpg" width="123" height="155"><br><span style="font-weight:400">Mdm Noorlin Haron</span><br></td>
+    <td class="tg-46dd"><img src="![](/images/Ms%20Chin%20Ching%20Shia.jpeg)" alt="Ms Chin Ching Shia.JPG" width="118" height="148"><br><span style="font-weight:400">Miss Chin Ching</span> <span style="font-weight:normal">Shia</span> </td>
+    <td class="tg-46dd"><img src="![](/images/109)%20MDM%20NOORLIN%20HARON_2.jpeg)" alt="109) MDM NOORLIN HARON_2.jpg" width="123" height="155"><br><span style="font-weight:400">Mdm Noorlin Haron</span><br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:chin_ching_shia@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chin_ching_shia@schools.gov.sg</span></a><br></td>

@@ -12,3 +12,7 @@ We are pleased to announce that our school has been awarded the 2020 Restroom As
 
 ![Mr Martin Ho receiving the Platinum Award on behalf of Bedok Green Primary School](/images/LOO_1.jpeg)
 <figcaption><em><strong>Mr Martin Ho receiving the Platinum Award on behalf of Bedok Green Primary School</strong></em></figcaption>
+
+![Mr Martin Ho and Operations Manager, Mr Christopher De Silva, representing the staff and students of Bedok Green Primary School at the 2020 Awards Ceremony
+](/images/LOO_2.jpeg)
+<figcaption><em><strong>Mr Martin Ho and Operations Manager, Mr Christopher De Silva, representing the staff and students of Bedok Green Primary School at the 2020 Awards Ceremony</strong></em></figcaption>

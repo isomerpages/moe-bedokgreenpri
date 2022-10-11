@@ -185,8 +185,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/44)%20MR%20DAVE%20LIU.jpg" alt="44) MR DAVE LIU.jpg" width="121" height="159"><br>Mr Dave Liu</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/DSC05196.jpg" alt="DSC05196.jpg" width="119" height="157"># <br>Ms Nur 'Aliah Dafir</td>
+    <td class="tg-hp8w"><img src="![](/images/44)%20MR%20DAVE%20LIU.jpeg)" alt="44) MR DAVE LIU.jpg" width="121" height="159"><br>Mr Dave Liu</td>
+    <td class="tg-hp8w"><img src="![](/images/DSC05196.jpeg)" alt="DSC05196.jpg" width="119" height="157"># <br>Ms Nur 'Aliah Dafir</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:liu_dave@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">liu_dave@schools.gov.sg</span></a><br></td>
@@ -216,8 +216,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/54)%20MRS%20LEE-LIM%20MEI%20YIN.jpg" alt="54) MRS LEE-LIM MEI YIN.jpg" width="108" height="135"><br>Mdm Lim Mei Yin Diane</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/55)%20MRS%20JACINTA%20GOMES.jpg" alt="55) MRS JACINTA GOMES.jpg" width="107" height="133"><br>Mdm Jacinta Mary De Almeida</td>
+    <td class="tg-hp8w"><img src="![](/images/54)%20MRS%20LEE-LIM%20MEI%20YIN.jpeg)" alt="54) MRS LEE-LIM MEI YIN.jpg" width="108" height="135"><br>Mdm Lim Mei Yin Diane</td>
+    <td class="tg-hp8w"><img src="![](/images/55)%20MRS%20JACINTA%20GOMES.jpeg)" alt="55) MRS JACINTA GOMES.jpg" width="107" height="133"><br>Mdm Jacinta Mary De Almeida</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:lim_mei_yin@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lim_mei_yin@schools.gov.sg</span></a><br></td>

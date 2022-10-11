@@ -113,3 +113,51 @@ third_nav_title: Staff
 </table>
 
 ### Student Well-Being
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-46dd{color:#081A4A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
+.tg .tg-e2r4{color:#081A4A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-46dd">School Counsellor</th>
+    <th class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/128)%20Ms%20Janice%20Aw%20Chiew%20Khim.jpg" alt="128) Ms Janice Aw Chiew Khim.jpg" width="111" height="138"><br>Mdm Janice Aw Chiew Khim</th>
+    <th class="tg-hp8w"> <a href="mailto:aw_chiew_khim_janice@schools.gov.sg">aw_chiew_khim_janice@schools.gov.sg</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-46dd"> School Counsellor</td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Siang%20Hua.jpg" alt="Siang Hua.jpg" width="124" height="186"><br><span style="color:inherit">Mr See Siang Hua</span></td>
+    <td class="tg-8k3w"><a href="http://see_siang_hua@schools.gov.sg/"><span style="text-decoration:none;color:#4067AE"> see_siang_hua@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><span style="color:inherit">Special Educational Needs (SEN) Officer </span></td>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/134)%20Ms%20Kee%20Ee%20Kheng.jpg" alt="134) Ms Kee Ee Kheng.jpg" width="130" height="162"><br><span style="color:inherit">Ms Kee Ee Kheng</span></td>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><a href="mailto:kee_ee_kheng@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">kee_ee_kheng@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-46dd"><span style="color:inherit">Special Educational Needs (SEN) Officer      </span></td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20SAT/155)%20Mdm%20Suriani%20Bte%20Abd%20Shukor.jpeg" alt="155) Mdm Suriani Bte Abd Shukor.jpeg" width="118" height="142"><br>Ms Suriani Abdul Shukor</td>
+    <td class="tg-8k3w"><a href="mailto:suriani_abd_shukor@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">suriani_abd_shukor@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-46dd">Special Educational Needs (SEN) Officer<span style="color:inherit"> </span><span style="font-weight:bold;color:inherit"> </span><span style="color:inherit"> </span></td>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/DSC04426.jpg" alt="DSC04426.jpg" width="114" height="171"><br>Mdm Descalsota Teodora </td>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent">         </span>   <a href="mailto:Descalsota_Teodora_Bernardino@schools.gov.sg">descalsota_teodora_bernardino@schools.gov.sg</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-46dd">Special Educational Needs (SEN) Officer</td>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/DSC05097.JPG" alt="DSC05097.JPG" width="121" height="181"><br><span style="color:inherit">Ms Sheryl Wong Shi Hui</span></td>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><a href="mailto:sheryl_wong_shi_hui@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">sheryl_wong_shi_hui@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>

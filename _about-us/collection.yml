@@ -2,21 +2,21 @@ collections:
   about-us:
     output: true
     order:
-      - Privacy Policy.md
-      - Information for Parents.md
-      - Staff/School Leaders.md
-      - Staff/School Administrative & Operations Team.md
-      - Staff/Key Personnel.md
-      - Staff/Senior Teachers.md
-      - Staff/Teachers.md
-      - Staff/.keep
-      - Calendar.md
+      - Principal’s Message.md
+      - Vision, Mission & Values.md
+      - School Crest, School Motto, School Song.md
       - General Information/.keep
       - General Information/General Information.md
       - General Information/Admission.md
       - General Information/School Hours.md
       - General Information/Suppliers & Vendors.md
       - General Information/Contact Us.md
-      - School Crest, School Motto, School Song.md
-      - Vision, Mission & Values.md
-      - Principal’s Message.md
+      - Calendar.md
+      - Staff/.keep
+      - Staff/School Leaders.md
+      - Staff/School Administrative & Operations Team.md
+      - Staff/Key Personnel.md
+      - Staff/Senior Teachers.md
+      - Staff/Teachers.md
+      - Information for Parents.md
+      - Privacy Policy.md

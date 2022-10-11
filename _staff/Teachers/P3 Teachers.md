@@ -62,9 +62,9 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/Elissa.jpg" alt="Elissa.jpg" width="118" height="151"><br>Ms Elissa Chew <br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Pamela.jpg" alt="Pamela.jpg" width="114" height="152"><br>Mdm Pamela Tan <br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/37)%20MDM%20HALIMATON%20ABDULLAH_2.jpg" alt="37) MDM HALIMATON ABDULLAH_2.jpg" width="119" height="147"><br>Mdm Halimaton Abdullah<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Elissa.jpeg)" alt="Elissa.jpg" width="118" height="151"><br>Ms Elissa Chew <br></td>
+    <td class="tg-hp8w"><img src="![](/images/Pamela.jpeg)" alt="Pamela.jpg" width="114" height="152"><br>Mdm Pamela Tan <br></td>
+    <td class="tg-hp8w"><img src="![](/images/37)%20MDM%20HALIMATON%20ABDULLAH_2.jpeg)" alt="37) MDM HALIMATON ABDULLAH_2.jpg" width="119" height="147"><br>Mdm Halimaton Abdullah<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:chew_mei-hua_elissa_ann@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chew_mei-hua_elissa_ann@schools.gov.sg</span></a><br></td>
@@ -95,8 +95,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Sharifah%20Faiiza.jpg" alt="Sharifah Faiiza.jpg" width="124" height="165"><br>Mdm Shariffah Faizah</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/150)%20Mdm%20Lim%20Lai%20Li.jpeg" alt="150) Mdm Lim Lai Li.jpeg" width="120" height="156"><br>Mdm Lim Lai Li<br></td>
+    <td class="tg-hp8w"><img src="![](/images/Sharifah%20Faiiza.jpeg)" alt="Sharifah Faiiza.jpg" width="124" height="165"><br>Mdm Shariffah Faizah</td>
+    <td class="tg-hp8w"><img src="![](/images/150)%20Mdm%20Lim%20Lai%20Li.jpeg)" alt="150) Mdm Lim Lai Li.jpeg" width="120" height="156"><br>Mdm Lim Lai Li<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:shariffah_faizah_hassan@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">shariffah_faizah_hassan@schools.gov.sg</span></a></td>
@@ -126,8 +126,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/144)%20Miss%20Mellisa%20Puah%20Mun%20Mun.jpg" alt="144) Miss Mellisa Puah Mun Mun.jpg" width="112" height="140"><br>Miss Mellisa Puah</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/140)%20Miss%20Khoo%20Kar%20Hoe.jpg" alt="140) Miss Khoo Kar Hoe.jpg" width="111" height="140"><br>Ms Khoo Kar Hoe<br></td>
+    <td class="tg-hp8w"><img src="![](/images/144)%20Miss%20Mellisa%20Puah%20Mun%20Mun.jpeg)" alt="144) Miss Mellisa Puah Mun Mun.jpg" width="112" height="140"><br>Miss Mellisa Puah</td>
+    <td class="tg-hp8w"><img src="![](/images/140)%20Miss%20Khoo%20Kar%20Hoe.jpeg)" alt="140) Miss Khoo Kar Hoe.jpg" width="111" height="140"><br>Ms Khoo Kar Hoe<br></td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:mellisa_puah_mun_mun@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">mellisa_puah_mun_mun@schools.gov.sg</span></a></td>

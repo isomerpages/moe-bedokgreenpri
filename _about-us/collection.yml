@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Privacy Policy.md
       - Information for Parents.md
       - Staff/School Leaders.md
       - Staff/School Administrative & Operations Team.md

@@ -27,8 +27,8 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="![](/images/79)%20MS%20CHUNG%20PEI%20LING.jpeg)" alt="79) MS CHUNG PEI LING.jpg" width="102" height="127"><br>Ms Chung Pei Ling    <br></td>
-    <td class="tg-hp8w"><img src="![](/images/13)%20MR%20LEUNG%20PAK%20KIN.jpeg)" alt="13) MR LEUNG PAK KIN.jpg" width="99" height="124"><br>Mr Leung Pak Kin</td>
+    <td class="tg-hp8w"><img src="/images/79)%20MS%20CHUNG%20PEI%20LING.jpeg" alt="79) MS CHUNG PEI LING.jpg" width="102" height="127"><br>Ms Chung Pei Ling    <br></td>
+    <td class="tg-hp8w"><img src="/images/13)%20MR%20LEUNG%20PAK%20KIN.jpeg" alt="13) MR LEUNG PAK KIN.jpg" width="99" height="124"><br>Mr Leung Pak Kin</td>
   </tr>
   <tr>
     <td class="tg-8k3w"><a href="mailto:chung_pei_ling@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">chung_pei_ling@schools.gov.sg</span></a><br></td>

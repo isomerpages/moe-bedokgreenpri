@@ -151,12 +151,12 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-46dd">Special Educational Needs (SEN) Officer<span style="color:inherit"> </span><span style="font-weight:bold;color:inherit"> </span><span style="color:inherit"> </span></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2021%20Our%20People%20Photos/DSC04426.jpg" alt="DSC04426.jpg" width="114" height="171"><br>Mdm Descalsota Teodora </td>
+    <td class="tg-hp8w"><img src="![](/images/DSC04426.jpeg)" alt="DSC04426.jpg" width="114" height="171"><br>Mdm Descalsota Teodora </td>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent">         </span>   <a href="mailto:Descalsota_Teodora_Bernardino@schools.gov.sg">descalsota_teodora_bernardino@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td class="tg-46dd">Special Educational Needs (SEN) Officer</td>
-    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/DSC05097.JPG" alt="DSC05097.JPG" width="121" height="181"><br><span style="color:inherit">Ms Sheryl Wong Shi Hui</span></td>
+    <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><img src="![](/images/DSC05097.jpeg)" alt="DSC05097.JPG" width="121" height="181"><br><span style="color:inherit">Ms Sheryl Wong Shi Hui</span></td>
     <td class="tg-e2r4"><span style="color:inherit;background-color:transparent"> </span><a href="mailto:sheryl_wong_shi_hui@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">sheryl_wong_shi_hui@schools.gov.sg</span></a></td>
   </tr>
 </tbody>

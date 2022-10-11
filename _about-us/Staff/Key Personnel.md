@@ -84,17 +84,17 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-46dd"> Head of Department <br>Discipline</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Staff/Judy.jpg" alt="Judy.jpg" width="128" height="170"><br><span style="color:inherit">Ms Judy Lim</span></td>
+    <td class="tg-hp8w"><img src="![](/images/Judy.jpeg)" alt="Judy.jpg" width="128" height="170"><br><span style="color:inherit">Ms Judy Lim</span></td>
     <td class="tg-8k3w"><a href="mailto:judy_lim_lian_soon@schools.gov.sg"> judy_lim_lian_soon@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Subject Head <br>      Student Well-Being       </td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/51)%20MR%20LIM%20FANG%20RUI.jpg" alt="51) MR LIM FANG RUI.jpg" width="114" height="141"><br><span style="color:inherit;background-color:transparent">Mr Lim Fang Rui</span></td>
+    <td class="tg-hp8w"><img src="![](/images/51)%20MR%20LIM%20FANG%20RUI.jpeg)" alt="51) MR LIM FANG RUI.jpg" width="114" height="141"><br><span style="color:inherit;background-color:transparent">Mr Lim Fang Rui</span></td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent">                   </span>    <a href="mailto:lim_fang_rui@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">lim_fang_rui@schools.gov.sg  </span></a> </td>
   </tr>
   <tr>
     <td class="tg-46dd">Subject Head ICT<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/85)%20MR%20MOHD%20NAJEEB.jpg" alt="85) MR MOHD NAJEEB.jpg" width="113" height="139"><br>Mr Mohd Najeeb Hassan<br><br></td>
+    <td class="tg-hp8w"><img src="![](/images/85)%20MR%20MOHD%20NAJEEB.jpeg)" alt="85) MR MOHD NAJEEB.jpg" width="113" height="139"><br>Mr Mohd Najeeb Hassan<br><br></td>
     <td class="tg-8k3w"><a href="mailto:Najeeb_Hassan@schools.gov.sg">Najeeb_Hassan@schools.gov.sg</a></td>
   </tr>
 </tbody>

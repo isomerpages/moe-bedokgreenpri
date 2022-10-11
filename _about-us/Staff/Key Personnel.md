@@ -29,57 +29,57 @@ third_nav_title: Staff
 <tbody>
   <tr>
     <td class="tg-46dd">School Staff Developer</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/123)%20Mrs%20Samsina%20Herbert.jpg" alt="123) Mrs Samsina Herbert.jpg" width="115" height="144"><br><span style="color:inherit;background-color:transparent">Mrs Samsina Herbert</span><br></td>
+    <td class="tg-hp8w"><img src="![](/images/123)%20Mrs%20Samsina%20Herbert.jpeg)" alt="123) Mrs Samsina Herbert.jpg" width="115" height="144"><br><span style="color:inherit;background-color:transparent">Mrs Samsina Herbert</span><br></td>
     <td class="tg-8k3w"><a href="mailto:samsina_herbert@schools.gov.sg">samsina_herbert@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td class="tg-46dd">Head of Department<br>English</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/26)%20MS%20SANGEETHA%20YADAV.jpg" alt="26) MS SANGEETHA YADAV.jpg" width="112" height="144"><br>Ms Sangeetha Yadav <br></td>
+    <td class="tg-hp8w"><img src="![](/images/26)%20MS%20SANGEETHA%20YADAV.jpeg)" alt="26) MS SANGEETHA YADAV.jpg" width="112" height="144"><br>Ms Sangeetha Yadav <br></td>
     <td class="tg-8k3w"><a href="mailto:sangeetha_yadav@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">sangeetha_yadav@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-hp8w"><span style="color:inherit"> </span> Level Head English</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/36)%20MRS%20GOH%20EE%20SZE.jpg" alt="36) MRS GOH EE SZE.jpg" width="110" height="140"><br><span style="color:inherit;background-color:transparent">Ms Lim Ee Sze</span></td>
+    <td class="tg-hp8w"><img src="![](/images/36)%20MRS%20GOH%20EE%20SZE.jpeg)" alt="36) MRS GOH EE SZE.jpg" width="110" height="140"><br><span style="color:inherit;background-color:transparent">Ms Lim Ee Sze</span></td>
     <td class="tg-fdoi"><span style="color:inherit;background-color:transparent">                   </span> <a href="mailto:lim_ee_sze@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE">   </span></a><br><br><br><a href="mailto:lim_ee_sze@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#4067AE"> </span></a><a href="mailto:lim_ee_sze@schools.gov.sg" target="_blank" rel="noopener noreferrer"> lim_ee_sze@schools.gov.sg</a><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-46dd">Head of Department<br>Mathematics</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/70)%20MRS%20ANGELINE%20ONG.jpg" alt="70) MRS ANGELINE ONG.jpg" width="109" height="135"><br>Mrs Angeline Ong<br></td>
+    <td class="tg-hp8w"><img src="![](/images/70)%20MRS%20ANGELINE%20ONG.jpeg)" alt="70) MRS ANGELINE ONG.jpg" width="109" height="135"><br>Mrs Angeline Ong<br></td>
     <td class="tg-8k3w"><a href="mailto:angeline_chia_lin@schools.gov.sg">angeline_chia_lin@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-46dd">  Level Head Mathematics</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/40)%20MS%20NG%20JIEYING.jpg" alt="40) MS NG JIEYING.jpg" width="109" height="135"><br><span style="color:inherit;background-color:transparent">Ms Ng Jieying</span></td>
+    <td class="tg-hp8w"><img src="![](/images/40)%20MS%20NG%20JIEYING.jpeg)" alt="40) MS NG JIEYING.jpg" width="109" height="135"><br><span style="color:inherit;background-color:transparent">Ms Ng Jieying</span></td>
     <td class="tg-8k3w"><a href="mailto:ng_jieying@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">ng_jieying@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Head of Department<br>Mother Tongue</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/129)%20Mr%20Liu%20Peng.jpg" alt="129) Mr Liu Peng.jpg" width="113" height="147"><br><span style="color:inherit;background-color:transparent">Mr Liu Peng</span><br></td>
+    <td class="tg-hp8w"><img src="![](/images/129)%20Mr%20Liu%20Peng.jpeg)" alt="129) Mr Liu Peng.jpg" width="113" height="147"><br><span style="color:inherit;background-color:transparent">Mr Liu Peng</span><br></td>
     <td class="tg-8k3w"><a href="mailto:Liu_peng@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">Liu_peng@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Subject Head<br>Mother Tongue (ML) &amp; MRL</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/109)%20MDM%20NOORLIN%20HARON_2.jpg" alt="109) MDM NOORLIN HARON_2.jpg" width="112" height="139"><br><span style="color:inherit;background-color:transparent">Mdm Noorlin Haron</span><br></td>
+    <td class="tg-hp8w"><img src="![](/images/109)%20MDM%20NOORLIN%20HARON_2.jpeg)" alt="109) MDM NOORLIN HARON_2.jpg" width="112" height="139"><br><span style="color:inherit;background-color:transparent">Mdm Noorlin Haron</span><br></td>
     <td class="tg-8k3w"><a href="mailto:noorlin_haron@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">noorlin_haron@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Head of Department<br>Science</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/140)%20Miss%20Khoo%20Kar%20Hoe.jpg" alt="140) Miss Khoo Kar Hoe.jpg" width="115" height="143"><br>Ms Khoo Kar Hoe<br></td>
+    <td class="tg-hp8w"><img src="![](/images/140)%20Miss%20Khoo%20Kar%20Hoe.jpeg)" alt="140) Miss Khoo Kar Hoe.jpg" width="115" height="143"><br>Ms Khoo Kar Hoe<br></td>
     <td class="tg-8k3w"><a href="mailto:khoo_kar_hoe@schools.gov.sg">khoo_kar_hoe@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Head of Department<br>Physical Education &amp;<br>Co-Curricular Activities</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/42)%20MR%20ALVIN%20THIO_2.jpg" alt="42) MR ALVIN THIO_2.jpg" width="112" height="143"><br>Mr Alvin Thio<br></td>
+    <td class="tg-hp8w"><img src="![](/images/42)%20MR%20ALVIN%20THIO_2.jpeg)" alt="42) MR ALVIN THIO_2.jpg" width="112" height="143"><br>Mr Alvin Thio<br></td>
     <td class="tg-8k3w"><a href="mailto:thio_beng_lou_alvin@schools.gov.sg">thio_beng_lou_alvin@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td class="tg-46dd">Subject Head<br>Physical Education &amp; <br>Co-Curricular Activities<br></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/64)%20MR%20MOHD%20HASRI%202.jpg" alt="64) MR MOHD HASRI 2.jpg" width="110" height="140"><br>Mr Mohd Hasri Bahari<br></td>
+    <td class="tg-hp8w"><img src="![](/images/64)%20MR%20MOHD%20HASRI%202.jpeg)" alt="64) MR MOHD HASRI 2.jpg" width="110" height="140"><br>Mr Mohd Hasri Bahari<br></td>
     <td class="tg-8k3w"><a href="mailto:mohd_hasri_bahari@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">mohd_hasri_bahari@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-46dd">Head of Department<br>Character &amp; Citizenship Education (CCE)</td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/105)%20MRS%20JESSIE%20SOH_2.jpg" alt="105) MRS JESSIE SOH_2.jpg" width="127" height="160"><br><span style="color:inherit;background-color:transparent">Mrs Jessie Soh</span><br></td>
+    <td class="tg-hp8w"><img src="![](/images/105)%20MRS%20JESSIE%20SOH_2.jpeg)" alt="105) MRS JESSIE SOH_2.jpg" width="127" height="160"><br><span style="color:inherit;background-color:transparent">Mrs Jessie Soh</span><br></td>
     <td class="tg-8k3w"><a href="mailto:lim_chieh_sze@schools.gov.sg">lim_chieh_sze@schools.gov.sg</a></td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ third_nav_title: Staff
 <tbody>
   <tr>
     <td class="tg-46dd"> <br>Year Head<br><span style="color:inherit">Lower Primary </span> <span style="color:inherit">Primary 1 and 2</span></td>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2020%20Our%20People%20_Photos/2020%20Key%20Personnel/34)%20MR%20LOH%20WEI%20LEONG.jpg" alt="34) MR LOH WEI LEONG.jpg" width="113" height="141"><br>Mr Loh Wei Leong <br></td>
+    <td class="tg-hp8w"><img src="![](/images/34)%20MR%20LOH%20WEI%20LEONG.jpeg)" alt="34) MR LOH WEI LEONG.jpg" width="113" height="141"><br>Mr Loh Wei Leong <br></td>
     <td class="tg-hp8w"><br><br><br> <a href="mailto:luo_weiliang@schools.gov.sg">luo_weiliang@schools.gov.sg</a></td>
   </tr>
   <tr>

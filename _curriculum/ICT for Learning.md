@@ -155,6 +155,21 @@ img {
 
 <br>
 
+**Tech tools to enhance T&L**  <br>
+To enhance teaching and learning of students, the school adopts a balanced array of ICT related tools that aim to develop baseline ICT skills and enhance teacher-student, student-student and content-student interactions. 
+
+  
+
+With the Student Learning Space (SLS),  students can now learn better at their own pace. SLS is not only just a tech tool used by teachers in the school, it also empowers students to be engaged in self-directed and self-paced learning. Students can review their lessons at their own time, at the comfort of their home.
+
+  
+
+With the SLS as the baseline application, teachers in the school make use of other available ICT tech tools in the market to provide a more engaging learning experience to promote collaboration and discussions among students. Some of the tech tools used by teachers in the school are highlighted below:
+
+  
+
+Flipgrid is a video posting tool where students interact using video, without the pressure of a live classroom. Since students are given the space and time to respond when they're ready, it makes engagement possible for even more anxious students who might feel left out in class. The ability to add rich media encourages students to be creative and more expressive. By adding emoji, text, and stickers, students can engage with class content as they might interact with friends using social media platforms. On a software level, Flipgrid is great for integration as it works with Google Classroom in which every student in the school has an account, allowing for enhanced collaboration between students in a virtual space that mimics that of the real classroom.
+
 <style>  
 img {  
   display: block;  

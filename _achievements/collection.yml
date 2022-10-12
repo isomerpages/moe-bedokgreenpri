@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Staff/.keep
       - Students/.keep
       - Students/Student.md
       - Students/English.md

@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Co Curricular Activities (CCA)/.keep
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/Values In Action (VIA).md

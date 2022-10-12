@@ -75,11 +75,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Education and Career Guidance" style="width:80%;">  
+<body><img src="![Speakers of different occupations invited to the P6 Career Seminar](/images/ECG3.jpeg)" alt="Speakers of different occupations invited to the P6 Career Seminar" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>mamam</strong></p>
+<p style="text-align:center;"><strong>Speakers of different occupations invited to the P6 Career Seminar</strong></p>
 
 <style>  
 img {  
@@ -88,11 +88,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Education and Career Guidance" style="width:80%;">  
+<body><img src="![](/images/ECG4.jpeg)" alt="Learning journey to Kidzania" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>mamam</strong></p>
+<p style="text-align:center;"><strong>Learning journey to Kidzania</strong></p>
 
 <style>  
 img {  
@@ -101,11 +101,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Education and Career Guidance" style="width:80%;">  
+<body><img src="/images/school%20uniform.jpg" alt="Infusion of ECG in NE events" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>mamam</strong></p>
+<p style="text-align:center;"><strong>Infusion of ECG in NE events</strong></p>
 
 <br>
 

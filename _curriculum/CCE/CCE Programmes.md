@@ -53,46 +53,46 @@ img {
 
 <p style="text-align:center;"><strong>Career Fair</strong></p>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/school%20uniform.jpg" alt="Education and Career Guidance" style="width:80%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>mamam</strong></p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/school%20uniform.jpg" alt="Education and Career Guidance" style="width:80%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>mamam</strong></p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/school%20uniform.jpg" alt="Education and Career Guidance" style="width:80%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>mamam</strong></p>
-
 -----------------------------
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/ECG2.jpeg)" alt="Inviting ex-student who is a lawyer to educate the students about careers" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>Inviting ex-student who is a lawyer to educate the students about careers</strong></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Education and Career Guidance" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>mamam</strong></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Education and Career Guidance" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>mamam</strong></p>
 
 <style>  
 img {  

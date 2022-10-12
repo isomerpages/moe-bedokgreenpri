@@ -153,7 +153,7 @@ Aesthetics
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Achievements/Tang%20Youheng.jpg" alt="Tang Youheng.jpg" width="192" height="287"><br>Tang Youheng (6 Resilience)</td>
+    <td class="tg-hp8w"><img src="/images/Tang%20Youheng.jpeg" alt="Tang Youheng.jpg" width="192" height="287"><br>Tang Youheng (6 Resilience)</td>
   </tr>
 </tbody>
 </table>
@@ -177,10 +177,10 @@ Aesthetics
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u593/Claire%20Soo.jpg" alt="Claire Soo.jpg" width="187" height="280"><br>Claire Soo Wen Ai (6 Compassion)</td>
+    <td class="tg-hp8w"><img src="/images/Claire%20Soo.jpeg" alt="Claire Soo.jpg" width="187" height="280"><br>Claire Soo Wen Ai (6 Compassion)</td>
   </tr>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u593/Bavesh.jpg" alt="Bavesh.jpg" width="188" height="282"><br>Bavesh Kumar Sivakumar (6 Compassion) </td>
+    <td class="tg-hp8w"><img src="/images/Bavesh.jpeg" alt="Bavesh.jpg" width="188" height="282"><br>Bavesh Kumar Sivakumar (6 Compassion) </td>
   </tr>
 </tbody>
 </table>
@@ -204,10 +204,10 @@ Aesthetics
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Achievements/Foo%20Si%20Ya.jpg" alt="Foo Si Ya.jpg" width="190" height="285"><br>Foo Siya (6 Resilience)</td>
+    <td class="tg-hp8w"><img src="/images/Foo%20Si%20Ya.jpeg" alt="Foo Si Ya.jpg" width="190" height="285"><br>Foo Siya (6 Resilience)</td>
   </tr>
   <tr>
-    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Achievements/Nur%20Qistina.jpg" alt="Nur Qistina.jpg" width="188" height="281"><br>Nur Qistina Binte Mohamed Nizam (6 Compassion) </td>
+    <td class="tg-hp8w"><img src="/images/Nur%20Qistina.jpeg" alt="Nur Qistina.jpg" width="188" height="281"><br>Nur Qistina Binte Mohamed Nizam (6 Compassion) </td>
   </tr>
 </tbody>
 </table>
@@ -231,7 +231,7 @@ Aesthetics
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Achievements/Goh%20Einzy.JPG" alt="Goh Einzy.JPG" width="202" height="302"><br>Goh Einzy (6 Resilience)</td>
+    <td class="tg-baqh"><img src="/images/Goh%20Einzy.jpeg" alt="Goh Einzy.JPG" width="202" height="302"><br>Goh Einzy (6 Resilience)</td>
   </tr>
 </tbody>
 </table>

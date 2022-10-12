@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Signature Programmes.md
       - Library Programmes.md

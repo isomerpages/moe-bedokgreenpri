@@ -84,18 +84,33 @@ img {
   
 </body>
 
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IMG_0217.jpeg" alt="ICT-enriched Learning Experiences" style="width:70%;">  
+  
+</body>
+
+<br>
+
 --------------
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<br>
+
+**ICT-enabled Home Based Learning (HBL)**  <br>
+In response to the COVID-19 situation, HBL has been implemented to reduce the risk of transmissions within the students and school. Through ICT-enabled Home Based Learning, the school uses information and communications technology to support, enhance and optimize the delivery of information. With the integration of technology in teaching and learning, students are actively engaged with learning objectives.  
+
+We also ensure continuity of learning by minimizing loss of curriculum time while keeping students meaningfully engaged and occupied at home. Through various ICT tools and platforms, teachers continue to engage students and access their learning. Teachers also review students’ learning progress and provide support to help them cope with their learning at home.  
+
   
-</body>
+
+Students who require closer supervision or whose parents are frontline workers, can return to school on HBL days. These students will conduct their HBL according to the school’s planned schedule similar to those who are at home. Students can access the BGPS HBL Portal to view the schedule and work assigned to them for each subject for each day.
 
 <style>  
 img {  
@@ -104,9 +119,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/DSC06251.jpeg" alt="ICT-enabled Home Based Learning (HBL)" style="width:70%;">  
   
 </body>
+
+<br>
 
 <style>  
 img {  
@@ -115,9 +132,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/DSC06332.jpeg" alt="ICT-enabled Home Based Learning (HBL)" style="width:70%;">  
   
 </body>
+
+<br>
 
 <style>  
 img {  
@@ -126,9 +145,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/DSC06350.jpeg" alt="ICT-enabled Home Based Learning (HBL)" style="width:70%;">  
   
 </body>
+
+<br>
+
+--------------
+
+<br>
 
 <style>  
 img {  

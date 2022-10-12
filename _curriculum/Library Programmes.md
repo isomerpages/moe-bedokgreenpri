@@ -3,12 +3,9 @@ title: Library Programmes
 permalink: /curriculum/library-programmes/
 description: ""
 ---
-Media Resource Library
-----------------------
+### Media Resource Library
 
-Objectives:   
-
-#### 
+Objectives:    
 
 *   To inculcate the value and love of reading in every BGPian.
 
@@ -39,18 +36,17 @@ Information for pupils:
 
 *   For a damaged or lost membership card, the initial fine imposed is $1 and $2 for any subsequent damage or loss.
 
-### 
 
-Library Operating Hours:  
-Monday to Friday from 7.30 a.m. to 4.30 p.m.
+##### Library Operating Hours:  
+**Monday to Friday from 7.30 a.m. to 4.30 p.m.**
 
-### Librarian: 
+##### Librarian: 
 
 **Ms Enyf binte Mohamed Raib**
 
-#### Library Programmes:  
+##### Library Programmes:  
 
-#### Books 2 Go  
+**Books 2 Go**  
 
 This programme is aimed at giving the students the opportunity to borrow books from the National Library Board without having to go to the public libraries. – Can put in
 
@@ -58,7 +54,7 @@ This programme is aimed at giving the students the opportunity to borrow books f
 
 National Library Board librarian shares some interesting books that are available in the National Library with the Middle & Upper Primary students.
 
-#### **Storytelling Session**
+**Storytelling Session**
 
 The National Library Board librarian tells stories to the Lower Primary students to increase their interest in reading storybooks.
 

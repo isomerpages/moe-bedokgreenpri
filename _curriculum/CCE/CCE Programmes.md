@@ -46,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ECG1.jpeg)" alt="Career Fair 
+<body><img src="/images/ECG1.jpeg" alt="Career Fair 
 " style="width:80%;">  
   
 </body>
@@ -62,7 +62,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ECG2.jpeg)" alt="Inviting ex-student who is a lawyer to educate the students about careers" style="width:80%;">  
+<body><img src="/images/ECG2.jpeg" alt="Inviting ex-student who is a lawyer to educate the students about careers" style="width:80%;">  
   
 </body>
 
@@ -75,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![Speakers of different occupations invited to the P6 Career Seminar](/images/ECG3.jpeg)" alt="Speakers of different occupations invited to the P6 Career Seminar" style="width:80%;">  
+<body><img src="/images/ECG3.jpeg" alt="Speakers of different occupations invited to the P6 Career Seminar" style="width:80%;">  
   
 </body>
 
@@ -88,7 +88,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ECG4.jpeg)" alt="Learning journey to Kidzania" style="width:80%;">  
+<body><img src="/images/ECG4.jpeg" alt="Learning journey to Kidzania" style="width:80%;">  
   
 </body>
 
@@ -101,7 +101,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Infusion of ECG in NE events" style="width:80%;">  
+<body><img src="/images/ECG5.png" alt="Infusion of ECG in NE events" style="width:80%;">  
   
 </body>
 

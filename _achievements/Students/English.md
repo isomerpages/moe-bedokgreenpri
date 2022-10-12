@@ -38,3 +38,41 @@ img {
 <body><img src="/images/Slide9.jpeg" alt="Zeyrian Faris Bin Mohammad Suhaimi (Primary 5 Resilient)" style="width:90%;">  
   
 </body>
+
+**_Congratulations to Zeyrian!_**
+
+**EL Debate Achievement**  
+
+Two teams comprising Primary 4, 5 and 6 students pitted their debating skills in the Primary School Debate Open (PSDO) Division 2 on 21 and 28 November. The interschool competition gave students a platform to showcase their oratorical skills. Both our teams, led by Mrs Jacinta Gomes and Mdm Nurul Huda, definitely showed confidence in delivering compelling arguments. After 4 gruelling rounds, our P6 team emerged 3rd while our P4 and P5 team emerged 7th! Isabelle Ong Hui Xien (6RPS) and Wong Tian An (6RPS) were also among the top 20 students to receive the Good Speaker Award. Congratulations to both our teams!
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xe21{background-color:#F3923E;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xe21"><span style="color:#222">Team    A</span></th>
+    <th class="tg-xe21"><span style="color:#222">Team B</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Isabelle Ong Hui Xien (6RPS) <br>Wong Tian An (6RPS) <br>Tan Jia En (6INT) <br>Caelen Lim (6RPS) <br>Chia Kia Sim (6RPS) </td>
+    <td class="tg-lygy">Kabir Srivastav (5COM) <br>Wilfred Gau Wee Kai (5COM)<br> Goh Einzy (5RSL)<br>Jessica Isabelle Clark (4COM) <br>Ampo Ayesha Khobe Centeno (4COM)</td>
+  </tr>
+</tbody>
+</table>
+
+![EL Debate Achievement](/images/Team%20A.jpeg)
+
+![EL Debate Achievement](/images/Team%20B.jpeg)
+
+![EL Debate Achievement](/images/both%20teams%20with%20teachers.jpeg)
+
+![EL Debate Achievement](/images/students%20in%20action.jpeg)

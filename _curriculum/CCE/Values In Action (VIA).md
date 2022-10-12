@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/3E%20Approach.png)" alt="3E Approach" style="width:75%;">  
+<body><img src="/images/3E%20Approach.png" alt="3E Approach" style="width:75%;">  
   
 </body>
 
@@ -32,7 +32,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Slide5.jpeg)" alt="Clean My School Day" style="width:75%;">  
+<body><img src="/images/Slide5.jpeg" alt="Clean My School Day" style="width:75%;">  
   
 </body>
 
@@ -45,7 +45,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Slide6.jpeg)" alt="P1 and P4 Buddy Programme" style="width:75%;">  
+<body><img src="/images/Slide6.jpeg" alt="P1 and P4 Buddy Programme" style="width:75%;">  
   
 </body>
 
@@ -64,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Slide7.jpeg)" alt="P3 Restroom Etiquette" style="width:75%;">  
+<body><img src="/images/Slide7.jpeg" alt="P3 Restroom Etiquette" style="width:75%;">  
   
 </body>
 
@@ -77,11 +77,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:75%;">  
+<body><img src="/images/Slide8.jpeg" alt="P6 Charity Bazaar" style="width:75%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>phrase</strong></p>
+<p style="text-align:center;"><strong>P6 Charity Bazaar</strong></p>
+
+<br>
+
+-----------
+
+<br>
 
 <style>  
 img {  

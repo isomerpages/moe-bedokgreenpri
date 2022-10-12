@@ -38,7 +38,8 @@ The Basketball team consists of a group of motivated and determined boys and gir
 Football
 --------
 
-![DSC01217.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u552/DSC01217.jpg)  
+![Football](/images/DSC01217.jpeg)
+
 Football has always been one of the most popular sports in Singapore, and the same can be said in BGPS. During CCA sessions, students are trained for both 5-a-side and 7-a-side to prepare them for the Inter-school Football Fiestas. Members also train for the 9-a-side Zonal and National tournaments at the National School Games (NSG). Besides striving to perform well in game competitions, the Football CCA also emphasises on other important life skills like teamwork and perseverance.  
   
 
@@ -47,5 +48,6 @@ Football has always been one of the most popular sports in Singapore, and the sa
 Rugby
 -----
 
-![DSC02687.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u552/DSC02687.JPG)  
+![Rugby](/images/DSC02687.jpeg)
+
 Rugby is a team sport. Often misunderstood only as a high contact physical sport, rugby play involves intelligent passing, defence splitting runs and performing well-executed tackles. This CCA aims to build maturity in players through tactical thinking, behaviour and the development of sportsmanship. External instructors are deployed to teach the students during CCA sessions. Being in a rugby team is enjoyable and helps make lifelong friendships.

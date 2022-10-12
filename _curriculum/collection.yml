@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT for Learning/BGPS Safer Internet Day.md
-      - ICT for Learning/ICT for Learning.md
       - ICT for Learning/.keep
+      - ICT for Learning/ICT for Learning.md
+      - ICT for Learning/BGPS Safer Internet Day.md
       - Character and Citizenship Education (CCE).md
       - Signature Programmes.md
       - Library Programmes.md

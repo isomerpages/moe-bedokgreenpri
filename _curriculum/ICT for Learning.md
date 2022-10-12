@@ -201,7 +201,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/NearPod.jpeg)" alt="Learning" style="width:70%;">  
+<body><img src="/images/NearPod.jpeg" alt="Nearpod" style="width:70%;">  
   
 </body>
 
@@ -212,9 +212,19 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/NearPod%202.jpeg)" alt="Learning" style="width:70%;">  
+<body><img src="/images/NearPod%202.jpeg" alt="Nearpod" style="width:70%;">  
   
 </body>
+
+<br>
+
+--------------
+
+<br>
+
+**BGPS Open Classroom**
+
+As part of the school’s efforts to nurture participatory, connected and reflective lessons with technology in every classroom, it has embarked on the The BGPS Open Classroom (OC) in 2021. It serves as a platform for teachers to collaborate in the design, enactment and review of lessons infused with technology. There are three stages in the open classroom cycle, as shown in the diagram below.
 
 <style>  
 img {  

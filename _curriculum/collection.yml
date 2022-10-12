@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - ICT for Learning.md
       - Signature Programmes.md
       - Library Programmes.md

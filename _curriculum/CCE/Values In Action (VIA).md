@@ -96,8 +96,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:75%;">  
+<body><img src="![](/images/Slide8%20(1).jpeg)" alt="Student Leaders doing VIA at Bedok Radiance Senior Activity Centre Centre" style="width:75%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>phrase</strong></p>
+<p style="text-align:center;"><strong>Student Leaders doing VIA at Bedok<br>
+Radiance Senior Activity Centre Centre</strong></p>
+
+-----------

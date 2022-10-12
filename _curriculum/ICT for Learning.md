@@ -177,7 +177,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/Flipgrade.jpeg" alt="Tech tools to enhance T&L" style="width:70%;">  
   
 </body>
 
@@ -188,7 +188,20 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/Flipgrade%202.jpeg" alt="Tech tools to enhance T&L" style="width:70%;">  
+  
+</body>
+
+Nearpod is another web-based tech tool used by teachers to make lessons more interactive whether in the classroom or virtual. Quizzes, polls, videos, live self-assessment and Collaborate Boards are some features available for use by teachers. Students can access a teacher’s presentation through a code and the teacher then moves the class through the presentation and lets students interact with the media as they go. Teachers can also opt for Student-Paced mode, where the student controls the flow of the lesson, so students feel less apprehensive and more empowered to express themselves openly, engaging more deeply with the task.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/NearPod.jpeg)" alt="Learning" style="width:70%;">  
   
 </body>
 
@@ -199,18 +212,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
-  
-</body>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="![](/images/NearPod%202.jpeg)" alt="Learning" style="width:70%;">  
   
 </body>
 

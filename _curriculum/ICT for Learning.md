@@ -54,9 +54,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="![](/images/IMG_0212.jpeg)" alt="ICT-enriched Learning Experiences" style="width:70%;">  
   
 </body>
+
+<br>
 
 <style>  
 img {  
@@ -65,9 +67,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="![](/images/IMG_0215%201.jpeg)" alt="ICT-enriched Learning Experiences" style="width:70%;">  
   
 </body>
+
+<br>
 
 <style>  
 img {  
@@ -76,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="![](/images/IMG_0216.jpeg)" alt="Learning" style="width:70%;">  
   
 </body>
 

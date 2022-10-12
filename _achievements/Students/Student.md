@@ -186,3 +186,52 @@ Aesthetics
 </table>
 
 <br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Pinnacle Award<br><span style="color:#666;background-color:#DDD">Aesthetic Excellence</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Achievements/Foo%20Si%20Ya.jpg" alt="Foo Si Ya.jpg" width="190" height="285"><br>Foo Siya (6 Resilience)</td>
+  </tr>
+  <tr>
+    <td class="tg-hp8w"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Achievements/Nur%20Qistina.jpg" alt="Nur Qistina.jpg" width="188" height="281"><br>Nur Qistina Binte Mohamed Nizam (6 Compassion) </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Pinnacle Award<br><span style="color:#666;background-color:#DDD">Leadership Excellence</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh"><img src="https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Achievements/Goh%20Einzy.JPG" alt="Goh Einzy.JPG" width="202" height="302"><br>Goh Einzy (6 Resilience)</td>
+  </tr>
+</tbody>
+</table>

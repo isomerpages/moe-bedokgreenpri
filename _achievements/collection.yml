@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Staff.md
       - Students/.keep
       - Students/Student.md
       - Students/English.md
@@ -13,3 +12,4 @@ collections:
       - Students/Character and Citizenship (CCE).md
       - Students/Aesthetics and Physical Education.md
       - Students/Edusave Character Award (ECHA) 2021.md
+      - Staff.md

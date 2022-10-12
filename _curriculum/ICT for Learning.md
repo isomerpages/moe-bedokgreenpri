@@ -236,9 +236,39 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/BGPS%20Open%20Classroom.png" alt="BGPS Open Classroom" style="width:70%;">  
   
 </body>
+
+During the lesson, observers are strategically positioned to allow them to closely monitor the students' learning. These observations are noted down and shared with the enacting teacher as part of the lesson review. Observers also monitor the levels of engagement among the students through key interactions. These include teacher to student, student to student and content to content interactions.
+
+  
+
+Through the BGPS OC experience, participants can deepen their knowledge of facilitating learning in a technology-enabled classroom and improve teaching practices by using evidence when reflecting on lessons.
+
+<br>
+
+--------------
+
+<br>
+
+**Code For Fun (Primary 5)** <br>
+BGPS recently embarked on an MOE initiated programme, Code for Fun. This programme includes learning of computational thinking concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers, to create an engaging coding experience for the students.   
+
+At the start of Term 1, our P5 students were given the opportunity to work with Sphero Bolt. They were taught to use block-based programming to program the Sphero Bolt  to complete the following tasks:
+
+1.  Light up in different colours
+    
+2.  Move around and draw shapes
+    
+3.  Repeat instruction using loop
+    
+4.  React to events using sensors
+    
+
+  
+
+At the end of this programme, we hope that the students are equipped with basic coding and computational thinking skills, and most importantly, they experience joy and interest in coding through this programme.
 
 <style>  
 img {  
@@ -250,6 +280,21 @@ img {
 <body><img src="/images" alt="Learning" style="width:70%;">  
   
 </body>
+
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images" alt="Learning" style="width:70%;">  
+  
+</body>
+
+<br>
 
 <style>  
 img {  

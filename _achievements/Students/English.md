@@ -27,3 +27,14 @@ third_nav_title: Students
 From March to April 2020, **Zeyrian Faris Bin Mohammad Suhaimi (Primary 5 Resilient)** represented the English Drama Club in the Mythos Junior Orators 2020, an online storytelling competition organised by Anglo-Chinese Junior College for primary school students. Participants had to showcase their abilities in delivering stories fluently and expressively in this competition. 
 
 They also had to engage viewers with their interpretations of the different characters. Zeyrian achieved the Top 20 Performers and the Top 5 Best Costume Awards for his rendition of **‘The Emperor’s New Clothes’**.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Slide9.jpeg" alt="Zeyrian Faris Bin Mohammad Suhaimi (Primary 5 Resilient)" style="width:90%;">  
+  
+</body>

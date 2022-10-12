@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/Values In Action (VIA).md
       - CCE/CCE Programmes.md
       - CCE/National Education Social Studies (NESS).md
       - CCE/Character and Citizenship Education (CCE).md

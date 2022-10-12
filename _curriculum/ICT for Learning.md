@@ -45,16 +45,7 @@ img {
   
 </body>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
-  
-</body>
+As the school moves towards blended learning, we emphasise on both face-to-face interaction between peers and with the teacher, as well as adopting key applications of technology to promote engagement and efficacy in learning. Varied ICT-enriched learning experiences are planned and customised to better engage students, and also better monitor and assess their learning and close learning gaps.
 
 <style>  
 img {  
@@ -77,6 +68,19 @@ img {
 <body><img src="/images" alt="Learning" style="width:70%;">  
   
 </body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images" alt="Learning" style="width:70%;">  
+  
+</body>
+
+--------------
 
 <style>  
 img {  

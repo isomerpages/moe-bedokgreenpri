@@ -277,7 +277,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/P5_BRV_3.jpeg" alt="Code For Fun (Primary 5)" style="width:70%;">  
   
 </body>
 
@@ -290,7 +290,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/P5_RES_1.jpeg" alt="Code For Fun (Primary 5)" style="width:70%;">  
   
 </body>
 
@@ -303,6 +303,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images" alt="Learning" style="width:70%;">  
+<body><img src="/images/P5_RPS_2.jpeg" alt="Code For Fun (Primary 5)" style="width:70%;">  
   
 </body>

@@ -20,3 +20,13 @@ The school would like to congratulate the following staff for attaining the awar
 ![National Day Award 2021](/images/Annotation%202021-08-16%20082025.jpeg)
 
 ![National Day Award 2021](/images/Annotation%202021-08-16%20082025%20v2.jpeg)
+
+### E-fiesta Bahasa 2021
+
+![E-fiesta Bahasa 2021](/images/Seven.jpeg)
+
+### 10th Annual Art Teachers' Exhibition 
+
+![10th Annual Art Teachers' Exhibition ](/images/Salim%20Updated.jpeg)
+
+### 

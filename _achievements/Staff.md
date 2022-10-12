@@ -29,4 +29,14 @@ The school would like to congratulate the following staff for attaining the awar
 
 ![10th Annual Art Teachers' Exhibition ](/images/Salim%20Updated.jpeg)
 
-### 
+### Innergy Award 2020 
+
+![Innergy Award 2020 ](/images/One.jpeg)
+
+### MOE Service Excellence Award 2020 
+
+![MOE Service Excellence Award 2020 ](/images/Four.jpeg)
+
+![MOE Service Excellence Award 2020 ](/images/Five.jpeg)
+
+![MOE Service Excellence Award 2020 ](/images/Six.jpeg)

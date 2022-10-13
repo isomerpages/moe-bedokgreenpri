@@ -3,16 +3,12 @@ title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
 ---
-### **Vision**
+**Vision** <br>
+To Be Analytical Thinkers and Problem Solvers
 
-#### To Be Analytical Thinkers and Problem Solvers
+## Customizing our Instructional Approach
 
-###   
-
-Customizing our Instructional Approach
---------------------------------------
-
-#### Quality Teaching & Learning in every classroom
+**Quality Teaching & Learning in every classroom**
 
 At BGPS, all Math teachers adopt the FREMC (Factual Fluency/ Readiness/ Engagement/ Mastery/ Consolidation) as a fundamental good mathematical teaching structure to guide the teaching and learning of Math for our students. 
 

@@ -27,7 +27,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="images" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
   
 </body>
 
@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="images" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
   
 </body>
 
@@ -218,7 +218,6 @@ img {
 
 <br>
 
-  
 <style>  
 img {  
   display: block;  

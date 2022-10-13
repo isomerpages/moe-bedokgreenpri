@@ -152,6 +152,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Pertandingan%20Rakan%20Bahasa.jpg" alt="Pertandingan Rakan Bahasa | Rakan Bahasa Competition" style="width:50%;">  
+<body><img src="/images/Pertandingan%20Rakan%20Bahasa.jpg" alt="Pertandingan Rakan Bahasa | Rakan Bahasa Competition" style="width:80%;">  
   
 </body>

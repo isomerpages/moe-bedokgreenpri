@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/tl4.jpeg" alt="Tamil Language" style="width:50%;">  
+<body><img src="/images/tl4.jpeg" alt="Tamil Language" style="width:70%;">  
   
 </body>
 
@@ -65,7 +65,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Tamil%20Language.jpg)" alt="Tamil Language" style="width:50%;">  
+<body><img src="/images/Tamil%20Language.jpg" alt="Tamil Language" style="width:70%;">  
   
 </body>
 

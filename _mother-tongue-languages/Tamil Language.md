@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/tl3.jpeg)" alt="Tamil Language" style="width:70%;">  
+<body><img src="/images/tl3.jpeg" alt="Tamil Language" style="width:70%;">  
   
 </body>
 
@@ -40,18 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/tl4.jpeg)" alt="Tamil Language" style="width:50%;">  
-  
-</body>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/tl4.jpeg" alt="Tamil Language" style="width:50%;">  
   
 </body>
 
@@ -69,7 +58,16 @@ img {
 
 **நீண்ட வரிகளைக்கோண்ட செய்யுள்களை மாணவர்கள் சலைக்காமல் கற்க மற்றும் மனனம் செய்ய விளையாட்டுகள் உதவியாக உள்ளன. விளையாட்டுகள் என்றாலே மாணவர்கள் மிக உற்சாகத்தோடு செயல்படுவர். குழுக்களில் நடவடிக்கைகளில் ஈடுபடும்போது பழமொழிகள் , ஆத்திச்சூடி, திருக்குறள் போன்ற செய்யுள்கள் மாணவர்களின் மனதில் பசுமரத்தானி போல் பதிகின்றன.**  
 
-![tl1.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/tl1.jpg)![tl2.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/tl2.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Tamil%20Language.jpg)" alt="Tamil Language" style="width:50%;">  
+  
+</body>
 
 #### 
 

@@ -3,20 +3,15 @@ title: Mother Tongue Languages
 permalink: /curriculum/mother-tongue-languages/
 description: ""
 ---
-### **Vision**
+**Vision** <br>
+Empowered Learners, Confident, Joyful and Proficient Communicators of the Mother Tongue Language
 
-#### Empowered Learners, Confident, Joyful and Proficient Communicators of the Mother Tongue Language
-
-  
-
-### **Mission**
-
-#### To nurture students to be effective communicators and passionate learners of their Mother Tongue Language.
+**Mission** <br>
+To nurture students to be effective communicators and passionate learners of their Mother Tongue Language.
 
 Key Programmes
 --------------
-
-#### MTL Ambassadors  
+**MTL Ambassadors**  
   
 
 Students who show capacity and passion in MT language are identified to be MTL Ambassadors so that they can be stretched beyond the curriculum in oral and written conversation.
@@ -43,7 +38,7 @@ Students who show capacity and passion in MT language are identified to be MTL A
 
 * * *
 
-#### MTL Champions  
+**MTL Champions**  
 
   
 
@@ -51,15 +46,35 @@ MTL Champions who shows leadership capacity are identified to serve the school c
 
 ![grp discussion 1.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/MTL%20Champions/grp%20discussion%201.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
+
 ![presentation 2.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/MTL%20Champions/presentation%202.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
 
 #### 
 
 * * *
 
-  
-
-#### Reading Programme
+**Reading Programme**
 
   
 

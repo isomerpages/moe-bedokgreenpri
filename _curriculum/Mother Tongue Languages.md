@@ -302,8 +302,6 @@ img {
 
 <br>
 
-![TL FILM.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/FILM%202021/TL%20FILM.PNG)  
-
 <style>  
 img {  
   display: block;  
@@ -311,7 +309,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/TL%20FILM.png)" alt="TL FILM " style="width:75%;">  
   
 </body>
 
@@ -320,8 +318,6 @@ img {
 * * *
 
 **Higher Mother Tongue&nbsp;**
-
-  
 
 The school offers Higher Mother Tongue for students who meet the criteria in Primary 5 and 6. We also offer Higher Chinese Language to selected students who shows capacity and interest in Primary 3 and 4.  
 

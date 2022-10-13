@@ -276,8 +276,6 @@ Kindly use the URL below to access FILM.
 
 <p style="text-align:center;"><strong>Winners of FILM 2021 Term 3, Activity 1<br>Congratulations to the following winners of FILM 2021 Term 3, Activity 1.</strong></p>
 
-![CL FILM.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/FILM%202021/CL%20FILM.PNG)
-
 <style>  
 img {  
   display: block;  
@@ -285,14 +283,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/CL%20FILM.png)" alt="CL FILM" style="width:75%;">  
   
 </body>
 
 <br>
 
-![ML FILM.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/FILM%202021/ML%20FILM.PNG)
-
 <style>  
 img {  
   display: block;  
@@ -300,7 +296,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/ML%20FILM.png)" alt="ML FILM" style="width:75%;">  
   
 </body>
 

@@ -48,13 +48,13 @@ img {
 
 A whole school approach to problem-solving, UC³ exposes our students to world renowned mathematician George Polya’s prescription for solving problems. As we scaffold students’ learning with this problem solving approach, opportunities are also given for students to reason, communicate and connect their learning with prior knowledge and real world problems. UC³ also provides opportunities to promote students’ thinking skills and learning through heuristics, with the aim to build confident and logical thinkers.
 
-U \- Understand the problem
+**U** \- Understand the problem
 
-C \- Choose a plan
+**C** \- Choose a plan
 
-C\- Carry out the plan
+**C**\- Carry out the plan
 
-C \- Check the solution
+**C** \- Check the solution
 
   
 

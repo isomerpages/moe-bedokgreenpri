@@ -18,8 +18,6 @@ We also stress the use of Learning Experiences, Math Manipulatives and meaningfu
 
 To further cater to the varied learning needs and interests of our students, differentiated instruction is carried out in our classrooms and students of varied profiles can be gainfully engaged within the lesson. Formative assessment is also used to monitor student progress and to ensure that learning gaps are closed in a timely manner.
 
-  
-
 <style>  
 img {  
   display: block;  
@@ -27,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
+<body><img src="![](/images/IMG_9891.jpeg)" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
   
 </body>
 
@@ -40,7 +38,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
+<body><img src="![](/images/T_L%202.jpeg)" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
   
 </body>
 

@@ -349,7 +349,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="images" alt="SHINE " style="width:75%;">  
   
 </body>
 
@@ -363,11 +363,22 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="images" alt="SHINE " style="width:75%;">  
   
 </body>
 <br>
 ![.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/SHINE/[1].jpeg)  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="SHINE " style="width:75%;">  
+  
+</body>
 
 <br>
 ![IMG-20190305-WA0012 - Copy.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/SHINE/IMG-20190305-WA0012%20-%20Copy.jpg)
@@ -379,6 +390,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="images" alt="SHINE " style="width:75%;">  
   
 </body>

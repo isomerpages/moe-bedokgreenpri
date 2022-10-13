@@ -52,7 +52,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/grp%20discussion%201.jpeg)" alt="grp discussion 1 " style="width:75%;">  
+<body><img src="/images/grp%20discussion%201.jpeg" alt="grp discussion 1 " style="width:75%;">  
   
 </body>
 
@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/presentation%202.jpeg)" alt="presentation 2 " style="width:75%;">  
+<body><img src="/images/presentation%202.jpeg" alt="presentation 2 " style="width:75%;">  
   
 </body>
 
@@ -90,7 +90,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG20200921163615.jpeg)" alt="Reading Programme" style="width:75%;">  
+<body><img src="/images/IMG20200921163615.jpeg" alt="Reading Programme" style="width:75%;">  
   
 </body>
 
@@ -103,7 +103,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Slide11.jpeg)" alt="Reading Programme" style="width:75%;">  
+<body><img src="/images/Slide11.jpeg" alt="Reading Programme" style="width:75%;">  
   
 </body>
 
@@ -117,7 +117,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Slide13.jpeg)" alt="Reading Programme" style="width:75%;">  
+<body><img src="/images/Slide13.jpeg" alt="Reading Programme" style="width:75%;">  
   
 </body>
 
@@ -130,7 +130,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Slide15.jpeg)" alt="Reading Programme" style="width:75%;">  
+<body><img src="/images/Slide15.jpeg" alt="Reading Programme" style="width:75%;">  
   
 </body>
 
@@ -143,7 +143,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Slide_7.jpeg)" alt="School " style="width:75%;">  
+<body><img src="/images/Slide_7.jpeg" alt="School " style="width:75%;">  
   
 </body>
 
@@ -156,7 +156,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/students%20enjoying%201.jpeg)" alt="School " style="width:75%;">  
+<body><img src="/images/students%20enjoying%201.jpeg" alt="School " style="width:75%;">  
   
 </body>
 
@@ -283,7 +283,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CL%20FILM.png)" alt="CL FILM" style="width:75%;">  
+<body><img src="/images/CL%20FILM.png" alt="CL FILM" style="width:75%;">  
   
 </body>
 
@@ -296,7 +296,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ML%20FILM.png)" alt="ML FILM" style="width:75%;">  
+<body><img src="/images/ML%20FILM.png" alt="ML FILM" style="width:75%;">  
   
 </body>
 
@@ -309,7 +309,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TL%20FILM.png)" alt="TL FILM " style="width:75%;">  
+<body><img src="/images/TL%20FILM.png" alt="TL FILM " style="width:75%;">  
   
 </body>
 
@@ -348,7 +348,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/58393585-0000-44b1-8ed3-0992461341dd.jpeg)" alt="SHINE" style="width:75%;">  
+<body><img src="/images/58393585-0000-44b1-8ed3-0992461341dd.jpeg" alt="SHINE" style="width:75%;">  
   
 </body>
 
@@ -361,7 +361,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG-20190305-WA0010.jpeg)" alt="SHINE " style="width:75%;">  
+<body><img src="/images/IMG-20190305-WA0010.jpeg" alt="SHINE " style="width:75%;">  
   
 </body>
 <br> 
@@ -373,7 +373,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/SHINE.jpeg)" alt="SHINE " style="width:75%;">  
+<body><img src="/images/SHINE.jpeg" alt="SHINE " style="width:75%;">  
   
 </body>
 
@@ -386,6 +386,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG-20190305-WA0012%20-%20Copy.jpeg)" alt="SHINE " style="width:75%;">  
+<body><img src="/images/IMG-20190305-WA0012%20-%20Copy.jpeg" alt="SHINE " style="width:75%;">  
   
 </body>

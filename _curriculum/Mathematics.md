@@ -139,7 +139,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="![](/images/DSC03534.jpeg)" alt="Mathematics Olympiad Competitions" style="width:70%;">  
   
 </body>
 
@@ -152,7 +152,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="![](/images/DSC03536.jpeg)" alt="Mathematics Olympiad Competitions" style="width:70%;">  
   
 </body>
 
@@ -165,7 +165,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="![](/images/DSC03538.jpeg)" alt="Mathematics Olympiad Competitions" style="width:70%;">  
   
 </body>
 

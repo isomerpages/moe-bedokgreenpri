@@ -6,7 +6,7 @@ description: ""
 **Vision** <br>
 A scientist in every student
 
-### Customising curriculum to deepen students' learning
+## Customising curriculum to deepen students' learning
 
 In nurturing and developing in students an inquiring mind, the customised Science curriculum aims to equip students with the scientific knowledge, skills and attitudes for them to enjoy and value Science as an important tool to explore and learn more deeply about the world around them.  
 
@@ -19,14 +19,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="![](/images/3E.jpeg)" alt="Expose-Enrich-Excel" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
-
-The Inquiry-Based Learning Curriculum
--------------------------------------
+## The Inquiry-Based Learning Curriculum
 
 The customised Science curriculum which is anchored on Inquiry-Based Learning (IBL) seeks to stimulate students’ curiosity and interest in the world around them by building in students a strong foundation in scientific concepts, knowledge and skills to help them in the development of reasoning and analytical skills in problem-solving and decision making. It also equips them with ethics and attitudes to engage in Science-related experiences as reflective citizens.
 
@@ -35,8 +32,6 @@ The spiral curriculum from Primary 3 to 6 are based on the themes, Diversity, Cy
 The customised Science curriculum which is anchored on Inquiry-Based Learning (IBL) seeks to stimulate students’ curiosity and interest in the world around them by building in students a strong foundation in scientific concepts, knowledge and skills to help them in the development of reasoning and analytical skills in problem-solving and decision making. It also equips them with ethics and attitudes to engage in Science-related experiences as reflective citizens.
 
 The spiral curriculum from Primary 3 to 6 are based on the themes, Diversity, Cycles, Systems, Interactions and Energy. Students explore and learn Science concepts and process skills by participating actively in differentiated learning experiences at the five stages of IBL. The stages include Engage, Explore, Explain, Elaborate and Evaluate.
-
-![See Think Wonder.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/See%20Think%20Wonder.jpg)
 
 <style>  
 img {  
@@ -45,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="![](/images/See%20Think%20Wonder.jpeg)" alt="See Think Wonder" style="width:80%;">  
   
 </body>
 

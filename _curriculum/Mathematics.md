@@ -20,15 +20,33 @@ To further cater to the varied learning needs and interests of our students, dif
 
   
 
-![IMG_9891.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Math%20Quality%20T&L/IMG_9891.JPG)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:70%;">  
+  
+</body>
+
+  <br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:70%;">  
+  
+</body>
 
   
 
-![T_L 2.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/2022%20Math%20Quality%20T&L/T_L%202.jpeg)
-
-  
-
-**UC3 Approach to Math Problem Solving**
+**UC<sup>3</sup> Approach to Math Problem Solving**
 
 A whole school approach to problem-solving, UC³ exposes our students to world renowned mathematician George Polya’s prescription for solving problems. As we scaffold students’ learning with this problem solving approach, opportunities are also given for students to reason, communicate and connect their learning with prior knowledge and real world problems. UC³ also provides opportunities to promote students’ thinking skills and learning through heuristics, with the aim to build confident and logical thinkers.
 

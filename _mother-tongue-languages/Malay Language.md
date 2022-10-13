@@ -36,11 +36,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ML3.jpeg)" alt="Darjah 2 | Bengkel Penglipur Lara" style="width:50%;">  
+<body><img src="/images/ML3.jpeg" alt="Darjah 2 | Bengkel Penglipur Lara" style="width:70%;">  
   
 </body>
-
-  
 
 Bengkel Penglipur Lara memperkenalkan murid-murid darjah 2 kepada cerita rakyat. Melalui bengkel ini, murid-murid dapat meningkatkan penggunaan Bahasa Melayu melalui pembacaan skrip dan penghayatan cerita. 
 
@@ -56,13 +54,20 @@ Selain itu, pendedahan kepada teknik-teknik bercerita membantu murid-murid untuk
 
 Poetry Recital Workshop
 
-  
-
 Sepanjang program Dwi Mingguan Bahasa Ibunda, murid-murid darjah 3 mengikuti Bengkel Mendeklamasikan Sajak. Murid-murid dikenalkan kepada seorang wira Melayu, Leftenen Adnan Bin Saidi. Melalui sajak tersebut, murid-murid mempelajari tentang pengorbanan seorang wira kepada tanah air yang tercinta.   
 
   
-
-![ML4.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/ML4.jpg)  
+  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/ML4.jpeg)" alt="Darjah 3 |Bengkel Mendeklamasikan Sajak" style="width:50%;">  
+  
+</body>
 
 Bengkel ini juga mendedahkan murid-murid kepada cara-cara mendeklamasikan sajak dan cara penghayatan sajak. Murid-murid mempelajari teknik-teknik mendeklamasikan sajak yang mampu membantu mereka untuk membuat persembahan di hadapan khalayak ramai dengan yakin dan selesa.   
 

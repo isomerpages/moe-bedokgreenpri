@@ -116,9 +116,10 @@ Ia juga menekankan pembelajaran kemahiran bahasa tertentu seperti membaca, bertu
 
 **Pertuturan dan Drama | Speech and Drama**
 
-  
+<img src="![](/images/ML6.jpeg)"  
+style="width:40%">
 
-Pe![ML6.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/ML6.jpg)mbelajaran drama menjadi satu wadah pembelajaran dan pengajaran yang menarik. Tenaga pengajar SRBG telah menerapkan kaedah yang bersistematik untuk mendedahkan pelajar-pelajar dengan kemahiran teras bertutur ini dari peringkat awal dan mengembangkannya sehingga menjadi penutur yang petah apabila berkomunikasi. 
+Pembelajaran drama menjadi satu wadah pembelajaran dan pengajaran yang menarik. Tenaga pengajar SRBG telah menerapkan kaedah yang bersistematik untuk mendedahkan pelajar-pelajar dengan kemahiran teras bertutur ini dari peringkat awal dan mengembangkannya sehingga menjadi penutur yang petah apabila berkomunikasi. 
 
   
 

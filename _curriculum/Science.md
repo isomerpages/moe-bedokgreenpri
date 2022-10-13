@@ -44,11 +44,7 @@ img {
   
 </body>
 
-<p style="text-align:center;">Dental</p>
-
-_Students See-Think-Wonder at the Engage and Explore stages_
-
-![Explain Elaborate.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Explain%20Elaborate.jpg)
+<p style="text-align:center;"><em>Students See-Think-Wonder at the Engage and Explore stages</em></p>
 
 <style>  
 img {  
@@ -57,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="![](/images/Explain%20Elaborate.jpeg)" alt="Explain Elaborate" style="width:80%;">  
   
 </body>
 

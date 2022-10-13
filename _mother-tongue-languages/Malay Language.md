@@ -65,7 +65,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ML4.jpeg)" alt="Darjah 3 |Bengkel Mendeklamasikan Sajak" style="width:50%;">  
+<body><img src="/images/ML4.jpeg" alt="Darjah 3 |Bengkel Mendeklamasikan Sajak" style="width:70%;">  
   
 </body>
 
@@ -102,7 +102,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ML5.jpeg)" alt="Program Bacaan Berstruktur | Reading Programme" style="width:50%;">  
+<body><img src="/images/ML5.jpeg" alt="Program Bacaan Berstruktur | Reading Programme" style="width:70%;">  
   
 </body>
 

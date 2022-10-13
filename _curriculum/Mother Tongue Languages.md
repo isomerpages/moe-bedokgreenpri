@@ -174,103 +174,74 @@ The MTL Fortnight activities are designed to expose students to different cultur
 
 The table below shows the different activities for each level:
 
-|   
- | Chinese Language | Malay Language | Tamil Language |
-| --- | --- | --- | --- |
-| Primary 1 | 
-(i) Tongue Twister
-
-(ii) S.T.R.E.A.M (Rocket Launcher)
-
-(iii) Introduction to Mooncake Festival
-
- | 
-
-(i) Malay Traditional Children Song (Lagu tradisional kanak-kanak)
-
-(ii) Batu Seremban
-
- | Panchathantra Kathigal |
-| Primary 2 | 
-
-(i) Nursery Rhymes
-
-(ii) Introduction to Dumpling Festival
-
-(iii) S.T.R.E.A.M (Balloon Driven Dragon Boat)
-
- | 
-
-(i) Speech and Drama - Traditional Malay Children Story (Penglipur Lara Cerita Kit)
-
-(ii) Batu Seremban
-
- | 
-
-Folk Dance
-
-Persons of Fames
-
- |
-| &nbsp;Primary 3 | 
-
-(i) Gu Zheng
-
-(ii) Learning about Hungry Ghost Festival&nbsp;
-
-(iii) S.T.R.E.A.M (Rainbow Disc)
-
- | 
-
-&nbsp;(i) Poetry/Lyrics Writing - Leftenan Adnan (Kursus Sajak)
-
-(ii) Gasing/Capteh
-
- | &nbsp;Paavayin Parvaniyil (Puppetry) |
-| Primary 4&nbsp; | 
-
-(i) Chinese Shadow Puppetry Making and Drama
-
-(ii) S.T.R.E.A.M (Puppet Theater)
-
-(iii) Peking Opera Show&nbsp;
-
- | &nbsp;(i) Hosting Workshop (Pengacara / Kem TV)  
- | Villupattu |
-| &nbsp;Primary 5 | 
-
-(i) Chinese Painting Workshop
-
-(ii) S.T.R.E.A.M (whales)&nbsp;
-
- | 
-
-(i) Debate (Bahas)
-
-(ii) Lambung Kain&nbsp;
-
- | Therukoothu&nbsp;&nbsp; |
-| &nbsp;Primary 6 | 
-
-(i) Jeopardy Game
-
-(ii) Chinese Chess
-
-(iii) S.T.R.E.A.M (Motorised Boat)
-
-(iv) River Safari Trail
-
- | (i) Melukis Batik (Batik Painting)&nbsp; | &nbsp;Parai Adital |
-
-  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6bzh{background-color:#ffffff;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fdoi{color:#081A4A;text-align:left;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ysz0{background-color:#dddddd;text-align:left;vertical-align:top}
+.tg .tg-8i02{color:#081A4A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6bzh"></th>
+    <th class="tg-feqv"><span style="font-weight:700;font-style:normal">Chinese Language</span></th>
+    <th class="tg-feqv"><span style="font-weight:700;font-style:normal">Malay Language</span></th>
+    <th class="tg-ysz0"><span style="font-weight:700;font-style:normal">Tamil Language</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fdoi">Primary 1</td>
+    <td class="tg-8i02">(i) Tongue Twister<br>(ii) S.T.R.E.A.M (Rocket Launcher)<br>(iii) Introduction to Mooncake Festival</td>
+    <td class="tg-8i02">(i) Malay Traditional Children Song (Lagu tradisional kanak-kanak)<br>(ii) Batu Seremban</td>
+    <td class="tg-fdoi">Panchathantra Kathigal</td>
+  </tr>
+  <tr>
+    <td class="tg-fdoi">Primary 2</td>
+    <td class="tg-8i02">(i) Nursery Rhymes<br>(ii) Introduction to Dumpling Festival<br>(iii) S.T.R.E.A.M (Balloon Driven Dragon Boat)</td>
+    <td class="tg-8i02">(i) Speech and Drama - Traditional Malay Children Story (Penglipur Lara Cerita Kit)<br>(ii) Batu Seremban</td>
+    <td class="tg-8i02">Folk Dance<br>Persons of Fames</td>
+  </tr>
+  <tr>
+    <td class="tg-fdoi"> Primary 3</td>
+    <td class="tg-8i02">(i) Gu Zheng<br>(ii) Learning about Hungry Ghost Festival <br>(iii) S.T.R.E.A.M (Rainbow Disc)</td>
+    <td class="tg-8i02"> (i) Poetry/Lyrics Writing - Leftenan Adnan (Kursus Sajak)<br>(ii) Gasing/Capteh</td>
+    <td class="tg-fdoi"> Paavayin Parvaniyil (Puppetry)</td>
+  </tr>
+  <tr>
+    <td class="tg-fdoi">Primary 4 </td>
+    <td class="tg-8i02">(i) Chinese Shadow Puppetry Making and Drama<br>(ii) S.T.R.E.A.M (Puppet Theater)<br>(iii) Peking Opera Show </td>
+    <td class="tg-fdoi"> (i) Hosting Workshop (Pengacara / Kem TV)<br></td>
+    <td class="tg-fdoi">Villupattu</td>
+  </tr>
+  <tr>
+    <td class="tg-fdoi"> Primary 5</td>
+    <td class="tg-8i02">(i) Chinese Painting Workshop<br>(ii) S.T.R.E.A.M (whales) </td>
+    <td class="tg-8i02">(i) Debate (Bahas)<br>(ii) Lambung Kain </td>
+    <td class="tg-fdoi">Therukoothu  </td>
+  </tr>
+  <tr>
+    <td class="tg-fdoi"> Primary 6</td>
+    <td class="tg-8i02">(i) Jeopardy Game<br>(ii) Chinese Chess<br>(iii) S.T.R.E.A.M (Motorised Boat)<br>(iv) River Safari Trail</td>
+    <td class="tg-fdoi">(i) Melukis Batik (Batik Painting) </td>
+    <td class="tg-fdoi"> Parai Adital</td>
+  </tr>
+</tbody>
+</table>
 
 Details of the respective MTL Fortnight Activities for the different language can be found in the respective MTL Fortnight newsletter below.  
 
-[MTL FT CL Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20CL%20Newsletter%202020.pdf)  
+[MTL FT CL Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20CL%20Newsletter%202020.pdf) **PDF file too big!**
 
-[MTL FT ML Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20ML%20Newsletter%202020.pdf)  
+[MTL FT ML Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20ML%20Newsletter%202020.pdf)  **PDF file too big!**
   
-[MTL FT TL Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20TL%20Newsletter%202020.pdf)  
+[MTL FT TL Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20TL%20Newsletter%202020.pdf)  **PDF file too big!**
   
 
 * * *

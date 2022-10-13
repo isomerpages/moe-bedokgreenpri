@@ -3,21 +3,16 @@ title: Malay Language
 permalink: /curriculum/mother-tongue-languages/malay-language/
 description: ""
 ---
-### Key Programmes  
+**Key Programmes**  
 
-  
+Dwi Mingguan Bahasa 2020 |Mother Tongue Language Fortnight 2020
 
-#### Dwi Mingguan Bahasa 2020 |Mother Tongue Language Fortnight 2020
-
-  
-
-#### Darjah 1 | Lagu Tradisional Kanak-kanak
+**Darjah 1 | Lagu Tradisional Kanak-kanak**
 
 Malay Traditional Childrens’ Song
 
-  
-
-![ML2.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/ML2.jpg)
+<img src="/images/ML2.jpeg"  
+style="width:40%">
 
 Bengkel ‘Lagu Kanak-kanak’ memberikan peluang kepada murid-murid Darjah 1 untuk belajar sambil berseronok. Murid-murid belajar menyanyi dan menari lagu kanak-kanak tradisional dan juga lagu kanak-kanak moden.   
 

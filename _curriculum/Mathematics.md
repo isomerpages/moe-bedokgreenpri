@@ -100,17 +100,22 @@ In alignment with the school’s direction of fostering the In-depth learning an
 
 The E2K enrichment content is guided by the Gifted Education Branch (GEB) at the Ministry. Primary 4 students are engaged in E2K modules after school and learn higher-order mathematical problem solving skills through stories and games.
 
-![IMG_9805.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/E2K/IMG_9805.JPG)
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:70%;">  
   
+</body>
 
-Mathematics Olympiad Training Programme  
-
-#### 
+**Mathematics Olympiad Training Programme**  
 
 The Mathematics Olympiad Training Programme is provided for high progress upper primary students with a special talent in Mathematics to enrich their learning. Students are equipped with a repertoire of problem-solving techniques to solve high-order and non-routine problems to hone their skills for competitions.   
 
-Mathematics Olympiad Competitions
+**Mathematics Olympiad Competitions**
 
 In order to challenge and stretch students’ mathematical potential to promote greater interest in Mathematics, the school participates in the following Mathematics Olympiads annually:
 

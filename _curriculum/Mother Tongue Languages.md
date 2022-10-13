@@ -56,8 +56,6 @@ img {
   
 </body>
 
-![presentation 2.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/MTL%20Champions/presentation%202.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -65,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/presentation%202.jpeg)" alt="presentation 2 " style="width:75%;">  
   
 </body>
 
@@ -79,11 +77,11 @@ img {
 
 The reading programme aims to develop student's interest in learning. Guided reading and reading activities are carried out. MT Champion assists teachers to carry out reading activities or competitions to encourage students to read.
 
-[Chinese Reading Programme](https://bedokgreenpri.moe.edu.sg/curriculum/mother-tongue-languages/chinese-language)
+[Chinese Reading Programme](/curriculum/mother-tongue-languages/chinese-language)
 
-[Malay Reading Programme](https://bedokgreenpri.moe.edu.sg/curriculum/mother-tongue-languages/malay-language)
+[Malay Reading Programme](/curriculum/mother-tongue-languages/malay-language)
 
-[Tamil Reading Programme](https://bedokgreenpri.moe.edu.sg/curriculum/mother-tongue-languages/tamil-language)
+[Tamil Reading Programme](/curriculum/mother-tongue-languages/tamil-language)
 
 <style>  
 img {  
@@ -92,7 +90,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/IMG20200921163615.jpeg)" alt="Reading Programme" style="width:75%;">  
   
 </body>
 
@@ -105,7 +103,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/Slide11.jpeg)" alt="Reading Programme" style="width:75%;">  
   
 </body>
 
@@ -119,7 +117,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/Slide13.jpeg)" alt="Reading Programme" style="width:75%;">  
   
 </body>
 
@@ -132,7 +130,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/Slide15.jpeg)" alt="Reading Programme" style="width:75%;">  
   
 </body>
 
@@ -145,7 +143,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/Slide_7.jpeg)" alt="School " style="width:75%;">  
   
 </body>
 
@@ -158,7 +156,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/students%20enjoying%201.jpeg)" alt="School " style="width:75%;">  
   
 </body>
 

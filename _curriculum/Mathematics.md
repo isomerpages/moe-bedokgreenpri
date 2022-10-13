@@ -205,8 +205,27 @@ In order to support the LSM students and  lift their baseline skills, further s
 For a fun and relaxed atmosphere while learning Math, the students can play simple Math games in small groups or in pairs at the Math Corner. Here, they are free to choose a Math activity and play with their friends independently.
 
   
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:70%;">  
+  
+</body>
 
-![LSM 10.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/LSM/LSM%2010.jpeg)
+<br>
 
   
-![LSM 2.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/LSM/LSM%202.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:70%;">  
+  
+</body>

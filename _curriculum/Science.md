@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/3E.jpeg)" alt="Expose-Enrich-Excel" style="width:80%;">  
+<body><img src="/images/3E.jpeg" alt="Expose-Enrich-Excel" style="width:80%;">  
   
 </body>
 
@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/See%20Think%20Wonder.jpeg)" alt="See Think Wonder" style="width:80%;">  
+<body><img src="/images/See%20Think%20Wonder.jpeg" alt="See Think Wonder" style="width:80%;">  
   
 </body>
 
@@ -53,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Explain%20Elaborate.jpeg)" alt="Explain Elaborate" style="width:80%;">  
+<body><img src="/images/Explain%20Elaborate.jpeg" alt="Explain Elaborate" style="width:80%;">  
   
 </body>
 

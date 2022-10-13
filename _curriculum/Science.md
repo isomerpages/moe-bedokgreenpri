@@ -158,13 +158,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="Sony Creative" style="width:80%;">  
+<body><img src="![](/images/Sony%20Creative.jpeg)" alt="Sony Creative" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
-
-_Showcase of innovative scientific toys at SONY Creative Toy award ceremony and a video production for eTHINK Challenge_
+<p style="text-align:center;"><em>Showcase of innovative scientific toys at SONY Creative Toy award ceremony and a video production for eTHINK Challenge</em></p>
 
 **Science Learning at Lower Primary**
 

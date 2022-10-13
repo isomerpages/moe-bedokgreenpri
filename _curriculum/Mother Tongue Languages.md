@@ -44,7 +44,6 @@ Students who show capacity and passion in MT language are identified to be MTL A
 
 MTL Champions who shows leadership capacity are identified to serve the school community. They assist the teachers to lead reading activities and help teachers in the running of internal language competition. They also promote the MT Language by designing the noticeboard in school.&nbsp;
 
-![grp discussion 1.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/MTL%20Champions/grp%20discussion%201.jpg)
 
 <style>  
 img {  
@@ -53,7 +52,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School " style="width:75%;">  
+<body><img src="![](/images/grp%20discussion%201.jpeg)" alt="grp discussion 1 " style="width:75%;">  
   
 </body>
 

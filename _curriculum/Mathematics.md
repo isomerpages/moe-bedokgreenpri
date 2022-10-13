@@ -60,19 +60,24 @@ C \- Check the solution
 
   
 
-Fostering the Joy of Learning Mathematics 
-------------------------------------------
+## Fostering the Joy of Learning Mathematics 
 
-#### Learn and Apply Math through Play (L.A.M.P)
-
-  
+**Learn and Apply Math through Play (L.A.M.P)**
 
 This programme is designed following MOE’s initiative to move beyond achieving strong academic results to instill in students the joy of learning. L.A.M.P not only helps to promote joyful learning among our students, it also provides students with greater engagement by learning Mathematical concepts through games and puzzles. 
 
 In line with the safe management measures of the last 2 years, L.A.M.P. has pivoted to become more of a classroom-based activity called BrainTeaserS or BTS. With BTS we have exposed students to real-world contexts. For instance, we have had BTS questions on the number of vaccine doses needed to vaccinate Bedok residents and seating arrangements in a restaurant according to prevailing group sizes. With BTS, our students are able to strengthen and apply their mathematical concepts in a stress-free environment and at the same time relate Math to their daily lives.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:70%;">  
   
-![IMG_0056.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/L.A.M.P/IMG_0056.JPG)  
+</body>
 
 **Interdepartmental Collaboration**  
 
@@ -80,12 +85,9 @@ It takes a village to raise a child. It is an old adage that the Mathematics Dep
 
   
 
-Nurturing Students' Interests and Talents
------------------------------------------
+## Nurturing Students' Interests and Talents
 
-#### 
-
-Excellence 2000 (E2K) Math:
+**Excellence 2000 (E2K) Math:**
 
 In alignment with the school’s direction of fostering the In-depth learning and enhancing student engagement, the Math department started the E2K Mathematics (in 2019) as an enrichment to:
 

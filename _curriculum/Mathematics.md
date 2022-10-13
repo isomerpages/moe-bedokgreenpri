@@ -105,7 +105,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="![](/images/IMG_9805.jpeg)" alt="Excellence 2000 (E2K) Math:" style="width:70%;">  
   
 </body>
 

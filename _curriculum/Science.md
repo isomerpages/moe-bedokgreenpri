@@ -82,13 +82,10 @@ Blended Learning is part of the curriculum to enrich students’ learning of Sci
 
 Students’ learning and achievement levels in Science are assessed using varied modes. Both formative and summative assessments are conducted in an on-going manner. These include performance-based assessment tasks, individual projects with self-assessment rubrics, and written assessments. Teachers provide holistic and effective feedback to individual students to help them reflect and take actions to improve their learning. 
 
-Nurturing Students' Interests and Talents
------------------------------------------
+## Nurturing Students' Interests and Talents
 
 **Level Challenges**  
 Level challenges involving real-life contexts and scientific concepts for selected topics are posed to students. The challenges provide the opportunity for students to be engaged in either individual or group problem-solving projects. They learn to be resourceful and resilient as they work on the products. Finally, they share and showcase their products to their peers to learn from one another.  
-  
-![Prototype.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Prototype.jpg)
 
 <style>  
 img {  
@@ -97,7 +94,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="![](/images/Prototype.jpeg)" alt="Prototype" style="width:80%;">  
   
 </body>
 

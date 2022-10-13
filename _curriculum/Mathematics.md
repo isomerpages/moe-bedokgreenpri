@@ -73,7 +73,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="![](/images/IMG_0056.jpeg)" alt="Learn and Apply Math through Play (L.A.M.P)" style="width:70%;">  
   
 </body>
 

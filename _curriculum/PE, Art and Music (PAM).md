@@ -96,10 +96,11 @@ PAL aims to nurture the 3Cs in students, namely Curiosity, Cooperation and Confi
 * * *
 
   
-![Slide4.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/PE%20Art%20n%20Music/Slide4.JPG)  
+![Art Highlights](/images/Slide4.jpeg)  
   
-![Slide6.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/PE%20Art%20n%20Music/Slide6.JPG)  
-![Slide5.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/PE%20Art%20n%20Music/Slide5.JPG)  
+![Art Highlights](/images/ArtSlide6.jpeg) 
+
+![Art Highlights](/images/ArtSlide5.jpeg)
   
 
 * * *

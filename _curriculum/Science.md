@@ -125,8 +125,6 @@ img {
 
 Students are introduced to various external Science competitions through school-based activities. Yearly, students who show interests and aptitude are mentored by teachers to participate in external competitions.
 
-![Buskers.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Buskers.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -134,15 +132,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="![](/images/Buskers.jpeg)" alt="Buskers" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
-
-_Young Science buskers in practice during the Science Busking Programme_
-
-_![Destination Imagination.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Destination%20Imagination.jpg)_
+<p style="text-align:center;"><em>Young Science buskers in practice during the Science Busking Programme</em></p>
 
 <style>  
 img {  
@@ -151,7 +145,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="images" alt="Destination Imagination" style="width:80%;">  
   
 </body>
 

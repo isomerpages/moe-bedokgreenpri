@@ -168,8 +168,6 @@ img {
 
 To ignite students’ interest in Science, Science learning experiences are integrated into STELLAR English Language lessons at Primary 1 and 2. Inter-departmental Learning Journeys are also conducted to introduce Science knowledge and skills as part of their early experiences to the learning of Science.
 
-![Lower P 1.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Lower%20P%201.png)
-
 <style>  
 img {  
   display: block;  
@@ -177,37 +175,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="![](/images/Science%20Learning%20at%20Lower%20Primary.jpg)" alt="Lower P1 and P2" style="width:80%;">  
   
 </body>
 
-![Lower P 2.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Lower%20P%202.png)  
+<p style="text-align:center;"><em>Lower primary students learning about diversity of living things in English Language lessons for STELLAR units on ‘Is the Wise Owl Wise?’ and ‘Owl Babies’.</em></p>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="images" alt="School" style="width:80%;">  
-  
-</body>
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-_Lower primary students learning about diversity of living things in English Language lessons for STELLAR units on ‘Is the Wise Owl Wise?’ and ‘Owl Babies’._
 
 Student Achievements
 --------------------

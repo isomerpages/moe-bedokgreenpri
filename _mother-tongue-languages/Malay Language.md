@@ -22,21 +22,23 @@ Melalui bengkel ini, murid-murid dapat meningkatkan kemahiran literasi dan juga 
 
   
 
-Bukan itu sahaja, murid-murid mempelajari tentang budaya kita dan nilai-nilai murni yang                                                                 disampaikan melalui lagu kanak-kanak. 
+Bukan itu sahaja, murid-murid mempelajari tentang budaya kita dan nilai-nilai murni yang disampaikan melalui lagu kanak-kanak. 
 
-  
-
-####   
-
-####   
-
-#### Darjah 2 | Bengkel Penglipur Lara
+**Darjah 2 | Bengkel Penglipur Lara**
 
 Traditional Malay Childrens’ Story Workshop
 
   
-
-![ML3.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/ML3.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/ML3.jpeg)" alt="Darjah 2 | Bengkel Penglipur Lara" style="width:50%;">  
+  
+</body>
 
   
 

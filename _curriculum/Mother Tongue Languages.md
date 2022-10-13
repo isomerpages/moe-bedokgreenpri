@@ -274,8 +274,7 @@ Kindly use the URL below to access FILM.
 
 [Tamil Language](http://go.gov.sg/tlfilm2021)
 
-**Winners of FILM 2021 Term 3, Activity 1  
-Congratulations to the following winners of FILM 2021 Term 3, Activity 1.**
+<p style="text-align:center;"><strong>Winners of FILM 2021 Term 3, Activity 1<br>Congratulations to the following winners of FILM 2021 Term 3, Activity 1.</strong></p>
 
 ![CL FILM.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/FILM%202021/CL%20FILM.PNG)
 

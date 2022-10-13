@@ -211,7 +211,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="![](/images/LSM%2010.jpeg)" alt="Learning Support in Mathematics" style="width:70%;">  
   
 </body>
 
@@ -224,6 +224,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:70%;">  
+<body><img src="![](/images/LSM%202.jpeg)" alt="Learning Support in Mathematics" style="width:70%;">  
   
 </body>

@@ -149,11 +149,7 @@ img {
   
 </body>
 
-<p style="text-align:center;">Dental</p>
-
-_Destination Imagination where students soar in their imagination and innovation_
-
-_![Sony Creative.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Sony%20Creative.jpg)_
+<p style="text-align:center;"><em>Destination Imagination where students soar in their imagination and innovation</em></p>
 
 <style>  
 img {  
@@ -162,7 +158,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="images" alt="Sony Creative" style="width:80%;">  
   
 </body>
 

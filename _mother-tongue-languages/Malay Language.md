@@ -94,8 +94,17 @@ Sejajar dengan objektif yang dinyatakan di atas, Program Bacaan Berstruktur juga
 Dengan menggunakan wadah SLS, Program Bacaan Berstruktur juga telah menerapkan Pembelajaran Kendiri sebagai sebahagian daripada strategi pengajaran.  
 
   
-
-![ML5.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/ML5.jpg)  
+  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/ML5.jpeg)" alt="Program Bacaan Berstruktur | Reading Programme" style="width:50%;">  
+  
+</body>
 
   
 

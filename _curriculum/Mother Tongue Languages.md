@@ -56,6 +56,8 @@ img {
   
 </body>
 
+<br>
+
 <style>  
 img {  
   display: block;  

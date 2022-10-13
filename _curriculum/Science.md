@@ -57,11 +57,7 @@ img {
   
 </body>
 
-<p style="text-align:center;">Dental</p>
-
-_Students carry out experiments to build conceptual understanding at Explain and Elaborate stages._
-
-_![Evaluate.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Evaluate.jpg)_
+<p style="text-align:center;"><em>Students carry out experiments to build conceptual understanding at Explain and Elaborate stages.</em></p>
 
 <style>  
 img {  
@@ -70,13 +66,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="images" alt="Evaluate" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
-
-_Students articulate scientific concepts learnt in various modes at the Evaluate stage._
+<p style="text-align:center;"><em>Students articulate scientific concepts learnt in various modes at the Evaluate stage.</em></p>
 
 **Blended Learning**
 

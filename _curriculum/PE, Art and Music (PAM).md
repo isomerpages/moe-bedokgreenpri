@@ -3,73 +3,53 @@ title: PE, Art and Music (PAM)
 permalink: /curriculum/pe-art-and-music-pam/
 description: ""
 ---
-### **Vision**
+**Vision** <br>
+Healthy body, fit-for-life &amp; every child engaged in the visual and performing arts
 
-#### Healthy body, fit-for-life &amp; every child engaged in the visual and performing arts
-
-  
-
-  
-
-### **Mission**
-
-  
+**Mission** <br>
 Provide a comprehensive and balanced programme to help students develop a sound mind and healthy body and cultivate a life-long appreciation for the Arts
 
   
 
-Key Programmes
+### Key Programmes
 --------------
 
-#### **The PE Programmes**
-
+**The PE Programmes** <br>
 The PE programme is tailored to equip students with the essential skills, knowledge and attitudes necessary for them to enjoy an active and healthy lifestyle.
 
 In view of achieving the above objectives, various strategies are incorporated through the PE syllabus during lessons.
 
 The strategies are nurturing and encourages fair play and teamwork during PE lessons and CCA sessions; debrief sessions after lessons where good values are given praise; grouping of students of different ability, gender and race; student self-officiating of games under teachers’ supervision; educating students on the need to follow rules and regulations to be enforced in a game and providing opportunities for group work, for example, planning, creating and performing a routine for learning areas of dance and gymnastics.
 
-**Pre-Assembly Morning Exercises  
-**Students participate in weekly pre-assembly exercise programme, led by student volunteers and teachers from the PE Committee. Such programmes provide additional platforms for our students to cultivate and engage in daily physical activities.
+**Pre-Assembly Morning Exercises** <br>
+Students participate in weekly pre-assembly exercise programme, led by student volunteers and teachers from the PE Committee. Such programmes provide additional platforms for our students to cultivate and engage in daily physical activities.
 
 The school also organizes other forms of physical activities for selected level of students before morning assembly as we believe activities as such positively impacts the brain and improves cognition, mood, attention and academic achievement in students.
 
-* * *
-
-**Inter-Class Games  
-**We believe inter-class games helps to promote greater participation in physical activities among students. At BGPS, we ensure maximum participation rate by ensuring all students take part during the planned activity.
+**Inter-Class Games** <br>
+We believe inter-class games helps to promote greater participation in physical activities among students. At BGPS, we ensure maximum participation rate by ensuring all students take part during the planned activity.
 
 Class Achievement certificates and Sportsmanship certificates are also awarded during the games as we hope students will continue to strive for excellence during sporting games, and able to demonstrate sportsmanship at the same time.
 
-![Slide1.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/PE%20Art%20n%20Music/Slide1.JPG)  
+![Inter-Class Games](/images/Slide1.jpeg)
 
   
 
 * * *
 
-#### 
+**SwimSafer Programme**
 
-#### **SwimSafer Programme**
-
-The school organizes the SwimSafer Programme at Heartbeat @ ActiveSG Swimming Complexes for students during curriculum time. The objectives of the programme were to allow students to learn basic swimming techniques or basic survival skills in water, water confidence and aspects of water safety.&nbsp;  
-
-#### 
+The school organizes the SwimSafer Programme at Heartbeat @ ActiveSG Swimming Complexes for students during curriculum time. The objectives of the programme were to allow students to learn basic swimming techniques or basic survival skills in water, water confidence and aspects of water safety.&nbsp;   
 
 * * *
 
-#### 
-
-#### **P4 Experience Camp**
+**P4 Experience Camp**
 
 Since 2019, the school conducts a two-day day camp with our Primary 4 level students. The objectives of&nbsp;Experience Camp&nbsp;include developing students’ outdoor camping skills like tent-building and outdoor cooking. Through these learning experiences, we hope our students will be able to build greater responsibility and learn to be resilient in the process. Team-building activities are also organized during the programme by our PE department teachers, aim to develop a better sense of team spirit.
 
 * * *
 
-####   
-
-#### **P5 Adventure Camp**
-
-#### 
+**P5 Adventure Camp**
 
 At the&nbsp;_P5 Adventure Camp_, our students get to experience a 3D2N camp at one of our MOE Outdoor Adventure Learning Centres in Singapore. The school has taken a spiralled approach when planning the activities at this camp such that students will be exposed to higher levels of outdoor activities like zip-line, abseiling and high element obstacle course. The objectives of this programme focus on developing our students as independent individuals, building resilience as they learn to overcome challenges in times of difficulties faced.  
 

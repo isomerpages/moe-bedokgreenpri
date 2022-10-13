@@ -20,11 +20,44 @@ description: ""
 
 ![tl3.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/tl3.jpg)  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 மாணவர்கள உற்சாகத்துடனும் தன்னம்பிக்கையுடனும் தமிழ் மொழியை கற்க எங்கள் பள்ளியில் கற்றலும் கற்பித்தலும் இன்றியமையாதவை. இதில் கணினி வழி கற்றலுக்கும் ஒரு முக்கிய பங்குண்டு.   
 
   
 
 ![tl4.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/tl4.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
   
 

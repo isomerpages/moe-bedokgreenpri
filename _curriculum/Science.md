@@ -98,17 +98,14 @@ img {
   
 </body>
 
-<p style="text-align:center;">Dental</p>
+<p style="text-align:center;"><em>Prototype testing and sharing of ideas and getting feedback from others to improve design are part of the process of the level challenges.</em></p>
 
-_Prototype testing and sharing of ideas and getting feedback from others to improve design are part of the process of the level challenges._
 
 **Excellence 2000 (E2K) Science**
 
 The programme is a 2-year Science enrichment programme for Primary 4 students who demonstrate interest and ability in Science. The programme aims to develop scientific inquiry process skills among high-ability primary students in Science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
 Students learn Science by going through the same process that scientists use to generate knowledge in Science. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
-
-![UV light.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/UV%20light.jpg)
 
 <style>  
 img {  
@@ -117,13 +114,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="School" style="width:80%;">  
+<body><img src="![](/images/UV%20light.jpeg)" alt="UV light" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
+<p style="text-align:center;"><em>Students exploring the effects of UV light on different types of liquids</em></p>
 
-_Students exploring the effects of UV light on different types of liquids_
 
 **Participation in External Competitions**
 

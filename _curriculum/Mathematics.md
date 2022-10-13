@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG_9891.jpeg)" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
+<body><img src="/images/IMG_9891.jpeg" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
   
 </body>
 
@@ -38,7 +38,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/T_L%202.jpeg)" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
+<body><img src="/images/T_L%202.jpeg" alt="Quality Teaching & Learning in every classroom" style="width:70%;">  
   
 </body>
 
@@ -73,7 +73,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG_0056.jpeg)" alt="Learn and Apply Math through Play (L.A.M.P)" style="width:70%;">  
+<body><img src="/images/IMG_0056.jpeg" alt="Learn and Apply Math through Play (L.A.M.P)" style="width:70%;">  
   
 </body>
 
@@ -105,7 +105,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/IMG_9805.jpeg)" alt="Excellence 2000 (E2K) Math:" style="width:70%;">  
+<body><img src="/images/IMG_9805.jpeg" alt="Excellence 2000 (E2K) Math:" style="width:70%;">  
   
 </body>
 
@@ -140,7 +140,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/DSC03534.jpeg)" alt="Mathematics Olympiad Competitions" style="width:70%;">  
+<body><img src="/images/DSC03534.jpeg" alt="Mathematics Olympiad Competitions" style="width:70%;">  
   
 </body>
 
@@ -153,7 +153,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/DSC03536.jpeg)" alt="Mathematics Olympiad Competitions" style="width:70%;">  
+<body><img src="/images/DSC03536.jpeg" alt="Mathematics Olympiad Competitions" style="width:70%;">  
   
 </body>
 
@@ -166,7 +166,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/DSC03538.jpeg)" alt="Mathematics Olympiad Competitions" style="width:70%;">  
+<body><img src="images/DSC03538.jpeg" alt="Mathematics Olympiad Competitions" style="width:70%;">  
   
 </body>
 
@@ -179,7 +179,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/DSC03540.jpeg)" alt="School" style="width:70%;">  
+<body><img src="/images/DSC03540.jpeg" alt="School" style="width:70%;">  
   
 </body>
 
@@ -211,7 +211,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/LSM%2010.jpeg)" alt="Learning Support in Mathematics" style="width:70%;">  
+<body><img src="/images/LSM%2010.jpeg" alt="Learning Support in Mathematics" style="width:70%;">  
   
 </body>
 
@@ -224,6 +224,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/LSM%202.jpeg)" alt="Learning Support in Mathematics" style="width:70%;">  
+<body><img src="/images/LSM%202.jpeg" alt="Learning Support in Mathematics" style="width:70%;">  
   
 </body>

@@ -87,11 +87,11 @@ It takes a village to raise a child. It is an old adage that the Mathematics Dep
 
 **Excellence 2000 (E2K) Math:**
 
-In alignment with the school’s direction of fostering the In-depth learning and enhancing student engagement, the Math department started the E2K Mathematics (in 2019) as an enrichment to:
+In alignment with the school’s direction of fostering the <u><em>In-depth learning and enhancing student engagement</em></u>, the Math department started the E2K Mathematics (in 2019) as an enrichment to:
 
-*   Develop high ability math learners (HAL) in BGPS in their mathematical reasoning skills and deepen conceptual understanding through an inquiry approach
+*   Develop high ability math learners (HAL) in BGPS in their mathematical reasoning skills and deepen conceptual understanding through an <u><em>inquiry approach</em></u>
     
-*   Promote joy in learning and greater engagement by learning math concepts through story, games and puzzles
+*   Promote <u><em>joy in learning</em></u> and <u><em>greater engagement</em></u> by learning math concepts through story, games and puzzles
     
 *   Develop habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies (21CC) such as critical and inventive thinking and effective communication skills.
     

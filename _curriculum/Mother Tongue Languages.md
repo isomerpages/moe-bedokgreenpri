@@ -311,17 +311,52 @@ Congratulations to the following winners of FILM 2021 Term 3, Activity 1.**
 
 ![CL FILM.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/FILM%202021/CL%20FILM.PNG)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
+
+<br>
+
 ![ML FILM.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/FILM%202021/ML%20FILM.PNG)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
+
+<br>
+
 ![TL FILM.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/FILM%202021/TL%20FILM.PNG)  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
 
 #### 
 
 * * *
 
-  
-
-#### Higher Mother Tongue&nbsp;
+**Higher Mother Tongue&nbsp;**
 
   
 
@@ -329,9 +364,7 @@ The school offers Higher Mother Tongue for students who meet the criteria in Pri
 
 * * *
 
-  
-
-#### SHINE&nbsp;
+**SHINE&nbsp;**
 
   
 
@@ -349,6 +382,44 @@ Through various internal competitions, students deepen their interest in the lea
 
   
 ![58393585-0000-44b1-8ed3-0992461341dd.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/SHINE/58393585-0000-44b1-8ed3-0992461341dd.jpg)  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
+
+<br>
 ![IMG-20190305-WA0010.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/SHINE/IMG-20190305-WA0010.jpg)  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
+<br>
 ![.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/SHINE/[1].jpeg)  
+
+<br>
 ![IMG-20190305-WA0012 - Copy.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/SHINE/IMG-20190305-WA0012%20-%20Copy.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>

@@ -278,11 +278,7 @@ Details of the respective MTL Fortnight Activities for the different language ca
 
 * * *
 
-  
-
-#### Speech and Drama
-
-  
+**Speech and Drama**
 
 To build the students' confidence and desire in speaking the Mother Tongue Language, P1 and P2 students are exposed to Speech and Drama lessons. Students develop their fluency and proficiency in oracy skills, using sentence structure and vocabulary through role-playing and acting. They are given opportunities to present and develop their confidence in speaking in the Mother Tongue language in a fun and authentic way.&nbsp;  
 
@@ -294,9 +290,7 @@ To build the students' confidence and desire in speaking the Mother Tongue Langu
 
 * * *
 
-  
-
-#### FILM (Fun in Learning Mother Tongue)
+**FILM (Fun in Learning Mother Tongue)**
 
   
 

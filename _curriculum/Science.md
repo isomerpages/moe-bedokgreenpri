@@ -3,18 +3,27 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-### **Vision** 
+**Vision** <br>
+A scientist in every student
 
-#### A scientist in every student
-
-Customising curriculum to deepen students' learning
----------------------------------------------------
+### Customising curriculum to deepen students' learning
 
 In nurturing and developing in students an inquiring mind, the customised Science curriculum aims to equip students with the scientific knowledge, skills and attitudes for them to enjoy and value Science as an important tool to explore and learn more deeply about the world around them.  
 
 The customised Science curriculum together with the other programmes, are aligned with the school’s teaching and learning approach, Expose-Enrich-Excel. Adopting the approach, the school not only engages students in acquiring core knowledge, skills and values, but also enriches their learning through application of scientific concepts and skills, and nurtures students’ interests and talents in the area of Science. It is contextualised into the Science curriculum as shown in the table and diagram below.
 
-![3E.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/3E.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
 
 The Inquiry-Based Learning Curriculum
 -------------------------------------
@@ -29,13 +38,52 @@ The spiral curriculum from Primary 3 to 6 are based on the themes, Diversity, Cy
 
 ![See Think Wonder.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/See%20Think%20Wonder.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
 _Students See-Think-Wonder at the Engage and Explore stages_
 
 ![Explain Elaborate.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Explain%20Elaborate.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
 _Students carry out experiments to build conceptual understanding at Explain and Elaborate stages._
 
 _![Evaluate.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Evaluate.jpg)_
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
 
 _Students articulate scientific concepts learnt in various modes at the Evaluate stage._
 
@@ -57,6 +105,19 @@ Level challenges involving real-life contexts and scientific concepts for select
   
 ![Prototype.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Prototype.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
 _Prototype testing and sharing of ideas and getting feedback from others to improve design are part of the process of the level challenges._
 
 **Excellence 2000 (E2K) Science**
@@ -67,6 +128,19 @@ Students learn Science by going through the same process that scientists use to 
 
 ![UV light.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/UV%20light.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
 _Students exploring the effects of UV light on different types of liquids_
 
 **Participation in External Competitions**
@@ -75,13 +149,52 @@ Students are introduced to various external Science competitions through school-
 
 ![Buskers.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Buskers.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
 _Young Science buskers in practice during the Science Busking Programme_
 
 _![Destination Imagination.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Destination%20Imagination.jpg)_
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
 _Destination Imagination where students soar in their imagination and innovation_
 
 _![Sony Creative.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Sony%20Creative.jpg)_
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
 
 _Showcase of innovative scientific toys at SONY Creative Toy award ceremony and a video production for eTHINK Challenge_
 
@@ -89,8 +202,31 @@ _Showcase of innovative scientific toys at SONY Creative Toy award ceremony and 
 
 To ignite students’ interest in Science, Science learning experiences are integrated into STELLAR English Language lessons at Primary 1 and 2. Inter-departmental Learning Journeys are also conducted to introduce Science knowledge and skills as part of their early experiences to the learning of Science.
 
-![Lower P 1.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Lower%20P%201.png)![Lower P 2.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Lower%20P%202.png)  
+![Lower P 1.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Lower%20P%201.png)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
+
+![Lower P 2.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/Science/Lower%20P%202.png)  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School" style="width:80%;">  
+  
+</body>
   
 
   

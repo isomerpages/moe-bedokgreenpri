@@ -86,18 +86,82 @@ The reading programme aims to develop student's interest in learning. Guided rea
 
 [Tamil Reading Programme](https://bedokgreenpri.moe.edu.sg/curriculum/mother-tongue-languages/tamil-language)
 
-![IMG20200921163615.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Reading%20Programme/IMG20200921163615.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
 
-![Slide11.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Reading%20Programme/Slide11.JPG)
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
+
+<br>
 
   
-![Slide13.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Reading%20Programme/Slide13.JPG)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
 
-![Slide15.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Reading%20Programme/Slide15.JPG)
+<br>
 
-![Slide7.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Reading%20Programme/Slide7.JPG)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
 
-![students enjoying 1.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Reading%20Programme/students%20enjoying%201.jpeg)
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
+
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="images" alt="School " style="width:75%;">  
+  
+</body>
 
 #### 
 

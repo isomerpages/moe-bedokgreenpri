@@ -116,8 +116,8 @@ Ia juga menekankan pembelajaran kemahiran bahasa tertentu seperti membaca, bertu
 
 **Pertuturan dan Drama | Speech and Drama**
 
-<img src="![](/images/ML6.jpeg)"  
-style="width:40%">
+<img src="/images/ML6.jpeg"  
+style="width:30%">
 
 Pembelajaran drama menjadi satu wadah pembelajaran dan pengajaran yang menarik. Tenaga pengajar SRBG telah menerapkan kaedah yang bersistematik untuk mendedahkan pelajar-pelajar dengan kemahiran teras bertutur ini dari peringkat awal dan mengembangkannya sehingga menjadi penutur yang petah apabila berkomunikasi. 
 
@@ -145,8 +145,13 @@ Kami berbesar hati apabila dua pelajar kami, Aqil Haziq bin Mohammad dari P5 Res
 
 Mereka harus menyelesaikan beberapa misi seperti yang dinyatakan dalam Kad Aktiviti Kembara. Antara aktiviti tersebut ialah berkongsi berita dalam Bahasa Melayu kepada rakan mereka, menghadiri acara Bahasa dan Sastera Melayu secara kendiri dan bersama keluarga, membuat ulasan buku dan juga membuat kajian megenai monumen bersejarah di Singapura.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Pertandingan%20Rakan%20Bahasa.jpg" alt="Pertandingan Rakan Bahasa | Rakan Bahasa Competition" style="width:50%;">  
   
-
-![ML8.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/ML8.jpg)
-
-![ML7.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/ML7.jpg)
+</body>

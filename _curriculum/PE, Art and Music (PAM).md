@@ -53,33 +53,16 @@ Since 2019, the school conducts a two-day day camp with our Primary 4 level stud
 
 At the&nbsp;_P5 Adventure Camp_, our students get to experience a 3D2N camp at one of our MOE Outdoor Adventure Learning Centres in Singapore. The school has taken a spiralled approach when planning the activities at this camp such that students will be exposed to higher levels of outdoor activities like zip-line, abseiling and high element obstacle course. The objectives of this programme focus on developing our students as independent individuals, building resilience as they learn to overcome challenges in times of difficulties faced.  
 
-![PE  (3).JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/PE%20Art%20n%20Music/PE%20%20(3).JPG)  
-
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
+![P5 Adventure Camp](/images/PE%20%20(3).jpeg)
 
 * * *
-
   
-
-####   
-BGPS Active Recess and Empowered Kidz Programme
+**BGPS Active Recess and Empowered Kidz Programme**
 
 Bedok Green Primary School has adopted the Holistic Health Framework (HHF) which was introduced to broaden health promotion beyond obesity and fitness management by embracing the total well-being for student and developing their intrinsic motivation to lead a healthy lifestyle. This programme aims to provide an additional platform for our students to extend their learning from the skills learnt during PE lessons through planned daily recess activities. Students who require more support with engagement in physical activities are also encouraged to participate. The school PE department also plans and organizes&nbsp;_Learn-to-Play_&nbsp;activities, implemented together with HPB’s&nbsp;_Active Youth Recharge_&nbsp;programme, to assist targeted students’ in cultivating a healthier lifestyle.
 
   
-![Slide2.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/PE%20Art%20n%20Music/Slide2.JPG)
-
-###   
+![BGPS Active Recess and Empowered Kidz Programme](/images/Slide2.jpeg)   
 
 #### Sports Day and Lower Primary Sports Day
 

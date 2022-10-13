@@ -145,7 +145,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="images" alt="Destination Imagination" style="width:80%;">  
+<body><img src="![](/images/Destination%20Imagination.jpeg)" alt="Destination Imagination" style="width:80%;">  
   
 </body>
 

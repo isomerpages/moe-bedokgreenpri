@@ -8,8 +8,6 @@ For students, a culture of care is the essential bedrock of a conducive learning
 To support the well-being of students with special learning and behavioural needs, the Stage Model Intervention referral system - a structured system to guide teachers on the steps to refer students with additional needs for different types of support - was introduced. For students who show early signs of learning or behhavioural issues, the school provides targeted tiered support such as Learning Support Programme, Learning Support for Maths, or Reading Remediation Programme. For students where learning or behavioural issues continue to be a persistent difficulty, 1 to 1 withdrawal sessions or even withdrawal sessions or even referral to external professional agencies are explored. The school also embarked on a Social Skills and Peer Support Programme to enhance student capabilities in managing their personal competencies, as well as to assist to provide support in the regulation of their peers.  
   
 Student well-being in BGPS is overseen by the Student Development Team (SDT), which comprises of the School Leaders, the Head of Dept of CCE, the Year Heads and Asst Year Heads. In addition to catering to students' well-being, the team also provide support and guidance to teachers in the respective levels, and also work closely with them in support of our children.   
-  
-![SDT1.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/SDT1.jpg)  
 
 <style>  
 img {  
@@ -18,13 +16,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/SDT1.jpeg)" alt="SDT1" style="width:75%;">  
   
 </body>
 
 Under the physical well-being, the school looks into various aspects, such as student safety, proper nutrition, ensuring good physical health and also into the financial needs of the students.   
   
-![SDT2.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/SDT2.jpg)  
 <style>  
 img {  
   display: block;  
@@ -32,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/SDT2.jpeg)" alt="SDT2" style="width:75%;">  
   
 </body>
 
@@ -61,7 +58,7 @@ We also have the Active Recess Programme, where physical activities are designed
   
 In addition, we also have annual school-wide sports events such as the Kampung Olympics and lower primary games day where students, parents and staff are all encouraged to participate to lead an active lifestyle.  
   
-![Physical Health.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/Physical%20Health.jpg)  
+![.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/Physical%20Health.jpg)  
 
 <style>  
 img {  
@@ -70,7 +67,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/Physical%20Health.jpeg)" alt="Physical Health" style="width:50%;">  
   
 </body>
 

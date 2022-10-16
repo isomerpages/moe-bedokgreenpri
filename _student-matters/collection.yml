@@ -2,6 +2,7 @@ collections:
   student-matters:
     output: true
     order:
+      - Home Based Learning/Home based Learning.md
       - Home Based Learning/.keep
       - Discipline.md
       - Student Leadership & Development.md

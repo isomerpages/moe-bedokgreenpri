@@ -38,8 +38,6 @@ Students physical well-being is catered for by ensuring student safety in school
 In terms of student safety, SLs and KPs constantly speak to the students about physical safety during morning and weekly assemblies, e.g. briefings on precautions for Dengue, Haze, Safety in school and Road Safety. Throughout the year, school staff are deployed to different areas to monitor safety of students when playing to minimise accident occurrence. Students underwent to the emergency evacuation exercise for crisis preparedness and attended assembly talk on road safety.  
   
 To ensure that our students have proper nutrition, our school also embarked on the Healthy Meals School Programme, where we ensure that all food served and sold in the school cafeteria is wholesome, healthy and balanced. In addition, breakfast and food is also provided for our students with financial difficulty, to ensure that they have proper nutrition to support their growth.  
-  
-![Proper Nutrition.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/Proper%20Nutrition.jpg)  
 
 <style>  
 img {  
@@ -48,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/Proper%20Nutrition.jpeg)" alt="Proper Nutrition" style="width:75%;">  
   
 </body>
   
@@ -74,8 +72,6 @@ img {
 In terms of financial needs, students whose families face financial difficulties can apply for financial assistance. Upon approval, our students will be provided with materials (uniform, transport vouchers etc) to help them meet their basic needs. This allows them to have a peace of mind, and to be able to focus better in school rather than get distracted by financial issues faced at home.   
   
 Our FAS students are also given full subsidies for every enrichment programme to supplement out-of-pocket expenses.  
-   
-![SDT3.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/SDT3.jpg)  
 
 <style>  
 img {  
@@ -84,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/SDT3.jpeg)" alt="SDT3" style="width:75%;">  
   
 </body>
 
@@ -92,7 +88,6 @@ Students' cognitive development is catered for by ensuring that appropriate supp
   
 In addition, we also provide authentic learning experiences for our students to generate greater interests and joy of learning, and to allow them to contextualise the knowledge they've learnt. Enrichment activities like our LLP - STRIVE@BGPS, aesthetics-related programmes and post-exam acitivities (PEAs) also help develop students' intellectual abilities beyond the core curriculum. The school also ensures that the school environment is conducive for teaching and learning of all our students.  
   
-![SDT4.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/SDT4.jpg)  
 
 <style>  
 img {  
@@ -101,13 +96,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/SDT4.jpeg)" alt="SDT4" style="width:50%;">  
   
 </body>
 
 Students' emotional well-being is catered for by ensuring that a culture of care is prevalent in the classroom and also at the school level. The school provides many platforms and resources for the building of culture of care.  
-  
-![BGPS Building Culture of Care.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/BGPS%20Building%20Culture%20of%20Care[1].jpg)  
 
 <style>  
 img {  
@@ -116,7 +109,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/BGPS%20Building%20Culture%20of%20Care.jpeg)" alt="BGPS Building Culture of Care" style="width:50%;">  
   
 </body>
   
@@ -133,8 +126,7 @@ Under SEAIP - Strategies to Ensure More Attention to Individual Pupil Developmen
 In terms of managing themselves and their relationship with others, the school also has the CCE platforms (character and citizenship education) for students to learn about managing themselves and their relationship with peers, and a lot of resources to cue them into good social behaviour and skills.  
   
 Of course, outdoor education platforms are good opportunities to inculcate values and social-emotional competencies in our students. So we have the STRIVE programme, which we mentioned earlier on, and also level camps etc.   
-  
-![Level Camp C.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/Level%20Camp%20C.png)  
+![Level Camp C](/images/Level%20Camp%20C.png)
   
 As part of the school's emphasis on holistic development of all our students, and the system-wide shift away from over-emphasis from exams and grades to focusing on life-long learning and joy of learning, the school has done away with weighted examinations for P1 to P3 levels (and use bite-size, non-weighted formative assessment modes to determine level of readiness for students), and going forward, working towards extending to other selected levels.  
   

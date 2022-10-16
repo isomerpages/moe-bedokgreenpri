@@ -10,9 +10,9 @@ BGPS believes that enforcing good discipline is part of the school's responsibil
 
 ####   
 
-#### Whole School Approach
+#### 
 
-  
+<p style="text-align:center;"><strong>Whole School Approach</strong></p>  
 
 ![Principle.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/CCE/Principle.png)
 

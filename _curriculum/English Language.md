@@ -3,22 +3,26 @@ title: English Language
 permalink: /curriculum/english-language/
 description: ""
 ---
-### **Vision**
+**Vision** <br>
+Every Child, An Effective Communicator
 
-#### Every Child, An Effective Communicator
+  **Mission**  <br>
+	To nurture critical readers, creative writers and confident speakers
 
+### Key Programmes
+
+**STELLAR Curriculum for P1 to P6**  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/STELLAR%20Curriculum.png)" alt="STELLAR Curriculum for P1 to P6" style="width:70%;">  
   
-
-### **Mission** 
-
-#### To nurture critical readers, creative writers and confident speakers
-
-Key Programmes
---------------
-
-#### **STELLAR Curriculum for P1 to P6**  
-
-#### ![Slide1.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Slide1.PNG)
+</body>
 
 The overarching aim of the EL Syllabus 2020 is to **develop effective and affective language use in the students.** The school adopts the STrategies for English Language Learning And Reading (STELLAR) which aims to strengthen the students’ foundation in literacy skills through a variety of learner-centred and developmentally appropriate pedagogical approaches using Big Books and authentic children’s text.  
 

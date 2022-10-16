@@ -191,7 +191,16 @@ Confident Communicators
 
  **Our BGPS Debaters & Scrabblers**
 
-![Our BGPS Debaters and Scrabblers](/images/Our%20BGPS%20Debaters%20and%20Scrabblers.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Our%20BGPS%20Debaters%20and%20Scrabblers.jpeg" alt="Our BGPS Debaters and Scrabblers" style="width:70%;">  
+  
+</body>
 
 Selected students were exposed to what debate is about. They learn structures on how to create speeches for Propositions and Oppositions. During the workshops, students take part in mini debates. Through this process, teachers managed to identify potential debaters for the school team. In 2019, we won the 2nd and 5th place Best Speaker Awards in the Primary School Open Debate (Division 2).
 
@@ -207,48 +216,52 @@ From March to April 2020, **Zeyrian Faris Bin Mohammad Suhaimi (Primary 5 Resil
 
 They also had to engage viewers with their interpretations of the different characters. Zeyrian achieved the Top 20 Performers and the Top 5 Best Costume Awards for his rendition of **‘The Emperor’s New Clothes’.** 
 
-![Zeyrian Faris.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Zeyrian%20Faris.PNG)
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Zeyrian%20Faris.png" alt="Zeyrian Fari" style="width:70%;">  
   
-Congratulations to Zeyrian!  
+</body>
+
+<p style="text-align:center;">Congratulations to Zeyrian!</p>
+  
 
   
 
 * * *
 
-EL Debate Achievement 
-----------------------
+### EL Debate Achievement 
 
 Two teams comprising Primary 4, 5 and 6 students pitted their debating skills in the Primary School Debate Open (PSDO) Division 2 on 21 and 28 November. The interschool competition gave students a platform to showcase their oratorical skills. Both our teams, led by Mrs Jacinta Gomes and Mdm Nurul Huda, definitely showed confidence in delivering compelling arguments. After 4 gruelling rounds, our P6 team emerged 3rd while our P4 and P5 team emerged 7th! Isabelle Ong Hui Xien (6RPS) and Wong Tian An (6RPS) were also among the top 20 students to receive the Good Speaker Award. Congratulations to both our teams! 
 
   
-
-| 
-#### Team    A
-
- | 
-
-#### Team B
-
- |
-| --- | --- |
-| 
-
-Isabelle Ong Hui Xien (6RPS) 
-
-Wong Tian An (6RPS) Tan Jia En (6INT) Caelen Lim (6RPS) Chia Kia Sim (6RPS)  | 
-
-Kabir Srivastav (5COM) 
-
-Wilfred Gau Wee Kai (5COM) 
-
-Goh Einzy (5RSL)
-
-Jessica Isabelle Clark (4COM) 
-
-Ampo Ayesha Khobe Centeno (4COM)
-
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s2rg"><span style="color:#222">Team</span>    <span style="color:#222">A</span></th>
+    <th class="tg-s2rg"><span style="color:#222">Team B</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hp8w">Isabelle Ong Hui Xien (6RPS) <br>Wong Tian An (6RPS) <br>Tan Jia En (6INT) <br>Caelen Lim (6RPS) <br>Chia Kia Sim (6RPS) </td>
+    <td class="tg-hp8w">Kabir Srivastav (5COM) <br>Wilfred Gau Wee Kai (5COM) <br><span style="color:#000">Goh Einzy (5RSL)</span><br>Jessica Isabelle Clark (4COM) <br>Ampo Ayesha Khobe Centeno (4COM)</td>
+  </tr>
+</tbody>
+</table>
 
   
 

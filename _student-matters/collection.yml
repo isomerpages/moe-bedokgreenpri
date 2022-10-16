@@ -2,9 +2,9 @@ collections:
   student-matters:
     output: true
     order:
-      - Home Based Learning/HBL Useful Links.md
-      - Home Based Learning/Home based Learning.md
       - Home Based Learning/.keep
+      - Home Based Learning/Home based Learning.md
+      - Home Based Learning/HBL Useful Links.md
       - Discipline.md
       - Student Leadership & Development.md
       - Student Well Being/.keep

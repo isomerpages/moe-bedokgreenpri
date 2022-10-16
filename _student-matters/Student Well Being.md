@@ -16,7 +16,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/SDT1.jpeg)" alt="SDT1" style="width:75%;">  
+<body><img src="/images/SDT1.jpeg" alt="SDT1" style="width:75%;">  
   
 </body>
 
@@ -29,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/SDT2.jpeg)" alt="SDT2" style="width:75%;">  
+<body><img src="/images/SDT2.jpeg" alt="SDT2" style="width:75%;">  
   
 </body>
 
@@ -46,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Proper%20Nutrition.jpeg)" alt="Proper Nutrition" style="width:75%;">  
+<body><img src="/images/Proper%20Nutrition.jpeg" alt="Proper Nutrition" style="width:75%;">  
   
 </body>
   
@@ -56,8 +56,6 @@ We also have the Active Recess Programme, where physical activities are designed
   
 In addition, we also have annual school-wide sports events such as the Kampung Olympics and lower primary games day where students, parents and staff are all encouraged to participate to lead an active lifestyle.  
   
-![.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Well%20Being/Physical%20Health.jpg)  
-
 <style>  
 img {  
   display: block;  
@@ -65,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Physical%20Health.jpeg)" alt="Physical Health" style="width:50%;">  
+<body><img src="/images/Physical%20Health.jpeg" alt="Physical Health" style="width:75%;">  
   
 </body>
 
@@ -80,7 +78,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/SDT3.jpeg)" alt="SDT3" style="width:75%;">  
+<body><img src="/images/SDT3.jpeg" alt="SDT3" style="width:75%;">  
   
 </body>
 
@@ -96,7 +94,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/SDT4.jpeg)" alt="SDT4" style="width:50%;">  
+<body><img src="/images/SDT4.jpeg" alt="SDT4" style="width:75%;">  
   
 </body>
 
@@ -109,7 +107,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/BGPS%20Building%20Culture%20of%20Care.jpeg)" alt="BGPS Building Culture of Care" style="width:50%;">  
+<body><img src="/images/BGPS%20Building%20Culture%20of%20Care.jpeg" alt="BGPS Building Culture of Care" style="width:75%;">  
   
 </body>
   
@@ -126,6 +124,7 @@ Under SEAIP - Strategies to Ensure More Attention to Individual Pupil Developmen
 In terms of managing themselves and their relationship with others, the school also has the CCE platforms (character and citizenship education) for students to learn about managing themselves and their relationship with peers, and a lot of resources to cue them into good social behaviour and skills.  
   
 Of course, outdoor education platforms are good opportunities to inculcate values and social-emotional competencies in our students. So we have the STRIVE programme, which we mentioned earlier on, and also level camps etc.   
+
 ![Level Camp C](/images/Level%20Camp%20C.png)
   
 As part of the school's emphasis on holistic development of all our students, and the system-wide shift away from over-emphasis from exams and grades to focusing on life-long learning and joy of learning, the school has done away with weighted examinations for P1 to P3 levels (and use bite-size, non-weighted formative assessment modes to determine level of readiness for students), and going forward, working towards extending to other selected levels.  

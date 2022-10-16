@@ -265,12 +265,12 @@ Two teams comprising Primary 4, 5 and 6 students pitted their debating skills in
 
   
 
-![Team A.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Team%20A.jpeg)
+![Team A](/images/Team%20A%20Debate.jpeg)
 
   
-![Team B.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Team%20B.jpeg)
+![Team B](/images/Team%20B%20Debate.jpeg)
 
   
-![both teams with teachers.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/both%20teams%20with%20teachers.jpeg)
+![Both teams with teachers](/images/Both%20teams%20with%20teachers.jpeg)
 
-![students in action.jpeg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/students%20in%20action.jpeg)
+![Students in action](/images/Students%20in%20action.jpeg)

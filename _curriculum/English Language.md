@@ -20,7 +20,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/STELLAR%20Curriculum.png)" alt="STELLAR Curriculum for P1 to P6" style="width:70%;">  
+<body><img src="/images/STELLAR%20Curriculum.png" alt="STELLAR Curriculum for P1 to P6" style="width:70%;">  
   
 </body>
 
@@ -32,38 +32,45 @@ The vision of STELLAR is to inculcate in children the love for reading and build
 
 <table class="ive_eobj_left iveo_table ives_tab_simple3" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse !important; float: left; border: 1px solid rgb(170, 170, 170); height: 137px; width: 827px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 423px;"><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">P1 and P2 STELLAR teaching strategies include:</span><br style="margin: 0px; outline: 0px; padding: 0px;"></font></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">-<span>&nbsp;</span></span><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">Shared Book Approach (SBA)<br style="margin: 0px; outline: 0px; padding: 0px;"></span>- Modified Learning Experience Approach (MLEA)<br style="margin: 0px; outline: 0px; padding: 0px;">- Learning Centres<br style="margin: 0px; outline: 0px; padding: 0px;"></span></font></h4></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 402px;"><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">P3 and P6 STELLAR teaching strategies include:</font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; text-indent: -18pt;"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">- Supported Reading<br style="margin: 0px; outline: 0px; padding: 0px;"></font></span>-&nbsp;</font><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">What I Know - What I Want to Know - What I Learned (KWL)</font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;">- Writing Process Cycle<br style="margin: 0px; outline: 0px; padding: 0px;">- Differentiated Instruction</font></h4></td></tr></tbody></table>
 
-  
-
-  
-  
-  
-  
 
 Learning Journeys are also organised to enrich students’ learning. For instance, the P1 students embarked on a Learning Journey to the Singapore Zoo which was in line with some of the Big Books in the STELLAR curriculum such as ‘Mrs Wishy Washy’ and ‘Walking Through the Jungle’. During their visit, the P1 students would explore and gain more insights into the fascinating world of animals. Meanwhile, the P2 had gone to the SEA Aquarium in 2019 and explored the underwater world to further deepen their understanding of sea creatures (linked to STELLAR Big Book, ‘Life in A Shell’).  
 
 * * *
 
-![Slide2.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Slide2.PNG)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Slide2.png" alt="SEA Aquarium" style="width:80%;">  
+  
+</body>
 
   
 
-Reading Programmes
-------------------
+### Reading Programmes
 
-**Reading Programmes**  
-
+**Reading Programmes**   <br>
 Reading is an important skill that needs to be developed in children. The ability to learn about new subjects depends on the ability to read. Hence, the school has initiated programmes such as KidsREAD, the Buddy Reading Programme and Star Readers Programme to cultivate an interest in reading amongst our students. 
 
-**(a) KidsREAD  
-  
-**
-
+**(a) KidsREAD** <br>
 KidsREAD is a collaborative effort by the National Library Board (NLB) together with the People’s Association (PA) and four self-help groups to promote the love of reading and cultivate good reading habits among children. KidsREAD is conducted weekly for selected P1 and P2 students.  
   
 
 **Objectives of kidsREAD**  
 
-![Slide3.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Slide3.PNG)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Slide3.png)" alt="Objective of kidsREAD" style="width:70%;">  
+  
+</body>
 
 ●     To promote the love of reading and cultivate good reading habits among young Singaporeans
 
@@ -81,11 +88,18 @@ For more details on KidsREAD, please isit **[http://www.nlb.gov.sg/kidsread/](h
 
 * * *
 
-  
-
-![Newspaper article.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Newspaper%20article.JPG)
-
 **(b) Buddy Reading Programme**   
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Newspaper%20article.jpeg)" alt="Newspaper Article" style="width:70%;">  
+  
+</body>
 
 In partnership with Temasek Junior College (TLC), a group of dedicated students read one-to-one with reluctant readers on some Fridays after school.
 

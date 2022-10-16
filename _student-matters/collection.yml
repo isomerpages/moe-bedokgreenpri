@@ -2,5 +2,6 @@ collections:
   student-matters:
     output: true
     order:
+      - Student Well Being/.keep
       - Student Well Being.md
       - Useful Links.md

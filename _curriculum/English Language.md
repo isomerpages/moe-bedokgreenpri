@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Slide3.png)" alt="Objective of kidsREAD" style="width:70%;">  
+<body><img src="/images/Slide3.png" alt="Objective of kidsREAD" style="width:70%;">  
   
 </body>
 
@@ -97,7 +97,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Newspaper%20article.jpeg)" alt="Newspaper Article" style="width:70%;">  
+<body><img src="/images/Newspaper%20article.jpeg" alt="Newspaper Article" style="width:50%;">  
   
 </body>
 
@@ -117,10 +117,18 @@ The programme is a firm favourite among our students as it gives them opportunit
 
   
 
-**  
-(c) Star Readers Programme**  
+**(c) Star Readers Programme**  
 
-![Slide5.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Slide5.PNG)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Slide5.png" alt="Star Readers Programme" style="width:50%;">  
+  
+</body> 
 
 The Star Reader Programme aims to:
 
@@ -141,16 +149,13 @@ The **P1 to P4** students are encouraged to complete a Star Reader Booklet ov
 
 All classes are stocked with both fiction and non-fiction books for students to borrow and to read during Sustained Silent Reading (SSR) sessions. The books in the class library are changed every semester to ensure that students are reading widely. 
 
-**[https://www.schoolbag.sg/story/bringing-english-language-to-life](https://www.schoolbag.sg/story/bringing-english-language-to-life)  
-  
-**
+**[https://www.schoolbag.sg/story/bringing-english-language-to-life](https://www.schoolbag.sg/story/bringing-english-language-to-life)**
 
 * * *
 
   
 
-**  
-P4 Literature Programme**
+**P4 Literature Programme**
 
 Through our Charlotte’s Web Literature programme, students analyse events and characters, developing their critical thinking skills in the process. Putting themselves in the shoes of the characters allows the students to be empathetic and express personal judgement, honing their communicative competencies.
 
@@ -161,7 +166,7 @@ The learning journey for our Primary 4 students to watch a play provides them wi
 
 **Moo-O**  
 
-![Slide6.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Slide6.JPG)
+![Moo-O](/images/Moo.jpeg)
 
 * * *
 
@@ -177,16 +182,18 @@ Our students are engaged in learning to read and speak fluently, confidently and
 
 As part of our efforts to broaden English Language learning and expose students to current affairs, the school requires our students to subscribe to the Straits Times Little Red Dot. The publication delivers stories to address the significance behind important world and local events and has elements of social emotional learning, values education and National Education. It also emphasises the learning of specific language skills such as reading, speaking and grammar by providing lesson activities which the English Language teachers infuse in their classes.
 
-![Slide7.PNG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Slide7.PNG)
+![Little Red Dot](/images/Slide7.png)
 
 * * *
 
 Confident Communicators
 -----------------------
 
-                                                   Our BGPS Debaters & **Scrabblers**
+ **Our BGPS Debaters & Scrabblers**
 
-![Slide8.JPG](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/English/Slide8.JPG)Selected students were exposed to what debate is about. They learn structures on how to create speeches for Propositions and Oppositions. During the workshops, students take part in mini debates. Through this process, teachers managed to identify potential debaters for the school team. In 2019, we won the 2nd and 5th place Best Speaker Awards in the Primary School Open Debate (Division 2).
+![Our BGPS Debaters and Scrabblers](/images/Our%20BGPS%20Debaters%20and%20Scrabblers.jpeg)
+
+Selected students were exposed to what debate is about. They learn structures on how to create speeches for Propositions and Oppositions. During the workshops, students take part in mini debates. Through this process, teachers managed to identify potential debaters for the school team. In 2019, we won the 2nd and 5th place Best Speaker Awards in the Primary School Open Debate (Division 2).
 
 Selected students were also exposed to 8th Super Zonal Schools Scrabble Competition 2018 to instill fun in learning and it was a good experience for them as they gathered their wits to perform well for the competition. Our students clinched the championship for the 7thSuper Zonal Schools Scrabble Competition in 2017.
 

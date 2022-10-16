@@ -29,10 +29,9 @@ _A respected leader: "I lead my friends"_
 
 Students formally appointed to serve their class or represent their CCA have diverse responsibilities that vary according to their roles, but all of them have the desire to be of service and to lead their peers in achieving common goals. 
 
-![leaders.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Leadership/leaders.jpg)
-
 **LEAD SCHOOL**  
 
+![leaders](/images/leaders.jpeg)
 _An Exemplary Leader: "I lead others"_
 
 **Student Councillors**
@@ -45,15 +44,13 @@ Student Councillors are acknowledged school-wide as good role models. Assigned t
 
 CCA Leaders demonstrate leadership in their expertise in skills required for their CCAs, and in their constant zeal to bring their CCA to greater heights.
 
-  
-
-![Investiture.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Leadership/Investiture.jpg)
-
 **Student Council Executive Committee (EXCO)**  
 
 BGPS Council EXCO comprises the President and two Vice-Presidents with Councillors (EXCO) and CCA (EXCO). As the pinnacle of BGPS Student Leadership, Council EXCO is committed to be leaders of leaders, building a sense of identity and pride within the school as advocates of student voice and organisers of leadership events. 
 
-  
+![Investiture](/images/Investiture.jpeg)
+
+![Student Council Executive Committee (EXCO)](/images/Student%20Council%20Executive%20Committee%20(EXCO).jpg)
   
 _Picture 1_ \- Jaylene Lee (P6 Respect) giving her inaugural speech as 2022 Council President  
 _Picture 2 and 3_ \- Vice-Presidents, Jessica Isabella Clark (left, P6 Integrity) and Isadore Ong (right, P6 Integrity) receiving their tie clips from Principal, Mr Yong

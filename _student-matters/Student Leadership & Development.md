@@ -13,14 +13,14 @@ The school adopts a **3E** progressive approach in building leadership capacit
 
 In doing so, we build a network of student leaders contributing to the leadership culture in BGPS:
 
-**LEAD SELF**  
+**<u>LEAD SELF</u>**  
 
 ![Lead self](/images/Lead%20self.png)
 _A responsible leader: "I lead myself"_
 
 Students learn and live our school values of Integrity, Respect, Responsibility, Resilience and Compassion. They are recognised for their positive behaviours by the monthly STAR Awards.
 
-**LEAD CLASS**
+**<u>LEAD CLASS</u>**
 
 ![lead class](/images/lead%20class.jpeg)
 _A respected leader: "I lead my friends"_
@@ -29,7 +29,7 @@ _A respected leader: "I lead my friends"_
 
 Students formally appointed to serve their class or represent their CCA have diverse responsibilities that vary according to their roles, but all of them have the desire to be of service and to lead their peers in achieving common goals. 
 
-**LEAD SCHOOL**  
+**<u>LEAD SCHOOL</u>**  
 
 ![leaders](/images/leaders.jpeg)
 _An Exemplary Leader: "I lead others"_

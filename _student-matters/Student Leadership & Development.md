@@ -20,10 +20,9 @@ _A responsible leader: "I lead myself"_
 
 Students learn and live our school values of Integrity, Respect, Responsibility, Resilience and Compassion. They are recognised for their positive behaviours by the monthly STAR Awards.
 
-![lead class.jpg](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Leadership/lead%20class.jpg)
+**LEAD CLASS**
 
-#### **LEAD CLASS**
-
+![lead class](/images/lead%20class.jpeg)
 _A respected leader: "I lead my friends"_
 
 **Class Committee, CCA Representatives**

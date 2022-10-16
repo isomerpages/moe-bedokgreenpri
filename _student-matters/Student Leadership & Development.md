@@ -13,10 +13,9 @@ The school adopts a **3E** progressive approach in building leadership capacit
 
 In doing so, we build a network of student leaders contributing to the leadership culture in BGPS:
 
-![Lead self.png](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Student%20Leadership/Lead%20self.png)
-
 **LEAD SELF**  
 
+![Lead self](/images/Lead%20self.png)
 _A responsible leader: "I lead myself"_
 
 Students learn and live our school values of Integrity, Respect, Responsibility, Resilience and Compassion. They are recognised for their positive behaviours by the monthly STAR Awards.

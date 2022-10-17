@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Home School Partnership/Parent Resource Kit.md
       - Home School Partnership/Primary One Orientation (2022).md
       - Home School Partnership/Primary One Introductory Briefing.md
       - Home School Partnership/Principal's Newsletter.md

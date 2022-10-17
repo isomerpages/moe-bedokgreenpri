@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Partnership with Community Groups.md
       - Partnership with Other External Organisations.md

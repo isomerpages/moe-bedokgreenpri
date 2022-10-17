@@ -23,20 +23,20 @@ Click [here](http://www.seab.gov.sg/) to access more information on PSLE rela
 
 ### PSLE Timetable 2021
 
-[2021 PSLE Timetable](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/PSLE%202021/2021psleexamtimetable.pdf)
+[2021 PSLE Timetable](/files/2021psleexamtimetable.pdf)
 
 ### PSLE 2021
 
-[PSLE Infosheet.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/PSLE%202021/PSLE%20Infosheet.pdf)  
+[PSLE Infosheet.pdf](/files/PSLE%20Infosheet.pdf)
   
-[A Secondary School Thats Suitable For Your Child.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/PSLE%202021/A%20Secondary%20School%20Thats%20Suitable%20For%20Your%20Child.pdf)  
+[A Secondary School Thats Suitable For Your Child.pdf](/files/A%20Secondary%20School%20Thats%20Suitable%20For%20Your%20Child.pdf) 
   
-[Parent Kit Choosing a Sec Sch 6.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/PSLE%202021/Parent%20Kit%20Choosing%20a%20Sec%20Sch%206.pdf)  
+[Parent Kit Choosing a Sec Sch 6.pdf](/files/Parent%20Kit%20Choosing%20a%20Sec%20Sch%206.pdf)
   
-[PSLE 2021 for Parents of P5 and P6 Students.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/PSLE%202021/PSLE%202021%20for%20Parents%20of%20P5%20and%20P6%20Students.pdf)  
+[PSLE 2021 for Parents of P5 and P6 Students.pdf](/files/PSLE%202021%20for%20Parents%20of%20P5%20and%20P6%20Students.pdf)
 
 ### Direct-Schools Admission (DSA)
 
 Please click on the file below to obtain more information on DSA 2021  
   
-[DSA\_Notes\_Parents 2021](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Partnerships/Home%20School%20Partnerships/DSA_Notes_Parents.pdf)
+[DSA\_Notes\_Parents 2021](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Partnerships/Home%20School%20Partnerships/DSA_Notes_Parents.pdf) **PDF file exceeds 5MB!**

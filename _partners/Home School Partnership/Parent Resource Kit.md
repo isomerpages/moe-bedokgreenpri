@@ -28,11 +28,13 @@ The new school year can bring about exciting changes and possibilities for our c
 
 ### Cyberwellness Matters
 
-[BGPS Cyber Wellness Newsletter (Parents and Students)](/files/BGPS%20Cyber%20Wellness%20Newsletter.pdf) [Parent Kit - Cyber Wellness for your Child](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/Downloads/Parent%20Kit%20-%20Cyber%20Wellness%20for%20your%20Child%20-%2001.pdf)   
+[BGPS Cyber Wellness Newsletter (Parents and Students)](/files/BGPS%20Cyber%20Wellness%20Newsletter.pdf) <br> 
+[Parent Kit - Cyber Wellness for your Child](/files/Parent%20Kit%20-%20Cyber%20Wellness%20for%20your%20Child%20-%2001.pdf)
 
 ### Others
 
 **Forms for Parents**
-[Parent Volunteer Application Form.pdf](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/Partners/Parents/School%20Circulars/For%20Parents/Parent%20Volunteer%20Application%20Form.pdf)   
+
+[Parent Volunteer Application Form.pdf](/files/Parent%20Volunteer%20Application%20Form.pdf)  
   
-[Parent Opt Out Form (Sexuality Education)](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/2019%20CCE%20Update/Parent%20Opt%20Out%20Form%202020.pdf)
+[Parent Opt Out Form (Sexuality Education)](/files/Parent%20Opt%20Out%20Form%202020.pdf)

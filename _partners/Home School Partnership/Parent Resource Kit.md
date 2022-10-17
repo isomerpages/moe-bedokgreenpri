@@ -8,8 +8,8 @@ third_nav_title: Home School Partnership
 
 **<u>Resources</u>**
 
-[Parents Gateway Guide](/files/Parents%20Gateway.pdf) 
-[Parents Guide for Travel Declaration Update Particulars](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/Downloads/Parents%20Guide%20for%20Travel%20Declaration%20Update%20Particulars.pdf)  
+[Parents Gateway Guide](/files/Parents%20Gateway.pdf) <br>
+[Parents Guide for Travel Declaration Update Particulars](/files/Parents%20Guide%20for%20Travel%20Declaration%20Update%20Particulars.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

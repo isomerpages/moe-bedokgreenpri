@@ -17,27 +17,22 @@ To check eligibility for Singpass FAQ (Access Parents Gateway), click on the lin
 
   
 
-For further clarification, please email the ICT Manager, Mdm Lim Li King 
+For further clarification, please email the ICT Manager, Mdm Lim Li King <br>
+Email: [lim\_li\_king@schools.gov.sg](mailto:lim_li_king@schools.gov.sg)
 
-Email: [lim\_li\_king@schools.gov.sg](mailto:lim_li_king@schools.gov.sg)  [](https://bedokgreenpri.moe.edu.sg/hidden/downloads)    
-
-Starting School Right
----------------------
+### Starting School Right
 
 The new school year can bring about exciting changes and possibilities for our children. We can help them start the year right by encouraging them to take greater ownership of their learning and set meaningful goals for themselves.The latest issue of Parent Kit provides tips on how what you can do at home to help our children develop resilience, set good goals, and teach them how to relate to others. Click on the link below to find out more:  
   
 [Parent Kit - Starting School Right Jan 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Partnerships/Home%20School%20Partnerships/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf)  
 
-Cyberwellness Matters
----------------------
+### Cyberwellness Matters
 
 [BGPS Cyber Wellness Newsletter (Parents and Students)](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Cyber%20Wellness%20Newsletter.pdf) [Parent Kit - Cyber Wellness for your Child](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/Downloads/Parent%20Kit%20-%20Cyber%20Wellness%20for%20your%20Child%20-%2001.pdf)   
 
-Others
-------
+### Others
 
-**Forms for Parents  
-  
-**[Parent Volunteer Application Form.pdf](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/Partners/Parents/School%20Circulars/For%20Parents/Parent%20Volunteer%20Application%20Form.pdf)   
+**Forms for Parents**
+[Parent Volunteer Application Form.pdf](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/Partners/Parents/School%20Circulars/For%20Parents/Parent%20Volunteer%20Application%20Form.pdf)   
   
 [Parent Opt Out Form (Sexuality Education)](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/2019%20CCE%20Update/Parent%20Opt%20Out%20Form%202020.pdf)

@@ -42,8 +42,7 @@ We provide platforms for our alumni members to stay connected with each other an
 
 ![JAC registation](/images/JAC%20registation.jpeg)
 
-Reach out to BGPS Teachers Online
----------------------------------
+### Reach out to BGPS Teachers Online
 
 Dear BGPS Alumni,  
   

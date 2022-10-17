@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Home School Partnership
 ---
 **<u>2022 Newsletters</u>** <br>
-[Term 1](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/P%20Newsletter/Term%201%20Letter%20to%20Parents%20final.pdf) <br>
-[Term 2](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/P%20Newsletter/Term%202%20Letter%20to%20Parents.pdf)  
-[Term 3](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/P%20Newsletter/Term%203%20Letter%20to%20Parents.pdf)  
-[Term 4](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/P%20Newsletter/Term%204%20Letter%20to%20Parents.pdf)
+[Term 1](/files/Term%201%20Letter%20to%20Parents%20final.pdf) <br>
+[Term 2](/files/Term%202%20Letter%20to%20Parents.pdf) <br>
+[Term 3](/files/Term%203%20Letter%20to%20Parents.pdf) <br>
+[Term 4](/files/Term%204%20Letter%20to%20Parents.pdf)
 
 **<u>2021 Newsletters</u>** <br>
 [Term 4](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/Term%204.pdf)  

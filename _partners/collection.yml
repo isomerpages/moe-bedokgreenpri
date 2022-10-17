@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - SAC, PSG & Alumni/SAC, PSG & Alumni.md
       - SAC, PSG & Alumni/.keep
       - Partnership with Community Groups.md
       - Partnership with Other External Organisations.md

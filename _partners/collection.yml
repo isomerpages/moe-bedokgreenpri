@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Home School Partnership/PSLE and DSA Information.md
       - Home School Partnership/Student Learning Space (SLS) Activation.md
       - Home School Partnership/Student Vaccination Exercise.md
       - Home School Partnership/Subject Based Banding (SBB).md

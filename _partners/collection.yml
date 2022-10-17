@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Home School Partnership/Subject Based Banding (SBB).md
       - Home School Partnership/Useful Links.md
       - Home School Partnership/Home School Partnership.md
       - Home School Partnership/.keep

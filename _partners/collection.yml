@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - SAC, PSG & Alumni/Parent Support Group (PSG).md
       - SAC, PSG & Alumni/Junior Alumni Club.md
       - SAC, PSG & Alumni/SAC, PSG & Alumni.md
       - SAC, PSG & Alumni/.keep

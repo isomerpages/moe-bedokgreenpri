@@ -22,5 +22,5 @@ Our school theme, ‘EMPOWER@BGPS’, stands for Equipping My Pupils to take OWn
 My teachers and I look forward to working with you and your child in the new school year. We warmly welcome all students for an exciting time of learning and growth, and specially embrace with open arms all new students who have chosen to make Bedok Green Primary School their second home. For our new Primary Ones, my teachers have specially planned a three-day orientation programme to help them set goals and adapt to school routines and expectations. I am sure that they will find the orientation beneficial as they make new friends and discover that Bedok Green teachers are caring and nurturing. Should you have any feedback to help us improve in our processes or affirm our practices, you may also write to us at bgps@moe.edu.sg or call us at 64425416.
 
 <img src="/images/143)%20Mr%20Benjamin%20Yong%20Yik%20Yen.jpeg"  
-style="width:40%">
+style="width:20%">
 <figcaption>Mr Benjamin Yong</figcaption>

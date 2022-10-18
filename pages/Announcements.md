@@ -21,3 +21,5 @@ Thank you for participating in our A.R.T Familiarisation webinar.
 2\. To complete the webinar feedback survey, click **[here](https://go.gov.sg/bgpsartwebinar)**.   
 3\. To download the questions and responses from the webinar and survey, click **[here](/partners/home-school-partnership/a-r-t-kit-familiarisation)**.
 
+**<u>Term 4 Principal's Newsletter</u>** <br>
+As part of our efforts to keep you abreast of developments in the school, a copy of the Principal's Newsletter for Term 4 is parked [here](/files/Term%204%20Letter%20to%20Parents.pdf).

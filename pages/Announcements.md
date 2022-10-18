@@ -39,3 +39,8 @@ For essential information and instructions on assessment matters in the school, 
 The latest issue of Parent Kit provides tips on how what you can do at home to help our children start school right.
 
 Click [here](/links/for-parents) for more information.
+
+**<u>Parents Gateway</u>** <br>
+Parents Gateway (PG) is the main communication platform used by the school to reach out to parents.
+
+To download the mobile app and perform a simple one-time on boarding process, please click [here](/partners/home-school-partnership/parent-resource-kit).

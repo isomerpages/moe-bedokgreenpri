@@ -26,3 +26,8 @@ As part of our efforts to keep you abreast of developments in the school, a copy
 
 **<u>Information on Student Vaccination Exercise</u>** <br>
 For more information on the Student Vaccination Exercise, please click [here](/partners/home-school-partnership/student-vaccination-exercise).
+
+**<u>P1 SLS Activation Exercise Instructions for Parents</u>** <br>
+Click [here](/partners/home-school-partnership/student-learning-space-sls-activation) to download the guide on activating your child’s SLS account. 
+
+Click [here](https://youtu.be/YTLJBmTqdYM) to view the online video. Thank you.

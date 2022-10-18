@@ -1,9 +1,9 @@
-title: Title
+title: Bedok Green Primary School
 url: https://bedokgreenpri.moe.edu.sg
 favicon: /images/School Crest High Resolution.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#1f4aa1"
+  secondary-color: "#56ac63"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Bedok Green Primary School
 permalink: none
 baseurl: ""
 exclude:

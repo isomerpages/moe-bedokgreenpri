@@ -68,11 +68,7 @@ School Sports Day Event (P3 to P6) and Lower Primary Games Day (P1 and P2) are o
 
 * * *
 
-#### 
-
-####   
-
-#### 
+<br>
 
 * * *
 

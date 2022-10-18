@@ -7,7 +7,7 @@ School Crest
 ------------
 
 <img src="/images/School%20Crest%20High%20Resolution.png"  
-style="width:30%">The rows in the open book represent the school striving to achieve the Desired Outcomes of Education.
+style="width:20%">The rows in the open book represent the school striving to achieve the Desired Outcomes of Education.
 
 The lighted torch stands for a passion for continuous learning.
 

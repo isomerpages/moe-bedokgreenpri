@@ -34,3 +34,8 @@ Click [here](https://youtu.be/YTLJBmTqdYM) to view the online video. Thank yo
 
 **<u>Assessment Information Booklet for Parents</u>** <br>
 For essential information and instructions on assessment matters in the school, please click [here](/files/Assessment%20Information%20Booklet%202022.pdf).
+
+**<u>Parent Kit - Starting School Right</u>** <br>
+The latest issue of Parent Kit provides tips on how what you can do at home to help our children start school right.
+
+Click [here](/links/for-parents) for more information.

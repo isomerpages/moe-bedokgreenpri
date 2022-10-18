@@ -23,3 +23,6 @@ Thank you for participating in our A.R.T Familiarisation webinar.
 
 **<u>Term 4 Principal's Newsletter</u>** <br>
 As part of our efforts to keep you abreast of developments in the school, a copy of the Principal's Newsletter for Term 4 is parked [here](/files/Term%204%20Letter%20to%20Parents.pdf).
+
+**<u>Information on Student Vaccination Exercise</u>** <br>
+For more information on the Student Vaccination Exercise, please click [here](/partners/home-school-partnership/student-vaccination-exercise).

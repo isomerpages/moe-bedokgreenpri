@@ -15,7 +15,9 @@ In doing so, we build a network of student leaders contributing to the leadershi
 
 **<u>LEAD SELF</u>**  
 
-![Lead self](/images/Lead%20self.png)
+<img src="/images/Lead%20self.png"  
+style="width:70%">
+
 _A responsible leader: "I lead myself"_
 
 Students learn and live our school values of Integrity, Respect, Responsibility, Resilience and Compassion. They are recognised for their positive behaviours by the monthly STAR Awards.

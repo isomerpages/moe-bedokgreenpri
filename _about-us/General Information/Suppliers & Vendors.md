@@ -111,10 +111,8 @@ There are 8 food stalls in the school canteen. The respective menu and prices of
 
 | Stall Number | Type of Food | Menu and Price List |
 | --- | --- | --- |
-| 1 | Hot Drinks & Snacks | [Stall 1.pdf](/files/Stall%201.pdf) 
- |
-| 2 | Malay Rice  | [Stall 2.pdf](/files/Stall%202.pdf)
- |
+| 1 | Hot Drinks & Snacks | [Stall 1.pdf](/files/Stall%201.pdf) |
+| 2 | Malay Rice  | [Stall 2.pdf](/files/Stall%202.pdf)|
 | 3 |  Malay Noodles |  [Stall 3.pdf](/files/Stall%203.pdf) |
 | 4  |  Chinese Noodles |  [Stall 4.pdf](/files/Stall%204.pdf) |
 | 5 |  Chicken Rice | [Stall 5.pdf](/files/Stall%205.pdf)   |

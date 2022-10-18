@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Title
+description: An Isomer site of the Singapore Government
+image: /images/School Crest High Resolution.png
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
       image: /images/BGPS Corporate Video.jpg
       alt: BGPS Corporate Video
 ---
+

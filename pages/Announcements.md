@@ -33,7 +33,4 @@ Click [here](/partners/home-school-partnership/student-learning-space-sls-activa
 Click [here](https://youtu.be/YTLJBmTqdYM) to view the online video. Thank you.
 
 **<u>Assessment Information Booklet for Parents</u>** <br>
-
 For essential information and instructions on assessment matters in the school, please click [here](/files/Assessment%20Information%20Booklet%202022.pdf).
-
-[Read More](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/Assessment%20Information%20Booklet%202022.pdf)

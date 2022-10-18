@@ -48,4 +48,4 @@ To download the mobile app and perform a simple one-time on boarding process, 
 **<u>P4 SBB Briefing - 5 Aug 2022</u>** <br>
 Dear Parents, 
 
-Please click on this [link](/files/2022%20P4%20SBB%20Briefing%20for%20parents%20final.pdf) to access the slides that were shared during the briefing on 5 August 2022. 
+Please click on this [link](/files/2022%20P4%20SBB%20Briefing%20for%20parents%20final.pdf) to access the slides that were shared during the briefing on 5 August 2022.

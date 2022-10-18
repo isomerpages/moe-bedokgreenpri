@@ -31,3 +31,9 @@ For more information on the Student Vaccination Exercise, please click [here](/p
 Click [here](/partners/home-school-partnership/student-learning-space-sls-activation) to download the guide on activating your child’s SLS account. 
 
 Click [here](https://youtu.be/YTLJBmTqdYM) to view the online video. Thank you.
+
+[**Assessment Information Booklet for Parents</u>** <br>
+
+For essential information and instructions on assessment matters in the school, please click on the link below.
+
+[Read More](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/For%20Parents/Assessment%20Information%20Booklet%202022.pdf)

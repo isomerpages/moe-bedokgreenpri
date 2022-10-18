@@ -4,7 +4,6 @@ permalink: /curriculum/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
 ---
-
 ##### Vision
 Empowered Citizens, Persons of Strength and Character   
 
@@ -18,7 +17,8 @@ In BGPS, CCE is integrated and infused in both curriculum and co-curriculum prog
 
 Through the inculcation of positive values and building of social emotional (SE) competencies, the school aims to develop students as citizens of good character in a rapidly changing and globalized world, and achieve the eight CCE learning outcomes (LOs).
 
-![CCE Learning Outcomes](/images/Learning%20Outcomes.png)
+<img src="/images/Learning%20Outcomes.png"  
+style="width:70%">
 
 ### CCE @ BGPS Programmes
   
@@ -27,7 +27,8 @@ Through the inculcation of positive values and building of social emotional (SE)
 
 ![CCE @ BGPS Programmes](/images/CCE%20@%20BGPS%20Programmes_1.jpg)
 
-![CCE @ BGPS Programmes](/images/CCE%20@%20BGPS%20Programmes_1.png)
+<img src="/images/CCE%20@%20BGPS%20Programmes_1.png" 
+style="width:70%">
 
 ![CCE @ BGPS Programmes](/images/CCE%20@%20BGPS%20Programmes_3.jpg)
 

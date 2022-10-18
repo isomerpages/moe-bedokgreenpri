@@ -20,8 +20,8 @@ third_nav_title: Home School Partnership
 **<u>2020 Newsletters</u>**  
   
 [End of Year](/files/End%20of%20Year%20Letter%20to%20Parents%2018%20Nov%202020.pdf)  <br>
-[Term 4](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Term%204%20(2020)%20Newsletter.pdf)    
-[Term 3](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Term%203%20(2020)%20Newsletter.pdf)    
-[End of Term 2](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/End%20of%20Term%202%20(2020)%20Newsletter.pdf)   
-[Term 2](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Term%202%20(2020)%20Newsletter.pdf)    
-[Term 1](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Term%201%20(2020)%20Newsletter.pdf)
+[Term 4](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Term%204%20(2020)%20Newsletter.pdf) **(broken link!)** <br>
+[Term 3](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Term%203%20(2020)%20Newsletter.pdf) **(broken link!)** <br>
+[End of Term 2](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/End%20of%20Term%202%20(2020)%20Newsletter.pdf)   **(broken link!)** <br>
+[Term 2](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Term%202%20(2020)%20Newsletter.pdf)    **(broken link!)** <br>
+[Term 1](https://bedokgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u204/For%20Parents/BGPS%20Term%201%20(2020)%20Newsletter.pdf) **(broken link!)**

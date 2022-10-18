@@ -13,6 +13,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/SAC%20update.jpeg" alt="SAC Update" style="width:75%;">  
+<body><img src="/images/SAC%20update.jpeg" alt="SAC Update" style="width:65%;">  
   
 </body>

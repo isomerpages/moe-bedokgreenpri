@@ -97,7 +97,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Newspaper%20article.jpeg" alt="Newspaper Article" style="width:50%;">  
+<body><img src="/images/Newspaper%20article.jpeg" alt="Newspaper Article" style="width:30%;">  
   
 </body>
 

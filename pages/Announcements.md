@@ -19,4 +19,5 @@ Thank you for participating in our A.R.T Familiarisation webinar.
 
 1\. To view the recorded webinar, click **[here](https://youtu.be/pzrHeE-0v3c)**.   
 2\. To complete the webinar feedback survey, click **[here](https://go.gov.sg/bgpsartwebinar)**.   
-3\. To download the questions and responses from the webinar and survey, click **[here](/partners/home-school-partnership/a-r-t-kit-familiarisation)**. 
+3\. To download the questions and responses from the webinar and survey, click **[here](/partners/home-school-partnership/a-r-t-kit-familiarisation)**.
+

@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Confirmed banner replacement.jpeg
       key_highlights:
         - title: Announcements
           description: Click here for latest annoucements!
@@ -19,5 +19,3 @@ sections:
       image: /images/BGPS Corporate Video.jpg
       alt: BGPS Corporate Video
 ---
-
-

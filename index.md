@@ -2,7 +2,7 @@
 layout: homepage
 title: Bedok Green Primary School
 description: Bedok Green Primary School
-image: /images/School Crest High Resolution.png
+image: /images/bedok green primary school - New.png
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
       image: /images/BGPS Corporate Video.jpg
       alt: BGPS Corporate Video
 ---
+

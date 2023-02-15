@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Confirmed banner replacement.jpeg
+      background: /images/bedok green primary school - New.png
       key_highlights:
         - title: Announcements
           description: Click here for latest annoucements!

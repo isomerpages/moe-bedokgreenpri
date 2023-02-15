@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d17vrvcyl21gfn.amplifyapp.com
 prod: https://master.d17vrvcyl21gfn.amplifyapp.com
-shareicon: /images/School Crest High Resolution.png
+shareicon: /images/bedok green primary school - New.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

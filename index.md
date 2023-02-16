@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2019 Group Mascot Designs.png
+      background: /images/Untitled design.gif
       key_highlights:
         - title: Announcements
           description: Click here for latest annoucements!

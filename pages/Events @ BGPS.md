@@ -5,7 +5,7 @@ description: ""
 ---
 10 February 2023
 
-**AETOS K9 Visits BGPS! **
+**AETOS K9 Visits BGPS!**
 
 As part of the STELLAR curriculum on Bow Wow Brigade, our Primary 6 students witnessed how the dog handlers worked with their partners (i.e., working dogs) to perform a search. The students interacted with the dogs and interviewed the dog handlers about the nature of their work. The questions varied from the dog handler's decision of their choice of work to the challenges of working with dogs. 
 

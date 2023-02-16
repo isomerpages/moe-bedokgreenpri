@@ -14,7 +14,7 @@ sections:
           url: /announcements/
         - title: Events @ BGPS
           description: Click here for latest events
-          url: ""
+          url: /eventsatbgps/
   - infopic:
       title: BGPS Corporate Video (Extended)
       button: Click here to watch

@@ -17,7 +17,7 @@ sections:
         - title: Calendar of Events
           description: Click here for school calendar
           url: /schoolcalendar/
-      background: /images/Untitled design (6).gif
+      background: /images/Integrity (1).gif
   - infopic:
       title: BGPS Corporate Video (Extended)
       button: Click here to watch

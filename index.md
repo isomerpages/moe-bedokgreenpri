@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Confirmed banner replacement.jpeg
+      background: /images/2019 Group Mascot Designs.png
       key_highlights:
         - title: Announcements
           description: Click here for latest annoucements!

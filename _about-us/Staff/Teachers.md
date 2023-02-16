@@ -12,7 +12,7 @@ third_nav_title: Staff
 ### 
 ###### [P4 Teachers](/about-us/staff/teachers/p4-teachers)
 ### 
-###### [P5 Teacher](/about-us/staff/teachers/p5-teachers)
+###### [P5 Teachers](/about-us/staff/teachers/p5-teachers)
 ### 
 ###### [P6 Teachers](/about-us/staff/teachers/p6-teachers)
 ### 

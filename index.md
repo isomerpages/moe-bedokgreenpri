@@ -15,6 +15,9 @@ sections:
         - title: Events @ BGPS
           description: Click here for latest events
           url: /eventsatbgps/
+        - title: Calendar of Events
+          description: Click here for school calendar
+          url: ""
   - infopic:
       title: BGPS Corporate Video (Extended)
       button: Click here to watch

@@ -18,6 +18,7 @@ sections:
           description: Click here for school calendar
           url: /schoolcalendar/
       background: /images/Integrity (2).gif
+      subtitle: Empower@BGPS
   - infopic:
       title: BGPS Corporate Video (Extended)
       button: Click here to watch

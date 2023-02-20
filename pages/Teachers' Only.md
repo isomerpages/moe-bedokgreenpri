@@ -4,6 +4,7 @@ permalink: /teachers-only/
 description: ""
 ---
 [ICT Request Form](https://sites.google.com/view/bgpsrequest/home)
+![](/images/ICT%20Request%20Form.jpg)
 
 [MOE Identity Management System (MIMIS)](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
 
@@ -13,7 +14,7 @@ description: ""
 
 [SC Mobile](https://scmobile.moe.edu.sg/)
 
-[Moe Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
+[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 
 [HR & Payroll](https://www.hrp.gov.sg/hrp/#/)
 

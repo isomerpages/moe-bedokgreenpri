@@ -1,32 +1,27 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Bedok Green Primary School
+description: Bedok Green Primary School
+image: /images/bedok green primary school - New.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Announcements
+          description: Click here for latest annoucements!
+          url: /announcements/
+        - title: Events @ BGPS
+          description: Click here for latest events
+          url: /eventsatbgps/
+        - title: Calendar of Events
+          description: Click here for school calendar
+          url: /schoolcalendar/
+      background: /images/Integrity (2).gif
+  - infopic:
+      title: BGPS Corporate Video (Extended)
+      button: Click here to watch
+      url: https://www.youtube.com/watch?v=wqHUupZXr3M&list=TLGGhXQlDRS9n4gxODEwMjAyMg&ab_channel=BedokGreenPrimaryBGPS
+      image: /images/BGPS Corporate Video.jpg
+      alt: BGPS Corporate Video
 ---
-

@@ -1,0 +1,4 @@
+collections:
+  teachers-only:
+    output: true
+    order: []

@@ -204,12 +204,8 @@ Lim Hui Ting (4 RPS)<br>
 Tan Yan Xin (4 RES)<br>
 
 * * *
-
-  
-
-From March to April 2020, **Zeyrian Faris Bin Mohammad Suhaimi (Primary 5 Resilience)** represented the English Drama Club in the Mythos Junior Orators 2020, an online storytelling competition organised by Anglo-Chinese Junior College for primary school students. Participants had to showcase their abilities in delivering stories fluently and expressively in this competition. 
-
-They also had to engage viewers with their interpretations of the different characters. Zeyrian achieved the Top 20 Performers and the Top 5 Best Costume Awards for his rendition of **‘The Emperor’s New Clothes’.** 
+Mythos Junior Orators 2022<br>
+Raffan Faris Bin Mohammad Suhaimi (4 RSL) and Bukkawar Swara Swapnil (5 INT) of Drama Club had taken part in the Mythos Junior Orators 2022, a storytelling competition for primary school students, organised by Anglo-Chinese Junior College. Participants had to showcase their ability to deliver stories a fluent and expressive manner in order to engage viewers with their interpretations of the different characters. Swara achieved a Certificate of Participation for her efforts and Raffan achieved the Semi-Finalist award for his rendition of 'The Foolish Lion and the Clever Rabbit'. 
 
 <style>  
 img {  

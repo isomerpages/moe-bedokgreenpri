@@ -167,7 +167,7 @@ As part of our efforts to broaden English Language learning and expose students 
 #### Empathetic Communicators
 -----------------------
 
- **Our BGPS Debaters & Scrabblers**
+ **Our BGPS Debaters**
 
 <style>  
 img {  

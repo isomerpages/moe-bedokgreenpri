@@ -104,7 +104,7 @@ Mdm Lee Oi Foong Margaret
 ##### **Year Head - Middle Primary**
 
 Ms Li Wenlin
-[li_wenlin@schools.gov.sg](li_wenlin@schools.gov.sg) 
+[li_wen_lin@schools.gov.sg](li_wen_lin@schools.gov.sg)
 
 #### Primary 5 Teachers
 

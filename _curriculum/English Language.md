@@ -11,7 +11,7 @@ Every Child, An Effective Communicator
 
 ### Key Programmes
 
-**STELLAR Curriculum for P1 to P6**  
+##### **STELLAR Curriculum for P1 to P6**  
 
 <style>  
 img {  
@@ -31,9 +31,11 @@ The vision of STELLAR is to inculcate in children the love for reading and build
   
 
 <table class="ive_eobj_left iveo_table ives_tab_simple3" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse !important; float: left; border: 1px solid rgb(170, 170, 170); height: 137px; width: 827px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 423px;"><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">P1 and P2 STELLAR teaching strategies include:</span><br style="margin: 0px; outline: 0px; padding: 0px;"></font></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">-<span>&nbsp;</span></span><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">Shared Book Approach (SBA)<br style="margin: 0px; outline: 0px; padding: 0px;"></span>- Modified Learning Experience Approach (MLEA)<br style="margin: 0px; outline: 0px; padding: 0px;">- Learning Centres<br style="margin: 0px; outline: 0px; padding: 0px;"></span></font></h4></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 402px;"><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">P3 and P6 STELLAR teaching strategies include:</font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; text-indent: -18pt;"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">- Supported Reading<br style="margin: 0px; outline: 0px; padding: 0px;"></font></span>-&nbsp;</font><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">What I Know - What I Want to Know - What I Learned (KWL)</font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;">- Writing Process Cycle<br style="margin: 0px; outline: 0px; padding: 0px;">- Differentiated Instruction</font></h4></td></tr></tbody></table>
+<br>
 
+##### **Extensive Reading**
 
-Learning Journeys are also organised to enrich students’ learning. For instance, the P1 students embarked on a Learning Journey to the Singapore Zoo which was in line with some of the Big Books in the STELLAR curriculum such as ‘Mrs Wishy Washy’ and ‘Walking Through the Jungle’. During their visit, the P1 students would explore and gain more insights into the fascinating world of animals. Meanwhile, the P2 had gone to the SEA Aquarium in 2019 and explored the underwater world to further deepen their understanding of sea creatures (linked to STELLAR Big Book, ‘Life in A Shell’).  
+Learning Journeys are also organised to enrich students’ learning. These learning journeys are aligned with some of the STELLAR Big Book titles. During these school trips, students would be able to gain more insight and delve deeper into the themes introduced in the Big Books. Examples of these learning journeys include trip to the Singapore Zoological Garden and the SEA Aquarium for the lower primary students. 
 
 * * *
 
@@ -48,11 +50,8 @@ img {
   
 </body>
 
-  
+##### **Reading Programmes**
 
-### Reading Programmes
-
-**Reading Programmes**   <br>
 Reading is an important skill that needs to be developed in children. The ability to learn about new subjects depends on the ability to read. Hence, the school has initiated programmes such as KidsREAD, the Buddy Reading Programme and Star Readers Programme to cultivate an interest in reading amongst our students. 
 
 **(a) KidsREAD** <br>
@@ -101,21 +100,15 @@ img {
   
 </body>
 
-In partnership with Temasek Junior College (TLC), a group of dedicated students read one-to-one with reluctant readers on some Fridays after school.
+In partnership with Temasek Junior College (TJC), a group of dedicated students read one-to-one with reluctant readers on some Fridays after school.
 
 This initiative is aimed at providing additional guidance for our students to improve in their oral and listening skills as well as to inculcate in them a love for reading.  
+ 
 
-  
-
-The programme is a firm favourite among our students as it gives them opportunities to interact and learn from their 'brothers and sisters' from TJC. It was also featured in the Chinese language media as an effective approach towards inculcating the love of reading among these students. 
-
-  
-
-  
+The programme is a firm favourite among our students as it gives them opportunities to interact and learn from their 'brothers and sisters' from TJC. It was also featured in the Chinese language media as an effective approach towards inculcating the love of reading among these students.  
 
 * * *
 
-  
 
 **(c) Star Readers Programme**  
 
@@ -151,34 +144,10 @@ All classes are stocked with both fiction and non-fiction books for students to 
 
 **[https://www.schoolbag.sg/story/bringing-english-language-to-life](https://www.schoolbag.sg/story/bringing-english-language-to-life)**
 
-* * *
-
-  
-
-**P4 Literature Programme**
-
-Through our Charlotte’s Web Literature programme, students analyse events and characters, developing their critical thinking skills in the process. Putting themselves in the shoes of the characters allows the students to be empathetic and express personal judgement, honing their communicative competencies.
-
-The learning journey for our Primary 4 students to watch a play provides them with a learning experience beyond the classroom when they watch the theatrical performance and engage in an interactive drama-based role-play workshop. During the workshop, students will also get a chance to explore the characters and themes of the story.  
-  
 
 * * *
 
-**Moo-O**  
-
-![Moo-O](/images/Moo.jpeg)
-
-* * *
-
-  
-
-To cultivate a love for the English Language through a fun, engaging and immersive way, the school offers Moo-O, an interactive online application, to all **Primary 1 to 3** students.  
-
-Our students are engaged in learning to read and speak fluently, confidently and expressively through this application. Students take on the characters of the story that they are reading as their faces are mapped in real-time. With the playback feature, Moo-O also provides our students with immediate feedback for self-assessment of performance. Students can then choose to rehearse and re-record in order to improve on their fluency, rhythm, pacing, intonation and expression, just like how a professional presenter would have done it. The Read-to-Me function also allows for students to learn independently the pronunciation of a word and/or how to read expressively. Students also build up their vocabulary from the photographic flashcards before taking the quiz to test their spelling skills.
-
-* * *
-
-**Little Red Dot (P4 to P6)**
+##### **Little Red Dot (P4 to P5)**
 
 As part of our efforts to broaden English Language learning and expose students to current affairs, the school requires our students to subscribe to the Straits Times Little Red Dot. The publication delivers stories to address the significance behind important world and local events and has elements of social emotional learning, values education and National Education. It also emphasises the learning of specific language skills such as reading, speaking and grammar by providing lesson activities which the English Language teachers infuse in their classes.
 
@@ -186,91 +155,36 @@ As part of our efforts to broaden English Language learning and expose students 
 
 * * *
 
-Confident Communicators
+### Empathetic Communicators
 -----------------------
 
- **Our BGPS Debaters & Scrabblers**
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Our%20BGPS%20Debaters%20and%20Scrabblers.jpeg" alt="Our BGPS Debaters and Scrabblers" style="width:70%;">  
-  
+#####  **Our BGPS Debaters**
+ 
 </body>
 
-Selected students were exposed to what debate is about. They learn structures on how to create speeches for Propositions and Oppositions. During the workshops, students take part in mini debates. Through this process, teachers managed to identify potential debaters for the school team. In 2019, we won the 2nd and 5th place Best Speaker Awards in the Primary School Open Debate (Division 2).
+BGPS Debating Teams do consistently well in debate competitions. These inter-school competitions are demanding and offer our students a valuable platform to gain exposure and showcase their oratorical skills. In 2022, the following students participated in **Wits & Words** Division 2:<br>
+Wits & Words (Division 2) Team:<br>
+Jessica Isabelle Clark (6 INT) <br>
+Ampo Ayesha Khobe Centano (6 RES) <br>
+Isadore Ong Hui Ci (6 INT) <br>
+Tan Wei Xiang (5 INT) <br>
+Izaak Irwin Tan (5 RES) <br>
 
-Selected students were also exposed to 8th Super Zonal Schools Scrabble Competition 2018 to instill fun in learning and it was a good experience for them as they gathered their wits to perform well for the competition. Our students clinched the championship for the 7thSuper Zonal Schools Scrabble Competition in 2017.
+The team was placed in the Top 8 with the Good Speaker Award being awarded to Ampo Ayesha Khobe Centano. In 2022, the following two teams represented the school in the Primary School Debate Open Division 2:<br>
+PSOD (Division 2) 2022<br>
+Team 1: <br>
+Tan Wei Xiang (5 INT)<br>
+Hu Chenxiao (5 INT)<br>
+Park Yena (5 INT)<br>
+Ng Jing Yi Denise (5 RPS)<br>
+Rita Rose Jacob (5 RPS)<br>
 
-On 7 November 2017, over 120 students from more than 30 primary schools in Singapore participated in the 3rd edition of the on-the-spot National English Writing Competition (NEW-C). We were pleasantly surprised at the diversity of themes the young writers chose to explore this year and we had won merit awards.
-
-* * *
-
-  
-
-From March to April 2020, **Zeyrian Faris Bin Mohammad Suhaimi (Primary 5 Resilience)** represented the English Drama Club in the Mythos Junior Orators 2020, an online storytelling competition organised by Anglo-Chinese Junior College for primary school students. Participants had to showcase their abilities in delivering stories fluently and expressively in this competition. 
-
-They also had to engage viewers with their interpretations of the different characters. Zeyrian achieved the Top 20 Performers and the Top 5 Best Costume Awards for his rendition of **‘The Emperor’s New Clothes’.** 
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Zeyrian%20Faris.png" alt="Zeyrian Fari" style="width:70%;">  
-  
-</body>
-
-<p style="text-align:center;">Congratulations to Zeyrian!</p>
-  
-
-  
+Team 2: <br>
+Izaak Irwin Tan (4 RES)<br>
+Daksh Biyani (4 BRV)<br>
+Lim Hui Ting (4 RPS)<br>
+Tan Yan Xin (4 RES)<br>
 
 * * *
-
-### EL Debate Achievement 
-
-Two teams comprising Primary 4, 5 and 6 students pitted their debating skills in the Primary School Debate Open (PSDO) Division 2 on 21 and 28 November. The interschool competition gave students a platform to showcase their oratorical skills. Both our teams, led by Mrs Jacinta Gomes and Mdm Nurul Huda, definitely showed confidence in delivering compelling arguments. After 4 gruelling rounds, our P6 team emerged 3rd while our P4 and P5 team emerged 7th! Isabelle Ong Hui Xien (6RPS) and Wong Tian An (6RPS) were also among the top 20 students to receive the Good Speaker Award. Congratulations to both our teams! 
-
-  
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s2rg"><span style="color:#222">Team</span>    <span style="color:#222">A</span></th>
-    <th class="tg-s2rg"><span style="color:#222">Team B</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-hp8w">Isabelle Ong Hui Xien (6RPS) <br>Wong Tian An (6RPS) <br>Tan Jia En (6INT) <br>Caelen Lim (6RPS) <br>Chia Kia Sim (6RPS) </td>
-    <td class="tg-hp8w">Kabir Srivastav (5COM) <br>Wilfred Gau Wee Kai (5COM) <br><span style="color:#000">Goh Einzy (5RSL)</span><br>Jessica Isabelle Clark (4COM) <br>Ampo Ayesha Khobe Centeno (4COM)</td>
-  </tr>
-</tbody>
-</table>
-
-  
-
-![Team A](/images/Team%20A%20Debate.jpeg)
-
-  
-![Team B](/images/Team%20B%20Debate.jpeg)
-
-  
-![Both teams with teachers](/images/Both%20teams%20with%20teachers.jpeg)
-
-![Students in action](/images/Students%20in%20action.jpeg)
+##### **Mythos Junior Orators 2022**<br>
+Raffan Faris Bin Mohammad Suhaimi (4 RSL) and Bukkawar Swara Swapnil (5 INT) of Drama Club had taken part in the Mythos Junior Orators 2022, a storytelling competition for primary school students, organised by Anglo-Chinese Junior College. Participants had to showcase their ability to deliver stories a fluent and expressive manner in order to engage viewers with their interpretations of the different characters. Swara achieved a Certificate of Participation for her efforts and Raffan achieved the Semi-Finalist award for his rendition of 'The Foolish Lion and the Clever Rabbit'.

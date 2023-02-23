@@ -54,7 +54,6 @@ img {
 
 ### Reading Programmes
 
-**Reading Programmes**   <br>
 Reading is an important skill that needs to be developed in children. The ability to learn about new subjects depends on the ability to read. Hence, the school has initiated programmes such as KidsREAD, the Buddy Reading Programme and Star Readers Programme to cultivate an interest in reading amongst our students. 
 
 **(a) KidsREAD** <br>
@@ -196,4 +195,4 @@ Tan Yan Xin (4 RES)<br>
 
 * * *
 #### **Mythos Junior Orators 2022**<br>
-Raffan Faris Bin Mohammad Suhaimi (4 RSL) and Bukkawar Swara Swapnil (5 INT) of Drama Club had taken part in the Mythos Junior Orators 2022, a storytelling competition for primary school students, organised by Anglo-Chinese Junior College. Participants had to showcase their ability to deliver stories a fluent and expressive manner in order to engage viewers with their interpretations of the different characters. Swara achieved a Certificate of Participation for her efforts and Raffan achieved the Semi-Finalist award for his rendition of 'The Foolish Lion and the Clever Rabbit'.  
+Raffan Faris Bin Mohammad Suhaimi (4 RSL) and Bukkawar Swara Swapnil (5 INT) of Drama Club had taken part in the Mythos Junior Orators 2022, a storytelling competition for primary school students, organised by Anglo-Chinese Junior College. Participants had to showcase their ability to deliver stories a fluent and expressive manner in order to engage viewers with their interpretations of the different characters. Swara achieved a Certificate of Participation for her efforts and Raffan achieved the Semi-Finalist award for his rendition of 'The Foolish Lion and the Clever Rabbit'.

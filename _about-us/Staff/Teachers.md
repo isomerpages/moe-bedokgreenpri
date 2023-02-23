@@ -110,3 +110,20 @@ Mr Loh Wei Leong
 |      | Ms Rasidah Binte Bahrom     | [rasidah_bahrom@schools.gov.sg](rasidah_bahrom@schools.gov.sg)   |
 | 5 Bravery    | Mr Pasupathy Magesvaran     | [pasupathy_magesvaran@schools.gov.sg](pasupathy_magesvaran@schools.gov.sg)     |
 |      | Miss Jubilee Lim     | [jubilee_lim@schools.gov.sg](jubilee_lim@schools.gov.sg)     |
+
+#### Primary 6 Teachers
+
+| Class | Form Teacher | Email |
+| -------- | -------- | -------- |
+| 6 Integrity     | Mdm Toh Jit Ho     | [toh_jit_ho_adeline@schools.gov.sg](toh_jit_ho_adeline@schools.gov.sg)     |
+|     | Mrs Jessie Soh    | [lim_chieh_sze@schools.gov.sg](lim_chieh_sze@schools.gov.sg)     |
+| 6 Respect    | Ms Lee Suan Ling June     | [lee_suan_ling_june@schools.gov.sg](lee_suan_ling_june@schools.gov.sg)     |
+|     | Mrs Angeline Ong    | [angeline_chia_lin@schools.gov.sg](angeline_chia_lin@schools.gov.sg)     |
+| 6 Responsibility     | Ms Neo Sin Yi    | [neo_sin_yi@schools.gov.sg](neo_sin_yi@schools.gov.sg)     |
+|      | Ms Tan Hui Chin     | [tan_hui_chin@schools.gov.sg](tan_hui_chin@schools.gov.sg)     |
+| 6 Resilience    | Ms Tse Min Yan    | [tse_min_yan@schools.gov.sg](tse-min_yan@schools.gov.sg)     |
+|      | Mr Mazlan Bin Muhammad    | [mazlan_b_muhammad@schools.gov.sg](mazlan_b_muhammad@schools.gov.sg)     |
+| 6 Compassion     | Mr Mohamed Najeeb     | [najeeb_hassan@schools.gov.sg](najeeb_hassan@schools.gov.sg)     |
+|      | Ms Tan Wei Wen     | [tan_wei_wen@schools.gov.sg](tan_wei_wen@schools.gov.sg)   |
+| 6 Bravery    | Ms Danielle Rachel Chong     | [danielle_rachel_chong@schools.gov.sg](danielle_rachel_chong@schools.gov.sg)     |
+|      | Mr Lim Fang Rui     | [lim_fang_rui@schools.gov.sg](lim_fang_rui@schools.gov.sg)     |

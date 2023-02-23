@@ -55,6 +55,10 @@ Mr Loh Wei Leong
 | 2 Perseverance     | Ms Tan Jinwen Mavis     | [tan_jinwen_mavis@schools.gov.sg](tan_jinwen_mavis@schools.gov.sg)     |
 |      | Ms Liu Xiaoyun     | [liu_xiaoyun@schools.gov.sg](liu_xiaoyun@schools.gov.sg)     |
 
+##### **Assistant Year Head - Middle Primary**
+
+Mdm Halimaton Abdullah   
+[halimaton_abdullah@schools.gov.sg](halimaton_abdullah@schools.gov.sg) 
 #### Primary 3 Teachers
 
 | Class | Form Teacher | Email |
@@ -74,6 +78,11 @@ Mr Loh Wei Leong
 | 3 Graciousness     | Mrs Jacinta Gomes     | [jacinta_mary_de_almeida@schools.gov.sg](jacinta_mary_de_almeida@schools.gov.sg)     |
 |      | Mr Liu Peng     | [liu_peng@schools.gov.sg](liu_peng@schools.gov.sg)     |
 
+##### **Year Head - Middle Primary**
+
+Mdm Lee Oi Foong Margaret
+[lee_oi_foong_margaret@schools.gov.sg](lee_oi_fong_margaret@schools.gov.sg) 
+
 #### Primary 4 Teachers
 
 | Class | Form Teacher | Email |
@@ -91,6 +100,11 @@ Mr Loh Wei Leong
 |      | Ms Nurul Aini Binte Zainol     | [nurul_aini_zainol@schools.gov.sg](nurul_aini_zainol@schools.gov.sg)   |
 | 4 Bravery    | Mr Ho Koon Min Martin     | [ho_koon_min_martin@schools.gov.sg](ho_koon_min_martin@schools.gov.sg)     |
 |      | Mr Mohammad Hasri     | [mohammad_hasri@schools.gov.sg](mohammad_hasri@schools.gov.sg)     |
+
+##### **Year Head - Middle Primary**
+
+Ms Li Wenlin
+[li_wenlin@schools.gov.sg](li_wenlin@schools.gov.sg) 
 
 #### Primary 5 Teachers
 

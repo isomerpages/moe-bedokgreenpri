@@ -205,23 +205,7 @@ Tan Yan Xin (4 RES)<br>
 
 * * *
 Mythos Junior Orators 2022<br>
-Raffan Faris Bin Mohammad Suhaimi (4 RSL) and Bukkawar Swara Swapnil (5 INT) of Drama Club had taken part in the Mythos Junior Orators 2022, a storytelling competition for primary school students, organised by Anglo-Chinese Junior College. Participants had to showcase their ability to deliver stories a fluent and expressive manner in order to engage viewers with their interpretations of the different characters. Swara achieved a Certificate of Participation for her efforts and Raffan achieved the Semi-Finalist award for his rendition of 'The Foolish Lion and the Clever Rabbit'. 
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Zeyrian%20Faris.png" alt="Zeyrian Fari" style="width:70%;">  
-  
-</body>
-
-<p style="text-align:center;">Congratulations to Zeyrian!</p>
-  
-
-  
+Raffan Faris Bin Mohammad Suhaimi (4 RSL) and Bukkawar Swara Swapnil (5 INT) of Drama Club had taken part in the Mythos Junior Orators 2022, a storytelling competition for primary school students, organised by Anglo-Chinese Junior College. Participants had to showcase their ability to deliver stories a fluent and expressive manner in order to engage viewers with their interpretations of the different characters. Swara achieved a Certificate of Participation for her efforts and Raffan achieved the Semi-Finalist award for his rendition of 'The Foolish Lion and the Clever Rabbit'.  
 
 * * *
 

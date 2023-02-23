@@ -164,24 +164,15 @@ As part of our efforts to broaden English Language learning and expose students 
 
 * * *
 
-#### Empathetic Communicators
+### Empathetic Communicators
 -----------------------
 
- **Our BGPS Debaters**
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Our%20BGPS%20Debaters%20and%20Scrabblers.jpeg" alt="Our BGPS Debaters and Scrabblers" style="width:70%;">  
-  
+####  **Our BGPS Debaters**
+ 
 </body>
 
 BGPS Debating Teams do consistently well in debate competitions. These inter-school competitions are demanding and offer our students a valuable platform to gain exposure and showcase their oratorical skills. In 2022, the following students participated in **Wits & Words** Division 2:<br>
-**Wits & Words (Division 2) Team: **<br>
+Wits & Words (Division 2) Team:<br>
 Jessica Isabelle Clark (6 INT) <br>
 Ampo Ayesha Khobe Centano (6 RES) <br>
 Isadore Ong Hui Ci (6 INT) <br>
@@ -204,48 +195,5 @@ Lim Hui Ting (4 RPS)<br>
 Tan Yan Xin (4 RES)<br>
 
 * * *
-Mythos Junior Orators 2022<br>
+#### **Mythos Junior Orators 2022**<br>
 Raffan Faris Bin Mohammad Suhaimi (4 RSL) and Bukkawar Swara Swapnil (5 INT) of Drama Club had taken part in the Mythos Junior Orators 2022, a storytelling competition for primary school students, organised by Anglo-Chinese Junior College. Participants had to showcase their ability to deliver stories a fluent and expressive manner in order to engage viewers with their interpretations of the different characters. Swara achieved a Certificate of Participation for her efforts and Raffan achieved the Semi-Finalist award for his rendition of 'The Foolish Lion and the Clever Rabbit'.  
-
-* * *
-
-### EL Debate Achievement 
-
-Two teams comprising Primary 4, 5 and 6 students pitted their debating skills in the Primary School Debate Open (PSDO) Division 2 on 21 and 28 November. The interschool competition gave students a platform to showcase their oratorical skills. Both our teams, led by Mrs Jacinta Gomes and Mdm Nurul Huda, definitely showed confidence in delivering compelling arguments. After 4 gruelling rounds, our P6 team emerged 3rd while our P4 and P5 team emerged 7th! Isabelle Ong Hui Xien (6RPS) and Wong Tian An (6RPS) were also among the top 20 students to receive the Good Speaker Award. Congratulations to both our teams! 
-
-  
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s2rg"><span style="color:#222">Team</span>    <span style="color:#222">A</span></th>
-    <th class="tg-s2rg"><span style="color:#222">Team B</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-hp8w">Isabelle Ong Hui Xien (6RPS) <br>Wong Tian An (6RPS) <br>Tan Jia En (6INT) <br>Caelen Lim (6RPS) <br>Chia Kia Sim (6RPS) </td>
-    <td class="tg-hp8w">Kabir Srivastav (5COM) <br>Wilfred Gau Wee Kai (5COM) <br><span style="color:#000">Goh Einzy (5RSL)</span><br>Jessica Isabelle Clark (4COM) <br>Ampo Ayesha Khobe Centeno (4COM)</td>
-  </tr>
-</tbody>
-</table>
-
-  
-
-![Team A](/images/Team%20A%20Debate.jpeg)
-
-  
-![Team B](/images/Team%20B%20Debate.jpeg)
-
-  
-![Both teams with teachers](/images/Both%20teams%20with%20teachers.jpeg)
-
-![Students in action](/images/Students%20in%20action.jpeg)

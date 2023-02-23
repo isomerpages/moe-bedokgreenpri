@@ -37,23 +37,76 @@ Mr Loh Wei Leong
 
 | Class | Form Teacher | Email |
 | -------- | -------- | -------- |
-| 2 Integrity     | Mdm Fazidah Soeratman     | Text     |
+| 2 Integrity     | Mdm Fazidah Soeratman     | [fazidah_bt_soeratman@schools.gov.sg](fazidah_bt_soeratman@schools.gov.sg)     |
 |     | Mr Poon Long Javier    | [poon_long_javier@schools.gov.sg](poon_long_javier@schools.gov.sg)     |
 | 2 Respect    | Mdm Chia Sock Lang     | [chia_sock_lang@schools.gov.sg](chia_sock_lang@schools.gov.sg)     |
-|     | Mr Lukman Nurhakim    | Text     |
-| 2 Responsibility     | Ms Choo Jia En Audrey     | Text     |
-|      | Ms Lim Sock Keow Noel     | Text     |
+|     | Mr Lukman Nurhakim    | [lukman_nurhakim_noordin@schools.gov.sg](lukman_nurhakim_noordin@schools.gov.sg)     |
+| 2 Responsibility     | Ms Choo Jia En Audrey     | [audrey_choo_jia_en@schools.gov.sg](audrey_choo_jia_en@schools.gov.sg)     |
+|      | Ms Lim Sock Keow Noel     | [chua-lim_sock_keow@schools.gov.sg](chua-lim_sock_keow@schools.gov.sg)     |
 | 2 Resilience    | Mr Chin Seng Choy Lance     | [chin_seng_choy_lance@schools.gov.sg](chin_seng_choy_lance@schools.gov.sg)     |
 |      | Mrs Samsina Herbert    | [samsina_herbert@schools.gov.sg](samsina_herbert@schools.gov.sg)     |
-| 2 Compassion     | Miss Shadelina Bte Mohd Shariffudin     | Text     |
+| 2 Compassion     | Miss Shadelina Bte Mohd Shariffudin     | [shadelina_mohd_shariffudin@schools.gov.sg](shadelina_mohd_shariffudin@schools.gov.sg)     |
 |      | Mr Gwee Boon Tiong     | [gwee_boon_tiong@schools.gov.sg](gwee_boon_tiong@schools.gov.sg)   |
-| 2 Bravery    | Miss Kway Irene     | Text     |
-|      | Miss Shanthini d/o Ramalingam     | Text     |
-| 2 Graciousness     | Miss Valerie Cheng Yuning     | Text     |
-|      | Mdm Noorlin Binte Haron     | Text     |
-|      | Ms Chua Shu Hui Vivian    | Text     |
+| 2 Bravery    | Miss Kway Irene     | [irene_kway@schools.gov.sg](irene_kway@schools.gov.sg)     |
+|      | Miss Shanthini d/o Ramalingam     | [shanthini_ramalingam@schools.gov.sg](shanthini_ramalingam@schools.gov.sg)     |
+| 2 Graciousness     | Miss Valerie Cheng Yuning     | [valerie_cheng_yuning@schools.gov.sg](valerie_cheng_yuning@schools.gov.sg)     |
+|      | Mdm Noorlin Binte Haron     | [noorlin_haron@schools.gov.sg](noorlin_haron@schools.gov.sg)     |
+|      | Ms Chua Shu Hui Vivian    | [chua_shu_hui_vivian@schools.gov.sg](chua_shu_hui_vivian@schools.gov.sg)     |
 | 2 Perseverance     | Ms Tan Jinwen Mavis     | [tan_jinwen_mavis@schools.gov.sg](tan_jinwen_mavis@schools.gov.sg)     |
 |      | Ms Liu Xiaoyun     | [liu_xiaoyun@schools.gov.sg](liu_xiaoyun@schools.gov.sg)     |
 
+#### Primary 3 Teachers
 
+| Class | Form Teacher | Email |
+| -------- | -------- | -------- |
+| 3 Integrity     | Mdm Nurhana Hafiz     | [nurhana_hafiz@schools.gov.sg](nurhana_hafiz@schools.gov.sg)     |
+|     | Mr Wu Hao    | [wu_hao@schools.gov.sg](wu_hao@schools.gov.sg)     |
+| 3 Respect    | Ms Chung Pei Ling     | [chung_pei_ling@schools.gov.sg](chung_pei_ling@schools.gov.sg)     |
+|     | Ms Jayasarasvathi Durai Kannu    | [jayasarasvathi_durai_kannu@schools.gov.sg](jayasarasvathi_durai_kannu@schools.gov.sg)     |
+| 3 Responsibility     | Ms Sylvina Maylie Nathan Tan     | [sylvina_maylie_nathan_tan@schools.gov.sg](sylvina_maylie_nathan_tan@schools.gov.sg)     |
+|      | Mdm Zahidah Shamsul     | [zahidah_shamsul@schools.gov.sg](zahidah_shamsul@schools.gov.sg)     |
+| 3 Resilience    | Ms Hilwah Binte Lukman     | [hilwah_lukman@schools.gov.sg](hilwah_lukman@schools.gov.sg)     |
+|      | Mr Dave Liu    | [dave_liu@schools.gov.sg](dave_liu@schools.gov.sg)     |
+| 3 Compassion     | Ms Lim Poh Tse Ellen     | [lim_poh_tse_ellen@schools.gov.sg](lim_poh_tse_ellen@schools.gov.sg)     |
+|      | Mdm Nurrashidah Binte Mansoor     | [nurrashidah_mansoor@schools.gov.sg](nurrashidah_mansoor@schools.gov.sg)   |
+| 3 Bravery    | Ms Sangeetha Yadav     | [sangeetha_yadav@schools.gov.sg](sangeetha_yadav@schools.gov.sg)     |
+|      | Mr Muhammad Khairi Iqbal     | [muhammad_khairi_iqbal@schools.gov.sg](muhammad_khairi_iqbal@schools.gov.sg)     |
+| 3 Graciousness     | Mrs Jacinta Gomes     | [jacinta_mary_de_almeida@schools.gov.sg](jacinta_mary_de_almeida@schools.gov.sg)     |
+|      | Mr Liu Peng     | [liu_peng@schools.gov.sg](liu_peng@schools.gov.sg)     |
 
+#### Primary 4 Teachers
+
+| Class | Form Teacher | Email |
+| -------- | -------- | -------- |
+| 4 Integrity     | Ms Sri Idayu     | [sri_idayu_mohamed_idris@schools.gov.sg](sri_idayu_mohamed_idris@schools.gov.sg)     |
+|     | Ms Ong Su San Faith    | [ong_su_san_faith@schools.gov.sg](ong_su_san_faith@schools.gov.sg)     |
+| 4 Respect    | Ms Chew Mei-Hua Elissa Ann     | [chew_mei-hua_elissa_ann@schools.gov.sg](chew_mei-hua_elissa_ann@schools.gov.sg)     |
+|     | Mdm Tan Yee Chie Pamela    | [tan_yee_chie_pamela@schools.gov.sg](tan_yee_chie_pamela@schools.gov.sg)     |
+| 4 Responsibility     | Mr Keng Xing Wei Darren    | [keng_xing_wei_darren@schools.gov.sg](keng_xing_wei_darren@schools.gov.sg)     |
+|      | Mdm Lim Lai Li     | [lim_lai_li@schools.gov.sg](lim_lai_li@schools.gov.sg)     |
+|      | Mdm Halimaton Abdullah    | [halimaton_abdullah@schools.gov.sg](halimaton_abdullah@schools.gov.sg)     |
+| 4 Resilience    | Ms Khoo Kar Hoe     | [khoo_kar_hoe@schools.gov.sg](khoo_kar_hoe@schools.gov.sg)     |
+|      | Mr Leung Pak Kin    | [leung_pak_kin@schools.gov.sg](leung_pak_kin@schools.gov.sg)     |
+| 4 Compassion     | Ms Ng Jieying     | [ng_jieying@schools.gov.sg](ng_jieying@schools.gov.sg)     |
+|      | Ms Nurul Aini Binte Zainol     | [nurul_aini_zainol@schools.gov.sg](nurul_aini_zainol@schools.gov.sg)   |
+| 4 Bravery    | Mr Ho Koon Min Martin     | [ho_koon_min_martin@schools.gov.sg](ho_koon_min_martin@schools.gov.sg)     |
+|      | Mr Mohammad Hasri     | [mohammad_hasri@schools.gov.sg](mohammad_hasri@schools.gov.sg)     |
+
+#### Primary 5 Teachers
+
+| Class | Form Teacher | Email |
+| -------- | -------- | -------- |
+| 5 Integrity     | Mr Ng Chee Keong     | [ng_chee_keong_b@schools.gov.sg](ng_chee_keong_b@schools.gov.sg)     |
+|     | Ms Lim Ee Sze    | [lim_ee_sze@schools.gov.sg](lim_ee_sze@schools.gov.sg)     |
+| 5 Respect    | Mdm Shariffah Faizah binte Hassan A     | [shariffah_faizah_hassan@schools.gov.sg](shariffah_faizah_hassan@schools.gov.sg)     |
+|     | Mrs Christina Koh    | [christina_wong_hsui_peng@schools.gov.sg](christina_wong_hsui_peng@schools.gov.sg)     |
+| 5 Responsibility     | Mdm Khairiah Binte Abdulmajid H    | [khairiah_abdulmajid_h@schools.gov.sg](keng_xing_wei_darren@schools.gov.sg)     |
+|      | Ms Nur Ain     | [nur_ain_abdul_razak@schools.gov.sg](nur_ain_abdul_razak@schools.gov.sg)     |
+|      | Mr Thio Beng Lou Alvin    | [thio_beng_lou_alvin@schools.gov.sg](thio_beng_lou_alvin@schools.gov.sg)     |
+| 5 Resilience    | Ms Lynn Tay Ern Hwee     | [lynn_tay_ern_hwee@schools.gov.sg](lynn_tay_ern_hwee@schools.gov.sg)     |
+|      | Mdm Zaidah Yusoff    | [zaidah_yusoff@schools.gov.sg](zaidah_yusoff@schools.gov.sg)     |
+| 5 Compassion     | Mrs Ng Yen Nee     | [ng_yen_nee@schools.gov.sg](ng_yen_nee@schools.gov.sg)     |
+|      | Ms Farzanah d/o Abdul Samad     | [farzanah_abdul_samad@schools.gov.sg](farzanah_abdul_samad@schools.gov.sg)   |
+|      | Ms Rasidah Binte Bahrom     | [rasidah_bahrom@schools.gov.sg](rasidah_bahrom@schools.gov.sg)   |
+| 5 Bravery    | Mr Pasupathy Magesvaran     | [pasupathy_magesvaran@schools.gov.sg](pasupathy_magesvaran@schools.gov.sg)     |
+|      | Miss Jubilee Lim     | [jubilee_lim@schools.gov.sg](jubilee_lim@schools.gov.sg)     |

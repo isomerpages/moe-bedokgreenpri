@@ -105,18 +105,12 @@ img {
 In partnership with Temasek Junior College (TJC), a group of dedicated students read one-to-one with reluctant readers on some Fridays after school.
 
 This initiative is aimed at providing additional guidance for our students to improve in their oral and listening skills as well as to inculcate in them a love for reading.  
+ 
 
-  
-
-The programme is a firm favourite among our students as it gives them opportunities to interact and learn from their 'brothers and sisters' from TJC. It was also featured in the Chinese language media as an effective approach towards inculcating the love of reading among these students. 
-
-  
-
-  
+The programme is a firm favourite among our students as it gives them opportunities to interact and learn from their 'brothers and sisters' from TJC. It was also featured in the Chinese language media as an effective approach towards inculcating the love of reading among these students.  
 
 * * *
 
-  
 
 **(c) Star Readers Programme**  
 
@@ -166,7 +160,7 @@ As part of our efforts to broaden English Language learning and expose students 
 ### Empathetic Communicators
 -----------------------
 
-####  **Our BGPS Debaters**
+#####  **Our BGPS Debaters**
  
 </body>
 

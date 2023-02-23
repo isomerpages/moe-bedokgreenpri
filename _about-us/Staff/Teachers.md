@@ -11,7 +11,7 @@ third_nav_title: Staff
 Mr Loh Wei Leong   
 [loh_wei_leong@schools.gov.sg](loh_wei_leong@schools.gov.sg) 
 
-##### Primary 1 Teachers
+#### Primary 1 Teachers
 
 
 | Class | Form Teacher | Email |
@@ -80,7 +80,7 @@ Mdm Halimaton Abdullah
 
 ##### **Year Head - Middle Primary**
 
-Mdm Lee Oi Foong Margaret
+Mdm Lee Oi Foong Margaret<br>
 [lee_oi_foong_margaret@schools.gov.sg](lee_oi_fong_margaret@schools.gov.sg) 
 
 #### Primary 4 Teachers
@@ -103,7 +103,7 @@ Mdm Lee Oi Foong Margaret
 
 ##### **Year Head - Middle Primary**
 
-Ms Li Wenlin
+Ms Li Wenlin<br>
 [li_wen_lin@schools.gov.sg](li_wen_lin@schools.gov.sg)
 
 #### Primary 5 Teachers

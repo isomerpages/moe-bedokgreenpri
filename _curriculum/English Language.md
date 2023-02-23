@@ -11,7 +11,7 @@ Every Child, An Effective Communicator
 
 ### Key Programmes
 
-**STELLAR Curriculum for P1 to P6**  
+##### **STELLAR Curriculum for P1 to P6**  
 
 <style>  
 img {  
@@ -33,7 +33,7 @@ The vision of STELLAR is to inculcate in children the love for reading and build
 <table class="ive_eobj_left iveo_table ives_tab_simple3" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse !important; float: left; border: 1px solid rgb(170, 170, 170); height: 137px; width: 827px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 423px;"><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">P1 and P2 STELLAR teaching strategies include:</span><br style="margin: 0px; outline: 0px; padding: 0px;"></font></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">-<span>&nbsp;</span></span><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;">Shared Book Approach (SBA)<br style="margin: 0px; outline: 0px; padding: 0px;"></span>- Modified Learning Experience Approach (MLEA)<br style="margin: 0px; outline: 0px; padding: 0px;">- Learning Centres<br style="margin: 0px; outline: 0px; padding: 0px;"></span></font></h4></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 402px;"><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; color: rgb(0, 0, 0); text-indent: -18pt;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">P3 and P6 STELLAR teaching strategies include:</font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><span lang="EN" style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; text-indent: -18pt;"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">- Supported Reading<br style="margin: 0px; outline: 0px; padding: 0px;"></font></span>-&nbsp;</font><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">What I Know - What I Want to Know - What I Learned (KWL)</font></span></h4><h4 style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34); font-size: 20px; font-family: verdana, sans-serif; line-height: 1.5;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important; font-weight: normal;">- Writing Process Cycle<br style="margin: 0px; outline: 0px; padding: 0px;">- Differentiated Instruction</font></h4></td></tr></tbody></table>
 <br>
 
-#### Extensive Reading
+##### **Extensive Reading**
 
 Learning Journeys are also organised to enrich students’ learning. These learning journeys are aligned with some of the STELLAR Big Book titles. During these school trips, students would be able to gain more insight and delve deeper into the themes introduced in the Big Books. Examples of these learning journeys include trip to the Singapore Zoological Garden and the SEA Aquarium for the lower primary students. 
 
@@ -50,9 +50,7 @@ img {
   
 </body>
 
-  
-
-### Reading Programmes
+##### **Reading Programmes**
 
 Reading is an important skill that needs to be developed in children. The ability to learn about new subjects depends on the ability to read. Hence, the school has initiated programmes such as KidsREAD, the Buddy Reading Programme and Star Readers Programme to cultivate an interest in reading amongst our students. 
 
@@ -149,7 +147,7 @@ All classes are stocked with both fiction and non-fiction books for students to 
 
 * * *
 
-**Little Red Dot (P4 to P5)**
+##### **Little Red Dot (P4 to P5)**
 
 As part of our efforts to broaden English Language learning and expose students to current affairs, the school requires our students to subscribe to the Straits Times Little Red Dot. The publication delivers stories to address the significance behind important world and local events and has elements of social emotional learning, values education and National Education. It also emphasises the learning of specific language skills such as reading, speaking and grammar by providing lesson activities which the English Language teachers infuse in their classes.
 
@@ -188,5 +186,5 @@ Lim Hui Ting (4 RPS)<br>
 Tan Yan Xin (4 RES)<br>
 
 * * *
-#### **Mythos Junior Orators 2022**<br>
+##### **Mythos Junior Orators 2022**<br>
 Raffan Faris Bin Mohammad Suhaimi (4 RSL) and Bukkawar Swara Swapnil (5 INT) of Drama Club had taken part in the Mythos Junior Orators 2022, a storytelling competition for primary school students, organised by Anglo-Chinese Junior College. Participants had to showcase their ability to deliver stories a fluent and expressive manner in order to engage viewers with their interpretations of the different characters. Swara achieved a Certificate of Participation for her efforts and Raffan achieved the Semi-Finalist award for his rendition of 'The Foolish Lion and the Clever Rabbit'.

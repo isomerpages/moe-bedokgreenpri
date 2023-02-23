@@ -24,3 +24,6 @@ description: ""
 [Parent/Alumni Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSetKHoBFT316tMEsbT6JcXVvZNs_LaT7JUewGKdlwZDg1BxdQ/viewform)<br>
 [Operations Service Request](https://sites.google.com/view/bgpsrequest/operations-request)<br>
 [ICT Request Form](https://sites.google.com/view/bgpsrequest/home)<br>
+
+#### School Calendar for Staff
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSingapore&src=dDAzOGQxc2RobDZhcTJ1M2docDVqZDFpc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YWRtaW5fYmdwc0Btb2UuZWR1LnNn&color=%237CB342&color=%23AD1457" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - ALP/Applied Learning Programme (ALP).md
-      - ALP/.keep
+      - Signature Programmes/Applied Learning Programme (ALP).md
+      - Signature Programmes/.keep
       - English Language.md
       - Mother Tongue Languages.md
       - Mathematics.md

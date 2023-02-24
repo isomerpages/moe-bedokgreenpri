@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Signature Programmes/Lifelong Learning Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/.keep
       - English Language.md

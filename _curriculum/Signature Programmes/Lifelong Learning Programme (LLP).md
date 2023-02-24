@@ -7,7 +7,7 @@ third_nav_title: Signature Programmes
 #### STRIVE (**S**ports and Aesthetics **T**o **R**e**I**nforce **V**alues **E**ducation)
 #### 
 
-##### Mission<br>
+##### Mission
 
 Inculcating values in students through learning experiences in the physical and aesthetics domain
 

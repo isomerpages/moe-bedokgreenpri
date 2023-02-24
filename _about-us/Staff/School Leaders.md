@@ -12,5 +12,6 @@ Mr Benjamin Yong<br>
 ##### **Vice-Principal**
 Mr Yeo Shor Hor <br>
 [yeo_shor_hor@schools.gov.sg](yeo_shor_hor@schools.gov.sg) <br>
+
 Mdm Sharifa Fairuz Syed Alsagoff<br>
 [sharifah_fairuz_syed_alsagoff@schools.gov.sg](sharifah_fairuz_syed_alsagoff@schools.gov.sg)

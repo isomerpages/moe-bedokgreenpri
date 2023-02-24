@@ -4,8 +4,7 @@ permalink: /curriculum/Signature-Programmes/llp/
 description: ""
 third_nav_title: Signature Programmes
 ---
-#### STRIVE (**S**ports and Aesthetics **T**o **R**e**I**nforce **V**alues **E**ducation)
-#### 
+### STRIVE (**S**ports and Aesthetics **T**o **R**e**I**nforce **V**alues **E**ducation)
 
 ##### Mission
 

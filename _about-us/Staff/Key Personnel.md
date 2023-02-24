@@ -20,7 +20,6 @@ Ms Lim Ee Sze<br>
 ##### **Head of Department (Mathematics)**
 Mrs Angeline Ong<br>
 [angeline_chia_lin@schools.gov.sg]
-(angeline_chia_lin@schools.gov.sg) 
 
 ##### **Level Head (Mathematics)**
 Ms Ng Jieying<br>
@@ -61,5 +60,3 @@ Mr Lim Fang rui<br>
 ##### **Subject Head (ICT)**
 Mr Mohd Najeeb Hassan<br>
 [najeeb_hassan@schools.gov.sg](najeeb_hassan@schools.gov.sg)
-
-

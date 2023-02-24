@@ -2,31 +2,25 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Bedok Green Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "1 Bedok South Avenue 2 "
+      - Singapore 469317
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7 a.m. - 5.30 p.m.
+        description: Term Time
+      - days: "Mon - Fri "
+        time: 7.30 a.m. - 4.00 p.m
+        description: School Holidays
+    maps_link: ""
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6442 5416
+      - email: bgps@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
 ---

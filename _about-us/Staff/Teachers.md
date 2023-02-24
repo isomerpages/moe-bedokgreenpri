@@ -31,7 +31,7 @@ Mr Loh Wei Leong
 | 1 Graciousness     | Miss Nur Ashikin     | [nur_ashikin_jufri@schools.gov.sg](nur_ashikin_jufri@schools.gov.sg)     |
 |      | Miss Lim Hui Min Gladys     | [lim_hui_min_gladys@schools.gov.sg](lim_hui_min_gladys@schools.gov.sg)     |
 | 1 Perseverance     | Mdm Nurul Shamin    | [nurul_shamin_mohamed_ekbal@schools.gov.sg](nurul_shamin_mohamed_ekbal@schools.gov.sg)     |
-| 1 Graciousness     | Miss Mellisa Puah     | [mellisa_puah_mun_mun@schools.gov.sg](mellisa_puah_mun_mun@schools.gov.sg)     |
+|      | Miss Mellisa Puah     | [mellisa_puah_mun_mun@schools.gov.sg](mellisa_puah_mun_mun@schools.gov.sg)     |
 
 #### Primary 2 Teachers
 
@@ -101,7 +101,7 @@ Mdm Lee Oi Foong Margaret<br>
 | 4 Bravery    | Mr Ho Koon Min Martin     | [ho_koon_min_martin@schools.gov.sg](ho_koon_min_martin@schools.gov.sg)     |
 |      | Mr Mohammad Hasri     | [mohammad_hasri@schools.gov.sg](mohammad_hasri@schools.gov.sg)     |
 
-##### **Year Head - Middle Primary**
+##### **Year Head - Upper Primary**
 
 Ms Li Wenlin<br>
 [li_wen_lin@schools.gov.sg](li_wen_lin@schools.gov.sg)

@@ -54,7 +54,8 @@ At Bedok Green Primary School, the following Sexuality Education lessons will be
 ![](/images/2023%20SEd%203%20Updated.png)
 ![](/images/2023%20SEd%205%20Updated.png)
 *Please Note:
-For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.* <br>
+For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.*
+
 
 Information for Parents:<br>
 1.      Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.<br>

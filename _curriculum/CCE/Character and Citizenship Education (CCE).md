@@ -44,10 +44,22 @@ b.      Character and Citizenship Education (CCE)<br>
 Sexuality Education Lessons:<br>
 3.      The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.<br>
 
-4.      Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
+4.      Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 5.      In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 
 At Bedok Green Primary School, the following Sexuality Education lessons will be taught in 2023:<br>
 
 ![](/images/2023%20SEd%201%20Updated.png)
-![](/images/2023%20SEd%202%20Updated.png)
+![](/images/2023%20SEd%202%20Updated.png)<br>
+![](/images/2023%20SEd%203%20Updated.png)
+![](/images/2023%20SEd%205%20Updated.png)
+*Please Note:
+For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.* <br>
+
+INFORMATION FOR PARENTS<br>
+1.      Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.<br>
+2.      Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents nearer the start of the programme and is also downloadable here: [Parent Opt-Out Form 2023](/files/Parent%20opt%20out%20form%202023.pdf)<br>
+A hard copy of the form, duly completed and signed, is to be submitted to the school office by the stated date in the letter that will be issued out nearer to programme date.<br>
+3.      Parents can contact the school at 64425416 or via email at bgps@moe.edu.sg for discussion or to seek clarification about the school’s SEd programme.
+
+

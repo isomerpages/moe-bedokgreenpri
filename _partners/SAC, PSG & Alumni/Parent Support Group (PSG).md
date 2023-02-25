@@ -6,8 +6,8 @@ third_nav_title: SAC, PSG & Alumni
 ---
 BGPS PSG is made up of a group of passionate BGPS parents with a keen interest in contributing to the school and who readily renders their help and services. Over the years, PSG has forged a strong and trusting relationship with the school. PSG members keep abreast of the school’s programmes and volunteer to help when needed. Through the PSG network, members receive mutual support and guidance to strengthen their parent-child relationships.
 
-![PSG Exco](/images/PSG%20Exco.jpeg)
+![](/images/2023%20PSG%20EXCO%20Team%20(002).jpg)
 
 ### Come and join us!
 
-![Promo slide poster](/images/Promo%20slide%20poster.jpeg)
+![](/images/Promo%202023.jpg)

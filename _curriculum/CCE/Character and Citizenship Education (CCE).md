@@ -49,5 +49,5 @@ Sexuality Education Lessons:<br>
 
 At Bedok Green Primary School, the following Sexuality Education lessons will be taught in 2023:
 ![](/images/2023%20SEd.png)
-
- 
+![](/images/2023%20SEd%202.png)
+<br>

@@ -25,3 +25,14 @@ third_nav_title: Staff
 |Operation Support Officer (OSO)  |Mdm Mastura|
 |Operation Support Officer (OSO)  |Mdm Ho Beng Ho|
 
+## Allied Educators 
+
+
+| Designation | Name | Email address |
+| -------- | -------- | -------- |
+| Senior Special Educational Needs Officer     | Ms Kee Ee Kheng     | [kee_ee_kheng@schools.gov.sg](kee_ee_kheng@schools.gov.sg)     |
+| Special Educational Needs Officer     | Mdm Suriani     | [suriani_abd_shukor@schools.gov.sg](suriani_abd_shukor@schools.gov.sg)     |
+| Special Educational Needs Officer     | Mrs Descalsota Teodora     | [descalsota_teodora_bernardino@schools.gov.sg](descalsota_teodora_bernardino@schools.gov.sg)     |
+| Special Educational Needs Officer     | Ms Sheryl Wong Shi Hui     | [sheryl_wong_shi_hui@schools.gov.sg](sheryl_wong_shi_hui@schools.gov.sg)     |
+| School Counsellor     | Ms Janice Aw    | [aw_chiew_khim_janice@schools.gov.sg](aw_chiew_khim_janice@schools.gov.sg)     |
+| School Counsellor     | Mr See Siang Hua     | [see_siang_hua@schools.gov.sg](see_siang_hua@schools.gov.sg)     |

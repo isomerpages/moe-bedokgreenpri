@@ -37,9 +37,3 @@ Together hand in hand in perfect harmony <br>
 Persevere and succeed <br>
 We believe in our dreams <br>
 Be a vibrant learning community
-
-  
-
-Play school song (audio)
-
-**MP3 file?**

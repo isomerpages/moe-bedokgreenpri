@@ -3,14 +3,21 @@ title: Information for Parents
 permalink: /about-us/information-for-parents/
 description: ""
 ---
-School Textbooks (P1-6) Booklist 2022
+P1 Parents' Engagement 2023
+-------------------------------------
+[](/files/Welcome%20Address%20Sharing%20for%20Parents%202023.pdf)
+[](/files/Curriculum%20&%20Assessment%20Sharing%20for%20Parents%202023.pdf)
+[](/files/Character%20Development%20Sharing%20for%20Parents%202023.pdf)
+
+
+School Textbooks (P1-6) Booklist 2023
 -------------------------------------
 
 Click on this link to purchase your school books online - [www.pacificbookstores.com](http://www.pacificbookstores.com/)  
 Please refer to the booklist:   
-[Booklist.zip](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/About%20Us/Info%20for%20Parents%20(2022)/Booklist.zip) **(zip file!)** 
-  
+[](/files/School%20Booklist.pdf)
 
+  
 Uniform Price List and Name Tag Order
 -------------------------------------
 

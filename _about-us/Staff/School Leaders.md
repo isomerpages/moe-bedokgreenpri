@@ -7,11 +7,11 @@ third_nav_title: Staff
 ## School Leaders 
 ##### **School Principal**
 
-![](/images/143%20Benjamin%20Yong.jpg)
 Mr Benjamin Yong<br>
 [benjamin_yong@schools.gov.sg](benjamin_yong@schools.gov.sg) 
 
 ##### **Vice-Principal**
+
 Mr Yeo Sho Hor <br>
 [yeo_sho_hor@schools.gov.sg](yeo_sho_hor@schools.gov.sg) <br>
 

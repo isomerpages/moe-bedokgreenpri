@@ -3,6 +3,13 @@ title: Information for Parents
 permalink: /about-us/information-for-parents/
 description: ""
 ---
+P1 Parents' Engagement 2023
+-------------------------------------
+[](/files/Welcome%20Address%20Sharing%20for%20Parents%202023.pdf)
+[](/files/Curriculum%20&%20Assessment%20Sharing%20for%20Parents%202023.pdf)
+[](/files/Character%20Development%20Sharing%20for%20Parents%202023.pdf)
+
+
 School Textbooks (P1-6) Booklist 2023
 -------------------------------------
 

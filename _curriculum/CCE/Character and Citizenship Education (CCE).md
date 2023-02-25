@@ -56,10 +56,8 @@ At Bedok Green Primary School, the following Sexuality Education lessons will be
 *Please Note:
 For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.* <br>
 
-INFORMATION FOR PARENTS<br>
+Information for Parents:<br>
 1.      Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.<br>
 2.      Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents nearer the start of the programme and is also downloadable here: [Parent Opt-Out Form 2023](/files/Parent%20opt%20out%20form%202023.pdf)<br>
 A hard copy of the form, duly completed and signed, is to be submitted to the school office by the stated date in the letter that will be issued out nearer to programme date.<br>
 3.      Parents can contact the school at 64425416 or via email at bgps@moe.edu.sg for discussion or to seek clarification about the school’s SEd programme.
-
-

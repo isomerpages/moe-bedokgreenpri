@@ -25,7 +25,7 @@ Drama Club CCA provides opportunities for students who are interested in drama a
 
 * * *
 
-Infocomm and JMedia Club
+Infocomm and Media Club
 ----------------------------
 
 ![Infocomm and Journalism Club](/images/DSC04931.jpeg)

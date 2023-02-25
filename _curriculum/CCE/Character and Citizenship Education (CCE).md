@@ -47,7 +47,7 @@ Sexuality Education Lessons:<br>
 4.      Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 
-At Bedok Green Primary School, the following Sexuality Education lessons will be taught in 2023:
-![](/images/2023%20SEd.png)
-![](/images/2023%20SEd%202.png)
-<br>
+At Bedok Green Primary School, the following Sexuality Education lessons will be taught in 2023:<br>
+
+![](/images/2023%20SEd%201%20Updated.png)
+![](/images/2023%20SEd%202%20Updated.png)

@@ -25,9 +25,9 @@ Drama Club CCA provides opportunities for students who are interested in drama a
 
 * * *
 
-Infocomm and Journalism Club
+Infocomm and JMedia Club
 ----------------------------
 
 ![Infocomm and Journalism Club](/images/DSC04931.jpeg)
 
-Students from Infocomm and Journalism Club CCA will be engaged in a fun and meaningful way through the learning of new skills and the cultivating of leadership and entrepreneurship capabilities. Students in the CCA are given opportunities to develop and excel in skills which includes programming, photography and the development of mobile applications. Some CCA members will also learn to become advocates of cyber-wellness in a vibrant ICT environment.
+Students from Infocomm and Media Club CCA will be engaged in a fun and meaningful way through the learning of new skills and the cultivating of leadership and entrepreneurship capabilities. Students in the CCA are given opportunities to develop and excel in skills which includes programming, photography and the development of mobile applications. Some CCA members will also learn to become advocates of cyber-wellness in a vibrant ICT environment.

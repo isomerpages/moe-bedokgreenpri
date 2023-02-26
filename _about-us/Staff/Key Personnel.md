@@ -4,12 +4,11 @@ permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
 ---
-## Key Personnel
 | Designation | Name | Email |
 | -------- | -------- | -------- |
-| School Staff Developer | Mrs Samsina Herbert   | samsina_herbert@schools.gov.sg  |
-|Head of Department (English) | Ms Sangeetha Yadav  | sangeetha_yadav@schools.gov.sg  |
-|Level Head (English)| Ms Lim Ee Sze | lim_ee_sze@schools.gov.sg  |
+| School Staff Developer | Mrs Samsina Herbert   | [samsina_herbert@schools.gov.sg](samsina_herbert@schools.gov.sg)  |
+| Head of Department (English) | Ms Sangeetha Yadav  | [sangeetha_yadav@schools.gov.sg](sangeetha_yadav@schools.gov.sg)  |
+| Level Head (English)| Ms Lim Ee Sze | lim_ee_sze@schools.gov.sg  |
 |Head of Department (Mathematics)|Mrs Angeline Ong | angeline_chia_lin@schools.gov.sg |
 |Level Head (Mathematics)|Ms Ng Jieying | ng_jieying@schools.gov.sg |
 |Head of Department (Mother Tongue)|Mr Liu Peng | liu_peng@schools.gov.sg |

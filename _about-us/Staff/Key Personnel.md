@@ -19,5 +19,5 @@ third_nav_title: Staff
 | Head of Department (Character & Citizenship Education CCE)     | Mrs Jessie Soh     | [lim_chieh_sze@schools.gov.sg](lim_chieh_sze@schools.gov.sg)     |
 | Head of Department (Discipline)     | Mrs Judy Swee     | [judy_lim_lian_soon@schools.gov.sg](judy_lim_lian_soon@schools.gov.sg)     |
 | Subject Head (Student Well-being)     | Mr Lim Fang Rui     | [lim_fang_rui@schools.gov.sg](lim_fang_rui@schools.gov.sg)     |
-| Head of Department (ICT)     | Mrs Ng Jieying     | [ng_jie_ying@schools.gov.sg](ng_jie_ying@schools.gov.sg)     |
+| Head of Department (ICT)     | Ms Ng Jieying     | [ng_jieying@schools.gov.sg](ng_jieying@schools.gov.sg)     |
 | Subject Head (ICT)     | Mr Mohd Najeeb Hassan     | [najeeb_hassan@schools.gov.sg](najeeb_hassan@schools.gov.sg)     |

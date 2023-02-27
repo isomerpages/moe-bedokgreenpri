@@ -11,7 +11,8 @@ third_nav_title: Staff
 | Mrs Koh Chee Seng     | [koh_chee_seng@schools.gov.sg](koh_chee_seng@schools.gov.sg)     |      |
 | Mdm Lim Eu Eu     | [lim_eu_eu@schools.gov.sg](lim_eu_eu@schools.gov.sg)     |      |
 
-##### **Flexi-Adjunct Teachers**
+#### Flexi-Adjunct Teachers
+
 | Name | Email address |  |
 | -------- | -------- | -------- |
 | Mdm Wardah Adam     | [wardah_adam@schools.gov.sg](wardah_adam@schools.gov.sg)    |      |

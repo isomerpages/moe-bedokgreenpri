@@ -21,9 +21,8 @@ Please refer to the booklist: 
 Uniform Price List and Name Tag Order
 -------------------------------------
 
-Click on this link to purchase your uniform online - [www.khuniform.com](http://www.khuniform.com/).  
-Tel: 6479 6811  
-Email: [sales@khuniform.com](mailto:sales@khuniform.com)  
+Click on [this](www.khuniform.com/bgpsnametag) link to purchase your nametag online 
+[]()
   
 Please refer to the following attachments:  
 [BGPS Uniform Prices 1.1.2022.pdf](/files/BGPS%20Uniform%20Prices%201%20Jan%202022_new%20vendor.pdf) <br>
@@ -31,10 +30,8 @@ Please refer to the following attachments:
 
 School Bus Request Form
 -----------------------
+[](/files/Info%20Sheet%20on%20School%20bus%20Services%20(BGPS)%20(2023).pdf)
 
-Click on the following link to submit your request - [School Bus Request](https://forms.gle/MYuNMu7G8AJwTygK9)  
-Please refer to the following attachment:  
-[Information sheet on School Bus Services For Year 2022.pdf](/files/Information%20sheet%20on%20School%20Bus%20Services%20For%20Year%202022.pdf)  
 
 Student Care Centre (SCC)
 -------------------------

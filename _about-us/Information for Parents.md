@@ -30,12 +30,11 @@ Please refer to the following attachments:
 
 School Bus Request Form
 -----------------------
+Please refer to the following attachment:
 [](/files/Info%20Sheet%20on%20School%20bus%20Services%20(BGPS)%20(2023).pdf)
 
 
 Student Care Centre (SCC)
 -------------------------
 
-Click on the following link to submit your request - [SCC Request](https://forms.gle/fvnhom9pvzYCuAGc7)  
-Please refer to the following attachment:  
-[SCC Brochure.pdf](/files/SCC%20Brochure.pdf)
+Click on the following link to submit your request - [SCC Request](https://form.jotform.com/222634410813447) and to [find out more about the SCC](https://www.aceatwork.com.sg/ace469317) 

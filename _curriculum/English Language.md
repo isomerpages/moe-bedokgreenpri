@@ -147,7 +147,7 @@ All classes are stocked with both fiction and non-fiction books for students to 
 
 * * *
 
-##### **Little Red Dot (P4 to P5)**
+##### **Little Red Dot (P5 to P6)**
 
 As part of our efforts to broaden English Language learning and expose students to current affairs, the school requires our students to subscribe to the Straits Times Little Red Dot. The publication delivers stories to address the significance behind important world and local events and has elements of social emotional learning, values education and National Education. It also emphasises the learning of specific language skills such as reading, speaking and grammar by providing lesson activities which the English Language teachers infuse in their classes.
 

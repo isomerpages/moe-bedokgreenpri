@@ -18,7 +18,6 @@ sections:
           description: Click here for school calendar
           url: /schoolcalendar/
       background: /images/Website Banner (single photo).png
-      subtitle: Empowered Learners, Persons of Strength and Character
   - infopic:
       title: BGPS Corporate Video (Extended)
       button: Click here to watch

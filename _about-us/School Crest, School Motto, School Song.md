@@ -18,6 +18,7 @@ Persevere and Succeed
 
 School Song
 -----------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ebTGPiU8xas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 We, in Bedok Green Primary  <br>
 We always strive to do our best   <br>

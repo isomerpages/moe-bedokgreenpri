@@ -5,17 +5,17 @@ description: ""
 ---
 P1 Parents' Engagement 2023
 -------------------------------------
-[](/files/Welcome%20Address%20Sharing%20for%20Parents%202023.pdf)
-[](/files/Curriculum%20&%20Assessment%20Sharing%20for%20Parents%202023.pdf)
-[](/files/Character%20Development%20Sharing%20for%20Parents%202023.pdf)
+[Welcome Address Sharing for Parents 2023](/files/Welcome%20Address%20Sharing%20for%20Parents%202023.pdf)<br>
+[Curriculum & Assessment Sharing for Parents 2023](/files/Curriculum%20&%20Assessment%20Sharing%20for%20Parents%202023.pdf)<br>
+[Character Development Sharing for Parents 2023](/files/Character%20Development%20Sharing%20for%20Parents%202023.pdf)<br>
 
 
 School Textbooks (P1-6) Booklist 2023
 -------------------------------------
 
 Click on this link to purchase your school books online - [www.pacificbookstores.com](http://www.pacificbookstores.com/)  
-Please refer to the booklist:   
-[](/files/School%20Booklist.pdf)
+Please refer to the booklist: 
+[2023 Booklist](/files/School%20Booklist.pdf)
 
   
 Uniform Price List and Name Tag Order
@@ -30,12 +30,11 @@ Please refer to the following attachments:
 
 School Bus Request Form
 -----------------------
+Please refer to the following attachment:
 [](/files/Info%20Sheet%20on%20School%20bus%20Services%20(BGPS)%20(2023).pdf)
 
 
 Student Care Centre (SCC)
 -------------------------
 
-Click on the following link to submit your request - [SCC Request](https://forms.gle/fvnhom9pvzYCuAGc7)  
-Please refer to the following attachment:  
-[SCC Brochure.pdf](/files/SCC%20Brochure.pdf)
+Click on the following link to submit your request - [SCC Request](https://form.jotform.com/222634410813447) and to [find out more about the SCC](https://www.aceatwork.com.sg/ace469317)

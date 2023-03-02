@@ -18,7 +18,7 @@ sections:
           description: Click here for school calendar
           url: /schoolcalendar/
         - title: BGPS Corporate Video
-          description: Click here to view our corporate video
+          description: Click here to view corporate video
           url: /BGPScorpvideo/
       background: /images/Website Banner (single photo).png
   - infopic:

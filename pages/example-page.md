@@ -53,7 +53,19 @@ permalink: /example-page/
 |  |  |
 |:---:|:---:|
 | **Form Teacher** | **Form Teacher** |
-| <img src="/images/52)%20MDM%20PARVATHY%20BALAKRISNAN.jpeg" alt="52) MDM PARVATHY BALAKRISNAN.jpg" style="width:52%"> | <img src="/images/74)%20MS%20LUO%20QIAN.jpeg" alt="74) MS LUO QIAN.jpg" style="width:58%">|
+| <img src="/images/52)%20MDM%20PARVATHY%20BALAKRISNAN.jpeg" alt="52) MDM PARVATHY BALAKRISNAN.jpg" style="width:50%"> | <img src="/images/74)%20MS%20LUO%20QIAN.jpeg" alt="74) MS LUO QIAN.jpg" style="width:60%">|
 | Mdm Parvathy d/o Balakrisnan | Ms Luo Qian |
-| [parvathy_balakrisnan@schools.gov.sg](mailto:parvathy_balakrisnan@schools.gov.sg) | [chin_seng_choy@schools.gov.sg](mailto:chin_seng_choy@schools.gov.sg) |
+| [parvathy_balakrisnan@schools.gov.sg](mailto:parvathy_balakrisnan@schools.gov.sg) | [luo_qian@schools.gov.sg](mailto:luo_qian@schools.gov.sg) |
+
+**1 BRAVERY**
+
+|  |  |
+|:---:|:---:|
+| **Form Teacher** | **Form Teacher** |
+| <img src="/images/24)%20MS%20IRENE%20KWAY.jpeg" alt="24) MS IRENE KWAY.jpg" style="width:52%"> | <img src="/images/Miss%20Shantini.jpeg" alt="Miss Shantini.jpg"  style="width:58%">|
+| Mrs Irene Kway | Ms Shanthini d/o Ramalingam |
+| [kway_irene@schools.gov.sg](mailto:kway_irene@schools.gov.sg) | [shanthini_ramalingam@schools.gov.sg](mailto:shanthini_ramalingam@schools.gov.sg) |
+
+
+
 

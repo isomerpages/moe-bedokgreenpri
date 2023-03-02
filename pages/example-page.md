@@ -65,3 +65,15 @@ permalink: /example-page/
 | <img src="/images/24)%20MS%20IRENE%20KWAY.jpeg" alt="24) MS IRENE KWAY.jpg" style="width:58%"> | <img src="/images/Miss%20Shantini.jpeg" alt="Miss Shantini.jpg"  style="width:48%">|
 | Mrs Irene Kway | Ms Shanthini d/o Ramalingam |
 | [kway_irene@schools.gov.sg](mailto:kway_irene@schools.gov.sg) | [shanthini_ramalingam@schools.gov.sg](mailto:shanthini_ramalingam@schools.gov.sg) |
+
+**1 GRACIOUSNESS**
+
+|  |  |
+|:---:|:---:|
+| **Form Teacher** | **Form Teacher** |
+| <img src="/images/121)%20Ms%20Chua%20Shu%20Hui%20Vivian.jpeg" style="width:58%"> | <img src="/images/35)%20MRS%20KOH%20CHEE%20SENG.jpeg" alt="35) MRS KOH CHEE SENG.jpg" style="width:48%">|
+| Mrs Irene Kway | Ms Shanthini d/o Ramalingam |
+| [chua_shu_hui_vivian@schools.gov.sg](mailto:chua_shu_hui_vivian@schools.gov.sg) | [>koh_chee_seng@schools.gov.sg](mailto:koh_chee_seng@schools.gov.sg) |
+
+
+

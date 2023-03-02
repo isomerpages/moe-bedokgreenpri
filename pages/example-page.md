@@ -29,7 +29,6 @@ permalink: /example-page/
 | [chia_sock_lang@schools.gov.sg](mailto:chia_sock_lang@schools.gov.sg) | [salim_hassan_basalamah@schools.gov.sg](mailto:salim_hassan_basalamah@schools.gov.sg) |
 
 
-
 **1 RESPONSIBILITY**
 
 |  |  |
@@ -39,5 +38,15 @@ permalink: /example-page/
 | Ms Audrey Choo | Mrs Hainoon Azeez |
 | [audrey_choo_jia_en@schools.gov.sg](mailto:audrey_choo_jia_en@schools.gov.sg) | [hainoon_jahria_hassan@schools.gov.sg](mailto:hainoon_jahria_hassan@schools.gov.sg) |
 
+
 **1 RESILIENCE**
+
+|  |  |
+|:---:|:---:|
+| **Form Teacher** | **Form Teacher** |
+| <img src="/images/123)%20Mrs%20Samsina%20Herbert.jpeg" alt="123) Mrs Samsina Herbert.jpg" style="width:50%"> | <img src="/images/mr%20chin%20lance.jpeg" alt="111) MR SALIM HASSAN BASALAMAH.jpg" style="width:52%">|
+| Mrs Samsina Herbert | Mr Chin Seng Choy |
+| [samsina_herbert@schools.gov.sg](mailto:samsina_herbert@schools.gov.sg) | [chin_seng_choy@schools.gov.sg](mailto:chin_seng_choy@schools.gov.sg) |
+
+
 

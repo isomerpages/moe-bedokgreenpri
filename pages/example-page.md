@@ -34,7 +34,7 @@ permalink: /example-page/
 |  |  |
 |:---:|:---:|
 | **Form Teacher** | **Form Teacher** |
-| <img src="/images/Audrey%20Choo.jpeg" alt="Audrey Choo.jpg" style="width:40%"> | <img src="/images/127)%20Mdm%20Hainoon%20Jahria%20Binte%20Hassan.jpeg"  style="width:64%">|
+| <img src="/images/Audrey%20Choo.jpeg" alt="Audrey Choo.jpg" style="width:40%"> | <img src="/images/127)%20Mdm%20Hainoon%20Jahria%20Binte%20Hassan.jpeg"  style="width:56%">|
 | Ms Audrey Choo | Mrs Hainoon Azeez |
 | [audrey_choo_jia_en@schools.gov.sg](mailto:audrey_choo_jia_en@schools.gov.sg) | [hainoon_jahria_hassan@schools.gov.sg](mailto:hainoon_jahria_hassan@schools.gov.sg) |
 
@@ -48,5 +48,12 @@ permalink: /example-page/
 | Mrs Samsina Herbert | Mr Chin Seng Choy |
 | [samsina_herbert@schools.gov.sg](mailto:samsina_herbert@schools.gov.sg) | [chin_seng_choy@schools.gov.sg](mailto:chin_seng_choy@schools.gov.sg) |
 
+**1 COMPASSION**
 
+|  |  |
+|:---:|:---:|
+| **Form Teacher** | **Form Teacher** |
+| <img src="/images/52)%20MDM%20PARVATHY%20BALAKRISNAN.jpeg" alt="52) MDM PARVATHY BALAKRISNAN.jpg" style="width:50%"> | <img src="/images/74)%20MS%20LUO%20QIAN.jpeg" alt="74) MS LUO QIAN.jpg" style="width:52%">|
+| Mdm Parvathy d/o Balakrisnan | Ms Luo Qian |
+| [parvathy_balakrisnan@schools.gov.sg](mailto:parvathy_balakrisnan@schools.gov.sg) | [chin_seng_choy@schools.gov.sg](mailto:chin_seng_choy@schools.gov.sg) |
 

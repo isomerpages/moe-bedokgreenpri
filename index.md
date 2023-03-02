@@ -21,10 +21,4 @@ sections:
           description: Click here to view corporate video
           url: /BGPScorpvideo/
       background: /images/Website Banner (single photo).png
-  - infopic:
-      title: BGPS Corporate Video (Extended)
-      button: Click here to watch
-      url: https://www.youtube.com/watch?v=wqHUupZXr3M&list=TLGGhXQlDRS9n4gxODEwMjAyMg&ab_channel=BedokGreenPrimaryBGPS
-      image: /images/BGPS Corporate Video.jpg
-      alt: BGPS Corporate Video
 ---

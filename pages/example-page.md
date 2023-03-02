@@ -62,10 +62,6 @@ permalink: /example-page/
 |  |  |
 |:---:|:---:|
 | **Form Teacher** | **Form Teacher** |
-| <img src="/images/24)%20MS%20IRENE%20KWAY.jpeg" alt="24) MS IRENE KWAY.jpg" style="width:52%"> | <img src="/images/Miss%20Shantini.jpeg" alt="Miss Shantini.jpg"  style="width:58%">|
+| <img src="/images/24)%20MS%20IRENE%20KWAY.jpeg" alt="24) MS IRENE KWAY.jpg" style="width:58%"> | <img src="/images/Miss%20Shantini.jpeg" alt="Miss Shantini.jpg"  style="width:48%">|
 | Mrs Irene Kway | Ms Shanthini d/o Ramalingam |
 | [kway_irene@schools.gov.sg](mailto:kway_irene@schools.gov.sg) | [shanthini_ramalingam@schools.gov.sg](mailto:shanthini_ramalingam@schools.gov.sg) |
-
-
-
-

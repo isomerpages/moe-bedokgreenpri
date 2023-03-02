@@ -72,5 +72,14 @@ permalink: /example-page/
 |:---:|:---:|
 | **Form Teacher** | **Form Teacher** |
 | <img src="/images/121)%20Ms%20Chua%20Shu%20Hui%20Vivian.jpeg" style="width:58%"> | <img src="/images/35)%20MRS%20KOH%20CHEE%20SENG.jpeg" alt="35) MRS KOH CHEE SENG.jpg" style="width:61%">|
-| Mrs Irene Kway | Mrs Koh Chee Seng |
+| Ms Vivian Chua | Mrs Koh Chee Seng |
 | [chua_shu_hui_vivian@schools.gov.sg](mailto:chua_shu_hui_vivian@schools.gov.sg) | [koh_chee_seng@schools.gov.sg](mailto:koh_chee_seng@schools.gov.sg) |
+
+**1 PERSEVERANCE**
+
+|  |  |
+|:---:|:---:|
+| **Form Teacher** | **Form Teacher** |
+| <img src="/images/Mavis.jpeg" alt="Mavis.jpg" style="width:40%"> | <img src="/images/87)%20MS%20LIU%20XIAOYUN.jpeg" style="width:82%">|
+| Ms Mavis Tan | Ms Liu Xiaoyun |
+| [tan_jinwen_mavis@schools.gov.sg](mailto:tan_jinwen_mavis@schools.gov.sg) | [liu_xiaoyun@schools.gov.sg](liu_xiaoyun@schools.gov.sg) |

@@ -20,11 +20,12 @@ permalink: /example-page/
 | [fazidah_bt_soeratman@schools.gov.sg](mailto:fazidah_bt_soeratman@schools.gov.sg) | [poon_long_javier@schools.gov.sg](mailto:poon_long_javier@schools.gov.sg) |
 
 
+**1 RESPONSIBILITY**
 
-
-
-
-
-
-
+|  |  |
+|:---:|:---:|
+| **Form Teacher** | **Form Teacher** |
+| <img src="/images/Audrey%20Choo.jpeg" alt="Audrey Choo.jpg" style="width:40%"> | <img src="/images/127)%20Mdm%20Hainoon%20Jahria%20Binte%20Hassan.jpeg"  style="width:50%">|
+| Ms Audrey Choo | Mrs Hainoon Azeez |
+| [audrey_choo_jia_en@schools.gov.sg](mailto:audrey_choo_jia_en@schools.gov.sg) | [hainoon_jahria_hassan@schools.gov.sg](mailto:hainoon_jahria_hassan@schools.gov.sg) |
 

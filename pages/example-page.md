@@ -34,7 +34,7 @@ permalink: /example-page/
 |  |  |
 |:---:|:---:|
 | **Form Teacher** | **Form Teacher** |
-| <img src="/images/Audrey%20Choo.jpeg" alt="Audrey Choo.jpg" style="width:40%"> | <img src="/images/127)%20Mdm%20Hainoon%20Jahria%20Binte%20Hassan.jpeg"  style="width:56%">|
+| <img src="/images/Audrey%20Choo.jpeg" alt="Audrey Choo.jpg" style="width:40%"> | <img src="/images/127)%20Mdm%20Hainoon%20Jahria%20Binte%20Hassan.jpeg"  style="width:61%">|
 | Ms Audrey Choo | Mrs Hainoon Azeez |
 | [audrey_choo_jia_en@schools.gov.sg](mailto:audrey_choo_jia_en@schools.gov.sg) | [hainoon_jahria_hassan@schools.gov.sg](mailto:hainoon_jahria_hassan@schools.gov.sg) |
 
@@ -71,7 +71,7 @@ permalink: /example-page/
 |  |  |
 |:---:|:---:|
 | **Form Teacher** | **Form Teacher** |
-| <img src="/images/121)%20Ms%20Chua%20Shu%20Hui%20Vivian.jpeg" style="width:58%"> | <img src="/images/35)%20MRS%20KOH%20CHEE%20SENG.jpeg" alt="35) MRS KOH CHEE SENG.jpg" style="width:61%">|
+| <img src="/images/121)%20Ms%20Chua%20Shu%20Hui%20Vivian.jpeg" style="width:55%"> | <img src="/images/35)%20MRS%20KOH%20CHEE%20SENG.jpeg" alt="35) MRS KOH CHEE SENG.jpg" style="width:68%">|
 | Ms Vivian Chua | Mrs Koh Chee Seng |
 | [chua_shu_hui_vivian@schools.gov.sg](mailto:chua_shu_hui_vivian@schools.gov.sg) | [koh_chee_seng@schools.gov.sg](mailto:koh_chee_seng@schools.gov.sg) |
 
@@ -80,6 +80,6 @@ permalink: /example-page/
 |  |  |
 |:---:|:---:|
 | **Form Teacher** | **Form Teacher** |
-| <img src="/images/Mavis.jpeg" alt="Mavis.jpg" style="width:40%"> | <img src="/images/87)%20MS%20LIU%20XIAOYUN.jpeg" style="width:82%">|
+| <img src="/images/Mavis.jpeg" alt="Mavis.jpg" style="width:40%"> | <img src="/images/87)%20MS%20LIU%20XIAOYUN.jpeg" style="width:75%">|
 | Ms Mavis Tan | Ms Liu Xiaoyun |
 | [tan_jinwen_mavis@schools.gov.sg](mailto:tan_jinwen_mavis@schools.gov.sg) | [liu_xiaoyun@schools.gov.sg](liu_xiaoyun@schools.gov.sg) |

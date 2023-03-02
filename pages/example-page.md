@@ -53,7 +53,7 @@ permalink: /example-page/
 |  |  |
 |:---:|:---:|
 | **Form Teacher** | **Form Teacher** |
-| <img src="/images/52)%20MDM%20PARVATHY%20BALAKRISNAN.jpeg" alt="52) MDM PARVATHY BALAKRISNAN.jpg" style="width:50%"> | <img src="/images/74)%20MS%20LUO%20QIAN.jpeg" alt="74) MS LUO QIAN.jpg" style="width:52%">|
+| <img src="/images/52)%20MDM%20PARVATHY%20BALAKRISNAN.jpeg" alt="52) MDM PARVATHY BALAKRISNAN.jpg" style="width:52%"> | <img src="/images/74)%20MS%20LUO%20QIAN.jpeg" alt="74) MS LUO QIAN.jpg" style="width:58%">|
 | Mdm Parvathy d/o Balakrisnan | Ms Luo Qian |
 | [parvathy_balakrisnan@schools.gov.sg](mailto:parvathy_balakrisnan@schools.gov.sg) | [chin_seng_choy@schools.gov.sg](mailto:chin_seng_choy@schools.gov.sg) |
 

@@ -19,6 +19,16 @@ permalink: /example-page/
 | Mdm Fazidah Soeratman | Mr Javier Poon |
 | [fazidah_bt_soeratman@schools.gov.sg](mailto:fazidah_bt_soeratman@schools.gov.sg) | [poon_long_javier@schools.gov.sg](mailto:poon_long_javier@schools.gov.sg) |
 
+**1 Respect**
+
+|  |  |
+|:---:|:---:|
+| **Form Teacher** | **Form Teacher** |
+| <img src="/images/31)%20MDM%20CHIA%20SOCK%20LANG.jpeg" alt="31) MDM CHIA SOCK LANG.jpg" style="width:46%"> | <img src="/images/111)%20MR%20SALIM%20HASSAN%20BASALAMAH.jpeg" alt="111) MR SALIM HASSAN BASALAMAH.jpg" style="width:40%">|
+| Mdm Chia Sock Lang | Mr Salim H Basalamah |
+| [chia_sock_lang@schools.gov.sg](mailto:chia_sock_lang@schools.gov.sg) | [salim_hassan_basalamah@schools.gov.sg](mailto:salim_hassan_basalamah@schools.gov.sg) |
+
+
 
 **1 RESPONSIBILITY**
 

@@ -3,6 +3,29 @@ title: Events @ BGPS
 permalink: /eventsatbgps/
 description: ""
 ---
+### February Events
+Please click on the event to be redirected to the Facebook posts. 
+
+[P2 Neighbourhood Walk](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.648963560564231)
+
+[AETOS K9 Visits BGPS](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.654664516660802)
+
+[Makers Friday](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.656947316432522)
+
+[STRIVE @ Recess](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.657904233003497)
+
+[Fathers' Breakfast Session](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.657911266336127)
+
+[Total Defence 2023](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.659054306221823)
+
+[P4 Museum-Based Learning 2023](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.660378679422719)
+
+[Football National School Games 2023](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.660462159414371)
+
+[P6 Learning Journey to ACM](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.668262031967717)
+
+[Drone Enrichment Programme](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.669539348506652)
+
 ### January Events
 
 Please click on the event to be redirected to the Facebook posts. 

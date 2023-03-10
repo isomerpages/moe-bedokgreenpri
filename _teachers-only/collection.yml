@@ -2,4 +2,4 @@ collections:
   teachers-only:
     output: true
     order:
-      - Teachers' Only.md
+      - Teachers' Only Page.md

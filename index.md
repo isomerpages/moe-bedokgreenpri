@@ -20,5 +20,5 @@ sections:
         - title: BGPS Corporate Video
           description: Click here to view corporate video
           url: /BGPScorpvideo/
-      background: /images/Website Banner 2.png
+      background: /images/Website Banner 3.png
 ---

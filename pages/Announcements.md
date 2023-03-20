@@ -3,8 +3,8 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**<u>Term 1 Newsletter</u>** <br>
-As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for Term 1 is parked [here](/files/Term%201%20Letter%203%20Jan%202023.pdf).
+**<u>Term 2 Newsletter</u>** <br>
+As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for Term 2 is parked [here](/files/Term%201%20Letter%203%20Jan%202023.pdf).
 
 **<u>School Calendar</u>** <br>
 Please click [here](/about-us/calendar) to access our school calendar. Thank you.

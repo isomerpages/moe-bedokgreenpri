@@ -3,11 +3,10 @@ title: Teachers' Only Page
 permalink: /teachers-only/
 description: ""
 ---
-
 #### School Calendar for Staff
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSingapore&src=Y3FwZ3V2Z3ZxNmMzY3FsMm00Z2hhcHVzaDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MHBjcnE1N2xwc285MTdqaDhpYWF2cWluZWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YWRtaW5fYmdwc0Btb2UuZWR1LnNn&src=YmVkb2tncmVlbnByaUBnbWFpbC5jb20&color=%23009688&color=%23009688&color=%23AD1457&color=%23B39DDB" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
+#### Useful Links<BR>
 [MOE Identity Management System (MIMS)](https://idp.mims.moe.gov.sg/nidp/saml2/sso)<br>
 [Edupage](https://bgps.edupage.org/)<br>
 [Cockpit Plus*](https://schoolcockpit.moe.gov.sg/)<br>
@@ -25,7 +24,7 @@ description: ""
 [BGPS Padlet](https://bedokgreenprimarysch.padlet.org/auth/login)<br>
 [All Ears Form Builder](https://forms.moe.edu.sg/)<br>
 [Form.SG](https://form.gov.sg/)<br>
-#### Requests
+#### Requests<BR>
 [Student Councillors](https://docs.google.com/forms/d/e/1FAIpQLSe8f7TRr4lXRDv02lNMK3PgBEQepJQ5szMNP3uFX-4AdvxLJw/viewform)<br>
 [Parent/Alumni Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSetKHoBFT316tMEsbT6JcXVvZNs_LaT7JUewGKdlwZDg1BxdQ/viewform)<br>
 [Operations Service Request](https://sites.google.com/view/bgpsrequest/operations-request)<br>

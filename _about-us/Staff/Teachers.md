@@ -55,10 +55,12 @@ Mr Loh Wei Leong
 | 2 Perseverance     | Ms Tan Jinwen Mavis     | [tan_jinwen_mavis@schools.gov.sg](tan_jinwen_mavis@schools.gov.sg)     |
 |      | Ms Liu Xiaoyun     | [liu_xiaoyun@schools.gov.sg](liu_xiaoyun@schools.gov.sg)     |
 
-##### **Assistant Year Head - Middle Primary**
 
-Mdm Halimaton Abdullah   
-[halimaton_abdullah@schools.gov.sg](halimaton_abdullah@schools.gov.sg) 
+##### **Year Head - Middle Primary**
+
+Mdm Lee Oi Foong Margaret<br>
+[lee_oi_foong_margaret@schools.gov.sg](lee_oi_fong_margaret@schools.gov.sg) 
+
 #### Primary 3 Teachers
 
 | Class | Form Teacher | Email |
@@ -78,10 +80,10 @@ Mdm Halimaton Abdullah
 | 3 Graciousness     | Mrs Jacinta Gomes     | [jacinta_mary_de_almeida@schools.gov.sg](jacinta_mary_de_almeida@schools.gov.sg)     |
 |      | Mr Liu Peng     | [liu_peng@schools.gov.sg](liu_peng@schools.gov.sg)     |
 
-##### **Year Head - Middle Primary**
+##### **Assistant Year Head - Middle Primary**
 
-Mdm Lee Oi Foong Margaret<br>
-[lee_oi_foong_margaret@schools.gov.sg](lee_oi_fong_margaret@schools.gov.sg) 
+Mdm Halimaton Abdullah   
+[halimaton_abdullah@schools.gov.sg](halimaton_abdullah@schools.gov.sg) 
 
 #### Primary 4 Teachers
 

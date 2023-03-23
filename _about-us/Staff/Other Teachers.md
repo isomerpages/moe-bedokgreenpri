@@ -25,4 +25,7 @@ third_nav_title: Staff
 | Ms Joycelyn Lim     | [lim_wee_siang_joycelyn@schools.gov.sg](lim_wee_siang_joycelyn@schools.gov.sg)     |      |
 | Ms Kelly Leow     | [leow_choon_new@schools.gov.sg](leow_choon_new@schools.gov.sg)     |      |
 | Mrs Silverajoo     | [silvarajoo_prakasam@schools.gov.sg](silvarajoo_prakasam@schools.gov.sg)     |      |
-| Mrs Tan Mui Eng     | [tan_mui_eng_mrs@schools.gov.sg](tan_mui_eng_mrs@schools.gov.sg)     |      |
+| Mdm Tan Mui Eng     | [tan_mui_eng_mrs@schools.gov.sg](tan_mui_eng_mrs@schools.gov.sg)     |      |
+| Mr Peh Kwang Eng     | [peh_kwang_eng@schools.gov.sg](peh_kwang_eng@schools.gov.sg)     |      |
+| Mdm Rosie Yong     |      |      |
+| Mr Ching Tiam Heng      |      |      |

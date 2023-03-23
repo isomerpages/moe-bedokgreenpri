@@ -7,3 +7,4 @@ description: ""
 2.  [Bedok Green Primary Library](https://schoolibrary.moe.edu.sg/bedokgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) (O.W.L)
 3.  [Discover Reads](https://eresources.nlb.gov.sg/eReads/DiscoveReads/All) (eBooks)
 4.  [My SkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) (Primary)
+5.  [P1 Touch Typing Programme](https://bedokgreenpri.typingclub.com)

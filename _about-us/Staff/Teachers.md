@@ -74,7 +74,8 @@ Mdm Lee Oi Foong Margaret<br>
 | 3 Resilience    | Ms Hilwah Binte Lukman     | [hilwah_lukman@schools.gov.sg](hilwah_lukman@schools.gov.sg)     |
 |      | Mr Dave Liu    | [dave_liu@schools.gov.sg](dave_liu@schools.gov.sg)     |
 | 3 Compassion     | Ms Lim Poh Tse Ellen     | [lim_poh_tse_ellen@schools.gov.sg](lim_poh_tse_ellen@schools.gov.sg)     |
-|      | Mdm Nurrashidah Binte Mansoor     | [nurrashidah_mansoor@schools.gov.sg](nurrashidah_mansoor@schools.gov.sg)   |
+|      | Ms Damia Zolkifli    | [damia_zolkifli@schools.gov.sg](damia_zolkifli@schools.gov.sg)   |
+|      | Ms Nur Zahirah    | [nur_zahirah_kassim@schools.gov.sg](nur_zahirah_kassim@schools.gov.sg)   |
 | 3 Bravery    | Ms Sangeetha Yadav     | [sangeetha_yadav@schools.gov.sg](sangeetha_yadav@schools.gov.sg)     |
 |      | Mr Muhammad Khairi Iqbal     | [muhammad_khairi_iqbal@schools.gov.sg](muhammad_khairi_iqbal@schools.gov.sg)     |
 | 3 Graciousness     | Mrs Jacinta Gomes     | [jacinta_mary_de_almeida@schools.gov.sg](jacinta_mary_de_almeida@schools.gov.sg)     |
@@ -98,6 +99,7 @@ Mdm Halimaton Abdullah
 |      | Mdm Halimaton Abdullah    | [halimaton_abdullah@schools.gov.sg](halimaton_abdullah@schools.gov.sg)     |
 | 4 Resilience    | Ms Khoo Kar Hoe     | [khoo_kar_hoe@schools.gov.sg](khoo_kar_hoe@schools.gov.sg)     |
 |      | Mr Leung Pak Kin    | [leung_pak_kin@schools.gov.sg](leung_pak_kin@schools.gov.sg)     |
+|      | Ms Ros Farzana    | [ros_farzana_roskhaider@schools.gov.sg](ros_farzana_roskhaider@schools.gov.sg)     |
 | 4 Compassion     | Ms Ng Jieying     | [ng_jieying@schools.gov.sg](ng_jieying@schools.gov.sg)     |
 |      | Ms Nurul Aini Binte Zainol     | [nurul_aini_zainol@schools.gov.sg](nurul_aini_zainol@schools.gov.sg)   |
 | 4 Bravery    | Mr Ho Koon Min Martin     | [ho_koon_min_martin@schools.gov.sg](ho_koon_min_martin@schools.gov.sg)     |

@@ -108,7 +108,7 @@ Mdm Halimaton Abdullah
 ##### **Year Head - Upper Primary**
 
 Ms Li Wenlin<br>
-[li_wen_lin@schools.gov.sg](li_wen_lin@schools.gov.sg)
+[li_wenlin@schools.gov.sg](li_wenlin@schools.gov.sg)
 
 #### Primary 5 Teachers
 

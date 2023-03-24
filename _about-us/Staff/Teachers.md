@@ -8,8 +8,8 @@ third_nav_title: Staff
 
 ##### **Year Head - Lower Primary**
 
-Mr Loh Wei Leong   
-[loh_wei_leong@schools.gov.sg](loh_wei_leong@schools.gov.sg) 
+Mr Loh Weiliang   
+[loh_weiliang@schools.gov.sg](loh_weiliang@schools.gov.sg) 
 
 #### Primary 1 Teachers
 
@@ -108,7 +108,7 @@ Mdm Halimaton Abdullah
 ##### **Year Head - Upper Primary**
 
 Ms Li Wenlin<br>
-[li_wen_lin@schools.gov.sg](li_wen_lin@schools.gov.sg)
+[li_wenlin@schools.gov.sg](li_wenlin@schools.gov.sg)
 
 #### Primary 5 Teachers
 
@@ -123,7 +123,7 @@ Ms Li Wenlin<br>
 |      | Mr Thio Beng Lou Alvin    | [thio_beng_lou_alvin@schools.gov.sg](thio_beng_lou_alvin@schools.gov.sg)     |
 | 5 Resilience    | Ms Lynn Tay Ern Hwee     | [lynn_tay_ern_hwee@schools.gov.sg](lynn_tay_ern_hwee@schools.gov.sg)     |
 |      | Mdm Zaidah Yusoff    | [zaidah_yusoff@schools.gov.sg](zaidah_yusoff@schools.gov.sg)     |
-| 5 Compassion     | Mrs Ng Yen Nee     | [ng_yen_nee@schools.gov.sg](ng_yen_nee@schools.gov.sg)     |
+| 5 Compassion     | Mrs Ng Yen Nee     | [neo_yen_nee@schools.gov.sg](neo_yen_nee@schools.gov.sg)     |
 |      | Ms Farzanah d/o Abdul Samad     | [farzanah_abdul_samad@schools.gov.sg](farzanah_abdul_samad@schools.gov.sg)   |
 |      | Ms Rasidah Binte Bahrom     | [rasidah_bahrom@schools.gov.sg](rasidah_bahrom@schools.gov.sg)   |
 | 5 Bravery    | Mr Pasupathy Magesvaran     | [pasupathy_magesvaran@schools.gov.sg](pasupathy_magesvaran@schools.gov.sg)     |

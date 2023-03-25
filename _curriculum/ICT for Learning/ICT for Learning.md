@@ -258,16 +258,10 @@ BGPS recently embarked on an MOE initiated programme, Code for Fun. This program
 
 At the start of Term 1, our P5 students were given the opportunity to work with Sphero Bolt. They were taught to use block-based programming to program the Sphero Bolt  to complete the following tasks:
 
-1.  Light up in different colours
-    
-2.  Move around and draw shapes
-    
-3.  Repeat instruction using loop
-    
-4.  React to events using sensors
-    
-
-  
+*   Light up in different colours
+*   Move around and draw shapes
+*   Repeat instruction using loop
+*   React to events using sensors
 
 At the end of this programme, we hope that the students are equipped with basic coding and computational thinking skills, and most importantly, they experience joy and interest in coding through this programme.
 
@@ -307,8 +301,11 @@ img {
 <body><img src="/images/P5_RPS_2.jpeg" alt="Code For Fun (Primary 5)" style="width:70%;">  
   
 </body><br>
+
+--------------
+
+<br>
 **Swift Explorers Singapore (SES)**
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
 The Swift Explorers Singapore (SES) is an inaugural coding programme organised by Crescent Girls’ School, using resources from Apple and training supported by Tinkercademy, an Apple Professional Learning Provider.
 

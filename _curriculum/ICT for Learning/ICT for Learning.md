@@ -10,18 +10,17 @@ Future-ready and Responsible digital learners with skills to navigate, curate, c
 
 ##### Mission 
 
-*   To equip pupils with the required ICT skills as well as imbuing them with the necessary values towards responsible use of technology.  
+1. To equip pupils with the required ICT skills as well as imbuing them with the necessary values towards responsible use of technology.  
     
-*   To develop an ICT-enriched environment focusing on the following 4 key areas:
+2. To develop an ICT-enriched environment focusing on the following 5 key areas:
 
-*   Curriculum, Pedagogy and Assessment
-    
-*   Student Development
-    
-*   Professional Development of Staff
-    
-*   Resource and Knowledge Building
-    
+* Blended Learning and Leveraging ICT in Teaching & Learning
+* Digital Literacies and Computational Thinking
+* E-Pedagogy (Professional Development of Staff)
+* Resource and Knowledge Management
+* Infrastructure Management
+
+Through the **3E (Expose, Enrich, Excel) approach**, our school aims to equip students of the various digital skills, provide opportunities for learning with technology, as well as challenge the high ability learners with higher-order computational skills.
 
 #### Key Programmes
 
@@ -109,7 +108,6 @@ In response to the COVID-19 situation, HBL has been implemented to reduce the ri
 
 We also ensure continuity of learning by minimizing loss of curriculum time while keeping students meaningfully engaged and occupied at home. Through various ICT tools and platforms, teachers continue to engage students and access their learning. Teachers also review students’ learning progress and provide support to help them cope with their learning at home.  
 
-  
 
 Students who require closer supervision or whose parents are frontline workers, can return to school on HBL days. These students will conduct their HBL according to the school’s planned schedule similar to those who are at home. Students can access the BGPS HBL Portal to view the schedule and work assigned to them for each subject for each day.
 
@@ -153,21 +151,14 @@ img {
 <br>
 
 --------------
-
 <br>
 
-**Tech tools to enhance T&L**  <br>
+**Tech tools to enhance Teaching & Learning**  <br>
 To enhance teaching and learning of students, the school adopts a balanced array of ICT related tools that aim to develop baseline ICT skills and enhance teacher-student, student-student and content-student interactions. 
-
-  
-
+ 
 With the Student Learning Space (SLS),  students can now learn better at their own pace. SLS is not only just a tech tool used by teachers in the school, it also empowers students to be engaged in self-directed and self-paced learning. Students can review their lessons at their own time, at the comfort of their home.
-
-  
-
+ 
 With the SLS as the baseline application, teachers in the school make use of other available ICT tech tools in the market to provide a more engaging learning experience to promote collaboration and discussions among students. Some of the tech tools used by teachers in the school are highlighted below:
-
-  
 
 Flipgrid is a video posting tool where students interact using video, without the pressure of a live classroom. Since students are given the space and time to respond when they're ready, it makes engagement possible for even more anxious students who might feel left out in class. The ability to add rich media encourages students to be creative and more expressive. By adding emoji, text, and stickers, students can engage with class content as they might interact with friends using social media platforms. On a software level, Flipgrid is great for integration as it works with Google Classroom in which every student in the school has an account, allowing for enhanced collaboration between students in a virtual space that mimics that of the real classroom.
 
@@ -227,7 +218,7 @@ img {
 
 <br>
 
-ENRICH<br>
+**<u>ENRICH</u>**<br>
 **Partnership with Apple SG for 1-to-1 iPad Learning**<br>
 The 1-to-1 iPad learning experience aims to enhance e-pedagogy by enriching our students' learning. It also serves to provide opportunities for teachers to design ICT-enriched lessons through active collaboration and consultation with Apple Singapore.
 <br>

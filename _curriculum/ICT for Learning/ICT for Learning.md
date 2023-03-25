@@ -227,6 +227,22 @@ img {
 
 <br>
 
+ENRICH<br>
+**Partnership with Apple SG for 1-to-1 iPad Learning**<br>
+The 1-to-1 iPad learning experience aims to enhance e-pedagogy by enriching our students' learning. It also serves to provide opportunities for teachers to design ICT-enriched lessons through active collaboration and consultation with Apple Singapore.
+<br>
+
+![](/images/Picture1.png)<br>
+Through this active collaboration, we saw increased student engagement, a greater sense of responsibility in managing the devices and greater leeway given to our teachers to innovate and customise their lessons according to students learning needs. Given the success of the pilot in 2022, the school aims to continue with the implementation in the coming years. 
+
+![](/images/IMG_5626.jpg)<br>
+![](/images/IMG_5911.jpg)<br>
+![](/images/IMG_5852.jpg)<br>
+
+--------------
+
+<br>
+
 **BGPS Open Classroom** <br>
 As part of the school’s efforts to nurture participatory, connected and reflective lessons with technology in every classroom, it has embarked on the The BGPS Open Classroom (OC) in 2021. It serves as a platform for teachers to collaborate in the design, enactment and review of lessons infused with technology. There are three stages in the open classroom cycle, as shown in the diagram below.
 
@@ -303,7 +319,6 @@ img {
 </body><br>
 
 --------------
-<br>
 
 **Swift Explorers Singapore (SES)**
 

@@ -43,7 +43,7 @@ Mr Loh Wei Leong<br>
 |     | Mr Lukman Nurhakim    | [lukman_nurhakim_noordin@schools.gov.sg](lukman_nurhakim_noordin@schools.gov.sg)     |
 | 2 Responsibility     | Ms Choo Jia En Audrey     | [audrey_choo_jia_en@schools.gov.sg](audrey_choo_jia_en@schools.gov.sg)     |
 |      | Ms Lim Sock Keow Noel     | [chua-lim_sock_keow@schools.gov.sg](chua-lim_sock_keow@schools.gov.sg)     |
-| 2 Resilience    | Mr Chin Seng Choy Lance     | [chin_seng_choy_lance@schools.gov.sg](chin_seng_choy_lance@schools.gov.sg)     |
+| 2 Resilience    | Mr Chin Seng Choy Lance     | [chin_seng_choy@schools.gov.sg](chin_seng_choy@schools.gov.sg)     |
 |      | Mrs Samsina Herbert    | [samsina_herbert@schools.gov.sg](samsina_herbert@schools.gov.sg)     |
 | 2 Compassion     | Miss Shadelina Bte Mohd Shariffudin     | [shadelina_mohd_shariffudin@schools.gov.sg](shadelina_mohd_shariffudin@schools.gov.sg)     |
 |      | Mr Gwee Boon Tiong     | [gwee_boon_tiong@schools.gov.sg](gwee_boon_tiong@schools.gov.sg)   |

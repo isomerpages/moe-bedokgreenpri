@@ -306,5 +306,12 @@ img {
 </style>  
 <body><img src="/images/P5_RPS_2.jpeg" alt="Code For Fun (Primary 5)" style="width:70%;">  
   
-</body>
+</body><br>
+**Swift Explorers Singapore (SES)**
+        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
+The Swift Explorers Singapore (SES) is an inaugural coding programme organised by Crescent Girls’ School, using resources from Apple and training supported by Tinkercademy, an Apple Professional Learning Provider.
+
+The Swift Explorers Singapore (SES) is a series of free coding related activities that allow students from Primary Schools to Junior Colleges to learn App design and Swift coding on the iPad. This program aims to empower students with critical thinking and creative problem-solving skills through basic coding on the iPad. Students will have access to the same opportunities and resources as real-world developers which will help them identify, design, prototype and build apps.
+
+Around 44 schools, including Bedok Green Primary School, have participated in SES 2022. We are proud to announce that our school’s App idea has made into the Top 20 App design ideas.

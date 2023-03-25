@@ -8,8 +8,8 @@ third_nav_title: Staff
 
 ##### **Year Head - Lower Primary**
 
-Mr Loh Weiliang   
-[loh_weiliang@schools.gov.sg](loh_weiliang@schools.gov.sg) 
+Mr Loh Wei Leong<br>
+[luo_weiliang@schools.gov.sg](luo_weiliang@schools.gov.sg) 
 
 #### Primary 1 Teachers
 
@@ -20,7 +20,7 @@ Mr Loh Weiliang
 | | Mrs Hainoon Azeez | [hainoon_jahria_hassan@schools.gov.sg](hainoon_jahria_hassan@schools.gov.sg)
 | 1 Respect    | Miss Nur 'Aliah     | [nur_aliah_dafir@schools.gov.sg](nur_aliah_dafir@schools.gov.sg)     |
 |     | Mr Kenneth Wong     | [wong_wen_kin_kenneth@schools.gov.sg](wong_wen_kin_kenneth@schools.gov.sg)     |
-| 1 Responsibility     | Mrs Lee Mei Yin     | [lim_mei_yin_diane@schools.gov.sg](lim_mei_yin_diane@schools.gov.sg)     |
+| 1 Responsibility     | Mrs Lee Mei Yin     | [lim_mei_yin@schools.gov.sg](lim_mei_yin@schools.gov.sg)     |
 |   | Miss Jazmin Ahamed     | [jazmin_ahamed@schools.gov.sg](jazmin_ahamed@schools.gov.sg)     |
 | 1 Resilience     | Miss Chin Ching Shia     | [chin_ching_shia@schools.gov.sg](chin_ching_shia@schools.gov.sg)     |
 |      | Mdm Fang Fang     | [fang_fang_a@schools.gov.sg](fang_fang_a@schools.gov.sg)     |
@@ -43,11 +43,11 @@ Mr Loh Weiliang
 |     | Mr Lukman Nurhakim    | [lukman_nurhakim_noordin@schools.gov.sg](lukman_nurhakim_noordin@schools.gov.sg)     |
 | 2 Responsibility     | Ms Choo Jia En Audrey     | [audrey_choo_jia_en@schools.gov.sg](audrey_choo_jia_en@schools.gov.sg)     |
 |      | Ms Lim Sock Keow Noel     | [chua-lim_sock_keow@schools.gov.sg](chua-lim_sock_keow@schools.gov.sg)     |
-| 2 Resilience    | Mr Chin Seng Choy Lance     | [chin_seng_choy_lance@schools.gov.sg](chin_seng_choy_lance@schools.gov.sg)     |
+| 2 Resilience    | Mr Chin Seng Choy Lance     | [chin_seng_choy@schools.gov.sg](chin_seng_choy@schools.gov.sg)     |
 |      | Mrs Samsina Herbert    | [samsina_herbert@schools.gov.sg](samsina_herbert@schools.gov.sg)     |
 | 2 Compassion     | Miss Shadelina Bte Mohd Shariffudin     | [shadelina_mohd_shariffudin@schools.gov.sg](shadelina_mohd_shariffudin@schools.gov.sg)     |
 |      | Mr Gwee Boon Tiong     | [gwee_boon_tiong@schools.gov.sg](gwee_boon_tiong@schools.gov.sg)   |
-| 2 Bravery    | Miss Kway Irene     | [irene_kway@schools.gov.sg](irene_kway@schools.gov.sg)     |
+| 2 Bravery    | Miss Irene Kway     | [kway_irene@schools.gov.sg](kway_irene@schools.gov.sg)     |
 |      | Miss Shanthini d/o Ramalingam     | [shanthini_ramalingam@schools.gov.sg](shanthini_ramalingam@schools.gov.sg)     |
 | 2 Graciousness     | Miss Valerie Cheng Yuning     | [valerie_cheng_yuning@schools.gov.sg](valerie_cheng_yuning@schools.gov.sg)     |
 |      | Mdm Noorlin Binte Haron     | [noorlin_haron@schools.gov.sg](noorlin_haron@schools.gov.sg)     |
@@ -72,7 +72,7 @@ Mdm Lee Oi Foong Margaret<br>
 | 3 Responsibility     | Ms Sylvina Maylie Nathan Tan     | [sylvina_maylie_nathan_tan@schools.gov.sg](sylvina_maylie_nathan_tan@schools.gov.sg)     |
 |      | Mdm Zahidah Shamsul     | [zahidah_shamsul@schools.gov.sg](zahidah_shamsul@schools.gov.sg)     |
 | 3 Resilience    | Ms Hilwah Binte Lukman     | [hilwah_lukman@schools.gov.sg](hilwah_lukman@schools.gov.sg)     |
-|      | Mr Dave Liu    | [dave_liu@schools.gov.sg](dave_liu@schools.gov.sg)     |
+|      | Mr Dave Liu    | [liu_dave@schools.gov.sg](liu_dave@schools.gov.sg)     |
 | 3 Compassion     | Ms Lim Poh Tse Ellen     | [lim_poh_tse_ellen@schools.gov.sg](lim_poh_tse_ellen@schools.gov.sg)     |
 |      | Ms Damia Zolkifli    | [damia_zolkifli@schools.gov.sg](damia_zolkifli@schools.gov.sg)   |
 |      | Ms Nur Zahirah    | [nur_zahirah_kassim@schools.gov.sg](nur_zahirah_kassim@schools.gov.sg)   |
@@ -91,7 +91,7 @@ Mdm Halimaton Abdullah
 | Class | Form Teacher | Email |
 | -------- | -------- | -------- |
 | 4 Integrity     | Ms Sri Idayu     | [sri_idayu_mohamed_idris@schools.gov.sg](sri_idayu_mohamed_idris@schools.gov.sg)     |
-|     | Ms Ong Su San Faith    | [ong_su_san_faith@schools.gov.sg](ong_su_san_faith@schools.gov.sg)     |
+|     | Ms Ong Su San Faith    | [ong_su_san@schools.gov.sg](ong_su_san@schools.gov.sg)     |
 | 4 Respect    | Ms Chew Mei-Hua Elissa Ann     | [chew_mei-hua_elissa_ann@schools.gov.sg](chew_mei-hua_elissa_ann@schools.gov.sg)     |
 |     | Mdm Tan Yee Chie Pamela    | [tan_yee_chie_pamela@schools.gov.sg](tan_yee_chie_pamela@schools.gov.sg)     |
 | 4 Responsibility     | Mr Keng Xing Wei Darren    | [keng_xing_wei_darren@schools.gov.sg](keng_xing_wei_darren@schools.gov.sg)     |
@@ -103,7 +103,7 @@ Mdm Halimaton Abdullah
 | 4 Compassion     | Ms Ng Jieying     | [ng_jieying@schools.gov.sg](ng_jieying@schools.gov.sg)     |
 |      | Ms Nurul Aini Binte Zainol     | [nurul_aini_zainol@schools.gov.sg](nurul_aini_zainol@schools.gov.sg)   |
 | 4 Bravery    | Mr Ho Koon Min Martin     | [ho_koon_min_martin@schools.gov.sg](ho_koon_min_martin@schools.gov.sg)     |
-|      | Mr Mohammad Hasri     | [mohammad_hasri@schools.gov.sg](mohammad_hasri@schools.gov.sg)     |
+|      | Mr Mohammad Hasri     | [mohd_hasri_bahari@schools.gov.sg](mohd_hasri_bahari@schools.gov.sg)     |
 
 ##### **Year Head - Upper Primary**
 

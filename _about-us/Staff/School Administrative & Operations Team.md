@@ -18,6 +18,10 @@ third_nav_title: Staff
 | Corporate Support Officer (CSO)  |Ms Neo Chye Ling | neo_chye_ling@schools.gov.sg   |
 | Corporate Support Officer (CSO)  |Ms Evelyn Yap Poh Kwee  |evelyn_yap_poh_kwee@schools.gov.sg  |
 | ICT Associate  |Mr Faiz Nazirul Azman |faiz_nazirul_azman@schools.gov.sg|
+|Desktop Engineer |Mr Andersen Ooi|
+|Desktop Engineer |Ms Lai Yun Ting Ashleigh|
+|Receptionist |Ms June Tan|
+|Laboratory Assistant  |Mdm Dhalina Bte Nari|
 |Librarian  |Ms Efi Elfina|
 |Operation Support Officer (OSO)  |Ms Lina Tay|
 |Operation Support Officer (OSO)  |Mdm Weevin Henry Fernando|

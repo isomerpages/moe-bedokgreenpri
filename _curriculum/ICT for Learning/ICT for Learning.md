@@ -315,3 +315,5 @@ The Swift Explorers Singapore (SES) is an inaugural coding programme organised b
 The Swift Explorers Singapore (SES) is a series of free coding related activities that allow students from Primary Schools to Junior Colleges to learn App design and Swift coding on the iPad. This program aims to empower students with critical thinking and creative problem-solving skills through basic coding on the iPad. Students will have access to the same opportunities and resources as real-world developers which will help them identify, design, prototype and build apps.
 
 Around 44 schools, including Bedok Green Primary School, have participated in SES 2022. We are proud to announce that our school’s App idea has made into the Top 20 App design ideas.
+
+![](/images/IMG_6118.jpg)

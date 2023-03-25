@@ -20,7 +20,7 @@ Mr Loh Wei Leong<br>
 | | Mrs Hainoon Azeez | [hainoon_jahria_hassan@schools.gov.sg](hainoon_jahria_hassan@schools.gov.sg)
 | 1 Respect    | Miss Nur 'Aliah     | [nur_aliah_dafir@schools.gov.sg](nur_aliah_dafir@schools.gov.sg)     |
 |     | Mr Kenneth Wong     | [wong_wen_kin_kenneth@schools.gov.sg](wong_wen_kin_kenneth@schools.gov.sg)     |
-| 1 Responsibility     | Mrs Lee Mei Yin     | [lim_mei_yin_diane@schools.gov.sg](lim_mei_yin_diane@schools.gov.sg)     |
+| 1 Responsibility     | Mrs Lee Mei Yin     | [lim_mei_yin@schools.gov.sg](lim_mei_yin@schools.gov.sg)     |
 |   | Miss Jazmin Ahamed     | [jazmin_ahamed@schools.gov.sg](jazmin_ahamed@schools.gov.sg)     |
 | 1 Resilience     | Miss Chin Ching Shia     | [chin_ching_shia@schools.gov.sg](chin_ching_shia@schools.gov.sg)     |
 |      | Mdm Fang Fang     | [fang_fang_a@schools.gov.sg](fang_fang_a@schools.gov.sg)     |

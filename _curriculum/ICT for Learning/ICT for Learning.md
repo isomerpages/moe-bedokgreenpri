@@ -303,8 +303,8 @@ img {
 </body><br>
 
 --------------
-
 <br>
+
 **Swift Explorers Singapore (SES)**
 
 The Swift Explorers Singapore (SES) is an inaugural coding programme organised by Crescent Girls’ School, using resources from Apple and training supported by Tinkercademy, an Apple Professional Learning Provider.

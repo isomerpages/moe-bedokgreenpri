@@ -47,7 +47,7 @@ Mr Loh Wei Leong<br>
 |      | Mrs Samsina Herbert    | [samsina_herbert@schools.gov.sg](samsina_herbert@schools.gov.sg)     |
 | 2 Compassion     | Miss Shadelina Bte Mohd Shariffudin     | [shadelina_mohd_shariffudin@schools.gov.sg](shadelina_mohd_shariffudin@schools.gov.sg)     |
 |      | Mr Gwee Boon Tiong     | [gwee_boon_tiong@schools.gov.sg](gwee_boon_tiong@schools.gov.sg)   |
-| 2 Bravery    | Miss Kway Irene     | [irene_kway@schools.gov.sg](irene_kway@schools.gov.sg)     |
+| 2 Bravery    | Miss Irene Kway     | [kway_irene@schools.gov.sg](kway_irene@schools.gov.sg)     |
 |      | Miss Shanthini d/o Ramalingam     | [shanthini_ramalingam@schools.gov.sg](shanthini_ramalingam@schools.gov.sg)     |
 | 2 Graciousness     | Miss Valerie Cheng Yuning     | [valerie_cheng_yuning@schools.gov.sg](valerie_cheng_yuning@schools.gov.sg)     |
 |      | Mdm Noorlin Binte Haron     | [noorlin_haron@schools.gov.sg](noorlin_haron@schools.gov.sg)     |
@@ -72,7 +72,7 @@ Mdm Lee Oi Foong Margaret<br>
 | 3 Responsibility     | Ms Sylvina Maylie Nathan Tan     | [sylvina_maylie_nathan_tan@schools.gov.sg](sylvina_maylie_nathan_tan@schools.gov.sg)     |
 |      | Mdm Zahidah Shamsul     | [zahidah_shamsul@schools.gov.sg](zahidah_shamsul@schools.gov.sg)     |
 | 3 Resilience    | Ms Hilwah Binte Lukman     | [hilwah_lukman@schools.gov.sg](hilwah_lukman@schools.gov.sg)     |
-|      | Mr Dave Liu    | [dave_liu@schools.gov.sg](dave_liu@schools.gov.sg)     |
+|      | Mr Dave Liu    | [liu_dave@schools.gov.sg](liu_dave@schools.gov.sg)     |
 | 3 Compassion     | Ms Lim Poh Tse Ellen     | [lim_poh_tse_ellen@schools.gov.sg](lim_poh_tse_ellen@schools.gov.sg)     |
 |      | Ms Damia Zolkifli    | [damia_zolkifli@schools.gov.sg](damia_zolkifli@schools.gov.sg)   |
 |      | Ms Nur Zahirah    | [nur_zahirah_kassim@schools.gov.sg](nur_zahirah_kassim@schools.gov.sg)   |

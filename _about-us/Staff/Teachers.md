@@ -91,7 +91,7 @@ Mdm Halimaton Abdullah
 | Class | Form Teacher | Email |
 | -------- | -------- | -------- |
 | 4 Integrity     | Ms Sri Idayu     | [sri_idayu_mohamed_idris@schools.gov.sg](sri_idayu_mohamed_idris@schools.gov.sg)     |
-|     | Ms Ong Su San Faith    | [ong_su_san_faith@schools.gov.sg](ong_su_san_faith@schools.gov.sg)     |
+|     | Ms Ong Su San Faith    | [ong_su_san@schools.gov.sg](ong_su_san@schools.gov.sg)     |
 | 4 Respect    | Ms Chew Mei-Hua Elissa Ann     | [chew_mei-hua_elissa_ann@schools.gov.sg](chew_mei-hua_elissa_ann@schools.gov.sg)     |
 |     | Mdm Tan Yee Chie Pamela    | [tan_yee_chie_pamela@schools.gov.sg](tan_yee_chie_pamela@schools.gov.sg)     |
 | 4 Responsibility     | Mr Keng Xing Wei Darren    | [keng_xing_wei_darren@schools.gov.sg](keng_xing_wei_darren@schools.gov.sg)     |
@@ -103,7 +103,7 @@ Mdm Halimaton Abdullah
 | 4 Compassion     | Ms Ng Jieying     | [ng_jieying@schools.gov.sg](ng_jieying@schools.gov.sg)     |
 |      | Ms Nurul Aini Binte Zainol     | [nurul_aini_zainol@schools.gov.sg](nurul_aini_zainol@schools.gov.sg)   |
 | 4 Bravery    | Mr Ho Koon Min Martin     | [ho_koon_min_martin@schools.gov.sg](ho_koon_min_martin@schools.gov.sg)     |
-|      | Mr Mohammad Hasri     | [mohammad_hasri@schools.gov.sg](mohammad_hasri@schools.gov.sg)     |
+|      | Mr Mohammad Hasri     | [mohd_hasri_bahari@schools.gov.sg](mohd_hasri_bahari@schools.gov.sg)     |
 
 ##### **Year Head - Upper Primary**
 

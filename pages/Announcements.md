@@ -20,7 +20,7 @@ For essential information and instructions on assessment matters in the school, 
 **<u>Parent Kit - Starting School Right</u>** <br>
 The latest issue of Parent Kit provides tips on how what you can do at home to help our children start school right.
 
-Click [here](/links/for-parents) for more information.
+Click [here](/files/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf) for more information.
 
 **<u>Parents Gateway</u>** <br>
 Parents Gateway (PG) is the main communication platform used by the school to reach out to parents.

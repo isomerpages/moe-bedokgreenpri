@@ -4,7 +4,7 @@ permalink: /about-us/general-information/school-hours/
 description: ""
 third_nav_title: General Information
 ---
-The school operates from 7:30 am to 1:30 p.m. every weekday for all levels.
+The school operates from 7:30 a.m. to 1:30 p.m. every weekday for all levels.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -37,11 +37,15 @@ The school operates from 7:30 am to 1:30 p.m. every weekday for all levels.
     <td class="tg-w8nr" colspan="5"><span style="color:inherit;background-color:transparent">    </span> Mass Assembly<br>Fridays <span style="color:inherit;background-color:transparent">   </span></td>
   </tr>
   <tr>
-    <td class="tg-g546"><span style="color:inherit;background-color:transparent"> P1 - P6</span></td>
+    <td class="tg-g546"><span style="color:inherit;background-color:transparent"> P1 - P3</span></td>
     <td class="tg-jec8" colspan="4"><span style="color:inherit;background-color:transparent">   Multi-Purpose Hall (MPH)</span><br><br> <span style="color:inherit;background-color:transparent">     </span></td>
   </tr>
   <tr>
-    <td class="tg-5iaf" colspan="5"><span style="color:inherit">Report to ClassroomsTuesdays, Wednesdays &amp; Thursdays</span><span style="font-weight:normal;color:inherit"> </span> <span style="font-weight:normal;color:inherit"> </span> <span style="font-weight:normal;color:inherit"> </span> <span style="font-weight:normal;color:inherit"> </span></td>
+		<td class="tg-g546"><span style="color:inherit;background-color:transparent"> P4 - P6</span></td>
+    <td class="tg-jec8" colspan="4"><span style="color:inherit;background-color:transparent">   Indoor Sports Hall (ISH)</span><br><br> <span style="color:inherit;background-color:transparent">     </span></td>
+  </tr>
+  <tr>
+    <td class="tg-5iaf" colspan="5"><span style="color:inherit">Report to Classrooms<br>Tuesdays, Wednesdays &amp; Thursdays</span><span style="font-weight:normal;color:inherit"> </span> <span style="font-weight:normal;color:inherit"> </span> <span style="font-weight:normal;color:inherit"> </span> <span style="font-weight:normal;color:inherit"> </span></td>
   </tr>
   <tr>
     <td class="tg-jec8"><span style="color:inherit;background-color:transparent">P1 - P6</span></td>

@@ -10,7 +10,7 @@ third_nav_title: Staff
 Mr Benjamin Yong<br>
 [benjamin_yong@schools.gov.sg](benjamin_yong@schools.gov.sg) 
 
-##### **Vice-Principal**
+##### **Vice-Principals**
 
 Mr Yeo Sho Hor <br>
 [yeo_sho_hor@schools.gov.sg](yeo_sho_hor@schools.gov.sg) <br>

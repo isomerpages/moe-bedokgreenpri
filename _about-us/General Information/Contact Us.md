@@ -35,10 +35,6 @@ third_nav_title: General Information
 </tbody>
 </table>
 
-<img style="width:90%" src="/images/Slide1.png">
-
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3988.7526663945237!2d103.937519!3d1.324277!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x362047e31d59970a!2sBedok%20Green%20Primary%20School!5e0!3m2!1sen!2ssg!4v1665394991675!5m2!1sen!2ssg"></iframe>
-
 You can get to Bedok Green Primary School by bus or train. These are the bus numbers and MRT line that have stops nearby:  
 Bus: 2, 24, 31, 45, 47, 506  
 MRT: East-West Line; Alight at Bedok MRT Station

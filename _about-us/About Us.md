@@ -5,7 +5,7 @@ description: ""
 ---
 ### CO-ED SCHOOL / SINGLE SESSION
 
-GOVERNMENT SCHOOL
+#### GOVERNMENT SCHOOL
 -----------------
 
 **School Philosophy, Culture and Ethos**

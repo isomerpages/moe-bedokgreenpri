@@ -13,7 +13,7 @@ P1 Parents' Engagement 2023
 School Textbooks (P1-6) Booklist 2023
 -------------------------------------
 
-Click on this link to purchase your school books online -&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)  
+Click on the following link to purchase your school books online: &nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)  
 Please refer to the booklist:&nbsp;<br>
 [2023 Booklist](/files/School%20Booklist.pdf)
 
@@ -21,8 +21,7 @@ Please refer to the booklist:&nbsp;<br>
 Uniform Price List and Name Tag Order
 -------------------------------------
 
-Click on [this](www.khuniform.com/bgpsnametag) link to purchase your nametag online. 
-[]()
+Click on the following link to order your child / ward's name tag: [Name Tag Order Form](https://khuniform.com/bgpsnametag/)<br>
 Please refer to the following attachments:  
 [BGPS Uniform Prices 1.1.2022.pdf](/files/BGPS%20Uniform%20Prices%201%20Jan%202022_new%20vendor.pdf) <br>
 [Name Tag Order Form.pdf](/files/Name%20Tag%20Order%20Form.pdf) 

@@ -6,8 +6,7 @@ description: ""
 School Crest
 ------------
 
-<img src="/images/School%20Crest%20High%20Resolution.png"  
-style="width:20%">The rows in the open book represent the school striving to achieve the Desired Outcomes of Education.
+<img src="/images/School%20Crest%20High%20Resolution.png" style="width:20%">The rows in the open book represent the school striving to achieve the Desired Outcomes of Education.
 
 The lighted torch stands for a passion for continuous learning.
 
@@ -18,10 +17,10 @@ Persevere and Succeed
 
 School Song
 -----------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ebTGPiU8xas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<div style="text-align: center;"><iframe width="600" height="335" src="https://www.youtube.com/embed/ebTGPiU8xas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br></div>
 
-We, in Bedok Green Primary  <br>
-We always strive to do our best   <br>
+We, in Bedok Green Primary&nbsp; <br>
+We always strive to do our best&nbsp; &nbsp;<br>
 We learn and play together <br>
 And work hard as a team <br>
 Persevere and we will succeed <br>

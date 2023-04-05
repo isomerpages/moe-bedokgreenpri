@@ -3,6 +3,23 @@ title: Events @ BGPS
 permalink: /eventsatbgps/
 description: ""
 ---
+### March Events
+Please click on the event to be redirected to the Facebook posts.
+
+[P4 Project Buddy Clean](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.671196421674278)
+
+[Alumni Gathering](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.672996804827573)
+
+[P4 Camp](https://www.facebook.com/media/set/?
+vanity=100063517780837&set=a.683341283793125)
+
+[World Water Day](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.686048723522381)
+
+[PCTC 2023](https://www.facebook.com/media/set/?
+vanity=100063517780837&set=a.686163780177542)
+
+[Rugby NSG ](https://www.facebook.com/media/set/?vanity=100063517780837&set=a.689024433224810)
+
 ### February Events
 Please click on the event to be redirected to the Facebook posts. 
 

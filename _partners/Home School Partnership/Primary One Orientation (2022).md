@@ -6,7 +6,7 @@ third_nav_title: Home School Partnership
 ---
 Below are the presentation slides and links to the sharings conducted during the orientation.  
   
-[P1 Orientation 2022 Slides](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Partnerships/Home%20School%20Partnerships/P1%20Orientation%202022%20Resources/P1%20Orientation%2020222%20Slides.pdf) **PDF file exceeds 5MB!** <br>
+[P1 Orientation 2023](https://sites.google.com/moe.edu.sg/bedokgreenprimary?usp=share_link) <br>
 [Responses to Parents Queries and Feedback](/files/Responses%20to%20Parents%20Queries%20and%20Feedback%20on%20P1%20Parent%20Engagement%20Talks%202022.pdf)
 
   

@@ -3,6 +3,9 @@ title: Information for Parents
 permalink: /about-us/information-for-parents/
 description: ""
 ---
+## Science Webinar [5 April 2023]
+[Creative Science Toy Making &amp; Busking Programmes @ BGPS](/files/science%20webinar%20on%20cstm%20&amp;%20csb@bgpps%20on%205%20april%202023_for%20sch%20website.pdf)
+
 P1 Parents' Engagement 2023
 -------------------------------------
 [Welcome Address Sharing for Parents 2023](/files/Welcome%20Address%20Sharing%20for%20Parents%202023.pdf)<br>

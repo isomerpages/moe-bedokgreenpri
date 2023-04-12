@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Virtual Tour.md
       - About Us.md
       - Principal’s Message.md
       - Vision, Mission & Values.md

@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Virtual Tour.md
       - About Us.md
       - Principal’s Message.md
       - Vision, Mission & Values.md
@@ -21,4 +20,5 @@ collections:
       - Staff/Teachers.md
       - Staff/Other Teachers.md
       - Information for Parents.md
+      - Virtual Tour.md
       - Privacy Policy.md

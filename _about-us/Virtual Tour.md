@@ -3,7 +3,7 @@ title: Virtual Tour
 permalink: /about-us/virtualtour/
 description: ""
 ---
-# BGPS Virtual Tour
+## BGPS Virtual Tour
 Explore our campus to experience what life at BGPS is like! Through this tour, you can find out more about the facilities that support and enhance our students' learning.
 
 Before you start, do take note of the following:  

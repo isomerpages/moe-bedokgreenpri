@@ -4,6 +4,35 @@ permalink: /achievements/student/mother-tongue/
 description: ""
 third_nav_title: Students
 ---
+## 2022
+
+| 13th Goodtalk (Global Village) International Children and Youth Bilingual Speech Conference | |  |
+| -------- | -------- | -------- |
+|First Award     |     | Wee Xuan Yi Amos (3 Respect)     |
+
+| National Chinese Calligraphy Competition | |  |
+| -------- | -------- | -------- |
+|Merit Award     |     | Ethan Gao Xiang (3 Bravery)     |
+|Top 20     |     | Zhou Yuanzuo (6 Integrity)     |
+
+| International CL Online Creative Writing Competition | |  |
+| -------- | -------- | -------- |
+|Gold Award     |     | Zhou Yuanyou (6 Respect)     |
+|     |     | Zhou Yuanzuo (6 Integrity)     |
+|Silver Award     |     | Xiong Junyi (5 Integrity)     |
+
+| Speak Mandarin Campaign | |  |
+| -------- | -------- | -------- |
+|Silver Award     |     | Wee Xun Yi Amos (5 Respect)      |
+
+| Perduan Bercerita | |  |
+| -------- | -------- | -------- |
+|Gold with Honours     |     | Mohamad Azim Bin Mohd Adlil Wafi (5 Resilience)      |
+|Silver     |     | Ahamad Bin Adnan (5 Responsibility)      |
+|Bronze     |     | Nur Alysya Binte Muhammad Firdausi  (3 Integrity)      |
+|     |     | Muhammad Alfie Bin Kamal  (4 Compassion)      |
+|     |     | Eilan Na'il Marican Bin Mohammed Shukor (5 Respect)      |
+
 2021
 ----
 <table class="iveo_table ives_tab_1" width="0" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(235, 235, 235);"><td width="924" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; font-size: 1rem !important; font-family: Rubik, sans-serif !important;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">Recital Competition<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Bronze Award</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(255, 255, 255);"><td rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; font-size: 1rem !important; font-family: Rubik, sans-serif !important;"><span class="" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">Song Hengyi (P4 Bravery)<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Chen Jia Xi (P4 Bravery)<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Eunice Ng Yu Ge (P4 Bravery)<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Kuek Jie Ning Jeslyn (P4 Bravery)<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Hu Chenxiao (P4 Bravery)<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Guo Shiyu (P4 Responsibility)<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Teo Han Nin (P4 Responsibility)<b class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;"><br class="" style="margin: 0px; outline: 0px; padding: 0px;"></b></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(235, 235, 235);"></tr></tbody></table>
@@ -31,51 +60,3 @@ third_nav_title: Students
 <br>
 
 <table class="iveo_table ives_tab_1" width="0" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(235, 235, 235);"><td width="924" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; font-size: 1rem !important; font-family: Rubik, sans-serif !important;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">Rakan Bahasa</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(255, 255, 255);"><td width="462" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; font-size: 1rem !important; font-family: Rubik, sans-serif !important;"><span class="" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">Certificate of Participation</span></p></td><td width="462" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; font-size: 1rem !important; font-family: Rubik, sans-serif !important;"><span class="" style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Rubik, sans-serif !important; font-size: 1rem !important;">Muhammad Hadhari Bin Saiful Bahari (5 Responsibility)<br class="" style="margin: 0px; outline: 0px; padding: 0px;">Nur Illyana bte Harun (5 Respect)</span></p></td></tr></tbody></table>
-
-2020
-----
-
-**International Chinese Language Competition** <br>
-23 Certificates of Participation 
-
-**National Chinese Challenge** <br>
-27 Certificates of Participation  
-  
-
-**National Chinese Calligraphy Competition** <br>
-***Consolation Award*** <br>
-Wang Jiahe (5 Compassionate)  <br>
-Jia Shiqi (6 Integrity)  
-  
-**_Finalist_** <br>
-Goh Qiu Yan (5 Compassionate)  
-Neng Meng Xuan (5 Respectful)  
-  
-Lim Xin Yuan Gwen (6 Resilient)  
-  
-_**Most Participation School Award**_  
-Bedok Green Primary School  
-  
-  
-**Text Recital National Competition for Primary and Secondary Schools**
-_**Bronze Award (Individual)**_  
-Sun Yinuo (P1 Respectful)  
-  
-_**Bronze Award (Group)**_ <br>
-Xu Qingru (2 Brave)         
-Teh Ting Yin (2 Brave)  
-  
-Tan Ting Yie (2 Brave)      
-Siew Cai En (2 Compassionate)  
-  
-Hoo Zhing Xing (4 Resilient)  
-Chooi Yi Ting (4 Resilient)  
-Marcus Koh (4 Compassionate)  
-  
-Wang Sheng Yuan Jayden (5 Resilient)  
-Pooi Zi Hui (5 Respectful)  
-  
-
-**9th National Primary and Secondary School Chinese Calligraphy Competition** <br>
-_**Consolation**_ <br>
-Lim Yu En Shayne (5 Compassionate)

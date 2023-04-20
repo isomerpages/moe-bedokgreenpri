@@ -23,12 +23,15 @@ description: ""
 <a href="https://schoolcockpit.moe.gov.sg/">
       <img src="/images/Teachers%20Only%20Page/bgt16_school%20cockpit.png">
     </a>
+		
+<a href="https://bgps.edupage.org/">
+      <img src="/images/Teachers%20Only%20Page/bgt4edupage.png">
+    </a>
 
 
 
-[BGPS Padlet]()<br>
-[Cockpit Plus*]()<br>
-[Edupage](https://bgps.edupage.org/)<br>
+
+[Edupage]()<br>
 [Form.SG](https://form.gov.sg/)<br>
 [HR &amp; Payroll](https://www.hrp.gov.sg/hrp/#/)<br>
 [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)<br>

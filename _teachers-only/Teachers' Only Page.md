@@ -6,7 +6,7 @@ description: ""
 #### School Calendar for Staff
 <iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=Y3FwZ3V2Z3ZxNmMzY3FsMm00Z2hhcHVzaDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MHBjcnE1N2xwc285MTdqaDhpYWF2cWluZWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YWRtaW5fYmdwc0Btb2UuZWR1LnNn&amp;src=YmVkb2tncmVlbnByaUBnbWFpbC5jb20&amp;color=%23009688&amp;color=%23009688&amp;color=%23AD1457&amp;color=%23B39DDB"></iframe>
 
-#### Useful Links<br>
+#### **Useful Links**<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -88,7 +88,9 @@ description: ""
 
 	
 
-#### Requests<br>
+#### **Requests**<br>
+
+
 [ICT Request Form](https://sites.google.com/view/bgpsrequest/home)<br>
 [Operations Service Request](https://sites.google.com/view/bgpsrequest/operations-request)<br>
 [Parent/Alumni Volunteers](https://docs.google.com/forms/d/e/1FAIpQLSetKHoBFT316tMEsbT6JcXVvZNs_LaT7JUewGKdlwZDg1BxdQ/viewform)<br>

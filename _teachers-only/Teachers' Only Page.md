@@ -55,12 +55,15 @@ description: ""
       <img src="/images/Teachers%20Only%20Page/bgt12_moe%20intranet.png">
     </a>
 
+<a href="https://idm.opal2.moe.edu.sg/">
+      <img src="/images/Teachers%20Only%20Page/bgt13_opal.png">
+    </a>
 
 
 
 
 [MOE Intranet]()<br>
-[OPAL 2.0](https://idm.opal2.moe.edu.sg/)<br>
+[OPAL 2.0]()<br>
 [Parents' Gateway](https://pg.moe.edu.sg/)<br>
 [SC Mobile](https://scmobile.moe.edu.sg/)<br>
 [SLS](https://vle.learning.moe.edu.sg/login)<br>

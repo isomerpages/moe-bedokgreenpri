@@ -8,42 +8,42 @@ description: ""
 
 #### Useful Links<br>
 
-|   |   |   |   |   |
-|:-:|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-<a href="https://forms.moe.edu.sg">
+| <a href="https://forms.moe.edu.sg">
       <img src="/images/Teachers%20Only%20Page/all%20ears%20form%20builder.png">
-    </a>
-
-<a href="https://sites.google.com/moe.edu.sg/bgps-elearning-tools-support/home">
+    </a>  | <a href="https://sites.google.com/moe.edu.sg/bgps-elearning-tools-support/home">
       <img src="/images/Teachers%20Only%20Page/bgt2%20bestportal.png">
-    </a>
-
-<a href="https://bedokgreenprimarysch.padlet.org/auth/login">
+    </a>  |  <a href="https://bedokgreenprimarysch.padlet.org/auth/login">
       <img src="/images/Teachers%20Only%20Page/bgt3bgps.png">
-    </a>
-		
-<a href="https://schoolcockpit.moe.gov.sg/">
+    </a> |  <a href="https://schoolcockpit.moe.gov.sg/">
       <img src="/images/Teachers%20Only%20Page/bgt16_school%20cockpit.png">
-    </a>
-		
-<a href="https://bgps.edupage.org/">
+    </a> | <a href="https://bgps.edupage.org/">
       <img src="/images/Teachers%20Only%20Page/bgt4edupage.png">
-    </a>
-		
-<a href="https://form.gov.sg/">
+    </a>  |
+|:-:|---|---|---|---|
+| <a href="https://form.gov.sg/">
       <img src="/images/Teachers%20Only%20Page/bgt5_form.png">
     </a>
-
-<a href="https://www.hrp.gov.sg/hrp/#?">
+  | <a href="https://www.hrp.gov.sg/hrp/#?">
       <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
     </a>
-
-<a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx">
+  | <a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx">
       <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
-    </a>
+    </a> |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+
+
+
+
+		
+
+		
+
+		
+
+
+
 
 <a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient">
       <img src="/images/Teachers%20Only%20Page/bgt8_iexam.png">

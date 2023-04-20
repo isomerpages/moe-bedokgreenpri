@@ -64,8 +64,10 @@ description: ""
     <td class="tg-0pky"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx">
       <img src="/images/Teachers%20Only%20Page/bgt12_moe%20intranet.png">
     </a> </td>
+    <td class="tg-0pky"><a href="https://idm.opal2.moe.edu.sg/">
+      <img src="/images/Teachers%20Only%20Page/bgt13_opal.png">
+    </a>   </td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">14</td>
     <td class="tg-0pky">15</td>
   </tr>
   <tr>
@@ -77,9 +79,7 @@ description: ""
 
 	
 
-<a href="https://idm.opal2.moe.edu.sg/">
-      <img src="/images/Teachers%20Only%20Page/bgt13_opal.png">
-    </a>   
+
 		
 <a href="https://pg.moe.edu.sg">
       <img src="/images/Teachers%20Only%20Page/bgt14_parents'%20gateway.png">

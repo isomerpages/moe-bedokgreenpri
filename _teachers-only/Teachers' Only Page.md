@@ -28,7 +28,7 @@ description: ""
       <img src="/images/Teachers%20Only%20Page/bgt4edupage.png">
     </a>
 		
-<a href="https://form.sg">
+<a href="https://form.gov.sg/">
       <img src="/images/Teachers%20Only%20Page/bgt5_form.png">
     </a>
 
@@ -77,7 +77,7 @@ description: ""
 
 
 
-[T.A.P]()<br>
+
 
 #### Requests<br>
 [ICT Request Form](https://sites.google.com/view/bgpsrequest/home)<br>

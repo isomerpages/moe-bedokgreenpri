@@ -27,13 +27,19 @@ description: ""
 <a href="https://bgps.edupage.org/">
       <img src="/images/Teachers%20Only%20Page/bgt4edupage.png">
     </a>
+		
+<a href="https://form.sg">
+      <img src="/images/Teachers%20Only%20Page/bgt5_form.png">
+    </a>
+
+<a href="https://www.hrp.gov.sg/hrp/#?">
+      <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
+    </a>
 
 
 
 
-[Edupage]()<br>
-[Form.SG](https://form.gov.sg/)<br>
-[HR &amp; Payroll](https://www.hrp.gov.sg/hrp/#/)<br>
+
 [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)<br>
 [iExams](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient)<br>
 [MOE Icon](https://icon.moe.edu.sg)<br>

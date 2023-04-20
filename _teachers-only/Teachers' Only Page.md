@@ -71,14 +71,13 @@ description: ""
       <img src="/images/Teachers%20Only%20Page/bgt17_sls.png">
     </a>
 
-<a href="https://forms.moe.edu.sg/">
-      <img src="/images/all%20ears%20form%20builder.png">
+<a href="https://go.gov.sg/bgps-preassemblyportal">
+      <img src="/images/Teachers%20Only%20Page/bgt18tap.png">
     </a>
 
 
-[SC Mobile](/)<br>
-[SLS]()<br>
-[T.A.P](https://go.gov.sg/bgps-preassemblyportal)<br>
+
+[T.A.P]()<br>
 
 #### Requests<br>
 [ICT Request Form](https://sites.google.com/view/bgpsrequest/home)<br>

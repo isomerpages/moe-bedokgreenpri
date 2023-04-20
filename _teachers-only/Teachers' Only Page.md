@@ -67,10 +67,17 @@ description: ""
       <img src="/images/Teachers%20Only%20Page/bgt15_sc%20mobile.png">
     </a>
 
+<a href="https://vle.learning.moe.edu.sg/login">
+      <img src="/images/Teachers%20Only%20Page/bgt17_sls.png">
+    </a>
+
+<a href="https://forms.moe.edu.sg/">
+      <img src="/images/all%20ears%20form%20builder.png">
+    </a>
 
 
 [SC Mobile](/)<br>
-[SLS](https://vle.learning.moe.edu.sg/login)<br>
+[SLS]()<br>
 [T.A.P](https://go.gov.sg/bgps-preassemblyportal)<br>
 
 #### Requests<br>

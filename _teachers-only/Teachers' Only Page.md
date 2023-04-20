@@ -78,48 +78,15 @@ description: ""
     <td colspan="2" class="tg-0pky"> <a href="https://vle.learning.moe.edu.sg/login">
       <img src="/images/Teachers%20Only%20Page/bgt17_sls.png">
     </a> </td>
-    <td colspan="3" class="tg-0pky"><br></td>
+    <td colspan="3" class="tg-0pky"><a href="https://go.gov.sg/bgps-preassemblyportal">
+      <img src="/images/Teachers%20Only%20Page/bgt18tap.png">
+    </a>
+<br></td>
   </tr>
 </tbody>
 </table>
 
 	
-
-  
- 
-
-<a href="https://go.gov.sg/bgps-preassemblyportal">
-      <img src="/images/Teachers%20Only%20Page/bgt18tap.png">
-    </a>
-
-
-
-
-
-
-		
-
-		
-
-		
-
-
-
-
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
 
 #### Requests<br>
 [ICT Request Form](https://sites.google.com/view/bgpsrequest/home)<br>

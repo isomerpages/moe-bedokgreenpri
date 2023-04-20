@@ -75,8 +75,10 @@ description: ""
     </a></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-0pky"></td>
-    <td colspan="3" class="tg-0pky">17<br></td>
+    <td colspan="2" class="tg-0pky"> <a href="https://vle.learning.moe.edu.sg/login">
+      <img src="/images/Teachers%20Only%20Page/bgt17_sls.png">
+    </a> </td>
+    <td colspan="3" class="tg-0pky"><br></td>
   </tr>
 </tbody>
 </table>
@@ -84,9 +86,7 @@ description: ""
 	
 
   
- <a href="https://vle.learning.moe.edu.sg/login">
-      <img src="/images/Teachers%20Only%20Page/bgt17_sls.png">
-    </a>  
+ 
 
 <a href="https://go.gov.sg/bgps-preassemblyportal">
       <img src="/images/Teachers%20Only%20Page/bgt18tap.png">

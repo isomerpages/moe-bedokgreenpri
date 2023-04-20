@@ -40,15 +40,26 @@ description: ""
       <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
     </a>
 
+<a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient">
+      <img src="/images/Teachers%20Only%20Page/bgt8_iexam.png">
+    </a>
+		
+<a href="(https://icon.moe.edu.sg)">
+      <img src="/images/Teachers%20Only%20Page/bgt9_moe%20icon.png">
+    </a>
+<a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">
+      <img src="/images/Teachers%20Only%20Page/bgt11_mims%20portal.png">
+    </a>
+		
+<a href="https://intranet.moe.gov.sg/Pages/Home.aspx">
+      <img src="/images/Teachers%20Only%20Page/bgt12_moe%20intranet.png">
+    </a>
 
 
 
 
-[HR Online]()<br>
-[iExams](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient)<br>
-[MOE Icon](https://icon.moe.edu.sg)<br>
-[MOE Identity Management System (MIMS)](https://idp.mims.moe.gov.sg/nidp/saml2/sso)<br>
-[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)<br>
+
+[MOE Intranet]()<br>
 [OPAL 2.0](https://idm.opal2.moe.edu.sg/)<br>
 [Parents' Gateway](https://pg.moe.edu.sg/)<br>
 [SC Mobile](https://scmobile.moe.edu.sg/)<br>

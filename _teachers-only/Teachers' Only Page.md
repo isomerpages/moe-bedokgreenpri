@@ -61,8 +61,10 @@ description: ""
     <td class="tg-0pky"><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">
       <img src="/images/Teachers%20Only%20Page/bgt11_mims%20portal.png">
     </a> 	</td>
+    <td class="tg-0pky"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx">
+      <img src="/images/Teachers%20Only%20Page/bgt12_moe%20intranet.png">
+    </a> </td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">13</td>
     <td class="tg-0pky">14</td>
     <td class="tg-0pky">15</td>
   </tr>
@@ -74,10 +76,6 @@ description: ""
 </table>
 
 	
-
-<a href="https://intranet.moe.gov.sg/Pages/Home.aspx">
-      <img src="/images/Teachers%20Only%20Page/bgt12_moe%20intranet.png">
-    </a> 
 
 <a href="https://idm.opal2.moe.edu.sg/">
       <img src="/images/Teachers%20Only%20Page/bgt13_opal.png">

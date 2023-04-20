@@ -19,10 +19,15 @@ description: ""
 <a href="https://bedokgreenprimarysch.padlet.org/auth/login">
       <img src="/images/Teachers%20Only%20Page/bgt3bgps.png">
     </a>
+		
+<a href="https://schoolcockpit.moe.gov.sg/">
+      <img src="/images/Teachers%20Only%20Page/bgt16_school%20cockpit.png">
+    </a>
+
 
 
 [BGPS Padlet]()<br>
-[Cockpit Plus*](https://schoolcockpit.moe.gov.sg/)<br>
+[Cockpit Plus*]()<br>
 [Edupage](https://bgps.edupage.org/)<br>
 [Form.SG](https://form.gov.sg/)<br>
 [HR &amp; Payroll](https://www.hrp.gov.sg/hrp/#/)<br>

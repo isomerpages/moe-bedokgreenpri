@@ -8,25 +8,61 @@ description: ""
 
 #### Useful Links<br>
 
-<a href="https://forms.moe.edu.sg">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow"><a href="https://forms.moe.edu.sg">
       <img src="/images/Teachers%20Only%20Page/all%20ears%20form%20builder.png">
     </a>   
-		
-<a href="https://sites.google.com/moe.edu.sg/bgps-elearning-tools-support/home">
+		</th>
+    <th class="tg-0pky"><a href="https://sites.google.com/moe.edu.sg/bgps-elearning-tools-support/home">
       <img src="/images/Teachers%20Only%20Page/bgt2%20bestportal.png">
-    </a>  
-		
-<a href="https://bedokgreenprimarysch.padlet.org/auth/login">
+    </a>  </th>
+    <th class="tg-0pky"><a href="https://bedokgreenprimarysch.padlet.org/auth/login">
       <img src="/images/Teachers%20Only%20Page/bgt3bgps.png">
-    </a>  
-		
-<a href="https://schoolcockpit.moe.gov.sg/">
+    </a>  </th>
+    <th class="tg-0pky"><a href="https://schoolcockpit.moe.gov.sg/">
       <img src="/images/Teachers%20Only%20Page/bgt16_school%20cockpit.png">
     </a>
-		
-<a href="https://bgps.edupage.org/">
+		</th>
+    <th class="tg-0pky"><a href="https://bgps.edupage.org/">
       <img src="/images/Teachers%20Only%20Page/bgt4edupage.png">
-    </a>  
+    </a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">7</td>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">10</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11</td>
+    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">13</td>
+    <td class="tg-0pky">14</td>
+    <td class="tg-0pky">15</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-0pky">16</td>
+    <td colspan="3" class="tg-0pky">17<br></td>
+  </tr>
+</tbody>
+</table>
+
+
+  
 		
 <a href="https://form.gov.sg/">
       <img src="/images/Teachers%20Only%20Page/bgt5_form.png">

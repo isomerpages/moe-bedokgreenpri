@@ -41,9 +41,13 @@ description: ""
 </thead>
 <tbody>
   <tr>
+    <td class="tg-0pky"><a href="https://form.gov.sg/">
+      <img src="/images/Teachers%20Only%20Page/bgt5_form.png">
+    </a></td>
+    <td class="tg-0pky"> <a href="https://www.hrp.gov.sg/hrp/#?">
+      <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
+    </a></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">7</td>
-    <td class="tg-0pky">8</td>
     <td class="tg-0pky">9</td>
     <td class="tg-0pky">10</td>
   </tr>
@@ -64,12 +68,8 @@ description: ""
 
   
 		
-<a href="https://form.gov.sg/">
-      <img src="/images/Teachers%20Only%20Page/bgt5_form.png">
-    </a>
- <a href="https://www.hrp.gov.sg/hrp/#?">
-      <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
-    </a>
+
+
 <a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx">
       <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
     </a> 

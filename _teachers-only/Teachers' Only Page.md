@@ -73,10 +73,7 @@ description: ""
 </tbody>
 </table>
 
-		
-
-
-
+	
 
 <a href="https://intranet.moe.gov.sg/Pages/Home.aspx">
       <img src="/images/Teachers%20Only%20Page/bgt12_moe%20intranet.png">

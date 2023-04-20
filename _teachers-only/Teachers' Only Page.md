@@ -47,12 +47,18 @@ description: ""
     <td class="tg-0pky"> <a href="https://www.hrp.gov.sg/hrp/#?">
       <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
     </a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">9</td>
-    <td class="tg-0pky">10</td>
+    <td class="tg-0pky"><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx">
+      <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
+    </a> </td>
+    <td class="tg-0pky"><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient">
+      <img src="/images/Teachers%20Only%20Page/bgt8_iexam.png">
+    </a>  </td>
+    <td class="tg-0pky"><a href="(https://icon.moe.edu.sg)">
+      <img src="/images/Teachers%20Only%20Page/bgt9_moe%20icon.png">
+    </a>  </td>
   </tr>
   <tr>
-    <td class="tg-0pky">11</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky">12</td>
     <td class="tg-0pky">13</td>
     <td class="tg-0pky">14</td>
@@ -65,22 +71,8 @@ description: ""
 </tbody>
 </table>
 
-
-  
 		
 
-
-<a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx">
-      <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
-    </a> 
-		
-<a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient">
-      <img src="/images/Teachers%20Only%20Page/bgt8_iexam.png">
-    </a>  
-		
-<a href="(https://icon.moe.edu.sg)">
-      <img src="/images/Teachers%20Only%20Page/bgt9_moe%20icon.png">
-    </a>  
 
 <a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">
       <img src="/images/Teachers%20Only%20Page/bgt11_mims%20portal.png">

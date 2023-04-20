@@ -59,12 +59,11 @@ description: ""
       <img src="/images/Teachers%20Only%20Page/bgt13_opal.png">
     </a>
 
+<a href="https://pg.moe.edu.sg">
+      <img src="/images/Teachers%20Only%20Page/bgt14_parents'%20gateway.png">
+    </a>
 
-
-
-[MOE Intranet]()<br>
-[OPAL 2.0]()<br>
-[Parents' Gateway](https://pg.moe.edu.sg/)<br>
+[Parents' Gateway](/)<br>
 [SC Mobile](https://scmobile.moe.edu.sg/)<br>
 [SLS](https://vle.learning.moe.edu.sg/login)<br>
 [T.A.P](https://go.gov.sg/bgps-preassemblyportal)<br>

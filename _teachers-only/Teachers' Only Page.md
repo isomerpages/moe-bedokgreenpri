@@ -4,7 +4,7 @@ permalink: /teachers-only/
 description: ""
 ---
 #### School Calendar for Staff
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=Y3FwZ3V2Z3ZxNmMzY3FsMm00Z2hhcHVzaDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MHBjcnE1N2xwc285MTdqaDhpYWF2cWluZWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YWRtaW5fYmdwc0Btb2UuZWR1LnNn&amp;src=YmVkb2tncmVlbnByaUBnbWFpbC5jb20&amp;color=%23009688&amp;color=%23009688&amp;color=%23AD1457&amp;color=%23B39DDB" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=Y3FwZ3V2Z3ZxNmMzY3FsMm00Z2hhcHVzaDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MHBjcnE1N2xwc285MTdqaDhpYWF2cWluZWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YWRtaW5fYmdwc0Btb2UuZWR1LnNn&amp;src=YmVkb2tncmVlbnByaUBnbWFpbC5jb20&amp;color=%23009688&amp;color=%23009688&amp;color=%23AD1457&amp;color=%23B39DDB"></iframe>
 
 #### Useful Links<br>
 
@@ -75,10 +75,10 @@ description: ""
     </a></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-0pky"> <a href="https://vle.learning.moe.edu.sg/login">
+    <td class="tg-0pky"> <a href="https://vle.learning.moe.edu.sg/login">
       <img src="/images/Teachers%20Only%20Page/bgt17_sls.png">
     </a> </td>
-    <td colspan="3" class="tg-0pky"><a href="https://go.gov.sg/bgps-preassemblyportal">
+    <td class="tg-0pky"><a href="https://go.gov.sg/bgps-preassemblyportal">
       <img src="/images/Teachers%20Only%20Page/bgt18tap.png">
     </a>
 <br></td>

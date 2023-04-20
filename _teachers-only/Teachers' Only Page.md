@@ -63,8 +63,13 @@ description: ""
       <img src="/images/Teachers%20Only%20Page/bgt14_parents'%20gateway.png">
     </a>
 
-[Parents' Gateway](/)<br>
-[SC Mobile](https://scmobile.moe.edu.sg/)<br>
+<a href="https://scmobile.moe.edu.sg">
+      <img src="/images/Teachers%20Only%20Page/bgt15_sc%20mobile.png">
+    </a>
+
+
+
+[SC Mobile](/)<br>
 [SLS](https://vle.learning.moe.edu.sg/login)<br>
 [T.A.P](https://go.gov.sg/bgps-preassemblyportal)<br>
 

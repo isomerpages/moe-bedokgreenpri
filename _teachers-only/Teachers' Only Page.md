@@ -70,19 +70,19 @@ description: ""
     <td class="tg-0pky"><a href="https://pg.moe.edu.sg">
       <img src="/images/Teachers%20Only%20Page/bgt14_parents'%20gateway.png">
     </a>  </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://scmobile.moe.edu.sg">
+      <img src="/images/Teachers%20Only%20Page/bgt15_sc%20mobile.png">
+    </a></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-0pky">16</td>
+    <td colspan="2" class="tg-0pky"></td>
     <td colspan="3" class="tg-0pky">17<br></td>
   </tr>
 </tbody>
 </table>
 
 	
-<a href="https://scmobile.moe.edu.sg">
-      <img src="/images/Teachers%20Only%20Page/bgt15_sc%20mobile.png">
-    </a>
+
   
  <a href="https://vle.learning.moe.edu.sg/login">
       <img src="/images/Teachers%20Only%20Page/bgt17_sls.png">

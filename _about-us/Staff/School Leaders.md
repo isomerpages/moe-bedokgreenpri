@@ -8,7 +8,7 @@ third_nav_title: Staff
 ##### **School Principal**
 
 
-<img style="float:left; width:40%;" src="images/benjaminyong.jpg">
+<img style="width:40%;" src="images/benjaminyong.jpg">
 
 
 Mr Benjamin Yong<br>

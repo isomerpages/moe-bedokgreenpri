@@ -53,5 +53,3 @@ third_nav_title: Staff
   </tr>
 </tbody>
 </table>
-
-<img align="left" width="108" height="134" alt="Mdm Sharifah Fairuz Syed Alsagoff" src="/images/sharifahfairuz.jpg">

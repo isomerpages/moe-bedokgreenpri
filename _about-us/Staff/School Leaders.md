@@ -7,7 +7,10 @@ third_nav_title: Staff
 ## School Leaders 
 ##### **School Principal**
 
-![](/images/benjaminyong.jpg)
+
+<img src="images/benjaminyong.jpg" style="width:40%" align="left">
+
+
 Mr Benjamin Yong<br>
 [benjamin_yong@schools.gov.sg](benjamin_yong@schools.gov.sg) 
 

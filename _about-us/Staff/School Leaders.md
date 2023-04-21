@@ -20,7 +20,6 @@ Mr Benjamin Yong<br>
 	<img src="/images/yeoshohor.jpg">
 </div>
 
-![](/images/yeoshohor.jpg)
 Mr Yeo Sho Hor <br>
 [yeo_sho_hor@schools.gov.sg](yeo_sho_hor@schools.gov.sg) <br>
 

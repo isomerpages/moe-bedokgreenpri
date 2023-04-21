@@ -7,49 +7,31 @@ third_nav_title: Staff
 ## School Leaders 
 ##### **School Principal**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hp8w{color:#081A4A;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-8k3w{color:#4067AE;text-align:center;vertical-align:top}
-</style>
+<figure>
 
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-hp8w"><img src="/images/benjaminyong.jpg" alt="Benjamin Yong" width="102" height="127"><br>Mr Benjamin Yong  <br></td>
-  </tr>
-  <tr>
-    <td class="tg-8k3w"><a href="mailto:benjamin_yong@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">benjamin_yong@schools.gov.sg</span></a><br></td>
-  </tr>
-</tbody>
-</table>
+<img style="width:60%" src="/images/benjaminyong.jpg">
 
+<figcaption> <strong> Mr Benjamin Yong </strong> 
+<br><a href="mailto:benjamin_yong@schools.gov.sg">benjamin_yong@schools.gov.sg</a></figcaption><a href="mailto:benjamin_yong@schools.gov.sg">
+
+</a></figure><a href="mailto:benjamin_yong@schools.gov.sg">
 
 ##### **Vice-Principals**
+	
+</a><figure><a href="mailto:benjamin_yong@schools.gov.sg">
 
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-hp8w"><img src="/images/yeoshohor.jpg" alt="Yeo Sho Hor" width="102" height="127"><br>Mr Yeo Sho Hor <br></td>
-  </tr>
-  <tr>
-    <td class="tg-8k3w"><a href="mailto:yeo_sho_hor@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">yeo_sho_hor@schools.gov.sg</span></a><br></td>
-  </tr>
-</tbody>
-</table>
+<img style="width:60%" src="/images/yeoshohor.jpg">
 
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-hp8w"><img src="/images/sharifahfairuz.jpg" alt="Sharifah Fairuz" width="102" height="127"><br>Mdm Sharifah Fairuz Syed Alsagoff  <br></td>
-  </tr>
-  <tr>
-    <td class="tg-8k3w"><a href="mailto:sharifah_fairuz_syed_alsagoff@schools.gov.sg"><span style="text-decoration:none;color:#4067AE">sharifah_fairuz_syed_alsagoff@schools.gov.sg</span></a><br></td>
-  </tr>
-</tbody>
-</table>
+</a><figcaption><a href="mailto:benjamin_yong@schools.gov.sg"> <strong> Mr Yeo Sho Hor  </strong> 
+<br></a><a href="mailto:yeo_sho_hor@schools.gov.sg">yeo_sho_hor@schools.gov.sg</a></figcaption><a href="mailto:yeo_sho_hor@schools.gov.sg">
+
+</a></figure><a href="mailto:yeo_sho_hor@schools.gov.sg">
+
+</a><figure><a href="mailto:yeo_sho_hor@schools.gov.sg">
+<img style="width:60%" src="/images/sharifahfairuz.jpg">
+
+</a><figcaption><a href="mailto:yeo_sho_hor@schools.gov.sg"> <strong> Mdm Sharifah Fairuz Syed Alsagoff  </strong> 
+<br></a><a href="mailto:yeo_sho_hor@schools.gov.sg">sharifah_fairuz_syed_alsagoff@schools.gov.sg</a></figcaption><a href="mailto:yeo_sho_hor@schools.gov.sg">
+
+</a></figure><a href="mailto:yeo_sho_hor@schools.gov.sg">
+</a>

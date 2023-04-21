@@ -7,25 +7,19 @@ third_nav_title: Staff
 ## School Leaders 
 ##### **School Principal**
 
-<div style="float:left; width:40%">
-	<img src="/images/benjaminyong.jpg">
-</div>
+<img align="left" width="40%" alt="Mr Benjamin Yong" src="/images/benjaminyong.jpg">
 
-Mr Benjamin Yong<br>
-[benjamin_yong@schools.gov.sg](benjamin_yong@schools.gov.sg) 
+Mr Benjamin Yong  
+[benjamin_yong@schools.gov.sg](benjamin_yong@schools.gov.sg)
 
 ##### **Vice-Principals**
 
-<div style="float:left; width:40%">
-	<img src="/images/yeoshohor.jpg">
-</div>
+<img align="left" width="40%" alt="Mr Yeo Sho Hor" src="/images/yeoshohor.jpg">
 
-Mr Yeo Sho Hor <br>
-[yeo_sho_hor@schools.gov.sg](yeo_sho_hor@schools.gov.sg) <br>
+Mr Yeo Sho Hor  
+[yeo_sho_hor@schools.gov.sg](yeo_sho_hor@schools.gov.sg)
 
-<div style="float:left; width:40%">
-	<img src="/images/sharifahfairuz.jpg">
-</div>
+<img align="left" width="40%" alt="Mdm Sharifah Fairuz Syed Alsagoff" src="/images/sharifahfairuz.jpg">
 
-Mdm Sharifah Fairuz Syed Alsagoff<br>
+Mdm Sharifah Fairuz Syed Alsagoff  
 [sharifah_fairuz_syed_alsagoff@schools.gov.sg](sharifah_fairuz_syed_alsagoff@schools.gov.sg)

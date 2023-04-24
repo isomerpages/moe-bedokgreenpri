@@ -7,7 +7,7 @@ third_nav_title: Staff
 ## School Leaders 
 ##### **School Principal**
 
-<figure>
+<figure style="width:60%">
 
 <img style="width:60%" src="/images/benjaminyong.jpg">
 
@@ -18,7 +18,7 @@ third_nav_title: Staff
 
 ##### **Vice-Principals**
 	
-<figure>
+<figure style="width:60%">
 
 <img style="width:60%" src="/images/yeoshohor.jpg">
 
@@ -27,7 +27,7 @@ third_nav_title: Staff
 
 </figure>
 
-<figure>
+<figure style="width:60%">
 <img style="width:60%" src="/images/sharifahfairuz.jpg">
 
 <figcaption><strong> Mdm Sharifah Fairuz Syed Alsagoff  </strong> 

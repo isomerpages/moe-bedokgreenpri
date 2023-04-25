@@ -45,7 +45,7 @@ description: ""
       <img src="/images/Teachers%20Only%20Page/bgt5_form.png">
     </a></td>
     <td class="tg-0pky"> <a href="https://www.hrp.gov.sg/hrp/#?">
-      <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
+      <img src="/images/Teachers%20Only%20Page/bgt6_hr&amp;payroll.png">
     </a></td>
     <td class="tg-0pky"><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx">
       <img src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">

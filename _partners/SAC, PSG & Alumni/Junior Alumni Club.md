@@ -37,7 +37,7 @@ We provide platforms for our alumni members to stay connected with each other an
 7)&nbsp;&nbsp;&nbsp;&nbsp;Tutoring sessions as part of VIA  
 8)&nbsp;&nbsp;&nbsp;&nbsp;Talks to share on their experiences and skills
 
-**Click on the link below, or scan the QR code, to register as a BGPS Junior Alumni member:  
-[Junior Alumni Club Member Registration](https://docs.google.com/forms/d/e/1FAIpQLSc7507Sasj2cSunIktH23fSKn7cfHabrnvljoXWE2qROXaiKQ/viewform?usp=sf_link)**
+**Click on the link below, or scan the QR code to register as a BGPS Junior Alumni member:  
+[BGPS Alumni Registration](https://go.gov.sg/bgps-alumni-registration)
 
-![JAC registation](/images/JAC%20registation.jpeg)
+![](/images/alumni%20registration%202023.jpg)

@@ -3,6 +3,13 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**<u>BGPS Open House 2023</u>** <br>
+![](/images/bgps%20open%20house%202023.jpeg)
+<br>Are you looking for a nurturing and supportive environment for your child who will be starting Primary 1 soon? 
+
+BGPS welcomes interested parents to find out more about our school. Scan the QR code or visit https://go.gov.sg/bgpsgt2023 to register! Closing date: 16 May 2023.
+
+
 **<u>Science Webinar - 5 April 2023</u>**<br>
 Please click [here](/files/science%20webinar%20on%20cstm%20&amp;%20csb@bgpps%20on%205%20april%202023_for%20sch%20website.pdf) for the briefing slides for the **Creative Science Toy Making &amp; Busking Programmes @ BGPS**
 

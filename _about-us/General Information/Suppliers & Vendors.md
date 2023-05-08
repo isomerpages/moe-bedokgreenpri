@@ -41,7 +41,10 @@ Mr Rae Tan 96801592</u>
 Email:&nbsp;[chenkai\_bt@yahoo.com.sg](mailto:chenkai_bt@yahoo.com.sg)&nbsp;or  
 [kosentransport@gmail.com](mailto:kosentransport@gmail.com)
 
-  
+**Bus fares for daily school bus services by distance
+**
+![](/images/bus%20operators%20fare.jpg)
+
 Student Care Centre
 ===============
 

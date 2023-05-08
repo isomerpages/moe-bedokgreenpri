@@ -8,15 +8,16 @@ third_nav_title: General Information
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Rice Stall     | 31 May 2023     | Non-halal rice is acceptable     |
+| Halal Rice Stall     | 19 June 2023     | NIL     |
 
 **Application Procedure**<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School's General Office.
-2. Attach the following documents together with the application form: 
+
+3. Attach the following documents together with the application form: 
 - Photocopy of the NRIC (front and back) 
 - List of proposed menu and pricing for all items 
 - Photocopy of relevant certificates such as Basic Food Hygiene Course, etc 
-3. Submit the completed application form and documents by the closing date via email OR to the school's general office. 
+4. Submit the completed application form and documents by the closing date via email OR to the school's general office. 
 Address: 1 Bedok South Avenue 2, Singapore 469317
 Contact No.: 64425416
 <br>

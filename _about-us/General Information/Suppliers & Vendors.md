@@ -1,5 +1,5 @@
 ---
-title: Suppliers &amp; Vendors
+title: Suppliers & Vendors
 permalink: /about-us/general-information/suppliers-n-vendors/
 description: ""
 third_nav_title: General Information
@@ -100,10 +100,10 @@ There are 8 food stalls in the school canteen. The respective menu and prices of
 | Stall Number | Type of Food | Menu and Price List |
 | --- | --- | --- |
 | 1 | Hot Drinks &amp; Snacks | [Stall 1](/files/Stall%201.pdf) |
-| 2 | Malay Rice&nbsp; | [Stall 2](/files/Stall%202.pdf)|
+| 2 | Malay Rice&nbsp; | (vacant) |
 | 3 | &nbsp;Malay Noodles | &nbsp;[Stall 3](/files/Stall%203.pdf) |
 | 4&nbsp; | &nbsp;Chinese Noodles | &nbsp;[Stall 4](/files/Stall%204.pdf) |
-| 5 | &nbsp;Chicken Rice | (vacant)&nbsp;&nbsp; |
+| 5 | The Japanese Food | [Stall 5](/files/stall%205_v2.pdf) |
 | 6 | &nbsp;Asian Food Paradise (Halal) | [Stall 6](/files/Stall%206.pdf)&nbsp; |
 | 7 | &nbsp;Western Food | &nbsp;[Stall 7](/files/Stall%207%20edit.pdf)|
 | 8&nbsp; | &nbsp;Cold Drinks &amp; Fruits | [Stall 8](/files/Stall%208.pdf)&nbsp;&nbsp; |

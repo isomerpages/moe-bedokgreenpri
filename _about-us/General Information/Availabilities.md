@@ -12,6 +12,7 @@ third_nav_title: General Information
 
 **Application Procedure**<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School's General Office.
+[](/files/application%20for%20canteen%20stall.pdf)
 
 3. Attach the following documents together with the application form: 
 - Photocopy of the NRIC (front and back) 

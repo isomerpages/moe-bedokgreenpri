@@ -17,19 +17,14 @@ third_nav_title: Staff
 </figure>
 
 ##### **Vice-Principals**
+
+<img align="left" style="width:30%;margin-left:30px;" src="/images/yeoshohor.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sharifahfairuz.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sharifahfairuz.jpg">
+<br clear="left">
+
+|   |   |   |
+|:-:|---|---|
+| Mr Yeo Sho Hor<br> [yeo_sho_hor@schools.gov.sg](mailto:yeo_sho_hor@schools.gov.sg)  | Mdm Sharifah Fairuz Syed Alsagoff<br> [sharifah_fairuz_syed_alsagoff@schools.gov.sg](mailto:sharifah_fairuz_syed_alsagoff@schools.gov.sg)  | Mr Chua Kok Seng<br> [chua_kok_seng@schools.gov.sg](mailto:chua_kok_seng@schools.gov.sg)  |
+|   |   |   |
 	
-<figure style="width:50%">
-
-<img style="width:60%" src="/images/yeoshohor.jpg">
-
-<figcaption><strong> Mr Yeo Sho Hor  </strong> 
-<br><a href="mailto:yeo_sho_hor@schools.gov.sg">yeo_sho_hor@schools.gov.sg</a></figcaption>
-
-</figure>
-
-<figure style="width:50%">
-<img style="width:60%" src="/images/sharifahfairuz.jpg">
-
-<figcaption><strong> Mdm Sharifah Fairuz Syed Alsagoff  </strong> 
-<br><a href="mailto:sharifah_fairuz_syed_alsagoff@schools.gov.sg">sharifah_fairuz_syed_alsagoff@schools.gov.sg</a></figcaption>
-</figure>

@@ -17,9 +17,8 @@ third_nav_title: Staff
 
 ##### **Vice-Principals**
 
-<table border="1" cellspacing="0" style="table-layout: fixed; width: 100%;" class="tg">
-  <tbody><tr>
-    <td style="width:100%; vertical-align: top;">
+<table cellspacing="0" style="table-layout: fixed; width: 100%;" class="tg">
+    <tbody><tr><td style="width:100%; vertical-align: top;">
       <img style="width:100%;" alt="Mr Yeo Sho Hor" src="/images/yeoshohor.jpg"><br>
       Mr Yeo Sho Hor<br>
       <a href="mailto:yeo_sho_hor@schools.gov.sg">yeo_sho_hor@schools.gov.sg</a>
@@ -36,4 +35,3 @@ third_nav_title: Staff
     </td>
   </tr>
 </tbody></table>
-

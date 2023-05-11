@@ -6,7 +6,7 @@ third_nav_title: Staff
 ---
 ##### **School Principal**
 
-<figure style="width:50%">
+<figure style="width:60%">
 
 <img style="width:60%" src="/images/benjaminyong.jpg">
 

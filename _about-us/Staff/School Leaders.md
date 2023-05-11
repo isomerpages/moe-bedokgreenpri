@@ -17,7 +17,7 @@ third_nav_title: Staff
 
 ##### **Vice-Principals**
 
-<table cellspacing="0" style="table-layout: fixed; width: 100%;" class="tg">
+<table style="table-layout: fixed; width: 100%;" class="tg">
   <tbody>
     <tr>
       <td style="width:100%; vertical-align: top;">

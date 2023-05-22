@@ -3,15 +3,14 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**<u>MoneySense Financial Literacy Programme</u>**
-![](/images/ms%20workshops%20and%20talks%20june%202023.jpg)
-
-![](/images/ama%20fb%20moneysense.jpg)
-
+**<u>MoneySense Financial Literacy Programme</u>**<br>
 Dear Parents,<br>
 Join Institute for Financial Literacy (IFL) in the "Ask-Me-Anything" Facebook Live session, complimentary workshops and talks to learn the importance of inculcating good financial habits from young. It covers ways that can help your child to learn how to cultivate healthy financial habits, budget and save and to be a young smart consumer. 
 
 Note: This workshop is for parents **only**. 
+![](/images/ms%20workshops%20and%20talks%20june%202023.jpg)
+
+![](/images/ama%20fb%20moneysense.jpg)
 
 **<u>BGPS Open House 2023</u>** <br>
 ![](/images/bgps%20open%20house%202023.jpeg)

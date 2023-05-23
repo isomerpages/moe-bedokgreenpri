@@ -26,12 +26,12 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">School Staff Developer</span></td>
-    <td class="tg-nbj5"> <img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel1.jpg" align="center"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Samsina Herbert</span></td>
+    <td class="tg-nbj5"> <img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel1.jpg" align="center"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"><br>Mrs Samsina Herbert</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/samsina_herbert@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">samsina_herbert@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (English)</span></td>
-    <td class="tg-nbj5"><img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel2.jpg" align="center"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Sangeetha Yadav</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel2.jpg" align="center"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"><br>Ms Sangeetha Yadav</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/sangeetha_yadav@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">sangeetha_yadav@schools.gov.sg</span></a></td>
   </tr>
   <tr>

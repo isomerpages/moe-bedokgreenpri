@@ -36,17 +36,17 @@ description: ""
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Level Head (English)</span></td>
-    <td class="tg-nbj5"><span style="color:#484848;background-color:transparent">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"></span><br><span style="color:#484848;background-color:transparent">Ms Lim Ee Sze</span><br></td>
+    <td class="tg-nbj5"><span style="color:#484848;background-color:transparent">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel3.jpg" align="center"></span><br><span style="color:#484848;background-color:transparent">Ms Lim Ee Sze</span><br></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lim_ee_sze@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lim_ee_sze@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (Mathematics)</span></td>
-    <td class="tg-nbj5">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Angeline Ong</span></td>
+    <td class="tg-nbj5">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel4.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Angeline Ong</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/angeline_chia_lin@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">angeline_chia_lin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (Mother Tongue)</span></td>
-    <td class="tg-nbj5"><span style="color:#484848;background-color:transparent">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"></span><br><span style="color:#484848;background-color:transparent">Mr Liu Peng</span><br></td>
+    <td class="tg-nbj5"><span style="color:#484848;background-color:transparent">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel5.jpg" align="center"></span><br><span style="color:#484848;background-color:transparent">Mr Liu Peng</span><br></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/liu_peng@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">liu_peng@schools.gov.sg</span></a></td>
   </tr>
   <tr>

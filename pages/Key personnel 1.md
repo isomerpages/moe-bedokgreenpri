@@ -71,32 +71,32 @@ description: ""
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (Physical Education &amp; Co-curricular Activities)</span></td>
-    <td class="tg-nbj5">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Mohd Hasri Bahari</span></td>
+    <td class="tg-nbj5">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel9.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Mohd Hasri Bahari</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/mohd_hasri_bahari@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">mohd_hasri_bahari@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (Character &amp; Citizenship Education CCE)</span></td>
-    <td class="tg-nbj5">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Jessie Soh</span></td>
+    <td class="tg-nbj5">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel11.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Jessie Soh</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lim_chieh_sze@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lim_chieh_sze@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (Discipline)</span></td>
-    <td class="tg-nbj5">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Judy Swee</span></td>
+    <td class="tg-nbj5">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel12.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Judy Swee</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/judy_lim_lian_soon@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">judy_lim_lian_soon@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (Student Well-being)</span></td>
-    <td class="tg-nbj5">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Lim Fang Rui</span></td>
+    <td class="tg-nbj5">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel13.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Lim Fang Rui</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lim_fang_rui@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lim_fang_rui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (ICT)</span></td>
-    <td class="tg-nbj5">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Ng Jieying</span></td>
+    <td class="tg-nbj5">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel14.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Ng Jieying</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/ng_jieying@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">ng_jieying@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (ICT)</span></td>
-    <td class="tg-nbj5">3<img style="width:60%" src="/images/kphoto1.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Mohd Najeeb Hassan</span></td>
+    <td class="tg-nbj5">3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel15.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Mohd Najeeb Hassan</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/najeeb_hassan@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">najeeb_hassan@schools.gov.sg</span></a></td>
   </tr>
 </tbody>

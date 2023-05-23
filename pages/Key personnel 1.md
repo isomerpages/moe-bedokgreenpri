@@ -66,7 +66,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (Physical Education &amp; Co-curricular Activities)</span></td>
-    <td class="tg-nbj5"><br>3<img style="width:60%" src="/images/kphoto1.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Alvin Thio</span></td>
+    <td class="tg-nbj5"><br>3<img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel10.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Alvin Thio</span></td>
     <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/thio_beng_lou_alvin@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">thio_beng_lou_alvin@schools.gov.sg</span></a></td>
   </tr>
   <tr>

@@ -1,8 +1,7 @@
 ---
-title: Key Personnel
-permalink: /about-us/staff/key-personnel/
+title: Key personnel 1
+permalink: /keype/
 description: ""
-third_nav_title: Staff
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

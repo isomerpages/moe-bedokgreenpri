@@ -3,6 +3,11 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**BGPS E-Open House 2023**<br>
+
+Are you looking for a nurturing and supportive environment for your child who will be starting Primary 1 soon? <br>
+BGPS welcomes interested parents to find out more about our school. <br>Click on this link: https://go.gov.sg/bgpseopenhouse2023 to be redirected to our e-Open House page!
+
 **<u>MoneySense Financial Literacy Programme</u>**<br>
 Dear Parents,<br>
 Join Institute for Financial Literacy (IFL) in the "Ask-Me-Anything" Facebook Live session, complimentary workshops and talks to learn the importance of inculcating good financial habits from young. It covers ways that can help your child to learn how to cultivate healthy financial habits, budget and save and to be a young smart consumer. 

@@ -3,21 +3,18 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**<u>BGPS E-Open House 2023</u>**<br>
+
+![](/images/bgps%20e-open%20house%202023%20v3.png)<br>
+Are you looking for a nurturing and supportive environment for your child who will be starting Primary 1 soon? <br>
+BGPS welcomes interested parents to find out more about our school. <br>Click on this link: [https://go.gov.sg/bgpseopenhouse2023](https://go.gov.sg/bgpseopenhouse2023) to be redirected to our e-Open House page!
+
 **<u>MoneySense Financial Literacy Programme</u>**<br>
 Dear Parents,<br>
 Join Institute for Financial Literacy (IFL) in the "Ask-Me-Anything" Facebook Live session, complimentary workshops and talks to learn the importance of inculcating good financial habits from young. It covers ways that can help your child to learn how to cultivate healthy financial habits, budget and save and to be a young smart consumer. 
 
 Note: This workshop is for parents **only**. 
 ![](/images/ms%20workshops%20and%20talks%20june%202023.jpg)
-
-![](/images/ama%20fb%20moneysense.jpg)
-
-**<u>BGPS Open House 2023</u>** <br>
-![](/images/bgps%20open%20house%202023.jpeg)
-<br>Are you looking for a nurturing and supportive environment for your child who will be starting Primary 1 soon? 
-
-BGPS welcomes interested parents to find out more about our school. Scan the QR code or visit https://go.gov.sg/bgpsgt2023 to register! Closing date: 16 May 2023.
-
 
 **<u>Science Webinar - 5 April 2023</u>**<br>
 Please click [here](/files/science%20webinar%20on%20cstm%20&amp;%20csb@bgpps%20on%205%20april%202023_for%20sch%20website.pdf) for the briefing slides for the **Creative Science Toy Making &amp; Busking Programmes @ BGPS**

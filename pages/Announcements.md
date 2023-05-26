@@ -3,8 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**BGPS E-Open House 2023**<br>
+**<u>BGPS E-Open House 2023</u>**<br>
 
+![](/images/bgps%20e-open%20house%202023%20v3.png)<br>
 Are you looking for a nurturing and supportive environment for your child who will be starting Primary 1 soon? <br>
 BGPS welcomes interested parents to find out more about our school. <br>Click on this link: https://go.gov.sg/bgpseopenhouse2023 to be redirected to our e-Open House page!
 

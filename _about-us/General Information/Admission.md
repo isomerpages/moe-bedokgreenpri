@@ -5,18 +5,14 @@ description: ""
 third_nav_title: General Information
 ---
 The school welcomes new admissions or transfers. Please refer to the Ministry of Education website for information on student admission. Alternatively, you may also contact the school at 6442 5416 for further details.  
-  
-
-[http://www.moe.gov.sg/education/admissions/](http://www.moe.gov.sg/education/admissions/)
+[https://www.moe.gov.sg/primary](https://www.moe.gov.sg/primary)
 
 The information below is taken directly from the Ministry of Education's Primary 1 Registration Website. The information below can be found on the Ministry of Education website. For further details, please refer to the link below.
 
-[http://www.moe.gov.sg/education/admissions/primary-one-registration/](http://www.moe.gov.sg/education/admissions/primary-one-registration/)
+[P1 Registration](https://www.moe.gov.sg/primary/p1-registration)
 
-  
 
 #### DOCUMENTS REQUIRED AT TIME OF REGISTRATION
-
   
 
 **A. For Children who are Singapore Citizens**  

@@ -47,9 +47,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/grp%20discussion%201.jpeg" alt="grp discussion 1 " style="width:75%;">  
+<img src="/images/grp%20discussion%201.jpeg" alt="grp discussion 1" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -60,11 +60,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/presentation%202.jpeg" alt="presentation 2 " style="width:75%;">  
+<img src="/images/presentation%202.jpeg" alt="presentation 2" style="width:75%;">  
   
-</body>
 
-#### 
 
 * * *
 
@@ -87,9 +85,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG20200921163615.jpeg" alt="Reading Programme" style="width:75%;">  
+<img src="/images/IMG20200921163615.jpeg" alt="Reading Programme" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -100,9 +98,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Slide11.jpeg" alt="Reading Programme" style="width:75%;">  
+<img src="/images/Slide11.jpeg" alt="Reading Programme" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -114,9 +112,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Slide13.jpeg" alt="Reading Programme" style="width:75%;">  
+<img src="/images/Slide13.jpeg" alt="Reading Programme" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -127,9 +125,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Slide15.jpeg" alt="Reading Programme" style="width:75%;">  
+<img src="/images/Slide15.jpeg" alt="Reading Programme" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -140,9 +138,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Slide_7.jpeg" alt="School " style="width:75%;">  
+<img src="/images/Slide_7.jpeg" alt="School" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -153,13 +151,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/students%20enjoying%201.jpeg" alt="School " style="width:75%;">  
+<img src="/images/students%20enjoying%201.jpeg" alt="School" style="width:75%;">  
   
-</body>
+
 
 <br> 
 
-* * *
 
   
 
@@ -234,14 +231,7 @@ The table below shows the different activities for each level:
 
 Details of the respective MTL Fortnight Activities for the different language can be found in the respective MTL Fortnight newsletter below.  
 
-[MTL FT CL Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20CL%20Newsletter%202020.pdf) **PDF file too big!**
 
-[MTL FT ML Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20ML%20Newsletter%202020.pdf)  **PDF file too big!**
-  
-[MTL FT TL Newsletter 2020.pdf](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Departments/MT%20Language%20n%20CME/Fortnight%20Newsletter/MTL%20FT%20TL%20Newsletter%202020.pdf)  **PDF file too big!**
-  
-
-* * *
 
 **Speech and Drama**
 
@@ -253,7 +243,6 @@ To build the students' confidence and desire in speaking the Mother Tongue Langu
 
 <br> 
 
-* * *
 
 **FILM (Fun in Learning Mother Tongue)**
 
@@ -280,9 +269,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/CL%20FILM.png" alt="CL FILM" style="width:75%;">  
+<img src="/images/CL%20FILM.png" alt="CL FILM" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -293,9 +282,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/ML%20FILM.png" alt="ML FILM" style="width:75%;">  
+<img src="/images/ML%20FILM.png" alt="ML FILM" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -306,9 +295,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/TL%20FILM.png" alt="TL FILM " style="width:75%;">  
+<img src="/images/TL%20FILM.png" alt="TL FILM" style="width:75%;">  
   
-</body>
+
 
 <br> 
 
@@ -345,9 +334,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/58393585-0000-44b1-8ed3-0992461341dd.jpeg" alt="SHINE" style="width:75%;">  
+<img src="/images/58393585-0000-44b1-8ed3-0992461341dd.jpeg" alt="SHINE" style="width:75%;">  
   
-</body>
+
 
 <br>  
 
@@ -358,9 +347,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG-20190305-WA0010.jpeg" alt="SHINE " style="width:75%;">  
+<img src="/images/IMG-20190305-WA0010.jpeg" alt="SHINE" style="width:75%;">  
   
-</body>
+
 <br> 
 
 <style>  
@@ -370,9 +359,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/SHINE.jpeg" alt="SHINE " style="width:75%;">  
+<img src="/images/SHINE.jpeg" alt="SHINE" style="width:75%;">  
   
-</body>
+
 
 <br>
 
@@ -383,6 +372,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG-20190305-WA0012%20-%20Copy.jpeg" alt="SHINE " style="width:75%;">  
-  
-</body>
+<img src="/images/IMG-20190305-WA0012%20-%20Copy.jpeg" alt="SHINE" style="width:75%;">

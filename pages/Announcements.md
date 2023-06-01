@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**<u>BGPS E-Open House 2023</u>**<br>
+**<u>Closure of School on 9 June 2023, Friday</u>**<br>
 Bedok Green Primary School will be closed on 9 June 2023 (Friday) from 12 p.m. for an external staff activity. For any urgent matters, please call us at 9822 3145. Thank you.  
 
 **<u>BGPS E-Open House 2023</u>**<br>

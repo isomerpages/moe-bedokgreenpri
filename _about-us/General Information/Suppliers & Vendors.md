@@ -23,7 +23,7 @@ School Uniform Supplier
 
 **KH Uniform Pte Ltd**  
 115A Commonwealth Drive&nbsp;  
-#04-16 Singapore 149596  
+#02-28 Singapore 149596  
 Online store:&nbsp;[www.khuniform.com](http://www.khuniform.com/)  
 Tel:&nbsp;6479 6811&nbsp; &nbsp; Fax: 6474 4037Email:&nbsp;[sales@khuniform.com](mailto:sales@khuniform.com)
 

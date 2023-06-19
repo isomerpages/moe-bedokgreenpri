@@ -27,7 +27,7 @@ third_nav_title: Staff
 |Operation Support Officer (OSO)  |Mdm Weevin Henry Fernando|
 |Operation Support Officer (OSO)  |Mdm Kayati Salikin|
 |Operation Support Officer (OSO)  |Mdm Mastura|
-|Operation Support Officer (OSO)  |Mdm Ho Beng Ho|
+|Operation Support Officer (OSO)  |Mdm Ho Beng Hong|
 
 ## Allied Educators 
 

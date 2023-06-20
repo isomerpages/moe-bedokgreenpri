@@ -501,12 +501,12 @@ Mdm Shariffah Faizah Binte Hassan A<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">5 Bravery</span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Pasupathy Magesvaran</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P5%20Teachers/mr%20mages%20.jpg"><br><span style="color:#484848">Mr Pasupathy Magesvaran</span></td>
     <td class="tg-0lax"><a href="mailto:pasupathy_magesvaran@schools.gov.sg"><span style="color:#4372D6">pasupathy_magesvaran@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Miss Jubilee Lim</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P5%20Teachers/miss%20jubilee%20.jpg"><br><span style="color:#484848">Miss Jubilee Lim</span></td>
     <td class="tg-0lax"><a href="mailto:jubilee_lim@schools.gov.sg"><span style="color:#4372D6">jubilee_lim@schools.gov.sg</span></a></td>
   </tr>
 </tbody>

@@ -104,13 +104,13 @@ Mr Loh Wei Leong<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">1 Perseverance</span></td>
-    <td class="tg-0lax"><img height="106" width="83" alt="A person wearing a blue head scarf  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image017.jpg"><br><span style="color:#484848">Mdm Nurul Shamin</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/ms%20nurul%20shamin.jpg"><br><span style="color:#484848">Mdm Nurul Shamin</span></td>
     <td class="tg-0lax"><a href="mailto:nurul_shamin_mohamed_ekbal@schools.gov.sg"><span style="color:#4372D6">nurul_shamin_mohamed_ekbal@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="107" width="83" alt="A person with long hair smiling  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image018.jpg"><br><span style="color:#484848">Ms Chua Shu Hui Vivian</span></td>
-    <td class="tg-0lax"><span style="color:#4372D6">chua_shu_hui_vivian@schools.gov.sg</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/ms%20chua%20shu%20hui%20vivan%20.jpg"><br><span style="color:#484848">Ms Chua Shu Hui Vivian</span></td>
+    <td class="tg-0lax"><a href="mailto:chua_shu_hui_vivian@schools.gov.sg"><span style="color:#4372D6">chua_shu_hui_vivian@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>

@@ -563,33 +563,33 @@ Mdm Shariffah Faizah Binte Hassan A<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">6 Resilience</span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Tse Min Yan</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/tse-min_yan@schools.gov.sg"><span style="color:#4372D6">tse_min_yan@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/ms%20tse%20min%20yan%20.jpg"><br><span style="color:#484848">Ms Tse Min Yan</span></td>
+    <td class="tg-0lax"><a href="mailto:tse-min_yan@schools.gov.sg"><span style="color:#4372D6">tse_min_yan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Mazlan Bin Muhammad</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/mazlan_b_muhammad@schools.gov.sg"><span style="color:#4372D6">mazlan_b_muhammad@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/mr%20mazlan%20muhammad%20.jpg"><br><span style="color:#484848">Mr Mazlan Bin Muhammad</span></td>
+    <td class="tg-0lax"><a href="mailto:mazlan_b_muhammad@schools.gov.sg"><span style="color:#4372D6">mazlan_b_muhammad@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">6 Compassion</span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Mohamed Najeeb</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/najeeb_hassan@schools.gov.sg"><span style="color:#4372D6">najeeb_hassan@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/mr%20mohd%20najeeb%20.jpg"><br><span style="color:#484848">Mr Mohamed Najeeb</span></td>
+    <td class="tg-0lax"><a href="mailto:najeeb_hassan@schools.gov.sg"><span style="color:#4372D6">najeeb_hassan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Tan Wei Wen</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/tan_wei_wen@schools.gov.sg"><span style="color:#4372D6">tan_wei_wen@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/ms%20tan%20wei%20wen%20passport%20size.jpg"><br><span style="color:#484848">Ms Tan Wei Wen</span></td>
+    <td class="tg-0lax"><a href="mailto:tan_wei_wen@schools.gov.sg"><span style="color:#4372D6">tan_wei_wen@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">6 Bravery</span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Danielle Rachel Chong</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/danielle_rachel_chong@schools.gov.sg"><span style="color:#4372D6">danielle_rachel_chong@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/ms%20danielle%20passport%20size.jpg"><br><span style="color:#484848">Ms Danielle Rachel Chong</span></td>
+    <td class="tg-0lax"><a href="mailto:danielle_rachel_chong@schools.gov.sg"><span style="color:#4372D6">danielle_rachel_chong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Lim Fang Rui</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/lim_fang_rui@schools.gov.sg"><span style="color:#4372D6">lim_fang_rui@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/mr%20lim%20fang%20rui%20.jpg"><br><span style="color:#484848">Mr Lim Fang Rui</span></td>
+    <td class="tg-0lax"><a href="mailto:lim_fang_rui@schools.gov.sg"><span style="color:#4372D6">lim_fang_rui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>

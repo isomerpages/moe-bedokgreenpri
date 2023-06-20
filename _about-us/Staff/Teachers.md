@@ -177,43 +177,43 @@ Mr Loh Wei Leong<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">2 Compassion</span></td>
-    <td class="tg-0lax"><img height="114" width="89" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image011.jpg"><br><span style="color:#484848">Miss</span> Shadelina Bte Mohd Shariffudin</td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/shadelina_mohd_shariffudin@schools.gov.sg"><span style="color:#4372D6">shadelina_mohd_shariffudin@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/miss%20shadelina.jpg"><br><span style="color:#484848">Miss</span> Shadelina Bte Mohd Shariffudin</td>
+    <td class="tg-0lax"><a href="mailto:shadelina_mohd_shariffudin@schools.gov.sg"><span style="color:#4372D6">shadelina_mohd_shariffudin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="115" width="90" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image012.jpg"><br><span style="color:#484848">Mr</span> Gwee <span style="color:#484848">Boon Tiong</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/gwee_boon_tiong@schools.gov.sg"><span style="color:#4372D6">gwee_boon_tiong@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/mr%20gwee%20boon%20tiong%20.jpg"><br><span style="color:#484848">Mr</span> Gwee <span style="color:#484848">Boon Tiong</span></td>
+    <td class="tg-0lax"><a href="mailto:gwee_boon_tiong@schools.gov.sg"><span style="color:#4372D6">gwee_boon_tiong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">2 Bravery</span></td>
-    <td class="tg-0lax"><img height="105" width="82" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image013.jpg"><br><span style="color:#484848">Miss Irene Kway</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/kway_irene@schools.gov.sg"><span style="color:#4372D6">kway_irene@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/ms%20irene%20kway%20.jpg"><br><span style="color:#484848">Miss Irene Kway</span></td>
+    <td class="tg-0lax"><a href="mailto:kway_irene@schools.gov.sg"><span style="color:#4372D6">kway_irene@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="104" width="81" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image014.jpg"><br><span style="color:#484848">Miss</span> Shanthini <span style="color:#484848">d/o Ramalingam</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/shanthini_ramalingam@schools.gov.sg"><span style="color:#4372D6">shanthini_ramalingam@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/miss%20shanthini%20.jpg"><br><span style="color:#484848">Miss</span> Shanthini <span style="color:#484848">d/o Ramalingam</span></td>
+    <td class="tg-0lax"><a href="mailto:shanthini_ramalingam@schools.gov.sg"><span style="color:#4372D6">shanthini_ramalingam@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">2 Graciousness</span></td>
-    <td class="tg-0lax"><img height="107" width="83" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image015.jpg"><br><span style="color:#484848">Miss Valerie Cheng</span> Yuning</td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/valerie_cheng_yuning@schools.gov.sg"><span style="color:#4372D6">valerie_cheng_yuning@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/valariecheng.jpg"><br><span style="color:#484848">Miss Valerie Cheng</span> Yuning</td>
+    <td class="tg-0lax"><a href="mailto:valerie_cheng_yuning@schools.gov.sg"><span style="color:#4372D6">valerie_cheng_yuning@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="123" width="96" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image016.jpg"><br><span style="color:#484848">Ms</span> <span style="color:#484848">Ros Farzana</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/ros_farzana_roskhaider@schools.gov.sg"><span style="color:#4372D6">ros_farzana_roskhaider@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/ms%20ros%20farzana%20.jpg"><br><span style="color:#484848">Ms</span> <span style="color:#484848">Ros Farzana</span></td>
+    <td class="tg-0lax"><a href="mailto:ros_farzana_roskhaider@schools.gov.sg"><span style="color:#4372D6">ros_farzana_roskhaider@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">2 Perseverance</span></td>
-    <td class="tg-0lax"><img height="123" width="96" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image017.jpg"><br><span style="color:#484848">Ms</span> <span style="color:#484848">Tan</span> Jinwen <span style="color:#484848">Mavis</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/tan_jinwen_mavis@schools.gov.sg"><span style="color:#4372D6">tan_jinwen_mavis@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/ms%20tan%20jinwen%20mavis%20.jpg"><br><span style="color:#484848">Ms</span> <span style="color:#484848">Tan</span> Jinwen <span style="color:#484848">Mavis</span></td>
+    <td class="tg-0lax"><a href="mailto:tan_jinwen_mavis@schools.gov.sg"><span style="color:#4372D6">tan_jinwen_mavis@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="118" width="92" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image018.jpg"><br><span style="color:#484848">Ms</span> <span style="color:#484848">Liu</span> Xiaoyun</td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/liu_xiaoyun@schools.gov.sg"><span style="color:#4372D6">liu_xiaoyun@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/ms%20liu%20xiaoyun%20.jpg"><br><span style="color:#484848">Ms</span> <span style="color:#484848">Liu</span> Xiaoyun</td>
+    <td class="tg-0lax"><a href="mailto:liu_xiaoyun@schools.gov.sg"><span style="color:#4372D6">liu_xiaoyun@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>

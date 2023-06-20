@@ -23,7 +23,7 @@ third_nav_title: Staff
 <tbody>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">English Language</span></td>
-    <td class="tg-0lax"><img height="133" width="103" src="/images/Staff%20Photos/Senior%20Teachers/mdm%20nurhana%20hafiz%20passport%20size.jpg"><br><span style="color:#484848">Mdm</span> Nurhana <span style="color:#484848">Hafiz</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/Senior%20Teachers/mdm%20nurhana%20hafiz%20passport%20size.jpg"><br><span style="color:#484848">Mdm</span> Nurhana <span style="color:#484848">Hafiz</span></td>
     <td class="tg-0lax"><a href="mailto:nurhana_hafiz@schools.gov.sg"><span style="color:#4372D6">nurhana_hafiz@schools.gov.sg</span></a></td>
   </tr>
   <tr>

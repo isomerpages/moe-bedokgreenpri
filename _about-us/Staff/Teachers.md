@@ -74,32 +74,32 @@ Mr Loh Wei Leong<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">1 Compassion</span></td>
-    <td class="tg-0lax"><img height="101" width="79" alt="A picture containing human face, person, smile, lip  Description automatically generated" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image011.jpg"><br><span style="color:#484848">Miss Andrea Chua Cher Lih</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/miss%20andrea%20chua%20cher%20lih%20.jpg"><br><span style="color:#484848">Miss Andrea Chua Cher Lih</span></td>
     <td class="tg-0lax"><a href="mailto:andrea_chua_cher_lih@schools.gov.sg"><span style="color:#4372D6">andrea_chua_cher_lih@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="102" width="80" alt="A person wearing a blue head scarf  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image012.jpg"><br><span style="color:#484848">Mdm Suryati Shariff</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20suryati%20shariff%20marican%20.jpg"><br><span style="color:#484848">Mdm Suryati Shariff</span></td>
     <td class="tg-0lax"><a href="mailto:suryati_shariff_marican@schools.gov.sg"><span style="color:#4372D6">suryati_shariff_marican@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">1 Bravery</span></td>
-    <td class="tg-0lax"><img height="100" width="78" alt="A person wearing a head scarf  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image013.jpg"><br><span style="color:#484848">Miss Sharifah Mahani</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/miss%20sharifah%20mahani%20.jpg"><br><span style="color:#484848">Miss Sharifah Mahani</span></td>
     <td class="tg-0lax"><a href="mailto:sharifah_mahani@schools.gov.sg"><span style="color:#4372D6">sharifah_mahani@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="105" width="82" alt="A person wearing glasses and a white shirt  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image014.jpg"><br><span style="color:#484848">Miss Jee Si Min</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/miss%20jee%20si%20min%20.jpg"><br><span style="color:#484848">Miss Jee Si Min</span></td>
     <td class="tg-0lax"><a href="mailto:jee_si_min@schools.gov.sg"><span style="color:#4372D6">jee_si_min@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">1 Graciousness</span></td>
-    <td class="tg-0lax"><img height="104" width="81" alt="A person wearing a blue head scarf  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image015.jpg"><br><span style="color:#484848">Miss Nur Ashikin</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/miss%20nur%20ashikin%20.jpg"><br><span style="color:#484848">Miss Nur Ashikin</span></td>
     <td class="tg-0lax"><a href="mailto:nur_ashikin_jufri@schools.gov.sg"><span style="color:#4372D6">nur_ashikin_jufri@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="106" width="83" alt="A person wearing glasses and a white shirt  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image016.jpg"><br><span style="color:#484848">Miss Lim Hui Min Gladys</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/ms%20lim%20hui%20min%20gladys%20.jpg"><br><span style="color:#484848">Miss Lim Hui Min Gladys</span></td>
     <td class="tg-0lax"><a href="mailto:lim_hui_min_gladys@schools.gov.sg"><span style="color:#4372D6">lim_hui_min_gladys@schools.gov.sg</span></a></td>
   </tr>
   <tr>

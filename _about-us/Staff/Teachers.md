@@ -221,6 +221,8 @@ Mr Loh Wei Leong<br>
 
 ##### **Year Head - Middle Primary**
 
+<img style="width:50%; margin:0;" src="/images/foongmargaret.jpeg">
+
 Mdm Lee Oi Foong Margaret<br>
 [lee_oi_foong_margaret@schools.gov.sg](lee_oi_fong_margaret@schools.gov.sg) 
 

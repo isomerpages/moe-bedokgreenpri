@@ -64,12 +64,12 @@ Mr Loh Wei Leong<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">1 Resilience</span></td>
-    <td class="tg-0lax"><img height="103" width="80" alt="A person smiling at the camera  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image009.jpg"><br><span style="color:#484848">Miss Chin Ching Shia</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/miss%20chin%20ching%20shia%20.jpg"><br><span style="color:#484848">Miss Chin Ching Shia</span></td>
     <td class="tg-0lax"><a href="mailto:chin_ching_shia@schools.gov.sg"><span style="color:#4372D6">chin_ching_shia@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="104" width="81" alt="A person wearing glasses and a white shirt  Description automatically generated with medium confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image010.jpg"><br><span style="color:#484848">Mdm Fang Fang</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20fang%20fang%20.jpg"><br><span style="color:#484848">Mdm Fang Fang</span></td>
     <td class="tg-0lax"><a href="mailto:fang_fang_a@schools.gov.sg"><span style="color:#4372D6">fang_fang_a@schools.gov.sg</span></a></td>
   </tr>
   <tr>

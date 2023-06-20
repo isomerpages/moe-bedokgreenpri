@@ -11,3 +11,4 @@ third_nav_title: Staff
 | Mathematics     | Ms Lim Sock Keow Noel     | [chua-lim_sock_keow@schools.gov.sg](chua-lim_sock_keow@schools.gov.sg)     |
 | Science     | Mr Ng Chee Keong     | [ng_chee_keong_b@schools.gov.sg](ng_chee_keong_b@schools.gov.sg)     |
 | Art     | Mr Mazlan Muhammad     | [mazlan_b_muhammad@schools.gov.sg](mazlan_b_muhammad@schools.gov.sg)     |
+| Physical Education     | Mr Nor Azarizal Mohamed     | [nor_azarizal_mohamed@schools.gov.sg](nor_azarizal_mohamed@schools.gov.sg)     |

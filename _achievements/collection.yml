@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/2023.md
       - Students/English.md
       - Students/Mother Tongue.md
       - Students/Mathematics.md

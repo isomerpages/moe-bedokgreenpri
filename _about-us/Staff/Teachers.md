@@ -8,6 +8,7 @@ third_nav_title: Staff
 
 ##### **Year Head - Lower Primary**
 
+<img style="width:50%; margin:0;" src="/images/lohweileong.jpeg">
 
 Mr Loh Wei Leong<br>
 [luo_weiliang@schools.gov.sg](luo_weiliang@schools.gov.sg) 

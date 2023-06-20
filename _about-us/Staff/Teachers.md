@@ -330,21 +330,90 @@ Mdm Halimaton Abdullah
 
 #### Primary 4 Teachers
 
-| Class | Form Teacher | Email |
-| -------- | -------- | -------- |
-| 4 Integrity     | Ms Sri Idayu     | [sri_idayu_mohamed_idris@schools.gov.sg](sri_idayu_mohamed_idris@schools.gov.sg)     |
-|     | Ms Ong Su San Faith    | [ong_su_san@schools.gov.sg](ong_su_san@schools.gov.sg)     |
-| 4 Respect    | Ms Chew Mei-Hua Elissa Ann     | [chew_mei-hua_elissa_ann@schools.gov.sg](chew_mei-hua_elissa_ann@schools.gov.sg)     |
-|     | Mdm Tan Yee Chie Pamela    | [tan_yee_chie_pamela@schools.gov.sg](tan_yee_chie_pamela@schools.gov.sg)     |
-| 4 Responsibility     | Mr Keng Xing Wei Darren    | [keng_xing_wei_darren@schools.gov.sg](keng_xing_wei_darren@schools.gov.sg)     |
-|      | Mdm Lim Lai Li     | [lim_lai_li@schools.gov.sg](lim_lai_li@schools.gov.sg)     |
-|      | Mdm Halimaton Abdullah    | [halimaton_abdullah@schools.gov.sg](halimaton_abdullah@schools.gov.sg)     |
-| 4 Resilience    |  Mr Leung Pak Kin    | [leung_pak_kin@schools.gov.sg](leung_pak_kin@schools.gov.sg)     |
-|      | Ms Cheyanne Lee Gan    |      |
-| 4 Compassion     | Ms Ng Jieying     | [ng_jieying@schools.gov.sg](ng_jieying@schools.gov.sg)     |
-|      | Ms Nurul Aini Binte Zainol     | [nurul_aini_zainol@schools.gov.sg](nurul_aini_zainol@schools.gov.sg)   |
-| 4 Bravery    | Mr Ho Koon Min Martin     | [ho_koon_min_martin@schools.gov.sg](ho_koon_min_martin@schools.gov.sg)     |
-|      | Mr Mohammad Hasri     | [mohd_hasri_bahari@schools.gov.sg](mohd_hasri_bahari@schools.gov.sg)     |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><span style="color:#323232">Class</span></th>
+    <th class="tg-0lax"><span style="color:#323232">Form Teacher</span></th>
+    <th class="tg-0lax"><span style="color:#323232">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">4 Integrity</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Sri Idayu</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/sri_idayu_mohamed_idris@schools.gov.sg"><span style="color:#4372D6">sri_idayu_mohamed_idris@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Ong Su San Faith</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/ong_su_san@schools.gov.sg"><span style="color:#4372D6">ong_su_san@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">4 Respect</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Chew Mei-Hua Elissa Ann</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/chew_mei-hua_elissa_ann@schools.gov.sg"><span style="color:#4372D6">chew_mei-hua_elissa_ann@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mdm Tan Yee Chie Pamela</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/tan_yee_chie_pamela@schools.gov.sg"><span style="color:#4372D6">tan_yee_chie_pamela@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">4 Responsibility</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Keng Xing Wei Darren</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/keng_xing_wei_darren@schools.gov.sg"><span style="color:#4372D6">keng_xing_wei_darren@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mdm Lim Lai Li</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/lim_lai_li@schools.gov.sg"><span style="color:#4372D6">lim_lai_li@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mdm Halimaton Abdullah</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/halimaton_abdullah@schools.gov.sg"><span style="color:#4372D6">halimaton_abdullah@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">4 Resilience</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Cheyanne Lee Gan</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Leung Pak Kin</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/leung_pak_kin@schools.gov.sg"><span style="color:#4372D6">leung_pak_kin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">4 Compassion</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Ng Jieying</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/ng_jieying@schools.gov.sg"><span style="color:#4372D6">ng_jieying@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Ms Nurul Aini Binte Zainol</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/nurul_aini_zainol@schools.gov.sg"><span style="color:#4372D6">nurul_aini_zainol@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">4 Bravery</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Ho Koon Min Martin</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/ho_koon_min_martin@schools.gov.sg"><span style="color:#4372D6">ho_koon_min_martin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Mohammad Hasri</span></td>
+    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/mohd_hasri_bahari@schools.gov.sg"><span style="color:#4372D6">mohd_hasri_bahari@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 ##### **Assistant Year Head - Upper Primary**
 

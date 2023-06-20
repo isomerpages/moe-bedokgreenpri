@@ -31,7 +31,7 @@ Mr Loh Wei Leong<br>
 | 1 Graciousness     | Miss Nur Ashikin     | [nur_ashikin_jufri@schools.gov.sg](nur_ashikin_jufri@schools.gov.sg)     |
 |      | Miss Lim Hui Min Gladys     | [lim_hui_min_gladys@schools.gov.sg](lim_hui_min_gladys@schools.gov.sg)     |
 | 1 Perseverance     | Mdm Nurul Shamin    | [nurul_shamin_mohamed_ekbal@schools.gov.sg](nurul_shamin_mohamed_ekbal@schools.gov.sg)     |
-|      | Miss Mellisa Puah     | [mellisa_puah_mun_mun@schools.gov.sg](mellisa_puah_mun_mun@schools.gov.sg)     |
+|      | Ms Chua Shu Hui Vivian     | [chua_shu_hui_vivian@schools.gov.sg](chua_shu_hui_vivian@schools.gov.sg)     |
 
 #### Primary 2 Teachers
 
@@ -50,8 +50,7 @@ Mr Loh Wei Leong<br>
 | 2 Bravery    | Miss Irene Kway     | [kway_irene@schools.gov.sg](kway_irene@schools.gov.sg)     |
 |      | Miss Shanthini d/o Ramalingam     | [shanthini_ramalingam@schools.gov.sg](shanthini_ramalingam@schools.gov.sg)     |
 | 2 Graciousness     | Miss Valerie Cheng Yuning     | [valerie_cheng_yuning@schools.gov.sg](valerie_cheng_yuning@schools.gov.sg)     |
-|      | Mdm Noorlin Binte Haron     | [noorlin_haron@schools.gov.sg](noorlin_haron@schools.gov.sg)     |
-|      | Ms Chua Shu Hui Vivian    | [chua_shu_hui_vivian@schools.gov.sg](chua_shu_hui_vivian@schools.gov.sg)     |
+|      | Ms Ros Farzana     | [ros_farzana_roskhaider@schools.gov.sg](ros_farzana_roskhaider@schools.gov.sg)     |
 | 2 Perseverance     | Ms Tan Jinwen Mavis     | [tan_jinwen_mavis@schools.gov.sg](tan_jinwen_mavis@schools.gov.sg)     |
 |      | Ms Liu Xiaoyun     | [liu_xiaoyun@schools.gov.sg](liu_xiaoyun@schools.gov.sg)     |
 
@@ -97,18 +96,17 @@ Mdm Halimaton Abdullah
 | 4 Responsibility     | Mr Keng Xing Wei Darren    | [keng_xing_wei_darren@schools.gov.sg](keng_xing_wei_darren@schools.gov.sg)     |
 |      | Mdm Lim Lai Li     | [lim_lai_li@schools.gov.sg](lim_lai_li@schools.gov.sg)     |
 |      | Mdm Halimaton Abdullah    | [halimaton_abdullah@schools.gov.sg](halimaton_abdullah@schools.gov.sg)     |
-| 4 Resilience    | Ms Khoo Kar Hoe     | [khoo_kar_hoe@schools.gov.sg](khoo_kar_hoe@schools.gov.sg)     |
-|      | Mr Leung Pak Kin    | [leung_pak_kin@schools.gov.sg](leung_pak_kin@schools.gov.sg)     |
-|      | Ms Ros Farzana    | [ros_farzana_roskhaider@schools.gov.sg](ros_farzana_roskhaider@schools.gov.sg)     |
+| 4 Resilience    |  Mr Leung Pak Kin    | [leung_pak_kin@schools.gov.sg](leung_pak_kin@schools.gov.sg)     |
+|      | Ms Cheyanne Lee Gan    |      |
 | 4 Compassion     | Ms Ng Jieying     | [ng_jieying@schools.gov.sg](ng_jieying@schools.gov.sg)     |
 |      | Ms Nurul Aini Binte Zainol     | [nurul_aini_zainol@schools.gov.sg](nurul_aini_zainol@schools.gov.sg)   |
 | 4 Bravery    | Mr Ho Koon Min Martin     | [ho_koon_min_martin@schools.gov.sg](ho_koon_min_martin@schools.gov.sg)     |
 |      | Mr Mohammad Hasri     | [mohd_hasri_bahari@schools.gov.sg](mohd_hasri_bahari@schools.gov.sg)     |
 
-##### **Year Head - Upper Primary**
+##### **Assistant Year Head - Upper Primary**
 
-Ms Li Wenlin<br>
-[li_wenlin@schools.gov.sg](li_wenlin@schools.gov.sg)
+Mdm Shariffah Faizah Binte Hassan A<br>
+[shariffah_faizah_hassan@schools.gov.sg](shariffah_faizah_hassan@schools.gov.sg)
 
 #### Primary 5 Teachers
 

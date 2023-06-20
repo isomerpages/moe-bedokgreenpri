@@ -162,18 +162,18 @@ Mr Loh Wei Leong<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="106" width="83" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image008.jpg"><br><span style="color:#484848">Ms</span> <span style="color:#484848">Lim Sock</span> Keow <span style="color:#484848">Noel</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/chua-lim_sock_keow@schools.gov.sg"><span style="color:#4372D6">chua-lim_sock_keow@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/ms%20lim%20sock%20keow%20noel%20.jpg"><br><span style="color:#484848">Ms</span> <span style="color:#484848">Lim Sock</span> Keow <span style="color:#484848">Noel</span></td>
+    <td class="tg-0lax"><a href="mailto:chua-lim_sock_keow@schools.gov.sg"><span style="color:#4372D6">chua-lim_sock_keow@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">2 Resilience</span></td>
-    <td class="tg-0lax"><img height="102" width="79" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image009.jpg"><br><span style="color:#484848">Mr</span> <span style="color:#484848">Chin Seng Choy Lance</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/chin_seng_choy@schools.gov.sg"><span style="color:#4372D6">chin_seng_choy@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/mr%20chin%20seng%20choy%20.jpg"><br><span style="color:#484848">Mr</span> <span style="color:#484848">Chin Seng Choy Lance</span></td>
+    <td class="tg-0lax"><a href="mailto:chin_seng_choy@schools.gov.sg"><span style="color:#4372D6">chin_seng_choy@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img height="118" width="92" src="https://www.tablesgenerator.com/Staff%20Photos%20P2_Isomer%20(1).fld/image010.jpg"><br><span style="color:#484848">Mrs</span> Samsina <span style="color:#484848">Herbert</span></td>
-    <td class="tg-0lax"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/samsina_herbert@schools.gov.sg"><span style="color:#4372D6">samsina_herbert@schools.gov.sg</span></a></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P2%20Teachers/mrs%20samsina%20herbet%20.jpg"><br><span style="color:#484848">Mrs</span> Samsina <span style="color:#484848">Herbert</span></td>
+    <td class="tg-0lax"><a href="mailto:samsina_herbert@schools.gov.sg"><span style="color:#4372D6">samsina_herbert@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">2 Compassion</span></td>

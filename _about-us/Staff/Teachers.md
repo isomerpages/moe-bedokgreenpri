@@ -8,30 +8,112 @@ third_nav_title: Staff
 
 ##### **Year Head - Lower Primary**
 
+
 Mr Loh Wei Leong<br>
 [luo_weiliang@schools.gov.sg](luo_weiliang@schools.gov.sg) 
 
 #### Primary 1 Teachers
 
 
-| Class | Form Teacher | Email |
-| -------- | -------- | -------- |
-| 1 Integrity     | Miss Lee Xuan Harn     | [lee_xuan_harn@schools.gov.sg](lee_xuan_harn@schools.gov.sg)|
-| | Mrs Hainoon Azeez | [hainoon_jahria_hassan@schools.gov.sg](hainoon_jahria_hassan@schools.gov.sg)
-| 1 Respect    | Miss Nur 'Aliah     | [nur_aliah_dafir@schools.gov.sg](nur_aliah_dafir@schools.gov.sg)     |
-|     | Mr Kenneth Wong     | [wong_wen_kin_kenneth@schools.gov.sg](wong_wen_kin_kenneth@schools.gov.sg)     |
-| 1 Responsibility     | Mrs Lee Mei Yin     | [lim_mei_yin@schools.gov.sg](lim_mei_yin@schools.gov.sg)     |
-|   | Miss Jazmin Ahamed     | [jazmin_ahamed@schools.gov.sg](jazmin_ahamed@schools.gov.sg)     |
-| 1 Resilience     | Miss Chin Ching Shia     | [chin_ching_shia@schools.gov.sg](chin_ching_shia@schools.gov.sg)     |
-|      | Mdm Fang Fang     | [fang_fang_a@schools.gov.sg](fang_fang_a@schools.gov.sg)     |
-| 1 Compassion   | Miss Andrea Chua Cher Lih     | [andrea_chua_cher_lih@schools.gov.sg](andrea_chua_cher_lih@schools.gov.sg)     |
-|     | Mdm Suryati Shariff     | [suryati_shariff_marican@schools.gov.sg](suryati_shariff_marican@schools.gov.sg)     |
-| 1 Bravery     | Miss Sharifah Mahani    | [sharifah_mahani@schools.gov.sg](sharifah_mahani@schools.gov.sg)     |
-|      | Miss Jee Si Min     | [jee_si_min@schools.gov.sg](jee_si_min@schools.gov.sg)     |
-| 1 Graciousness     | Miss Nur Ashikin     | [nur_ashikin_jufri@schools.gov.sg](nur_ashikin_jufri@schools.gov.sg)     |
-|      | Miss Lim Hui Min Gladys     | [lim_hui_min_gladys@schools.gov.sg](lim_hui_min_gladys@schools.gov.sg)     |
-| 1 Perseverance     | Mdm Nurul Shamin    | [nurul_shamin_mohamed_ekbal@schools.gov.sg](nurul_shamin_mohamed_ekbal@schools.gov.sg)     |
-|      | Ms Chua Shu Hui Vivian     | [chua_shu_hui_vivian@schools.gov.sg](chua_shu_hui_vivian@schools.gov.sg)     |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><span style="color:#323232">Class</span></th>
+    <th class="tg-0lax"><span style="color:#323232">Form Teacher</span></th>
+    <th class="tg-0lax"><span style="color:#323232">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Integrity</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/miss%20lee%20xuan%20harn%20.jpg"><br><span style="color:#484848">Miss Lee Xuan Harn</span></td>
+    <td class="tg-0lax"><a href="mailto:lee_xuan_harn@schools.gov.sg"><span style="color:#4372D6">lee_xuan_harn@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20hainoon%20jahria.jpg"><br><span style="color:#484848">Mrs Hainoon Azeez</span></td>
+    <td class="tg-0lax"><a href="mailto:hainoon_jahria_hassan@schools.gov.sg"><span style="color:#4372D6">hainoon_jahria_hassan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Respect</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/miss%20nur%20aliah%20.jpg"><br><span style="color:#484848">Miss Nur ‘Aliah</span></td>
+    <td class="tg-0lax"><a href="mailto:nur_aliah_dafir@schools.gov.sg"><span style="color:#4372D6">nur_aliah_dafir@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/mr%20kenneth%20wong.jpg"><br><span style="color:#484848">Mr Kenneth Wong</span></td>
+    <td class="tg-0lax"><a href="mailto:wong_wen_kin_kenneth@schools.gov.sg"><span style="color:#4372D6">wong_wen_kin_kenneth@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Responsibility</span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg"><br><span style="color:#484848">Mrs Lee Mei Yin</span></td>
+    <td class="tg-0lax"><a href="mailto:lim_mei_yin@schools.gov.sg"><span style="color:#4372D6">lim_mei_yin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:65%" src="/images/Staff%20Photos/P1%20Teachers/miss%20jazmin%20ahamed%20.jpg"><br><span style="color:#484848">Miss Jazmin Ahamed</span></td>
+    <td class="tg-0lax"><a href="mailto:jazmin_ahamed@schools.gov.sg"><span style="color:#4372D6">jazmin_ahamed@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Resilience</span></td>
+    <td class="tg-0lax"><img height="103" width="80" alt="A person smiling at the camera  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image009.jpg"><br><span style="color:#484848">Miss Chin Ching Shia</span></td>
+    <td class="tg-0lax"><a href="mailto:chin_ching_shia@schools.gov.sg"><span style="color:#4372D6">chin_ching_shia@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img height="104" width="81" alt="A person wearing glasses and a white shirt  Description automatically generated with medium confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image010.jpg"><br><span style="color:#484848">Mdm Fang Fang</span></td>
+    <td class="tg-0lax"><a href="mailto:fang_fang_a@schools.gov.sg"><span style="color:#4372D6">fang_fang_a@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Compassion</span></td>
+    <td class="tg-0lax"><img height="101" width="79" alt="A picture containing human face, person, smile, lip  Description automatically generated" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image011.jpg"><br><span style="color:#484848">Miss Andrea Chua Cher Lih</span></td>
+    <td class="tg-0lax"><a href="mailto:andrea_chua_cher_lih@schools.gov.sg"><span style="color:#4372D6">andrea_chua_cher_lih@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img height="102" width="80" alt="A person wearing a blue head scarf  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image012.jpg"><br><span style="color:#484848">Mdm Suryati Shariff</span></td>
+    <td class="tg-0lax"><a href="mailto:suryati_shariff_marican@schools.gov.sg"><span style="color:#4372D6">suryati_shariff_marican@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Bravery</span></td>
+    <td class="tg-0lax"><img height="100" width="78" alt="A person wearing a head scarf  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image013.jpg"><br><span style="color:#484848">Miss Sharifah Mahani</span></td>
+    <td class="tg-0lax"><a href="mailto:sharifah_mahani@schools.gov.sg"><span style="color:#4372D6">sharifah_mahani@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img height="105" width="82" alt="A person wearing glasses and a white shirt  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image014.jpg"><br><span style="color:#484848">Miss Jee Si Min</span></td>
+    <td class="tg-0lax"><a href="mailto:jee_si_min@schools.gov.sg"><span style="color:#4372D6">jee_si_min@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Graciousness</span></td>
+    <td class="tg-0lax"><img height="104" width="81" alt="A person wearing a blue head scarf  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image015.jpg"><br><span style="color:#484848">Miss Nur Ashikin</span></td>
+    <td class="tg-0lax"><a href="mailto:nur_ashikin_jufri@schools.gov.sg"><span style="color:#4372D6">nur_ashikin_jufri@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img height="106" width="83" alt="A person wearing glasses and a white shirt  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image016.jpg"><br><span style="color:#484848">Miss Lim Hui Min Gladys</span></td>
+    <td class="tg-0lax"><a href="mailto:lim_hui_min_gladys@schools.gov.sg"><span style="color:#4372D6">lim_hui_min_gladys@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Perseverance</span></td>
+    <td class="tg-0lax"><img height="106" width="83" alt="A person wearing a blue head scarf  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image017.jpg"><br><span style="color:#484848">Mdm Nurul Shamin</span></td>
+    <td class="tg-0lax"><a href="mailto:nurul_shamin_mohamed_ekbal@schools.gov.sg"><span style="color:#4372D6">nurul_shamin_mohamed_ekbal@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img height="107" width="83" alt="A person with long hair smiling  Description automatically generated with low confidence" src="https://www.tablesgenerator.com/Staff%20Photos%20P1_Isomer%20(1).fld/image018.jpg"><br><span style="color:#484848">Ms Chua Shu Hui Vivian</span></td>
+    <td class="tg-0lax"><span style="color:#4372D6">chua_shu_hui_vivian@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
 #### Primary 2 Teachers
 

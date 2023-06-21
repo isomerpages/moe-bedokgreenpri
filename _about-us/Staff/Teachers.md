@@ -512,6 +512,11 @@ Mdm Shariffah Faizah Binte Hassan A<br>
 </tbody>
 </table>
 
+##### **Year Head - Upper Primary**
+
+Ms Li Wenlin<br>
+[li_wenlin@schools.gov.sg](li_wenlin@schools.gov.sg)
+
 #### Primary 6 Teachers
 
 <style type="text/css">

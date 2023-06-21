@@ -579,7 +579,7 @@ Ms Li Wenlin<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/mr%20mazlan%20muhammad%20.jpg"><br><span style="color:#484848">Mr Mazlan Bin Muhammad</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/mr%20mazlan%20muhammad%20.jpg"><br><span style="color:#484848">Mr Mazlan Bin Muhammad</span></td>
     <td class="tg-0lax"><a href="mailto:mazlan_b_muhammad@schools.gov.sg"><span style="color:#4372D6">mazlan_b_muhammad@schools.gov.sg</span></a></td>
   </tr>
   <tr>

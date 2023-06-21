@@ -8,7 +8,7 @@ third_nav_title: Staff
 
 ##### **Year Head - Lower Primary**
 
-<img style="width:50%; margin:0;" src="/images/lohweileong.jpeg">
+<img style="width:20%; margin:0;" src="/images/lohweileong.jpeg">
 
 Mr Loh Wei Leong<br>
 [luo_weiliang@schools.gov.sg](luo_weiliang@schools.gov.sg) 
@@ -325,6 +325,8 @@ Mdm Lee Oi Foong Margaret<br>
 
 ##### **Assistant Year Head - Middle Primary**
 
+<img style="width:20%; margin:0;" src="/images/mdmhalimaton.jpeg">
+
 Mdm Halimaton Abdullah   
 [halimaton_abdullah@schools.gov.sg](halimaton_abdullah@schools.gov.sg) 
 
@@ -389,7 +391,7 @@ Mdm Halimaton Abdullah
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Leung Pak Kin</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P4%20Teachers/mr%20leung%20pak%20kin%20.jpg"><br><span style="color:#484848">Mr Leung Pak Kin</span></td>
     <td class="tg-0lax"><a href="mailto:leung_pak_kin@schools.gov.sg"><span style="color:#4372D6">leung_pak_kin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -404,7 +406,7 @@ Mdm Halimaton Abdullah
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">4 Bravery</span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src=""><br><span style="color:#484848">Mr Ho Koon Min Martin</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P4%20Teachers/mr%20martin%20ho%20.jpg"><br><span style="color:#484848">Mr Ho Koon Min Martin</span></td>
     <td class="tg-0lax"><a href="mailto:ho_koon_min_martin@schools.gov.sg"><span style="color:#4372D6">ho_koon_min_martin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -416,6 +418,8 @@ Mdm Halimaton Abdullah
 </table>
 
 ##### **Assistant Year Head - Upper Primary**
+
+<img style="width:20%; margin:0;" src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg">
 
 Mdm Shariffah Faizah Binte Hassan A<br>
 [shariffah_faizah_hassan@schools.gov.sg](shariffah_faizah_hassan@schools.gov.sg)
@@ -491,7 +495,7 @@ Mdm Shariffah Faizah Binte Hassan A<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:50%; margin:0;" src="![](/images/Staff%20Photos/P5%20Teachers/ms%20farzanah.jpg)"><br><span style="color:#484848">Ms Farzanah d/o Abdul Samad</span></td>
+    <td class="tg-0lax"><img style="width:50%; margin:0;" src="/images/Staff%20Photos/P5%20Teachers/ms%20farzanah.jpg"><br><span style="color:#484848">Ms Farzanah d/o Abdul Samad</span></td>
     <td class="tg-0lax"><a href="mailto:farzanah_abdul_samad@schools.gov.sg"><span style="color:#4372D6">farzanah_abdul_samad@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -513,6 +517,8 @@ Mdm Shariffah Faizah Binte Hassan A<br>
 </table>
 
 ##### **Year Head - Upper Primary**
+
+<img style="width:20%; margin:0;" src="/images/103)%20MS%20LI%20WENLIN.jpeg">
 
 Ms Li Wenlin<br>
 [li_wenlin@schools.gov.sg](li_wenlin@schools.gov.sg)

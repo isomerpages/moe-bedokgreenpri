@@ -604,8 +604,8 @@ Ms Li Wenlin<br>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src=""><br><span style="color:#484848">Mr Nor Azarizal Mohamed</span></td>
-    <td class="tg-0lax"><a href="mailto:nor_azarizal_mohamed@schools.gov.sg">nor_azarizal_mohamed@schools.gov.sg</a></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P6%20Teachers/mr%20nor%20azarizal%20mohamed%20passport%20size.jpg"><br><span style="color:#484848">Mr Nor Azarizal Mohamed</span></td>
+		 <td class="tg-0lax"><a href="mailto:nor_azarizal_mohamed@schools.gov.sg">nor_azarizal_mohamed@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>

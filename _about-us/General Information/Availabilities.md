@@ -4,6 +4,25 @@ permalink: /about-us/general-information/suppliers-n-vendors/availabilities/
 description: ""
 third_nav_title: General Information
 ---
+## School Bus Advertisement
+To apply, please refer to the Service Requirements and the Application Procedure below. <br>
+
+**Service Requirements:**
+1. [Call for Proposals by School](/files/call%20for%20proposals%20by%20school.pdf)
+2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
+<br>
+**Application Procedure:**
+1. Complete the [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
+2. Submit the completed Call for Proposal – Annex A by closing date, 06 July 2023 to the School’s General Office.
+* Address: 1 Bedok South Avenue 2, Singapore 469317
+* Contact No: 6442 5416
+* Email: bgps@moe.edu.sg
+* Contact Person: Ms Sharon Kok
+
+**How to get there?**
+* Nearest MRT: Bedok MRT (EW5 line) - 10 minutes walking distance
+* Bus number: 2, 9, 12, 24, 25, 31, 38, 45, 47, 229 - 3 minutes walking distance
+
 ## Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |

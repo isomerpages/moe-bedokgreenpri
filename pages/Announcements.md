@@ -19,8 +19,8 @@ Note: This workshop is for parents **only**.
 **<u>Science Webinar - 5 April 2023</u>**<br>
 Please click [here](/files/science%20webinar%20on%20cstm%20&amp;%20csb@bgpps%20on%205%20april%202023_for%20sch%20website.pdf) for the briefing slides for the **Creative Science Toy Making &amp; Busking Programmes @ BGPS**
 
-**<u>Term 2 Newsletter</u>** <br>
-As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for Term 2 is parked [here](/files/Term%202%20Letter.pdf)
+**<u>Term 3 Newsletter</u>** <br>
+As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for Term 3 is parked [here](/files/term%203%20letter%20.pdf).
 
 **<u>School Calendar</u>** <br>
 Please click [here](/about-us/calendar) to access our school calendar.&nbsp;Thank you.

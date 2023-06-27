@@ -89,18 +89,37 @@ third_nav_title: Staff
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Receptionist</span></td>
     <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms June Tan</span></td>
   </tr>
+	<tr>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Laboratory Assistant</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Dhalina Bte Nari</span></td>
+  </tr>
+	<tr>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Librarian</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Efi Elfina</span></td>
+  </tr>
+	<tr>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Operation Support Officer (OSO)</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Lina Tay</span></td>
+  </tr>
+	<tr>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Operation Support Officer (OSO)</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Weevin Henry Fernando</span></td>
+  </tr>
+	<tr>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Operation Support Officer (OSO)</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Kayati Salikin</span></td>
+  </tr>
+	<tr>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Operation Support Officer (OSO)</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Mastura</span></td>
+  </tr>
+	<tr>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Operation Support Officer (OSO)</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Ho Beng Hong</span></td>
+  </tr>
 </tbody>
 </table>
 
-
-| ||
-|Laboratory Assistant  |Mdm Dhalina Bte Nari|
-|Librarian  |Ms Efi Elfina|
-|Operation Support Officer (OSO)  |Ms Lina Tay|
-|Operation Support Officer (OSO)  |Mdm Weevin Henry Fernando|
-|Operation Support Officer (OSO)  |Mdm Kayati Salikin|
-|Operation Support Officer (OSO)  |Mdm Mastura|
-|Operation Support Officer (OSO)  |Mdm Ho Beng Hong|
 
 ## Allied Educators 
 

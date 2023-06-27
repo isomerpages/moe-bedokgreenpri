@@ -58,34 +58,32 @@ third_nav_title: Staff
     <td class="tg-4z3p"><a href="leow_zi_jian@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">leow_zi_jian@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (Physical Education &amp; Co-curricular Activities)</span></td>
-    <td class="tg-nbj5"><br><img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel10.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Alvin Thio</span></td>
-    <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/thio_beng_lou_alvin@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">thio_beng_lou_alvin@schools.gov.sg</span></a></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Corporate Support Officer (CSO)</span></td>
+    <td class="tg-nbj5"><br><img style="width:60%" src="/images/95)%20MDM%20LIM%20LIAN%20CHOO.jpeg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Lim Lian Choo</span></td>
+    <td class="tg-4z3p"><a href="lim_lian_choo@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lim_lian_choo@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (Physical Education &amp; Co-curricular Activities)</span></td>
-    <td class="tg-nbj5"><img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel9.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Mohd Hasri Bahari</span></td>
-    <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/mohd_hasri_bahari@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">mohd_hasri_bahari@schools.gov.sg</span></a></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Corporate Support Officer (CSO)</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/125%20Mdm%20Neo%20Chye%20Ling.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Neo Chye Ling</span></td>
+    <td class="tg-4z3p"><a href="neo_chye_ling@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">neo_chye_ling@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (Character &amp; Citizenship Education CCE)</span></td>
-    <td class="tg-nbj5"><img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel11.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Jessie Soh</span></td>
-    <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lim_chieh_sze@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lim_chieh_sze@schools.gov.sg</span></a></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Corporate Support Officer (CSO)</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/135)%20Mdm%20Evelyn%20Yap%20Poh%20Kwee.jpeg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Evelyn Yap Poh Kwee</span></td>
+    <td class="tg-4z3p"><a href="evelyn_yap_poh_kwee@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">evelyn_yap_poh_kwee@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (Discipline)</span></td>
-    <td class="tg-nbj5"><img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel12.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Judy Swee</span></td>
-    <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/judy_lim_lian_soon@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">judy_lim_lian_soon@schools.gov.sg</span></a></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"> ICT Associate</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/Faiz%20Nazirul.jpeg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Faiz Nazirul Azman </span></td>
+    <td class="tg-4z3p"><a href="faiz_nazirul_azman@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">faiz_nazirul_azman@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (Student Well-being)</span></td>
-    <td class="tg-nbj5"><img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel13.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Lim Fang Rui</span></td>
-    <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lim_fang_rui@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lim_fang_rui@schools.gov.sg</span></a></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Desktop Engineer</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Andersen Ooi</span></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (ICT)</span></td>
-    <td class="tg-nbj5"><img style="width:60%" src="/images/Key%20Personnel%201/keypersonnel14.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Ng Jieying</span></td>
-    <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/ng_jieying@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">ng_jieying@schools.gov.sg</span></a></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Desktop Engineer</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Lai Yun Ting Ashleigh</span></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (ICT)</span></td>
@@ -96,12 +94,7 @@ third_nav_title: Staff
 </table>
 
 
-| Corporate Support Officer (CSO)  |Mdm Lim Lian Choo | lim_lian_choo@schools.gov.sg   |
-| Corporate Support Officer (CSO)  |Ms Neo Chye Ling | neo_chye_ling@schools.gov.sg   |
-| Corporate Support Officer (CSO)  |Ms Evelyn Yap Poh Kwee  |evelyn_yap_poh_kwee@schools.gov.sg  |
-| ICT Associate  |Mr Faiz Nazirul Azman |faiz_nazirul_azman@schools.gov.sg|
-|Desktop Engineer |Mr Andersen Ooi|
-|Desktop Engineer |Ms Lai Yun Ting Ashleigh|
+|Desktop Engineer ||
 |Receptionist |Ms June Tan|
 |Laboratory Assistant  |Mdm Dhalina Bte Nari|
 |Librarian  |Ms Efi Elfina|

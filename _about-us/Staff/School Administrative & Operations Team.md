@@ -86,16 +86,14 @@ third_nav_title: Staff
     <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Lai Yun Ting Ashleigh</span></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (ICT)</span></td>
-    <td class="tg-nbj5"><img style="width:60%" src="/images/Key%20Personnel%201/key%20personnel%2015.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Mohd Najeeb Hassan</span></td>
-    <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/najeeb_hassan@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">najeeb_hassan@schools.gov.sg</span></a></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Receptionist</span></td>
+    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms June Tan</span></td>
   </tr>
 </tbody>
 </table>
 
 
-|Desktop Engineer ||
-|Receptionist |Ms June Tan|
+| ||
 |Laboratory Assistant  |Mdm Dhalina Bte Nari|
 |Librarian  |Ms Efi Elfina|
 |Operation Support Officer (OSO)  |Ms Lina Tay|

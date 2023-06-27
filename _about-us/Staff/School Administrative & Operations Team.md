@@ -22,8 +22,8 @@ third_nav_title: Staff
 <thead>
   <tr>
     <th class="tg-rx9b"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Designation</span></th>
-    <th class="tg-rx9b"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Name</span></th>
-    <th class="tg-rx9b"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Email</span></th>
+    <th style="text-align: center;" class="tg-rx9b"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Name</span></th>
+    <th style="text-align: center;" class="tg-rx9b"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Email</span></th>
   </tr>
 </thead>
 <tbody>

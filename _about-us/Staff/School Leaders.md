@@ -52,7 +52,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">School Principal</span></td>
     <td class="tg-nbj5"> <img style="width:60%" src="/images/benjaminyong.jpg" align="center"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"><br> Mr Benjamin Yong </span></td>
-    <td class="tg-4z3p"><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/samsina_herbert@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">mailto:benjamin_yong@schools.gov.sg</span></a></td>
+    <td class="tg-4z3p"><a href="mailto:benjamin_yong@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">benjamin_yong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (English)</span></td>

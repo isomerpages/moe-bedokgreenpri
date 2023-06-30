@@ -13,7 +13,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <br>
 **Application Procedure:**
 1. Complete the [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
-2. Submit the completed Call for Proposal – Annex A by closing date, 06 July 2023 to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023 to the School’s General Office.
 * Address: 1 Bedok South Avenue 2, Singapore 469317
 * Contact No: 6442 5416
 * Email: bgps@moe.edu.sg

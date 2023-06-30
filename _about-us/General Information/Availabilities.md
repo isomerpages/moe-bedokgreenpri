@@ -11,6 +11,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 1. [Call for Proposals by School](/files/call%20for%20proposals%20by%20school.pdf)
 2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 <br>
+
 **Application Procedure:**
 1. Complete the [Call for Proposal - Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)
 2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023 to the School’s General Office.
@@ -27,7 +28,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Rice Stall     | 8 September 2023     | NIL     |
+| Halal Rice Stall     | 19 June 2023     | NIL     |
 
 **Application Procedure**<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School's General Office.

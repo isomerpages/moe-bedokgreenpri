@@ -8,7 +8,7 @@ third_nav_title: General Information
 To apply, please refer to the Service Requirements and the Application Procedure below. <br>
 
 **Service Requirements:**
-1. [Call for Proposals by School](/files/call%20for%20proposals%20by%20school.pdf)
+1. [Call for Proposals by School](/files/call%20for%20proposals%20by%20school%202.pdf)
 2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 <br>
 

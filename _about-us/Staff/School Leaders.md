@@ -8,7 +8,7 @@ third_nav_title: Staff
 
 <figure style="width:60%">
 
-<img style="width:60%" src="/images/benjaminyong.jpg">
+<img src="/images/benjaminyong.jpg" style="width:60%">
 
 <figcaption> <strong> Mr Benjamin Yong </strong> 
 <br><a href="mailto:benjamin_yong@schools.gov.sg">benjamin_yong@schools.gov.sg</a></figcaption>
@@ -17,24 +17,23 @@ third_nav_title: Staff
 
 ##### **Vice-Principals**
 
-<table style="table-layout: fixed; width: 100%;" class="tg">
+<table class="tg" style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
       <td style="width:33%; vertical-align: top;">
-        <img style="width:100%;" alt="Mr Yeo Sho Hor" src="/images/yeoshohor.jpg"><br>
+        <img src="/images/yeoshohor.jpg" alt="Mr Yeo Sho Hor" style="width:100%;"><br>
         Mr Yeo Sho Hor<br>
         <a href="mailto:yeo_sho_hor@schools.gov.sg">yeo_sho_hor@schools.gov.sg</a>
       </td>
       <td style="width:33%; vertical-align: top;">
-        <img style="width:100%;" alt="Mdm Sharifah Fairuz Syed Alsagoff" src="/images/sharifahfairuz.jpg"><br>
+        <img src="/images/sharifahfairuz.jpg" alt="Mdm Sharifah Fairuz Syed Alsagoff" style="width:100%;"><br>
         Mdm Sharifah Fairuz Syed Alsagoff<br>
         <a href="mailto:sharifah_fairuz_syed_alsagoff@schools.gov.sg">sharifah_fairuz_syed_alsagoff@schools.gov.sg</a>
       </td>
-      <td style="width:33%; vertical-align: top;">
-        <img style="width:97%;" alt="Mr Chua Kok Seng" src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg"><br>
+			 <td style="width:33%; vertical-align: top;">
+        <img src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg" alt="Mr Chua Kok Seng" style="width:97%;"><br>
         Mr Chua Kok Seng<br>
         <a href="mailto:chua_kok_seng@schools.gov.sg">chua_kok_seng@schools.gov.sg</a>
       </td>
     </tr>
-  </tbody>
-</table>
+  </tbody></table>

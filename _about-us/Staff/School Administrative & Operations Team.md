@@ -84,7 +84,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Desktop Engineer</span></td>
-    <td class="tg-nbj5"><img style="width:60%" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Lai Yun Ting Ashleigh</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/School%20Admin%20&amp;%20Ops/miss%20ashleigh%20lai.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Lai Yun Ting Ashleigh</span></td>
 		<td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"></span></td>
   </tr>
   <tr>
@@ -194,4 +194,3 @@ third_nav_title: Staff
   </tr>
 </tbody>
 </table>
-

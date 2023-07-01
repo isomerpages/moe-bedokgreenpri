@@ -124,7 +124,7 @@ third_nav_title: Staff
   </tr>
 	<tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Operation Support Officer (OSO)</span></td>
-    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Ho Beng Hong</span></td>
+    <td class="tg-nbj5"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Ho Beng Hong</span></td>
 		<td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"></span></td>
   </tr>
 </tbody>

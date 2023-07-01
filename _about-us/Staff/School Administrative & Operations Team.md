@@ -170,12 +170,12 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Special Educational Needs Officer</span></td>
-    <td class="tg-nbj5"><span style="color:#484848;background-color:transparent"></span><span style="color:#484848;background-color:transparent">Mrs Descalsota Teodora</span><br></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/Allied%20Educators/mrs%20descalsota%20teodora%20.jpg" align="center"><br><span style="color:#484848;background-color:transparent"></span><span style="color:#484848;background-color:transparent">Mrs Descalsota Teodora</span><br></td>
     <td class="tg-4z3p"><a href="descalsota_teodora_bernardino@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">descalsota_teodora_bernardino@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Special Educational Needs Officer</span></td>
-    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Sheryl Wong Shi Hui</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/Allied%20Educators/ms%20sheryl%20wong%20.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Sheryl Wong Shi Hui</span></td>
     <td class="tg-4z3p"><a href="lim_siew_hong@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">sheryl_wong_shi_hui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -190,3 +190,4 @@ third_nav_title: Staff
   </tr>
 </tbody>
 </table>
+

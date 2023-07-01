@@ -89,7 +89,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Receptionist</span></td>
-    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms June Tan</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/School%20Admin%20&amp;%20Ops/ms%20june%20tan.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms June Tan</span></td>
 		<td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"></span></td>
   </tr>
 	<tr>

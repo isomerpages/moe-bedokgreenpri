@@ -94,7 +94,7 @@ third_nav_title: Staff
   </tr>
 	<tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Laboratory Assistant</span></td>
-    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Dhalina Bte Nari</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/School%20Admin%20&amp;%20Ops/mdm%20dhalina%20.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Dhalina Bte Nari</span></td>
 		<td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"></span></td>
   </tr>
 	<tr>
@@ -131,7 +131,7 @@ third_nav_title: Staff
 </table>
 
 
-![](/images/School%20Admin%20&amp;%20Ops/mdm%20dhalina%20.jpg)
+
 ![](/images/School%20Admin%20&amp;%20Ops/miss%20efi%20elfina%20.jpg)
 ![](/images/School%20Admin%20&amp;%20Ops/ms%20lina%20tay.jpg)
 ![](/images/School%20Admin%20&amp;%20Ops/mdm%20weevin%20.jpg)

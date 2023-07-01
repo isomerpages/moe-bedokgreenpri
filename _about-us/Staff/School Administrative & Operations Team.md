@@ -119,7 +119,7 @@ third_nav_title: Staff
   </tr>
 	<tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Operation Support Officer (OSO)</span></td>
-    <td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Mastura</span></td>
+    <td class="tg-nbj5"><img style="width:60%" src="/images/School%20Admin%20&amp;%20Ops/mdm%20masturah.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Mastura</span></td>
 		<td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"></span></td>
   </tr>
 	<tr>
@@ -133,10 +133,6 @@ third_nav_title: Staff
 
 
 
-
-
-
-![](/images/School%20Admin%20&amp;%20Ops/mdm%20masturah.jpg)
 
 
 ## Allied Educators 

@@ -13,6 +13,5 @@ Subject-based banding (SBB) gives your child the opportunity to take a combinati
 
   
 
-Click on the link below to download the updated slides for the Primary 4 Subject Based Banding Briefing held on 5 August 2022.
-
-[2022 P4 SBB Briefing.pdf](/files/2022%20P4%20SBB%20Briefing%20for%20parents%20final.pdf)
+Click on the link below to download the updated slides for the Primary 4 Subject Based Banding Briefing. <br>
+[2023 P4 SBB Briefing](/files/2023%20p4%20sbb%20briefing%20.pdf)

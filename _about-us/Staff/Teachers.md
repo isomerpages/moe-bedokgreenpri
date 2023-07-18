@@ -386,13 +386,12 @@ Mdm Halimaton Abdullah
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">4 Resilience</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src=""><br><span style="color:#484848">Ms Cheyanne Lee Gan</span></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P4%20Teachers/mr%20leung%20pak%20kin%20.jpg"><br><span style="color:#484848">Mr Leung Pak Kin</span></td>
+     <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P4%20Teachers/mr%20leung%20pak%20kin%20.jpg"><br><span style="color:#484848">Mr Leung Pak Kin</span></td>
     <td class="tg-0lax"><a href="mailto:leung_pak_kin@schools.gov.sg"><span style="color:#4372D6">leung_pak_kin@schools.gov.sg</span></a></td>
+  </tr>
+    <tr><td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P4%20Teachers/miss%20cheyanne%20lee%20gan%20.jpg"><br><span style="color:#484848">Miss Cheyanne Lee Gan</span></td>
+    <td class="tg-0lax"><a href="mailto:cheyanne_lee_gan@schools.gov.sg"><span style="color:#4372D6">cheyanne_lee_gan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848">4 Compassion</span></td>

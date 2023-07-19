@@ -11,5 +11,5 @@ third_nav_title: Staff
 	<tr> <td class="tg-0lax"><span style="color:#484848">Physical Education</span></td>  
 <td class="tg-0lax"><img style="width:30%;" src="/images/Staff%20Photos/P6%20Teachers/mr%20nor%20azarizal%20mohamed%20passport%20size.jpg"><br><span style="color:#484848">Mr Nor Azarizal Mohamed</span></td> <td class="tg-0lax"><a href="mailto:nor_azarizal_mohamed@schools.gov.sg"><span style="color:#4372D6">nor_azarizal_mohamed@schools.gov.sg</span></a></td> </tr>
 	<tr> <td class="tg-0lax"><span style="color:#484848">Learning Needs (Educational Support)</span></td>  
-<td class="tg-0lax"><img style="width:30%;" src="/images/Staff%20Photos/P6%20Teachers/mr%20nor%20azarizal%20mohamed%20passport%20size.jpg"><br><span style="color:#484848">Mrs Lee Mei Yin</span></td> <td class="tg-0lax"><a href="mailto:lim_mei_yin@schools.gov.sg"><span style="color:#4372D6">lim_mei_yin@schools.gov.sg</span></a></td> </tr></tbody>
+<td class="tg-0lax"><img style="width:30%;" src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg"><br><span style="color:#484848">Mrs Lee Mei Yin</span></td> <td class="tg-0lax"><a href="mailto:lim_mei_yin@schools.gov.sg"><span style="color:#4372D6">lim_mei_yin@schools.gov.sg</span></a></td> </tr></tbody>
 </table>

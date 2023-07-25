@@ -27,23 +27,16 @@ School Uniform Supplier
 Online store:&nbsp;[www.khuniform.com](http://www.khuniform.com/)  
 Tel:&nbsp;6479 6811&nbsp; &nbsp; Fax: 6474 4037Email:&nbsp;[sales@khuniform.com](mailto:sales@khuniform.com)
 
-School Bus Operators
+School Bus Service
 ====================
-**Kosen Transport Pte Ltd**  <br>
-90 Punggol Drive  
-#06-02  
-Singapore 828794  
-&nbsp;  
-**Contact Person:**&nbsp;  
-<u>Aunty May Low 97345155 or&nbsp;  
-Mr Rae Tan 96801592</u>
 
-Email:&nbsp;[chenkai\_bt@yahoo.com.sg](mailto:chenkai_bt@yahoo.com.sg)&nbsp;or  
-[kosentransport@gmail.com](mailto:kosentransport@gmail.com)
+**School Bus Services**
+<br>School Bus Operator and Bus Fare<br>
+Operator: Kosen Transport Pte Ltd
+<br>Contact No.: 96801592
 
-**Bus fares for daily school bus services by distance
-**
-![](/images/bus%20operators%20fare.jpg)
+**Period: 1 Jan 2024 to 31 Dec 2025**
+![](/images/school%20bus.png)
 
 Student Care Centre
 ===============

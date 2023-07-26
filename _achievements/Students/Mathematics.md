@@ -67,6 +67,16 @@ third_nav_title: Students
 | Lim Zhi Xuan Chloe (6 RES)     |     | Bronze    |
 | Ng Ming Le (6 RES)     |     | Bronze    |
 
+##### 16th Annual Mathlympics
+
+| Name &amp; Class |  | Award |
+| -------- | -------- | -------- |
+| Toh Beng Yang Zachary (5 INT)     |     | Gold     |
+| Lee Yu Ze (5 INT)    |     | Gold     |
+| Daksh Biyani (5 INT)     |     | Bronze    |
+| Jacob Ng Yu Bin (5 INT)     |     | Bronze    |
+| Cai Jiatao (5 INT)     |     | Merit    |
+|Sun Mankai (5 INT)     |     | Merit    |
 
 ## 2022
 

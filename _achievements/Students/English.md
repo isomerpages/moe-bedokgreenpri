@@ -4,6 +4,21 @@ permalink: /achievements/student/english/
 description: ""
 third_nav_title: Students
 ---
+## 2023
+| Wits and Words  |  |  |
+| -------- | -------- | -------- |
+| Participation     | Park Yena (6 INT)     |      |
+|      | Li Zhaoze (6 INT)     |      |
+|      | Tan Wei Xiang (6 INT)     |      |
+|      | Izaak Irwin Tan (6 RES)     |      |
+|      | Lim Hui Ting (5 RES)     |      |
+
+| Moo-O Awards |  |  |
+| -------- | -------- | -------- |
+| Participation     | Zhuang Zhixiang (3 INT)     |      |
+|      | Tan Rui Bin Jameson (3 RES)     |      |
+|      | Kee Jia Jia Janelle (3 RES)     |      |
+
 ## 2022
 
 | Wits and Words  - Division 2 |  |  |

@@ -9,12 +9,13 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/moe%20service%20excellence%20-%20gold.png)<br>
 ![](/images/moe%20service%20excellence%20-%20gold%202.png)<br>
 ![](/images/moe%20service%20excellence%20-%20silver.png)<br>
+![](/images/moe%20service%20excellence%20-%20silver%202.png) <br>
+![](/images/moe%20service%20excellence%20-%20silver%203.png)<br>
+![](/images/moe%20service%20excellence%20-%20silver%204.png)
 
-### Associate of Academy of Singapore Teachers Award 2021
+### MOE Outstanding Contribution Awards 2022
 
-![Associate of Academy of Singapore Teachers Award 2021](/images/Annotation%202021-10-14%20083124.jpeg)
 
-![Associate of Academy of Singapore Teachers Award 2021](/images/Noorlin.jpeg)
 
 ### STAR Desktop Engineer (DE) Award 
 

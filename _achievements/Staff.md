@@ -13,6 +13,10 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/moe%20service%20excellence%20-%20silver%203.png)<br>
 ![](/images/moe%20service%20excellence%20-%20silver%204.png)
 
+### National Day Awards 2022
+![](/images/oca%20commendation%20award.png)<br>
+![](/images/oca%20long%20service.png)<br>
+
 ### MOE Outstanding Contribution Awards 2022
 ![](/images/oca%20individual.png) <br>
 ![](/images/oca%20ecg.png)<br>
@@ -32,4 +36,5 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/oca%20alp%202.png)<br>
 ![](/images/oca%20staff%20retreat%201.png)<br>
 ![](/images/oca%20staff%20retreat%202.png)<br>
-### National Day Awards 2022
+
+

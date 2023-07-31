@@ -22,7 +22,8 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/oca%20sports%20stacking.png)<br>
 ![](/images/oca%20curriculum%20experience%201.png)<br>
 ![](/images/curriculum%20experience%202.png)<br>
-
-
-
+![](/images/oca%20tt%201.png)<br>
+![](/images/oca%20tt%202.png)<br>
+![](/images/oca%20swbc%201.png)<br>
+![](/images/oca%20swbc%202.png)<br>
 

@@ -293,11 +293,6 @@ Mdm Lee Oi Foong Margaret<br>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P3%20Teachers/ms%20damia%20.jpg"><br><span style="color:#484848">Ms Damia Zolkifli</span></td>
-    <td class="tg-0lax"><a href="mailto:damia_zolkifli@schools.gov.sg"><span style="color:#4372D6">damia_zolkifli@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
     <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P3%20Teachers/ms%20nur%20zahirah%20.jpg"> <br><span style="color:#484848">Ms Nur Zahirah</span></td>
     <td class="tg-0lax"><a href="mailto:nur_zahirah_kassim@schools.gov.sg"><span style="color:#4372D6">nur_zahirah_kassim@schools.gov.sg</span></a></td>
   </tr>

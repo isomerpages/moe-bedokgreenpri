@@ -3,7 +3,11 @@ title: Staff
 permalink: /achievements/staff/
 description: ""
 ---
-The school would like to congratulate the following staff for attaining the awards listed below. 
+### 2022 Staff Achievement
+The school would like to congratulate the following staff for attaining the awards listed below.&nbsp;<br>
+### MOE Service Excellence Award 2022
+
+
 
 ### Associate of Academy of Singapore Teachers Award 2021
 

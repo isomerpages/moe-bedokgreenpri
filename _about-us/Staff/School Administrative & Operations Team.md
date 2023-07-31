@@ -64,11 +64,6 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Corporate Support Officer (CSO)</span></td>
-    <td class="tg-nbj5"><img style="width:30%" src="/images/125%20Mdm%20Neo%20Chye%20Ling.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Neo Chye Ling</span></td>
-    <td class="tg-4z3p"><a href="neo_chye_ling@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">neo_chye_ling@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Corporate Support Officer (CSO)</span></td>
     <td class="tg-nbj5"><img style="width:30%" src="/images/135)%20Mdm%20Evelyn%20Yap%20Poh%20Kwee.jpeg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Evelyn Yap Poh Kwee</span></td>
     <td class="tg-4z3p"><a href="evelyn_yap_poh_kwee@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">evelyn_yap_poh_kwee@schools.gov.sg</span></a></td>
   </tr>

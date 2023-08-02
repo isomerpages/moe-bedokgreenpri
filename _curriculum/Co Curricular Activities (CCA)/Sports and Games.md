@@ -7,7 +7,7 @@ third_nav_title: Co Curricular Activities (CCA)
 Badminton
 ---------
 
-![Badminton](/images/3E0A5289.jpeg)
+![](/images/badminton.JPG)
 
 The objective of this CCA is to instill in students the interest and love for badminton. CCA training sessions aims to equip our students with basic skills of badminton which include court movement skills, different forms of game services, building individual's hand-to-eye coordination and great stamina. Our very own dedicated BGPS teachers coach and train the badminton team.  
   

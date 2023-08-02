@@ -93,7 +93,7 @@ Student Welfare
 
 ##### Fire Drills  
 
-The school will carry out the fire drill once a year. Students will be informed in advance of the first fire drill in the year. This is to familiarize the new P1 pupils with the system. Subsequent fire drills will be carried out without advance notice.
+The school will carry out at least one fire drill annually. This is to familiarize the new P1 pupils with the system. 
 
 ##### Road safety
 

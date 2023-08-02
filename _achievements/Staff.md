@@ -34,3 +34,8 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/oca%20alp%202.png)<br>
 ![](/images/oca%20staff%20retreat%201.png)<br>
 ![](/images/oca%20staff%20retreat%202.png)<br>
+### Caring Teacher Awards 2022
+![](/images/caring%20teacher%20awards%201.png)<br>
+![](/images/caring%20teacher%20awards%202.png)
+### Instructional Mentoring Programme 2022
+![](/images/imp%202022.png)<br>

@@ -47,6 +47,6 @@ Football has always been one of the most popular sports in Singapore, and the sa
 Rugby
 -----
 
-![](/images/rugby%20cca.JPG)
+![](/images/rugby%20jr%202.jpg)
 
 Rugby is a team sport. Often misunderstood only as a high contact physical sport, rugby play involves intelligent passing, defence splitting runs and performing well-executed tackles. This CCA aims to build maturity in players through tactical thinking, behaviour and the development of sportsmanship. External instructors are deployed to teach the students during CCA sessions. Being in a rugby team is enjoyable and helps make lifelong friendships.

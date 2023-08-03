@@ -14,4 +14,4 @@ Bedok Green Primary's philosophy that 'Every Child Matters' undergirds our unyie
 
 The philosophy also drives the school's strong culture of care for its students, staff and stakeholders. Every member of the school community is respected and recognised for his contribution, big or small, with ample opportunities to succeed. Character-building and Values-In-Action programmes focus on contributing to their peers, the school and community, reiterating the importance of giving generously back to society, in our own ways.
 
-![Bedok Green Primary School](/images/20190918_073837.jpeg)
+![](/images/original%20photo.jpg)

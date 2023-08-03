@@ -14,11 +14,11 @@ The school operates from 7:30 a.m. to 1:30 p.m. every weekday for all levels.
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: right;">P1, P2, P3</td>
+    <td style="text-align: right;">P1 - P3</td>
     <td style="text-align: center;" colspan="4">Multi-Purpose Hall (MPH)<br></td>
   </tr>
   <tr>
-    <td style="text-align: right">P4, P5, P6</td>
+    <td style="text-align: right">P4 - P6</td>
     <td style="text-align: center;" colspan="4">Indoor Sports Hall (ISH)<br></td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ Students are expected to report to the halls or their respective classrooms by 7
 <table>
 <thead>
   <tr>
-    <th style="text-align: center;" colspan="2">Staggered Dismissal Timings (as of Term 3 2022)</th>
+    <th style="text-align: center;" colspan="2">Staggered Dismissal Timings</th>
   </tr>
 </thead>
 <tbody>

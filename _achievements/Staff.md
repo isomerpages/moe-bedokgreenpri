@@ -3,40 +3,40 @@ title: Staff
 permalink: /achievements/staff/
 description: ""
 ---
-The school would like to congratulate the following staff for attaining the awards listed below. 
-
-### Associate of Academy of Singapore Teachers Award 2021
-
-![Associate of Academy of Singapore Teachers Award 2021](/images/Annotation%202021-10-14%20083124.jpeg)
-
-![Associate of Academy of Singapore Teachers Award 2021](/images/Noorlin.jpeg)
-
-### STAR Desktop Engineer (DE) Award 
-
-![STAR Desktop Engineer (DE) Award ](/images/Annotation%202021-09-14%20141444.jpeg)
-
-### National Day Award 2021
-
-![National Day Award 2021](/images/Annotation%202021-08-16%20082025.jpeg)
-
-![National Day Award 2021](/images/Annotation%202021-08-16%20082025%20v2.jpeg)
-
-### E-fiesta Bahasa 2021
-
-![E-fiesta Bahasa 2021](/images/Seven.jpeg)
-
-### 10th Annual Art Teachers' Exhibition 
-
-![10th Annual Art Teachers' Exhibition ](/images/Salim%20Updated.jpeg)
-
-### Innergy Award 2020 
-
-![Innergy Award 2020 ](/images/One.jpeg)
-
-### MOE Service Excellence Award 2020 
-
-![MOE Service Excellence Award 2020 ](/images/Four.jpeg)
-
-![MOE Service Excellence Award 2020 ](/images/Five.jpeg)
-
-![MOE Service Excellence Award 2020 ](/images/Six.jpeg)
+### 2022 Staff Achievement
+The school would like to congratulate the following staff for attaining the awards listed below.&nbsp;<br>
+### MOE Service Excellence Award 2022
+![](/images/moe%20service%20excellence%20-%20gold.png)<br>
+![](/images/moe%20service%20excellence%20-%20gold%202.png)<br>
+![](/images/moe%20service%20excellence%20-%20silver.png)<br>
+![](/images/moe%20service%20excellence%20-%20silver%202.png) <br>
+![](/images/moe%20service%20excellence%20-%20silver%203.png)<br>
+![](/images/moe%20service%20excellence%20-%20silver%204.png)<br>
+### National Day Awards 2022
+![](/images/commendation%20medal%201.png)
+<br>
+![](/images/oca%20long%20service.png)<br>
+### MOE Outstanding Contribution Awards 2022
+![](/images/oca%20individual.png) <br>
+![](/images/oca%20ecg.png)<br>
+![](/images/oca%20e-ped.png)<br>
+![](/images/oca%20partners.png)<br>
+![](/images/oca%20sen.png)<br>
+![](/images/oca%20sports%20stacking.png)<br>
+![](/images/oca%20curriculum%20experience%201.png)<br>
+![](/images/curriculum%20experience%202.png)<br>
+![](/images/oca%20tt%201.png)<br>
+![](/images/oca%20tt%202.png)<br>
+![](/images/oca%20swbc%201.png)<br>
+![](/images/oca%20swbc%202.png)<br>
+![](/images/oca%20student%20leadership%201.png)<br>
+![](/images/oca%20student%20leadership%202.png)<br>
+![](/images/oca%20alp%201.png)<br>
+![](/images/oca%20alp%202.png)<br>
+![](/images/oca%20staff%20retreat%201.png)<br>
+![](/images/oca%20staff%20retreat%202.png)<br>
+### Caring Teacher Awards 2022
+![](/images/caring%20teacher%20awards%201.png)<br>
+![](/images/caring%20teacher%20awards%202.png)
+### Instructional Mentoring Programme 2022
+![](/images/imp%202022.png)<br>

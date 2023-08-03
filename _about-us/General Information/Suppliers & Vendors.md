@@ -75,11 +75,13 @@ School Canteen
 
 The school environment plays an important role in nurturing and sustaining good eating habits.&nbsp;We strongly encourage students to consume a meal before snacking. The school canteen serves a healthy plate consisting of wholemeal noodles or brown rice with meat, vegetables and fruits. Here in BGPS, we ensure that there are a variety of stalls which help nurture and sustain good eating habits in all our students.
 
-<img src="/images/Photo%201.jpeg" style="width:90%">
+<img src="/images/Photo%201.jpeg" style="width:90%"><br>
 
-<img src="/images/Photo%203.jpeg" style="width:90%">
+<img src="/images/Photo%203.jpeg" style="width:90%"><br>
 
-<img src="/images/Photo%204.jpeg" style="width:90%">
+<img src="/images/stall%204%20and%205.jpeg" style="width:90%"><br>
+
+<img src="/images/stall%206.jpeg" style="width:90%"><br>
 
 <img src="/images/Photo%202.jpeg" style="width:90%">
 

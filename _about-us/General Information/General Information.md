@@ -4,9 +4,7 @@ permalink: /about-us/general-information/
 description: ""
 third_nav_title: General Information
 ---
-
-<img src="/images/School%20Crest%20High%20Resolution.png"  
-style="width:40%">
+<img src="/images/School%20Crest%20High%20Resolution.png" style="width:40%">
 
 *   We are a single session Government school.
 *   We offer Chinese, Tamil and Malay Mother Tongue Languages.
@@ -16,14 +14,14 @@ School Procedures
 -----------------
 
 ##### Absence From School
-Students who are absent from school must present a medical certificate from a qualified doctor or a letter from the parent stating reasons for their absence. The school must be informed if the child urgently needs to be away for a long period of time.
+Students who are absent from school must present a medical certificate from a qualified doctor or a letter from the parent stating reasons for their absence.&nbsp;The school must be informed if the child urgently needs to be away for a long period of time.
 
 ##### Visitors to the School
 
-All visitors to the school must report at the school general office and inform the school clerk the purpose of their visit. They must show their Identification Card and in return get a "Visitor's Pass" from the clerk, before proceeding to other parts of the school premises.
+All visitors to the school must report at the&nbsp;school general office and inform the school clerk the purpose of their visit. They must show their Identification Card and in return get a "Visitor's Pass" from the clerk, before proceeding to other parts of the school premises.
 
 ##### Leaving School Early  
-If a student is feeling unwell, he/she must inform both the teacher and the parents/guardian. An ill child must be picked up by a parent/guardian, the school will not allow him/her to return home unescorted. The parents/guardian must sign the "Early Departure Register" placed in the office. Parents/Guardians have to produce their Identification Card for verification reasons.
+If a student is feeling unwell, he/she must inform both the teacher and the parents/guardian.&nbsp;An ill child must be picked up by a parent/guardian, the school will not allow him/her to return home unescorted. The parents/guardian must sign the "Early Departure Register" placed in the office. Parents/Guardians have to produce their Identification Card for verification reasons.
 
 
 ##### Dismissal
@@ -48,7 +46,7 @@ School Rules
 Uniform
 -------
 
-The school uniform is to be worn whenever a student comes to school and at all school-related activities including those held during school vacation or outside the school premises. Students are to wear the prescribed school uniform and modifications to the school uniform is not allowed.  
+The school uniform is to be worn whenever a student comes to school and at all school-related activities including those held during school&nbsp;vacation or outside the school premises.&nbsp;Students are to wear the prescribed school uniform and modifications to the school uniform is not allowed.  
 
 <u>School Uniform</u>
 
@@ -68,12 +66,12 @@ Canteen Rules
 Evacuation Drill
 ----------------
 
-Once the evacuation siren sounds, stop working and don't start to move out of classroom, unless you are in the vicinity of the incident site. Keep calm and quiet, so that you can hear the evacuation instruction announcement made over the PA system.  
+Once the evacuation&nbsp;siren sounds, stop working and don't start to move out of classroom, unless you are in the vicinity of the incident site. Keep calm and quiet, so that you can hear the evacuation instruction announcement made over the PA system.  
 Follow the teacher's instruction, to close the doors, switch off lights and fans as instructed.
 
 File out, along the corridor, in two lines in an orderly manner.  
 
-Start to move to the assembly area, only when you are told to do so by the teacher. Do no run or push, and walk in a quickly and orderly manner.
+Start to move to the assembly area, only when you are told to do so by the teacher. Do not run or push, and walk in a quickly and orderly manner.
 
 To use the staircase/evacuation route that is nearer to your classroom to proceed to the assembly, please refer to the evacuation map for more details.
 
@@ -95,7 +93,7 @@ Student Welfare
 
 ##### Fire Drills  
 
-The school will carry out the fire drill termly. Students will be informed in advance of the first fire drill in the year. This is to familiarize the new P1 pupils with the system. Subsequent fire drills will be carried out without advance notice.
+The school will carry out at least one fire drill annually. This is to familiarize the new P1 pupils with the system. 
 
 ##### Road safety
 
@@ -125,7 +123,7 @@ You Can Be A Good Student
 Guidelines On The Use Of Handphone
 ----------------------------------
 
-Students should not bring their **mobile phones** to school unless special permission has been granted. Students who wish to bring their mobile phones to school must obtain a mobile phone contract from the HOD/CCE. **Music players and handheld computer games should not be brought to school.**
+Students should not bring their&nbsp;**mobile phones**&nbsp;to school unless special permission has been granted. Students who wish to bring their mobile phones to school must obtain a mobile phone contract from the HOD/CCE.&nbsp;**Music players&nbsp;and&nbsp;handheld computer games should not be brought to school.**
 
 Safety First In School
 ----------------------
@@ -137,7 +135,7 @@ Safety First In School
 *   The car park is meant only for cars and school buses. During the recess keep away from the car park and porch.
 *   Once you come to school, it is your responsibility to remain in the school until dismissal time.
 *   Eat and drink at the cafeteria only. Be careful when you are carrying hot soup. Running and playing in the cafeteria may result in you getting hurt as the hot soup may spill over you and you may be scalded.
-*   Be careful when handling a pair of scissors or a penknife during Art & Craft Lesson. Use a pair of scissors with rounded ends.
+*   Be careful when handling a pair of scissors or a penknife during Art &amp; Craft Lesson. Use a pair of scissors with rounded ends.
 
 Examination Regulations
 -----------------------

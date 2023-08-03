@@ -21,9 +21,9 @@ The new PSLE scoring and Secondary 1 Posting systems will take effect this year.
 
 Click [here](http://www.seab.gov.sg/) to access more information on PSLE related matters from the Schools Examinations and Assessment Board (SEAB)
 
-### PSLE Timetable 2021
+### PSLE Timetable 2023
 
-[2021 PSLE Timetable](/files/2021psleexamtimetable.pdf)
+[PSLE Exam Timetable 2023](/files/31072023psleexamtimetable.pdf)
 
 ### PSLE 2021
 
@@ -37,6 +37,6 @@ Click [here](http://www.seab.gov.sg/) to access more information on PSLE rela
 
 ### Direct-Schools Admission (DSA)
 
-Please click on the file below to obtain more information on DSA 2021  
+Please click on the file below to obtain more information on DSA 2023  
   
-[DSA\_Notes\_Parents 2021](https://bedokgreenpri.moe.edu.sg/qql/slot/u204/Partnerships/Home%20School%20Partnerships/DSA_Notes_Parents.pdf) **PDF file exceeds 5MB!**
+[DSA Information 2023](/files/31072023%20dsa%20info.pdf)

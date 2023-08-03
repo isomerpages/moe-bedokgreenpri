@@ -10,13 +10,12 @@ third_nav_title: Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rx9b{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-acgv{background-color:#FFF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-rx9b{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-acgv{background-color:#FFF;border-color:inherit;color:#484848;text-align:center;vertical-align:top}
 .tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-4z3p{background-color:#FFF;border-color:inherit;color:#4372D6;text-align:center;text-decoration:underline;vertical-align:top
-  }
+.tg .tg-4z3p{background-color:#FFF;border-color:inherit;color:#4372D6;text-align:center;text-decoration:underline;vertical-align:top}
 </style>
-<br><table class="tg">
+<table class="tg">
   <thead>
     <tr>
       <th class="tg-rx9b"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Designation</span></th>
@@ -139,10 +138,7 @@ third_nav_title: Staff
     </tr>
   </thead>
   <tbody>
-   
-
-
-   <tr>
+    <tr>
       <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Year Head (Lower Primary)</span></td>
       <td class="tg-nbj5"><img alt="lohweileong" style="width:60%" src="/images/lohweileong.jpeg" align="center"><br>
       <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Loh Wei Leong</span></td>

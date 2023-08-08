@@ -4,6 +4,12 @@ permalink: /achievements/student/mother-tongue/
 description: ""
 third_nav_title: Students
 ---
+## 2023
+
+| 新加坡福清会馆 | |  |
+| -------- | -------- | -------- |
+|Top Prize    |     | Lin Haoze Lucas (3 Bravery)     |
+
 ## 2022
 
 | 13th Goodtalk (Global Village) International Children and Youth Bilingual Speech Conference | |  |

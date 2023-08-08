@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Students
 ---
 ## 2023
-| Wits and Words  |  |  |
+
+
+| Wits and Words |  |  |
 | -------- | -------- | -------- |
-| Participation     | Park Yena (6 INT)     |      |
+| Participation     | Parl Yena (6 INT)     |      |
 |      | Li Zhaoze (6 INT)     |      |
 |      | Tan Wei Xiang (6 INT)     |      |
 |      | Izaak Irwin Tan (6 RES)     |      |

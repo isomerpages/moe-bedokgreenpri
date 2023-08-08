@@ -6,7 +6,7 @@ third_nav_title: Students
 ---
 ## 2023
 
-| 新加坡福清会馆 | |  |
+| Singapore Futsing Association 新加坡福清会馆 | |  |
 | -------- | -------- | -------- |
 |Top Prize    |     | Lin Haoze Lucas (3 Bravery)     |
 

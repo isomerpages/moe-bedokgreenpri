@@ -9,7 +9,7 @@ third_nav_title: Students
 
 | Wits and Words |  |  |
 | -------- | -------- | -------- |
-| Participation     | Parl Yena (6 INT)     |      |
+| Participation     | Park Yena (6 INT)     |      |
 |      | Li Zhaoze (6 INT)     |      |
 |      | Tan Wei Xiang (6 INT)     |      |
 |      | Izaak Irwin Tan (6 RES)     |      |

@@ -35,8 +35,17 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/sen%20oca.png) <br>
 ![](/images/sports%20stacking%20oca.png)<br>
 ![](/images/ce%20oca.png)<br>
-
-
+![](/images/ce%20oca%202.png)<br>
+![](/images/timetabling%20oc.png)<br>
+![](/images/timetabling%20oca%202.png)<br>
+![](/images/swbc%20oca%201.png)<br>
+![](/images/swbc%20oca%202.png)<br>
+![](/images/leadership%20oca.png)<br>
+![](/images/leadership%20oca%202.png)<br>
+![](/images/alp%20oca%201.png)<br>
+![](/images/alp%20oca%202.png)<br>
+![](/images/staff%20retreat%20oca.png)<br>
+![](/images/staff%20retreat%20oca%202.png)
 
 #### Caring Teacher Awards 2022
 ![](/images/cta%20pei%20ling,%20wl,%20lq.png)<br>

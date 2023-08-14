@@ -24,9 +24,9 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/mavis%20tan.png)
 
 #### National Day Awards 2022
-![](/images/commendation%20medal%201.png)
-<br>
-![](/images/oca%20long%20service.png)<br>
+![](/images/nd%20mr%20yeo,%20chee%20keong.png)<br>
+![](/images/nd%20samsina,%20martin.png)
+
 #### MOE Outstanding Contribution Awards 2022
 
 ![](/images/oca%20individual.png) <br>

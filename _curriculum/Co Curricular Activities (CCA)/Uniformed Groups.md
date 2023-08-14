@@ -15,6 +15,8 @@ Brownies CCA is all about building team spirit and enhancing mental alertness th
 
 Cub Scouts
 ----------
+
 ![](/images/track%20and%20trail%20planning.jpeg)
+
 
 Scouting is learning about teamwork, leadership and independence and emulating the Scout's Law. The Scout's craft will develop the physical and mental alertness of its CCA members. Students in Scouts CCA will have an invaluable experience to work in teams and participate in Scout's activities like jamboree and Scouts' gathering.

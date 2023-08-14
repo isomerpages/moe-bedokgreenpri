@@ -7,6 +7,7 @@ third_nav_title: Students
 ## 2023
 
 
+
 | Wits and Words |  |  |
 | -------- | -------- | -------- |
 | Participation     | Park Yena (6 INT)     |      |

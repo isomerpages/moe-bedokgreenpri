@@ -12,8 +12,10 @@ The school provides&nbsp;learning experiences that support students’ developme
 
 ![](/images/students%20in%20greenhouse.jpeg)
 
+
 ![](/images/students%20cleaning%20classroom.JPG)
 
 ![](/images/students%20cleaning%20cupboards%20outside%20classroom.JPG)
 
 ![](/images/students%20wiping%20the%20canteen%20table.jpeg)
+

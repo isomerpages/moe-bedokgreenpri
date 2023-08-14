@@ -3,6 +3,7 @@ title: Staff
 permalink: /achievements/staff/
 description: ""
 ---
+
 ### 2023 Staff Achievements
 
 The school would like to congratulate the following staff for attaining the awards listed below.
@@ -15,17 +16,20 @@ The school would like to congratulate the following staff for attaining the awar
 ### 2022 Staff Achievements
 
 #### MOE Service Excellence Award 2022
+
 ![](/images/moe%20service%20excellence%20-%20gold.png)<br>
 ![](/images/moe%20service%20excellence%20-%20gold%202.png)<br>
 ![](/images/moe%20service%20excellence%20-%20silver.png)<br>
 ![](/images/moe%20service%20excellence%20-%20silver%202.png) <br>
 ![](/images/moe%20service%20excellence%20-%20silver%203.png)<br>
 ![](/images/moe%20service%20excellence%20-%20silver%204.png)<br>
+
 #### National Day Awards 2022
 ![](/images/commendation%20medal%201.png)
 <br>
 ![](/images/oca%20long%20service.png)<br>
 #### MOE Outstanding Contribution Awards 2022
+
 ![](/images/oca%20individual.png) <br>
 ![](/images/oca%20ecg.png)<br>
 ![](/images/oca%20e-ped.png)<br>
@@ -44,8 +48,10 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/oca%20alp%202.png)<br>
 ![](/images/oca%20staff%20retreat%201.png)<br>
 ![](/images/oca%20staff%20retreat%202.png)<br>
+
 #### Caring Teacher Awards 2022
 ![](/images/caring%20teacher%20awards%201.png)<br>
 ![](/images/caring%20teacher%20awards%202.png)
 #### Instructional Mentoring Programme 2022
+
 ![](/images/imp%202022.png)<br>

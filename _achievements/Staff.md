@@ -16,12 +16,12 @@ The school would like to congratulate the following staff for attaining the awar
 
 #### MOE Service Excellence Award 2022
 
-![](/images/moe%20service%20excellence%20-%20gold.png)<br>
-![](/images/moe%20service%20excellence%20-%20gold%202.png)<br>
-![](/images/moe%20service%20excellence%20-%20silver.png)<br>
-![](/images/moe%20service%20excellence%20-%20silver%202.png) <br>
-![](/images/moe%20service%20excellence%20-%20silver%203.png)<br>
-![](/images/moe%20service%20excellence%20-%20silver%204.png)<br>
+![](/images/mdm%20sharifah.png)<br>
+![](/images/margeret%20and%20wei%20leong.png) <br>
+![](/images/pei%20ling,%20hainoon.png) <br>
+![](/images/irene,%20lai%20li.png)<br>
+![](/images/aini,%20shariffah.png)<br>
+![](/images/mavis%20tan.png)
 
 #### National Day Awards 2022
 ![](/images/commendation%20medal%201.png)

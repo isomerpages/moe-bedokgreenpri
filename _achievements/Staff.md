@@ -28,25 +28,11 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/nd%20samsina,%20martin.png)
 
 #### MOE Outstanding Contribution Awards 2022
+![](/images/oca%20individual%20judy.png)<br>
+![](/images/ecg%20oca.png)<br>
+![](/images/e-ped%20pd%20oca.png)<br>
+![](/images/partners%20oca.png)<br>
 
-![](/images/oca%20individual.png) <br>
-![](/images/oca%20ecg.png)<br>
-![](/images/oca%20e-ped.png)<br>
-![](/images/oca%20partners.png)<br>
-![](/images/oca%20sen.png)<br>
-![](/images/oca%20sports%20stacking.png)<br>
-![](/images/oca%20curriculum%20experience%201.png)<br>
-![](/images/curriculum%20experience%202.png)<br>
-![](/images/oca%20tt%201.png)<br>
-![](/images/oca%20tt%202.png)<br>
-![](/images/oca%20swbc%201.png)<br>
-![](/images/oca%20swbc%202.png)<br>
-![](/images/oca%20student%20leadership%201.png)<br>
-![](/images/oca%20student%20leadership%202.png)<br>
-![](/images/oca%20alp%201.png)<br>
-![](/images/oca%20alp%202.png)<br>
-![](/images/oca%20staff%20retreat%201.png)<br>
-![](/images/oca%20staff%20retreat%202.png)<br>
 
 #### Caring Teacher Awards 2022
 ![](/images/cta%20pei%20ling,%20wl,%20lq.png)<br>

@@ -32,6 +32,10 @@ The school would like to congratulate the following staff for attaining the awar
 ![](/images/ecg%20oca.png)<br>
 ![](/images/e-ped%20pd%20oca.png)<br>
 ![](/images/partners%20oca.png)<br>
+![](/images/sen%20oca.png) <br>
+![](/images/sports%20stacking%20oca.png)<br>
+![](/images/ce%20oca.png)<br>
+
 
 
 #### Caring Teacher Awards 2022

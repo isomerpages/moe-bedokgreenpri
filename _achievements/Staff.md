@@ -16,41 +16,40 @@ The school would like to congratulate the following staff for attaining the awar
 
 #### MOE Service Excellence Award 2022
 
-![](/images/moe%20service%20excellence%20-%20gold.png)<br>
-![](/images/moe%20service%20excellence%20-%20gold%202.png)<br>
-![](/images/moe%20service%20excellence%20-%20silver.png)<br>
-![](/images/moe%20service%20excellence%20-%20silver%202.png) <br>
-![](/images/moe%20service%20excellence%20-%20silver%203.png)<br>
-![](/images/moe%20service%20excellence%20-%20silver%204.png)<br>
+![](/images/mdm%20sharifah.png)<br>
+![](/images/margeret%20and%20wei%20leong.png) <br>
+![](/images/pei%20ling,%20hainoon.png) <br>
+![](/images/irene,%20lai%20li.png)<br>
+![](/images/aini,%20shariffah.png)<br>
+![](/images/mavis%20tan.png)
 
 #### National Day Awards 2022
-![](/images/commendation%20medal%201.png)
-<br>
-![](/images/oca%20long%20service.png)<br>
-#### MOE Outstanding Contribution Awards 2022
+![](/images/nd%20mr%20yeo,%20chee%20keong.png)<br>
+![](/images/nd%20samsina,%20martin.png)
 
-![](/images/oca%20individual.png) <br>
-![](/images/oca%20ecg.png)<br>
-![](/images/oca%20e-ped.png)<br>
-![](/images/oca%20partners.png)<br>
-![](/images/oca%20sen.png)<br>
-![](/images/oca%20sports%20stacking.png)<br>
-![](/images/oca%20curriculum%20experience%201.png)<br>
-![](/images/curriculum%20experience%202.png)<br>
-![](/images/oca%20tt%201.png)<br>
-![](/images/oca%20tt%202.png)<br>
-![](/images/oca%20swbc%201.png)<br>
-![](/images/oca%20swbc%202.png)<br>
-![](/images/oca%20student%20leadership%201.png)<br>
-![](/images/oca%20student%20leadership%202.png)<br>
-![](/images/oca%20alp%201.png)<br>
-![](/images/oca%20alp%202.png)<br>
-![](/images/oca%20staff%20retreat%201.png)<br>
-![](/images/oca%20staff%20retreat%202.png)<br>
+#### MOE Outstanding Contribution Awards 2022
+![](/images/oca%20individual%20judy.png)<br>
+![](/images/ecg%20oca.png)<br>
+![](/images/e-ped%20pd%20oca.png)<br>
+![](/images/partners%20oca.png)<br>
+![](/images/sen%20oca.png) <br>
+![](/images/sports%20stacking%20oca.png)<br>
+![](/images/ce%20oca.png)<br>
+![](/images/ce%20oca%202.png)<br>
+![](/images/timetabling%20oc.png)<br>
+![](/images/timetabling%20oca%202.png)<br>
+![](/images/swbc%20oca%201.png)<br>
+![](/images/swbc%20oca%202.png)<br>
+![](/images/leadership%20oca.png)<br>
+![](/images/leadership%20oca%202.png)<br>
+![](/images/alp%20oca%201.png)<br>
+![](/images/alp%20oca%202.png)<br>
+![](/images/staff%20retreat%20oca.png)<br>
+![](/images/staff%20retreat%20oca%202.png)
 
 #### Caring Teacher Awards 2022
-![](/images/caring%20teacher%20awards%201.png)<br>
-![](/images/caring%20teacher%20awards%202.png)
-#### Instructional Mentoring Programme 2022
+![](/images/cta%20pei%20ling,%20wl,%20lq.png)<br>
+![](/images/cta%20fr,%20yn.png)
 
-![](/images/imp%202022.png)<br>
+#### Instructional Mentoring Programme 2022
+![](/images/mentoring%20programme%20hana,%20mr%20muhammad.png)<br>

@@ -3,15 +3,14 @@ title: Staff
 permalink: /achievements/staff/
 description: ""
 ---
-
 ### 2023 Staff Achievements
 
 The school would like to congratulate the following staff for attaining the awards listed below.
 
 #### National Day Awards 2023
-![](/images/annotation%202023-08-14%20083609.jpg)
+![](/images/nd%20'23%20pam.jpg)
 
-![](/images/annotation%202023-08-14%20083652.jpg)
+![](/images/nd%20'23%20lsm.jpg)
 
 ### 2022 Staff Achievements
 

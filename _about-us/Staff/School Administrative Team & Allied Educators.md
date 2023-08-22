@@ -4,7 +4,7 @@ permalink: /about-us/staff/school-administrative-n-operations-team/
 description: ""
 third_nav_title: Staff
 ---
-## Operations Team
+## Administrative Team
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -126,7 +126,7 @@ third_nav_title: Staff
 </table>
 
 
-## Allied Educators 
+## Special Educational Needs Officers 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

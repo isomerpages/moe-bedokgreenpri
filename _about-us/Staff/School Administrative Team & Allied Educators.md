@@ -1,6 +1,6 @@
 ---
 title: School Administrative Team & Allied Educators
-permalink: /about-us/staff/school-administrative-n-operations-team/
+permalink: /about-us/staff/school-administrative-n-allied-educators/
 description: ""
 third_nav_title: Staff
 ---

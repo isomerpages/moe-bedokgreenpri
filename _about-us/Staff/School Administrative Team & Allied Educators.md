@@ -126,7 +126,7 @@ third_nav_title: Staff
 </table>
 
 
-## Special Educational Needs Officers 
+## Allied Educators
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

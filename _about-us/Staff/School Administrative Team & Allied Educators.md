@@ -68,11 +68,6 @@ third_nav_title: Staff
     <td class="tg-4z3p"><a href="evelyn_yap_poh_kwee@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">evelyn_yap_poh_kwee@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"> ICT Associate</span></td>
-    <td class="tg-nbj5"><img style="width:30%" src="/images/Faiz%20Nazirul.jpeg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Faiz Nazirul Azman </span></td>
-    <td class="tg-4z3p"><a href="faiz_nazirul_azman@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">faiz_nazirul_azman@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Desktop Engineer</span></td>
     <td class="tg-nbj5"><img style="width:30%" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg" align="center"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Andersen Ooi</span></td>
 		<td class="tg-nbj5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"></span></td>

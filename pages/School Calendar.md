@@ -3,8 +3,7 @@ title: School Calendar
 permalink: /schoolcalendar/
 description: ""
 ---
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSingapore&src=Y3FwZ3V2Z3ZxNmMzY3FsMm00Z2hhcHVzaDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=Y3FwZ3V2Z3ZxNmMzY3FsMm00Z2hhcHVzaDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YmVkb2tncmVlbnByaUBnbWFpbC5jb20&amp;color=%23009688&amp;color=%23B39DDB"></iframe>
 
 #### Disclaimer: 
 

@@ -28,7 +28,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Rice Stall     | 19 June 2023     | NIL     |
+| Halal Rice Stall     | 30 November 2023     | NIL     |
 
 **Application Procedure**<br>
 1. Download and complete the application form. You may also request for a hardcopy from the School's General Office.

@@ -144,13 +144,13 @@ third_nav_title: Staff
       <td class="tg-nbj5"><img alt="lohweileong" style="width:60%" src="/images/lohweileong.jpeg" align="center"><br>
       <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Loh Wei Leong</span></td>
       <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/loh_wei_leong@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">loh_wei_leong@schools.gov.sg</span></a>
+        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/loh_wei_leong@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">luo_weiliang@schools.gov.sg</span></a>
       </td>
     </tr>
     <tr>
       <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Year Head (Middle Primary)</span></td>
       <td class="tg-nbj5"><img alt="foongmargaret" style="width:60%" src="/images/foongmargaret.jpeg" align="center"><br>
-      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Lee Oi Foong Margarget</span></td>
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Lee Oi Foong Margaret</span></td>
       <td class="tg-4z3p">
         <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lee_oi_foong_margaret@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lee_oi_foong_margaret@schools.gov.sg</span></a>
       </td>

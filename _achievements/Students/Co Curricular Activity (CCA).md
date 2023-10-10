@@ -6,12 +6,42 @@ third_nav_title: Students
 ---
 2023
 ----
-Meridian Secondary Sports Carnival - Basketball
+##### Meridian Secondary Sports Carnival - Basketball
 
 | Name &amp; Class |  | Award |
 | -------- | -------- | -------- |
 | Koner Debdan (6 RES)     |      | 1st Runner-Up     |
-| Koner Debdan (6 RES)     |      | 1st Runner-Up     |
+| Ching Rui Qian (6 RSL)     |      | 1st Runner-Up     |
+| Delvin Tan Shi Xian (6 RSL)     |      | 1st Runner-Up     |
+| Dylan Ling Tang Xu (6 RES)     |      | 1st Runner-Up     |
+| Yeo Jun Cheng (6 RPS)     |      | 1st Runner-Up     |
+| Biju Benito (6 INT)     |      | 2nd Runner-Up     |
+| Lim Xian You Zyan (6 INT)     |      | 2nd Runner-Up     |
+| Song Hengyi (6 INT)     |      | 2nd Runner-Up     |
+| Kee Yik Liang (6 RES)     |      | 2nd Runner-Up     |
+| Priyansh Gupta (6 RES)     |      | 2nd Runner-Up     |
+| Song Hengyi (6 INT)     |      | 2nd Runner-Up     |
+| Nishal Kishore Kollipara (6 RSL)     |      | 2nd Runner-Up     |
+
+##### East Zone NSG Basketball Championship (Senior Girls)
+
+| Name &amp; Class |  | Award |
+| -------- | -------- | -------- |
+| Anika Singh (6 INT)     |      | 2nd Team Place     |
+| Eunice Ng Yi Ge (6 INT)     |      | 2nd Team Place     |
+| Fong Yi Tong (6 INT)     |      | 2nd Team Place     |
+| Sim Yi Xuan Clara (6 INT)     |      | 2nd Team Place     |
+| Wong Ser Han Chloe (6 INT)     |      | 2nd Team Place     |
+| Amber Yu Qi Ying (6 INT)     |      | 2nd Team Place     |
+| Chen Jia Xi (6 RES)     |      | 2nd Team Place     |
+| Taw Kai Li (6 RES)     |      | 2nd Team Place     |
+| Teo Swee Yin (6 RES)     |      | 2nd Team Place     |
+| Wee Kai Rong Natalie (6 RES)     |      | 2nd Team Place     |
+| Aalia Ilyna (6 RES)     |      | 2nd Team Place     |
+| Shreya Mary Mathew (6 RES)     |      | 2nd Team Place     |
+| Tan Le Xuan Chloe (6 RES)     |      | 2nd Team Place     |
+| Jerselle Tan Lei Qian (6 RSL)     |      | 2nd Team Place     |
+| Willow Grace Kamal-Haywood (6 RSL)     |      | 2nd Team Place     |
 
 
 2022

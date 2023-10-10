@@ -4,6 +4,16 @@ permalink: /achievements/student/co-curricular-activity-cca/
 description: ""
 third_nav_title: Students
 ---
+2023
+----
+Meridian Secondary Sports Carnival - Basketball
+
+| Name &amp; Class |  | Award |
+| -------- | -------- | -------- |
+| Koner Debdan (6 RES)     |      | 1st Runner-Up     |
+| Koner Debdan (6 RES)     |      | 1st Runner-Up     |
+
+
 2022
 ----
 

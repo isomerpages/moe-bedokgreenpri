@@ -43,6 +43,33 @@ third_nav_title: Students
 | Jerselle Tan Lei Qian (6 RSL)     |      | 2nd Team Place     |
 | Willow Grace Kamal-Haywood (6 RSL)     |      | 2nd Team Place     |
 
+##### East Zone NSG Basketball Championship (Senior Boys)
+
+| Name &amp; Class |  | Award |
+| -------- | -------- | -------- |
+| Chen Mingze (5 COM)     |      | 4th Team Place     |
+| Biju Benito (6 INT)     |      | 4th Team Place     |
+| Lim Xian You Zyan (6 INT)     |      | 4th Team Place     |
+| Victor Ong Zi An (6 INT)     |      | 4th Team Place     |
+| Bryan Lim Yi Jing (6 RES)     |      | 4th Team Place     |
+| Dylan Ling Tang Xu (6 RES)     |      | 4th Team Place     |
+| Kee Yik Liang (6 RES)     |      | 4th Team Place     |
+| Koner Debdan (6 RES)     |      | 4th Team Place     |
+| Shayne Lu You Hong (6 RES)     |      | 4th Team Place     |
+| Wong Ser Kiat Dylan (6 RES)     |      | 4th Team Place     |
+| Jiang Bowen (6 RPS)     |      | 4th Team Place     |
+| Yeoh Jun Cheng (6 RPS)     |      | 4th Team Place     |
+| Delvin Tan Shi Xian (6 RSL)     |      | 4th Team Place     |
+| Foo Guan Hao Ethan (6 RSL)     |      | 4th Team Place     |
+| Nishal Kishore Kollipara (6 RSL)     |      | 4th Team Place     |
+
+##### East Zone NSG Badminton Competition (Senior Boys)
+
+| Name &amp; Class |  | Award |
+| -------- | -------- | -------- |
+| Benjamin Ong Jia Wei (6 INT)     |      | Sportsmanship Award     |
+| Kure Fumiya (Li Jiawen) (5 RPS)     |      | Sportsmanship Award     |
+| Jarvis Toh Yu Yang (6 RSL)     |      | Sportsmanship Award     |
 
 2022
 ----

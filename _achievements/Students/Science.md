@@ -7,12 +7,14 @@ third_nav_title: Students
 ## 2023
 
 #### Raffles Science Olympiad (RSO)
-| Name &amp; Class |  | Award |
-| -------- | -------- | -------- |
-| Sun Mankai (5 INT)     |      | Participation     |
-| Xu Qingru (5 INT)     |      | Participation     |
-| Zheng Yatong (5 INT)     |      | Participation     |
-| Cai Jiatao (5 INT)     |      | Participation     |
+
+| Name &amp; Class          | Award          |
+| --------------------- | -------------- |
+| Sun Mankai (5 INT)    | Participation  |
+| Xu Qingru (5 INT)     | Participation  |
+| Zheng Yatong (5 INT)  | Participation  |
+| Cai Jiatao (5 INT)    | Participation  |
+
 
 
 ## 2022

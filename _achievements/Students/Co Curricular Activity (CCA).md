@@ -6,6 +6,18 @@ third_nav_title: Students
 ---
 2023
 ----
+##### Akela Award
+
+| Name &amp; Class |  |  |
+| -------- | -------- | -------- |
+| Varun Sathis (6 RES)     |      |      |
+| Andre Myagkov Tan (6 RES)     |      |      |
+| Matthew Loi Hao Zhe (6 RES)     |      |      |
+| Lim Keng Soon Christopher (6 BRV)     |      |      |
+| Raffles Tee Yan Kin (6 RPS)     |      |      |
+| Rafky Haidar Abqory (6 RSL)     |      |      |
+| Tan Zhi Yi (6 INT)     |      |      |
+
 ##### Meridian Secondary Sports Carnival - Basketball
 
 | Name &amp; Class |  | Award |

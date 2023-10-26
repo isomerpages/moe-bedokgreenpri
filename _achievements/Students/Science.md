@@ -6,6 +6,17 @@ third_nav_title: Students
 ---
 ## 2023
 
+#### Singapore Primary Science Olympiad (SPSO)
+
+| Name &amp; Class          | Award          |
+| --------------------- | -------------- |
+| Sun Xinyu (5 RES)    | Silver  |
+| Lim Hui Ting (5 RES)    | Bronze  |
+| Tan Yan Xin (5 RES)    | Bronze  |
+| Meredith Pek Jia En (5 RES)  | Merit  |
+| Sze Ley Hong Cayden (5 RES)    | Merit  |
+| Zheng Yatong (5 INT)    | Merit  |
+
 #### Raffles Science Olympiad (RSO)
 
 | Name &amp; Class          | Award          |

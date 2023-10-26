@@ -6,11 +6,6 @@ description: ""
 **<u>Term 4 Newsletter</u>** <br>
 As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for Term 4 is parked [here](/files/term%204%20letter.pdf).
 
-**<u>BGPS E-Open House 2023</u>**<br>
-![](/images/bgps%20e-open%20house%202023%20v3.png)<br>
-Are you looking for a nurturing and supportive environment for your child who will be starting Primary 1 soon? <br>
-BGPS welcomes interested parents to find out more about our school. <br>Click on this link: [https://go.gov.sg/bgpseopenhouse2023](https://go.gov.sg/bgpseopenhouse2023) to be redirected to our e-Open House page!
-
 **<u>Science Webinar - 5 April 2023</u>**<br>
 Please click [here](/files/science%20webinar%20on%20cstm%20&amp;%20csb@bgpps%20on%205%20april%202023_for%20sch%20website.pdf) for the briefing slides for the **Creative Science Toy Making &amp; Busking Programmes @ BGPS**
 

@@ -78,6 +78,22 @@ third_nav_title: Students
 | Cai Jiatao (5 INT)     |     | Merit    |
 |Sun Mankai (5 INT)     |     | Merit    |
 
+##### National Mathematical Olympiad of Singapore (NMOS)
+
+| Name &amp; Class |  | Award |
+| -------- | -------- | -------- |
+| Daksh Biyani (5 INT)     |     | Bronze    |
+| Toh Beng Yang Zachary (5 INT)     |     | Bronze     |
+| Cai Jiatao (5 INT)     |     | Bronze    |
+| Xu Qingru (5 INT)     |     | Bronze    |
+| Lee Yu Ze (5 INT)    |     | Bronze     |
+| Sun Mankai (5 INT)     |     | Bronze    |
+| Guo Yilin (5 RES)    |     | Bronze     |
+| Tan Yan Xin (5 RES)    |     | Bronze     |
+| Zafer Kilic (5 RES)    |     | Bronze     |
+| Sun Xinyu (5 RES)    |     | Bronze     |
+| Jacob Ng Yu Bin (5 INT)     |     | Bronze    |
+
 ## 2022
 
 <table class="iveo_table ives_tab_simple3" width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse !important; border: 1px solid rgb(170, 170, 170);"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="924" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; font-size: 1rem !important; font-family: Rubik, sans-serif !important;"><b style="margin: 0px; outline: 0px; padding: 0px;">Bebras Computational Thinking Challenge</b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="462" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; font-size: 1rem !important; font-family: Rubik, sans-serif !important;">Outstanding Certificate</p></td><td width="462" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; font-size: 1rem !important; font-family: Rubik, sans-serif !important;">Praneel Abrol<br style="margin: 0px; outline: 0px; padding: 0px;">(5 Integrity)</p></td></tr></tbody></table>

@@ -4,8 +4,8 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-**<u>Term 4 Newsletter</u>** <br>
-As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for Term 4 is parked [here](/files/term%204%20letter.pdf).
+**<u>End of Term 4 Newsletter</u>** <br>
+As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/BGPS_141_23_End_of_Term_4_letter.pdf) .
 
 **<u>School Calendar</u>** <br>
 Please click [here](/about-us/calendar) to access our school calendar.&nbsp;Thank you.

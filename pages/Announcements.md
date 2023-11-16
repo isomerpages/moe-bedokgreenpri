@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**<u>School Closure</u>** <br>
+The school will be closed on 20 November (Mon) and 30 November (Thurs). For any urgent matters, please call us at 9822 3145.  
+
 **<u>End of Term 4 Newsletter</u>** <br>
 As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/BGPS_141_23_End_of_Term_4_letter.pdf) .
 

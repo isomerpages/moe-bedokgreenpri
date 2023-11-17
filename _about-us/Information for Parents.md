@@ -2,10 +2,8 @@
 title: Information for Parents
 permalink: /about-us/information-for-parents/
 description: ""
+variant: markdown
 ---
-## Science Webinar [5 April 2023]
-[Creative Science Toy Making &amp; Busking Programmes @ BGPS](/files/science%20webinar%20on%20cstm%20&amp;%20csb@bgpps%20on%205%20april%202023_for%20sch%20website.pdf)
-
 P1 Parents' Engagement 2023
 -------------------------------------
 [Welcome Address Sharing for Parents 2023](/files/Welcome%20Address%20Sharing%20for%20Parents%202023.pdf)<br>
@@ -13,14 +11,23 @@ P1 Parents' Engagement 2023
 [Character Development Sharing for Parents 2023](/files/Character%20Development%20Sharing%20for%20Parents%202023.pdf)<br>
 
 
-School Textbooks (P1-6) Booklist 2023
+School Textbooks (P1-6) Booklist 2024
 -------------------------------------
 
 Click on the following link to purchase your school books online: &nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)  
-Please refer to the booklist:&nbsp;<br>
-[2023 Booklist](/files/School%20Booklist.pdf)
-
+Please refer to the respective booklists:<br>
+[P1 Booklist](/files/P1.pdf)<br>
+[P2 Booklist](/files/P2.pdf)<br>
+[P3 Booklist](/files/P3.pdf)<br>
+[P4 Booklist](/files/P4.pdf)<br>
+[P5 HMT Booklist](/files/P5__HMT_.pdf)<br>
+[P5 STD Booklist](/files/P5__STD_.pdf)<br>
+[P5 FDN Booklist](/files/P5__FDN_.pdf)<br>
+[P6 HMT Booklist](/files/P6__HMT_.pdf)<br>
+[P6 STD Booklist](/files/P6__STD_.pdf)<br>
+[P6 FDN Booklist](/files/P6__FDN_.pdf)<br>
   
+	
 Uniform Price List and Name Tag Order
 -------------------------------------
 
@@ -33,5 +40,3 @@ School Bus Request Form
 -----------------------
 Please refer to the following attachment:<br>
 [School Bus Request Form](/files/Info%20Sheet%20on%20School%20bus%20Services%20(BGPS)%20(2023).pdf)
-
-

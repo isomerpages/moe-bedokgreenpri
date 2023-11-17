@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**<u>P1 Orientation 2024</u>** <br>
+Please click [here](https://go.gov.sg/bgpsp12024) to be redirected to the P1 Orientation page. 
+
+
 **<u>School Closure</u>** <br>
 The school will be closed on 20 November (Mon) and 30 November (Thurs). For any urgent matters, please call us at 9822 3145.  
 

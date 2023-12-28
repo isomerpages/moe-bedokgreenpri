@@ -132,37 +132,46 @@ variant: markdown
         <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/sangeetha_yadav@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">sangeetha_yadav@schools.gov.sg</span></a>
       </td>
     </tr>
-    <tr>
-      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Year Head (Middle Primary)</span></td>
-      <td class="tg-nbj5"><img alt="foongmargaret" style="width:60%" src="/images/foongmargaret.jpeg" align="center"><br>
-      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Lee Oi Foong Margaret</span></td>
+		    <tr>
+      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Assistant Year Head (Lower Primary)</span></td>
+					    <td class="tg-nbj5"><img style="width:60%; margin:0;" src="/images/valariecheng.jpg" align="center"><br>
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Valerie Cheng Yuning</span></td>
       <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lee_oi_foong_margaret@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lee_oi_foong_margaret@schools.gov.sg</span></a>
-      </td>
-    </tr>
-    <tr>
-      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Assistant Year Head (Middle Primary)</span></td>
-      <td class="tg-nbj5"><img alt="mdmhalimaton" style="width:60%" src="/images/mdmhalimaton.jpeg" align="center"><br>
-      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Halimaton Abdullah</span></td>
-      <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/halimaton_abdullah@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">halimaton_abdullah@schools.gov.sg</span></a>
-      </td>
-    </tr>
-    <tr>
-      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Year Head (Upper Primary)</span></td>
-      <td class="tg-nbj5"><img alt="103)%20MS%20LI%20WENLIN" style="width:60%" src="/images/103)%20MS%20LI%20WENLIN.jpeg" align="center"><br>
-      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Li Wenlin</span></td>
-      <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/li_wenlin@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">li_wenlin@schools.gov.sg</span></a>
-      </td>
-    </tr>
-    <tr>
-      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Assistant Year Head (Upper Primary)</span></td>
-      <td class="tg-nbj5"><img alt="mdm%20shariffah%20" style="width:60%" src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg" align="center"><br>
-      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Shariffah Faizah</span></td>
-      <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/shariffah_faizah_hassan@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">shariffah_faizah_hassan@schools.gov.sg</span></a>
+        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/shariffah_faizah_hassan@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">valerie_cheng_yuning@schools.gov.sg</span></a>
       </td>
     </tr>
   </tbody>
 </table>
+    
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Year Head (Middle Primary)</span>
+      <img alt="foongmargaret" style="width:60%" src="/images/foongmargaret.jpeg" align="center"><br>
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Lee Oi Foong Margaret</span>
+      
+        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lee_oi_foong_margaret@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">lee_oi_foong_margaret@schools.gov.sg</span></a>
+      
+    
+    
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Assistant Year Head (Middle Primary)</span>
+      <img alt="mdmhalimaton" style="width:60%" src="/images/mdmhalimaton.jpeg" align="center"><br>
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Halimaton Abdullah</span>
+      
+        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/halimaton_abdullah@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">halimaton_abdullah@schools.gov.sg</span></a>
+      
+    
+    
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Year Head (Upper Primary)</span>
+      <img alt="103)%20MS%20LI%20WENLIN" style="width:60%" src="/images/103)%20MS%20LI%20WENLIN.jpeg" align="center"><br>
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Li Wenlin</span>
+      
+        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/li_wenlin@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">li_wenlin@schools.gov.sg</span></a>
+      
+    
+    
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Assistant Year Head (Upper Primary)</span>
+      <img alt="mdm%20shariffah%20" style="width:60%" src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg" align="center"><br>
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Shariffah Faizah</span>
+      
+        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/shariffah_faizah_hassan@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">shariffah_faizah_hassan@schools.gov.sg</span></a>
+      
+    
+  

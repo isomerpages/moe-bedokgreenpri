@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,22 +27,14 @@ third_nav_title: Staff
   <tbody>
     <tr>
       <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">School Staff Developer</span></td>
-      <td class="tg-nbj5"><img alt="keypersonnel1" style="width:60%" src="/images/Key%20Personnel%201/keypersonnel1.jpg" align="center"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"><br>
-      Mrs Samsina Herbert</span></td>
+      <td class="tg-nbj5"><img alt="lohweileong" style="width:60%" src="/images/lohweileong.jpeg" align="center"><br>
+      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Loh Wei Leong</span></td>
       <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/samsina_herbert@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">samsina_herbert@schools.gov.sg</span></a>
+        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/loh_wei_leong@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">luo_weiliang@schools.gov.sg</span></a>
       </td>
     </tr>
     <tr>
-      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Head of Department (English)</span></td>
-      <td class="tg-nbj5"><img alt="keypersonnel2" style="width:60%" src="/images/Key%20Personnel%201/keypersonnel2.jpg" align="center"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"><br>
-      Ms Sangeetha Yadav</span></td>
-      <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/sangeetha_yadav@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">sangeetha_yadav@schools.gov.sg</span></a>
-      </td>
-    </tr>
-    <tr>
-      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Level Head (English)</span></td>
+      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (English)</span></td>
       <td class="tg-nbj5"><span style="color:#484848;background-color:transparent"><img alt="keypersonnel3" style="width:60%" src="/images/Key%20Personnel%201/keypersonnel3.jpg" align="center"></span><br>
       <span style="color:#484848;background-color:transparent">Ms Lim Ee Sze</span><br></td>
       <td class="tg-4z3p">
@@ -121,14 +114,6 @@ third_nav_title: Staff
         <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/ng_jieying@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">ng_jieying@schools.gov.sg</span></a>
       </td>
     </tr>
-    <tr>
-      <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Subject Head (ICT)</span></td>
-      <td class="tg-nbj5"><img alt="key%20personnel%2015" style="width:60%" src="/images/Key%20Personnel%201/key%20personnel%2015.jpg" align="center"><br>
-      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Mohd Najeeb Hassan</span></td>
-      <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/najeeb_hassan@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">najeeb_hassan@schools.gov.sg</span></a>
-      </td>
-    </tr>
 		  </tbody>
 	
   <thead>
@@ -141,10 +126,10 @@ third_nav_title: Staff
   <tbody>
     <tr>
       <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Year Head (Lower Primary)</span></td>
-      <td class="tg-nbj5"><img alt="lohweileong" style="width:60%" src="/images/lohweileong.jpeg" align="center"><br>
-      <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Loh Wei Leong</span></td>
+      <td class="tg-nbj5"><img alt="keypersonnel2" style="width:60%" src="/images/Key%20Personnel%201/keypersonnel2.jpg" align="center"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent"><br>
+      Ms Sangeetha Yadav</span></td>
       <td class="tg-4z3p">
-        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/loh_wei_leong@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">luo_weiliang@schools.gov.sg</span></a>
+        <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/sangeetha_yadav@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">sangeetha_yadav@schools.gov.sg</span></a>
       </td>
     </tr>
     <tr>

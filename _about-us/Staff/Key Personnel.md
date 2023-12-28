@@ -134,7 +134,7 @@ variant: markdown
     </tr>
 		    <tr>
       <td class="tg-acgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Assistant Year Head (Lower Primary)</span></td>
-					    <td class="tg-nbj5"><img style="width:60%; margin:0;" src="/images/valariecheng.jpg" align="center"><br>
+			<td class="tg-nbj5"><img style="width:60%" src="/images/valariecheng.jpg" align="center"><br>
       <span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Valerie Cheng Yuning</span></td>
       <td class="tg-4z3p">
         <a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/shariffah_faizah_hassan@schools.gov.sg"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#4372D6;background-color:transparent">valerie_cheng_yuning@schools.gov.sg</span></a>

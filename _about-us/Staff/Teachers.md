@@ -3,121 +3,19 @@ title: Teachers
 permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ## Class Form Teachers 2023
 
 
 ##### **Year Head - Lower Primary**
 
-<img style="width:20%; margin:0;" src="/images/lohweileong.jpeg">
+<img style="width:20%; margin:0;" src="/images/Staff%20Photos/P3%20Teachers/ms%20sangeetha%20yadav%20.jpg">
 
-Mr Loh Wei Leong<br>
-[luo_weiliang@schools.gov.sg](luo_weiliang@schools.gov.sg) 
+Ms Sangeetha Yadav<br>
+[sangeetha_yadav@schools.gov.sg](sangeetha_yadav@schools.gov.sg) 
 
 #### Primary 1 Teachers
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top;}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"><span style="color:#323232">Class</span></th>
-    <th class="tg-0lax"><span style="color:#323232">Form Teacher</span></th>
-    <th class="tg-0lax"><span style="color:#323232">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848">1 Integrity</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20lee%20xuan%20harn%20.jpg"><br><span style="color:#484848">Miss Lee Xuan Harn</span></td>
-    <td class="tg-0lax"><a href="mailto:lee_xuan_harn@schools.gov.sg"><span style="color:#4372D6">lee_xuan_harn@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35% ; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mdm%20hainoon%20jahria.jpg"><br><span style="color:#484848">Mrs Hainoon Azeez</span></td>
-    <td class="tg-0lax"><a href="mailto:hainoon_jahria_hassan@schools.gov.sg"><span style="color:#4372D6">hainoon_jahria_hassan@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848">1 Respect</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20nur%20aliah%20.jpg"><br><span style="color:#484848">Miss Nur ‘Aliah</span></td>
-    <td class="tg-0lax"><a href="mailto:nur_aliah_dafir@schools.gov.sg"><span style="color:#4372D6">nur_aliah_dafir@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mr%20kenneth%20wong.jpg"><br><span style="color:#484848">Mr Kenneth Wong</span></td>
-    <td class="tg-0lax"><a href="mailto:wong_wen_kin_kenneth@schools.gov.sg"><span style="color:#4372D6">wong_wen_kin_kenneth@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848">1 Responsibility</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg"><br><span style="color:#484848">Mrs Lee Mei Yin</span></td>
-    <td class="tg-0lax"><a href="mailto:lim_mei_yin@schools.gov.sg"><span style="color:#4372D6">lim_mei_yin@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20jazmin%20ahamed%20.jpg"><br><span style="color:#484848">Miss Jazmin Ahamed</span></td>
-    <td class="tg-0lax"><a href="mailto:jazmin_ahamed@schools.gov.sg"><span style="color:#4372D6">jazmin_ahamed@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848">1 Resilience</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20chin%20ching%20shia%20.jpg"><br><span style="color:#484848">Miss Chin Ching Shia</span></td>
-    <td class="tg-0lax"><a href="mailto:chin_ching_shia@schools.gov.sg"><span style="color:#4372D6">chin_ching_shia@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mdm%20fang%20fang%20.jpg"><br><span style="color:#484848">Mdm Fang Fang</span></td>
-    <td class="tg-0lax"><a href="mailto:fang_fang_a@schools.gov.sg"><span style="color:#4372D6">fang_fang_a@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848">1 Compassion</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20andrea%20chua%20cher%20lih%20.jpg"><br><span style="color:#484848">Miss Andrea Chua Cher Lih</span></td>
-    <td class="tg-0lax"><a href="mailto:andrea_chua_cher_lih@schools.gov.sg"><span style="color:#4372D6">andrea_chua_cher_lih@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mdm%20suryati%20shariff%20marican%20.jpg"><br><span style="color:#484848">Mdm Suryati Shariff</span></td>
-    <td class="tg-0lax"><a href="mailto:suryati_shariff_marican@schools.gov.sg"><span style="color:#4372D6">suryati_shariff_marican@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848">1 Bravery</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20sharifah%20mahani%20.jpg"><br><span style="color:#484848">Miss Sharifah Mahani</span></td>
-    <td class="tg-0lax"><a href="mailto:sharifah_mahani@schools.gov.sg"><span style="color:#4372D6">sharifah_mahani@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20jee%20si%20min%20.jpg"><br><span style="color:#484848">Miss Jee Si Min</span></td>
-    <td class="tg-0lax"><a href="mailto:jee_si_min@schools.gov.sg"><span style="color:#4372D6">jee_si_min@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848">1 Graciousness</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20nur%20ashikin%20.jpg"><br><span style="color:#484848">Miss Nur Ashikin</span></td>
-    <td class="tg-0lax"><a href="mailto:nur_ashikin_jufri@schools.gov.sg"><span style="color:#4372D6">nur_ashikin_jufri@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/ms%20lim%20hui%20min%20gladys%20.jpg"><br><span style="color:#484848">Miss Lim Hui Min Gladys</span></td>
-    <td class="tg-0lax"><a href="mailto:lim_hui_min_gladys@schools.gov.sg"><span style="color:#4372D6">lim_hui_min_gladys@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848">1 Perseverance</span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/ms%20nurul%20shamin.jpg"><br><span style="color:#484848">Mdm Nurul Shamin</span></td>
-    <td class="tg-0lax"><a href="mailto:nurul_shamin_mohamed_ekbal@schools.gov.sg"><span style="color:#4372D6">nurul_shamin_mohamed_ekbal@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="color:#484848"> </span></td>
-    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/ms%20chua%20shu%20hui%20vivan%20.jpg"><br><span style="color:#484848">Ms Chua Shu Hui Vivian</span></td>
-    <td class="tg-0lax"><a href="mailto:chua_shu_hui_vivian@schools.gov.sg"><span style="color:#4372D6">chua_shu_hui_vivian@schools.gov.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
-
-#### Primary 2 Teachers
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -219,6 +117,108 @@ Mr Loh Wei Leong<br>
 </tbody>
 </table>
 
+#### Primary 2 Teachers
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top;}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><span style="color:#323232">Class</span></th>
+    <th class="tg-0lax"><span style="color:#323232">Form Teacher</span></th>
+    <th class="tg-0lax"><span style="color:#323232">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Integrity</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20lee%20xuan%20harn%20.jpg"><br><span style="color:#484848">Miss Lee Xuan Harn</span></td>
+    <td class="tg-0lax"><a href="mailto:lee_xuan_harn@schools.gov.sg"><span style="color:#4372D6">lee_xuan_harn@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35% ; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mdm%20hainoon%20jahria.jpg"><br><span style="color:#484848">Mrs Hainoon Azeez</span></td>
+    <td class="tg-0lax"><a href="mailto:hainoon_jahria_hassan@schools.gov.sg"><span style="color:#4372D6">hainoon_jahria_hassan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Respect</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20nur%20aliah%20.jpg"><br><span style="color:#484848">Miss Nur ‘Aliah</span></td>
+    <td class="tg-0lax"><a href="mailto:nur_aliah_dafir@schools.gov.sg"><span style="color:#4372D6">nur_aliah_dafir@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mr%20kenneth%20wong.jpg"><br><span style="color:#484848">Mr Kenneth Wong</span></td>
+    <td class="tg-0lax"><a href="mailto:wong_wen_kin_kenneth@schools.gov.sg"><span style="color:#4372D6">wong_wen_kin_kenneth@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Responsibility</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg"><br><span style="color:#484848">Mrs Lee Mei Yin</span></td>
+    <td class="tg-0lax"><a href="mailto:lim_mei_yin@schools.gov.sg"><span style="color:#4372D6">lim_mei_yin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20jazmin%20ahamed%20.jpg"><br><span style="color:#484848">Miss Jazmin Ahamed</span></td>
+    <td class="tg-0lax"><a href="mailto:jazmin_ahamed@schools.gov.sg"><span style="color:#4372D6">jazmin_ahamed@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Resilience</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20chin%20ching%20shia%20.jpg"><br><span style="color:#484848">Miss Chin Ching Shia</span></td>
+    <td class="tg-0lax"><a href="mailto:chin_ching_shia@schools.gov.sg"><span style="color:#4372D6">chin_ching_shia@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mdm%20fang%20fang%20.jpg"><br><span style="color:#484848">Mdm Fang Fang</span></td>
+    <td class="tg-0lax"><a href="mailto:fang_fang_a@schools.gov.sg"><span style="color:#4372D6">fang_fang_a@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Compassion</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20andrea%20chua%20cher%20lih%20.jpg"><br><span style="color:#484848">Miss Andrea Chua Cher Lih</span></td>
+    <td class="tg-0lax"><a href="mailto:andrea_chua_cher_lih@schools.gov.sg"><span style="color:#4372D6">andrea_chua_cher_lih@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/mdm%20suryati%20shariff%20marican%20.jpg"><br><span style="color:#484848">Mdm Suryati Shariff</span></td>
+    <td class="tg-0lax"><a href="mailto:suryati_shariff_marican@schools.gov.sg"><span style="color:#4372D6">suryati_shariff_marican@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Bravery</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20sharifah%20mahani%20.jpg"><br><span style="color:#484848">Miss Sharifah Mahani</span></td>
+    <td class="tg-0lax"><a href="mailto:sharifah_mahani@schools.gov.sg"><span style="color:#4372D6">sharifah_mahani@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20jee%20si%20min%20.jpg"><br><span style="color:#484848">Miss Jee Si Min</span></td>
+    <td class="tg-0lax"><a href="mailto:jee_si_min@schools.gov.sg"><span style="color:#4372D6">jee_si_min@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Graciousness</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/miss%20nur%20ashikin%20.jpg"><br><span style="color:#484848">Miss Nur Ashikin</span></td>
+    <td class="tg-0lax"><a href="mailto:nur_ashikin_jufri@schools.gov.sg"><span style="color:#4372D6">nur_ashikin_jufri@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/ms%20lim%20hui%20min%20gladys%20.jpg"><br><span style="color:#484848">Miss Lim Hui Min Gladys</span></td>
+    <td class="tg-0lax"><a href="mailto:lim_hui_min_gladys@schools.gov.sg"><span style="color:#4372D6">lim_hui_min_gladys@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848">1 Perseverance</span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/ms%20nurul%20shamin.jpg"><br><span style="color:#484848">Mdm Nurul Shamin</span></td>
+    <td class="tg-0lax"><a href="mailto:nurul_shamin_mohamed_ekbal@schools.gov.sg"><span style="color:#4372D6">nurul_shamin_mohamed_ekbal@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#484848"> </span></td>
+    <td class="tg-0lax"><img style="width:35%; margin:0;" src="/images/Staff%20Photos/P1%20Teachers/ms%20chua%20shu%20hui%20vivan%20.jpg"><br><span style="color:#484848">Ms Chua Shu Hui Vivian</span></td>
+    <td class="tg-0lax"><a href="mailto:chua_shu_hui_vivian@schools.gov.sg"><span style="color:#4372D6">chua_shu_hui_vivian@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 ##### **Year Head - Middle Primary**
 

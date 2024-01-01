@@ -3,6 +3,7 @@ title: School Leaders
 permalink: /about-us/staff/school-leaders/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ##### **School Principal**
 
@@ -24,11 +25,6 @@ third_nav_title: Staff
         <img src="/images/yeoshohor.jpg" alt="Mr Yeo Sho Hor" style="width:100%;"><br>
         Mr Yeo Sho Hor<br>
         <a href="mailto:yeo_sho_hor@schools.gov.sg">yeo_sho_hor@schools.gov.sg</a>
-      </td>
-      <td style="width:33%; vertical-align: top;">
-        <img src="/images/sharifahfairuz.jpg" alt="Mdm Sharifah Fairuz Syed Alsagoff" style="width:100%;"><br>
-        Mdm Sharifah Fairuz Syed Alsagoff<br>
-        <a href="mailto:sharifah_fairuz_syed_alsagoff@schools.gov.sg">sharifah_fairuz_syed_alsagoff@schools.gov.sg</a>
       </td>
 			 <td style="width:33%; vertical-align: top;">
         <img src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg" alt="Mr Chua Kok Seng" style="width:97%;"><br>

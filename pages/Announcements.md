@@ -7,8 +7,8 @@ variant: markdown
 **<u>P1 Orientation 2024</u>** <br>
 Please click [here](https://go.gov.sg/bgpsp12024) to be redirected to the P1 Orientation page. 
 
-**<u>End of Term 4 Newsletter</u>** <br>
-As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/BGPS_141_23_End_of_Term_4_letter.pdf) .
+**<u>Term 1 Newsletter</u>** <br>
+As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/020124_Term_1_Letter_2024_Final_Version.pdf).
 
 **<u>School Calendar</u>** <br>
 Please click [here](/about-us/calendar) to access our school calendar.&nbsp;Thank you.

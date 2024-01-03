@@ -1,0 +1,27 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - PE, Art and Music (PAM).md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Clubs.md
+      - Co Curricular Activities (CCA)/Performing Arts.md
+      - Co Curricular Activities (CCA)/Sports and Games.md
+      - Co Curricular Activities (CCA)/Uniformed Groups.md
+      - Co Curricular Activities (CCA)/CCA Information Sheet.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Values In Action (VIA).md
+      - CCE/National Education Social Studies (NESS).md
+      - ICT for Learning/.keep
+      - ICT for Learning/ICT for Learning.md
+      - ICT for Learning/BGPS Safer Internet Day.md
+      - Signature Programmes/.keep
+      - Signature Programmes/Lifelong Learning Programme (LLP).md
+      - Signature Programmes/Applied Learning Programme (ALP).md
+      - Library Programmes.md

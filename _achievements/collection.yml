@@ -1,0 +1,12 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Students/.keep
+      - Students/English.md
+      - Students/Mother Tongue.md
+      - Students/Mathematics.md
+      - Students/Science.md
+      - Students/Co Curricular Activity (CCA).md
+      - Students/Aesthetics and Physical Education.md
+      - Staff.md

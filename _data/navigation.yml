@@ -1,0 +1,12 @@
+logo: /images/bedok green primary school.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Achievements
+    collection: achievements
+  - title: Curriculum
+    collection: curriculum
+  - title: Student Matters
+    collection: student-matters
+  - title: Partners
+    collection: partners

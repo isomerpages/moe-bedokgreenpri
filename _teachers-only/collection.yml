@@ -1,0 +1,5 @@
+collections:
+  teachers-only:
+    output: true
+    order:
+      - Teachers' Only Page.md

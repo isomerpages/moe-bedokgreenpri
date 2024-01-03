@@ -4,13 +4,6 @@ permalink: /about-us/information-for-parents/
 description: ""
 variant: markdown
 ---
-P1 Parents' Engagement 2023
--------------------------------------
-[Welcome Address Sharing for Parents 2023](/files/Welcome%20Address%20Sharing%20for%20Parents%202023.pdf)<br>
-[Curriculum &amp; Assessment Sharing for Parents 2023](/files/Curriculum%20&amp;%20Assessment%20Sharing%20for%20Parents%202023.pdf)<br>
-[Character Development Sharing for Parents 2023](/files/Character%20Development%20Sharing%20for%20Parents%202023.pdf)<br>
-
-
 School Textbooks (P1-6) Booklist 2024
 -------------------------------------
 

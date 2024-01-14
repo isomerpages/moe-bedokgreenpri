@@ -34,7 +34,7 @@ School Bus Request Form
 Please refer to the following attachment:<br>
 [School Bus Request Form](/files/091223_Info_Sheet_on_School_bus_Services__BGPS___2024__1.pdf)
 
-Timetable 
+Timetable 2024
 -----------------------
 Click on the links for the respective class timetable.<br>
 [P1 Integrity](/files/Timetable/P1_Integrity.pdf)<br>

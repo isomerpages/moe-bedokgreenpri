@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**<u>Assessment Information Booklet for Parents</u>** <br>
+For essential information and instructions on assessment matters in the school, please click [here](/files/180124_Assessment_Information_Booklet_2024.pdf)
+
 **<u>P1 Parents' Engagement 2024</u>** <br>
 Please click [here](https://www.bedokgreenpri.moe.edu.sg/partners/home-school-partnership/parents-engagement-2024/) to access the briefing slides and Q&amp;A responses during the P1 Parents' Engagement Session. 
 
@@ -20,9 +23,6 @@ Please click [here](/about-us/calendar) to access our school calendar.&nbsp;Than
 Click [here](/partners/home-school-partnership/student-learning-space-sls-activation) to download the guide on activating your child’s SLS account.&nbsp;
 
 Click&nbsp;[here](https://youtu.be/YTLJBmTqdYM)&nbsp;to view the online video.&nbsp;Thank you.
-
-**<u>Assessment Information Booklet for Parents</u>** <br>
-For essential information and instructions on assessment matters in the school, please click [here](/files/180124_Assessment_Information_Booklet_2024.pdf)
 
 **<u>Parent Kit - Starting School Right</u>** <br>
 The latest issue of Parent Kit provides tips on how what you can do at home to help our children start school right.

@@ -22,7 +22,7 @@ Click [here](/partners/home-school-partnership/student-learning-space-sls-activa
 Click&nbsp;[here](https://youtu.be/YTLJBmTqdYM)&nbsp;to view the online video.&nbsp;Thank you.
 
 **<u>Assessment Information Booklet for Parents</u>** <br>
-For essential information and instructions on assessment matters in the school, please click [here][](/files/Assessment%20Information%20Booklet%202023.pdf).
+For essential information and instructions on assessment matters in the school, please click [here](/files/180124_Assessment_Information_Booklet_2024.pdf)
 
 **<u>Parent Kit - Starting School Right</u>** <br>
 The latest issue of Parent Kit provides tips on how what you can do at home to help our children start school right.

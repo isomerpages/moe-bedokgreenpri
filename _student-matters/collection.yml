@@ -2,7 +2,6 @@ collections:
   student-matters:
     output: true
     order:
-      - Timetable.md
       - Home Based Learning/.keep
       - Home Based Learning/Home based Learning.md
       - Home Based Learning/HBL Useful Links.md
@@ -11,4 +10,5 @@ collections:
       - Student Well Being/.keep
       - Student Well Being/Student Well Being.md
       - Student Well Being/Key Programmes.md
+      - Timetable.md
       - Useful Links.md

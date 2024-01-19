@@ -4,7 +4,7 @@ permalink: /student-matters/timetable/
 variant: markdown
 description: ""
 ---
-Timetable 20242
+Timetable 2024
 -----------------------
 Click on the links for the respective class timetable.<br>
 [P1 Integrity](/files/Timetable/P1_Integrity.pdf)<br>

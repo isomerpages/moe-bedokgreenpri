@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 **<u>Assessment Information Booklet for Parents</u>** <br>
-For essential information and instructions on assessment matters in the school, please click [here](/files/180124_Assessment_Information_Booklet_2024.pdf)
+For essential information and instructions on assessment matters in the school, please click [here](/files/190124_assessment_information_booklet_2024_final2.pdf)
 
 **<u>P1 Parents' Engagement 2024</u>** <br>
 Please click [here](https://www.bedokgreenpri.moe.edu.sg/partners/home-school-partnership/parents-engagement-2024/) to access the briefing slides and Q&amp;A responses during the P1 Parents' Engagement Session. 

@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**<u>Art Programme</u>** <br>
+Please click [here](https://www.bedokgreenpri.moe.edu.sg/curriculum/pe-art-and-music-pam/) to find out more about our Art Programme.
+
 **<u>Assessment Information Booklet for Parents</u>** <br>
 For essential information and instructions on assessment matters in the school, please click [here](/files/190124_assessment_information_booklet_2024_final2.pdf)
 

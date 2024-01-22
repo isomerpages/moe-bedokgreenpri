@@ -19,3 +19,7 @@ The curriculum includes :
 <br>· Integration in CCE -FTGP lessons
 <br>· Other NE learning experiences
 <br>· Newsflash@ Pre-Assembly
+
+![NESS](/images/NESS_Slide1.JPG)
+<br>![NESS](/images/NESS_Slide4.JPG)
+<br>![NESS](/images/NESS_Slide3.JPG)

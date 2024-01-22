@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**<u>Music</u>** <br>
+Please click [here](https://www.bedokgreenpri.moe.edu.sg/curriculum/pe-art-and-music-pam/) to find out more about our Music Programme.
+
 **<u>Art Programme</u>** <br>
 Please click [here](https://www.bedokgreenpri.moe.edu.sg/curriculum/pe-art-and-music-pam/) to find out more about our Art Programme.
 

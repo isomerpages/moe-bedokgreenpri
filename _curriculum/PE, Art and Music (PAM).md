@@ -137,6 +137,7 @@ BGPians experience group singing and choral activities that encourage teamwork a
 In BGPS, we strongly believe that musicality is a natural and inherent quality in children. We hope to instil joy, and a sense of accomplishment in BGpians as they embark on their musical journey.
 
 ![Music](/images/Music_Slide2.JPG)
+<br>
 ![Music](/images/Music_Slide1.JPG)
 
 * * *

@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Home School Partnership/Information for Parents.md
       - Home School Partnership/.keep
       - Home School Partnership/Home School Partnership.md
       - Home School Partnership/Assessment Booklet.md

@@ -3,6 +3,7 @@ title: PSLE and DSA Information
 permalink: /partners/home-school-partnership/psle-dsa-information/
 description: ""
 third_nav_title: Home School Partnership
+variant: markdown
 ---
 The new PSLE scoring and Secondary 1 Posting systems will take effect this year. To help you better understand the changes, MOE would like to share the following resources with you:  
   
@@ -21,19 +22,6 @@ The new PSLE scoring and Secondary 1 Posting systems will take effect this year.
 
 Click [here](http://www.seab.gov.sg/) to access more information on PSLE related matters from the Schools Examinations and Assessment Board (SEAB)
 
-### PSLE Timetable 2023
-
-[PSLE Exam Timetable 2023](/files/31072023psleexamtimetable.pdf)
-
-### PSLE 2021
-
-[PSLE Infosheet.pdf](/files/PSLE%20Infosheet.pdf)
-  
-[A Secondary School Thats Suitable For Your Child.pdf](/files/A%20Secondary%20School%20Thats%20Suitable%20For%20Your%20Child.pdf) 
-  
-[Parent Kit Choosing a Sec Sch 6.pdf](/files/Parent%20Kit%20Choosing%20a%20Sec%20Sch%206.pdf)
-  
-[PSLE 2021 for Parents of P5 and P6 Students.pdf](/files/PSLE%202021%20for%20Parents%20of%20P5%20and%20P6%20Students.pdf)
 
 ### Direct-Schools Admission (DSA)
 

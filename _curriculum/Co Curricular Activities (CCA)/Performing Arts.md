@@ -3,38 +3,33 @@ title: Performing Arts
 permalink: /curriculum/co-curricular-activities-cca/performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 Angklung
 --------
+![](/images/Angklung_CCA_1.jpg)
 
-![Angklung](/images/DSC05440.jpeg)
+![](/images/Angklung_CCA_2.jpeg)
 
-Angklung is a traditional musical instrument made up of two bamboo tubes with different lengths and thickness to create the various musical range. In Angklung CCA, students learn to develop discipline and in the later years, they learn how to play more complex bass Angklung and Kulintang.   
+Angklung is a traditional musical instrument made up of two bamboo tubes with different lengths and thickness to create the various musical range. In Angklung CCA, students learn to develop discipline and in the later years, they learn how to play more complex bass Angklung and Kulintang.&nbsp;  
 
 * * *
 
 Chinese Dance
 -------------
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/IMG_1596pppp2.jpeg" alt="Chinese Dance" style="width:70%;">  
+![](/images/CCA_Chinese_Dance.jpeg)
   
-</body>
 
-Our Chinese Dance CCA develops girls into graceful and confident ladies. Students learn hand-feet coordination and the appreciation of Chinese music. They also learn to dance according to the mood of the music. Elements of ballet and gymnastics in traditional Chinese dance also improve the learner’s flexibility, as well as agility. Chinese Dance CCA is open to students of all races so as to promote cultural understanding and appreciation of this art form.   
+
+Our Chinese Dance CCA develops girls into graceful and confident ladies. Students learn hand-feet coordination and the appreciation of Chinese music. They also learn to dance according to the mood of the music. Elements of ballet and gymnastics in traditional Chinese dance also improve the learner’s flexibility, as well as agility. Chinese Dance CCA is open to students of all races so as to promote cultural understanding and appreciation of this art form.&nbsp;  
 
 * * *
 
 Choir
 -----
+![](/images/CCA_Choir_1.jpg)
 
-![Choir](/images/IMG_6105.jpeg)
+![](/images/CCA_Choir_2.jpg)
 
 The School Choir consist of soprano and alto choristers. Through the CCA training sessions, students learn values such as teamwork, commitment and responsibility. Students at the CCA also get to learn basic music theory and acquire skills such as voice projection, singing techniques, and develop social-emotional skills.
 
@@ -42,10 +37,11 @@ The School Choir consist of soprano and alto choristers. Through the CCA trainin
 
 Guzheng Ensemble
 ----------------
+![](/images/Guzheng_CCA_2.jpg)
 
-![Guzheng Ensemble](/images/DSC05261.jpeg)
+![](/images/Guzheng_CCA_2.jpeg)
 
-Guzheng Ensemble is a traditional orchestra with 21 strings, supported by a pair of stands. There are many techniques used in playing Guzheng. These techniques will create sounds that can evoke a sense of cascading waterfall, thunder, horse’s hooves and even scenic countryside. Through the Guzheng CCA, students are exposed to traditional Chinese music which encourages them to deepen their understanding and appreciation of the Chinese culture.   
+Guzheng Ensemble is a traditional orchestra with 21 strings, supported by a pair of stands. There are many techniques used in playing Guzheng. These techniques will create sounds that can evoke a sense of cascading waterfall, thunder, horse’s hooves and even scenic countryside. Through the Guzheng CCA, students are exposed to traditional Chinese music which encourages them to deepen their understanding and appreciation of the Chinese culture.&nbsp;  
 
 * * *
 

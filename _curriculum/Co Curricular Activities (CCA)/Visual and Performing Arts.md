@@ -32,6 +32,15 @@ Choir
 The School Choir consist of soprano and alto choristers. Through the CCA training sessions, students learn values such as teamwork, commitment and responsibility. Students at the CCA also get to learn basic music theory and acquire skills such as voice projection, singing techniques, and develop social-emotional skills.
 
 * * *
+English Drama Club
+------------------
+
+![](/images/English_Drama_Club_CCA_1.jpeg)
+
+![](/images/English_Drama_Club_CCA_2.jpeg)
+
+Drama Club CCA provides opportunities for students who are interested in drama as an art form. Drama entails hands-on experiential activities that engage the mind, body, voice and emotions to interpret and convey to others information and ideas. The wide scope of activities enable students to build their confidence and develop their social skills, physical coordination and cognitive understanding of their environment. Students in the CCA will learn interpersonal and intrapersonal skills, reading, theatrical etiquette, aural, kinaesthetic and multi-modal forms.  
+* * *
 Guzheng Ensemble
 ----------------
 ![](/images/Guzheng_CCA_2.jpg)
@@ -47,13 +56,4 @@ Malay Dance
 ![Malay Dance](/images/DSC04730.jpeg)
 
 The Malay Dance incorporates many elements - mood, expressions and values - which are important to the holistic development of a child. Students will be able to use bodily movements as a medium of creative expression, understand the importance of teamwork, dedication and commitment as well as be able to appreciate dancing as an enjoyable activity. Malay Dance CCA is open to both boys and girls of all races so as to promote cultural understanding and appreciation of this art form.
-* * *
-English Drama Club
-------------------
-
-![](/images/English_Drama_Club_CCA_1.jpeg)
-
-![](/images/English_Drama_Club_CCA_2.jpeg)
-
-Drama Club CCA provides opportunities for students who are interested in drama as an art form. Drama entails hands-on experiential activities that engage the mind, body, voice and emotions to interpret and convey to others information and ideas. The wide scope of activities enable students to build their confidence and develop their social skills, physical coordination and cognitive understanding of their environment. Students in the CCA will learn interpersonal and intrapersonal skills, reading, theatrical etiquette, aural, kinaesthetic and multi-modal forms.  
  

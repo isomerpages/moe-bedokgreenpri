@@ -16,20 +16,6 @@ The objective of the Art Club is to provide students with opportunities to explo
 
 * * *
 
-  
-
-English Drama Club
-------------------
-
-![](/images/English_Drama_Club_CCA_1.jpeg)
-
-![](/images/English_Drama_Club_CCA_2.jpeg)
-
-Drama Club CCA provides opportunities for students who are interested in drama as an art form. Drama entails hands-on experiential activities that engage the mind, body, voice and emotions to interpret and convey to others information and ideas. The wide scope of activities enable students to build their confidence and develop their social skills, physical coordination and cognitive understanding of their environment. Students in the CCA will learn interpersonal and intrapersonal skills, reading, theatrical etiquette, aural, kinaesthetic and multi-modal forms.  
-  
-
-* * *
-
 Infocomm and Media Club
 ----------------------------
 ![](/images/Infocomm_CCA_2.jpg)

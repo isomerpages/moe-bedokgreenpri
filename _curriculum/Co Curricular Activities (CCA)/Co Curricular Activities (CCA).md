@@ -12,6 +12,6 @@ As the school recognises the significant role CCAs play in your child's educatio
 Here at BGPS, we offer a total of 14 CCAs, made up from these 4 broad categories:  
 
 *   Clubs and Societies
-*   Visual and Performing Arts
 *   Physical Sports
 *   Uniformed Groups
+*   Visual and Performing Arts

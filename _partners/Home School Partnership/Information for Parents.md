@@ -3,6 +3,7 @@ title: Information for Parents
 permalink: /about-us/information-for-parents/
 description: ""
 variant: markdown
+third_nav_title: Home School Partnership
 ---
 School Textbooks (P1-6) Booklist 2024
 -------------------------------------

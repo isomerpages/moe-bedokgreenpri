@@ -15,6 +15,17 @@ Angklung is a traditional musical instrument made up of two bamboo tubes with di
 
 * * *
 
+Art Club
+--------
+
+![](/images/Art_Club_CCA_2.jpg)
+
+![](/images/Art_Club_CCA_3.jpg)
+
+The objective of the Art Club is to provide students with opportunities to explore, experiment, discover, innovate and create with paints, colours and different types of materials. The Art Club activities are designed to give members an avenue to express themselves to realize their potential and talent. Besides painting, students are also engaged in craftwork.   
+
+* * *
+
 Chinese Dance
 -------------
 ![](/images/CCA_Chinese_Dance.jpeg)

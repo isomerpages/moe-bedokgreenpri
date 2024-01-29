@@ -3,6 +3,7 @@ title: Co Curricular Activities (CCA)
 permalink: /curriculum/co-curricular-activities-cca/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 Co-Curricular Activities (CCA) are an integral part of our students' holistic education. CCAs help children discover and cultivate their interests, talents and deepen their sense of belonging and responsibility to school, community and nation.  
   
@@ -10,7 +11,7 @@ As the school recognises the significant role CCAs play in your child's educatio
   
 Here at BGPS, we offer a total of 14 CCAs, made up from these 4 broad categories:  
 
-*   Clubs 
-*   Performing Arts
-*   Sports and Games
+*   Clubs and Societies
+*   Visual and Performing Arts
+*   Physical Sports
 *   Uniformed Groups

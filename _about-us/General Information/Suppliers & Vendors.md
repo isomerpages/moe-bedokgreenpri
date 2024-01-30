@@ -28,6 +28,15 @@ School Uniform Supplier
 Online store:&nbsp;[www.khuniform.com](http://www.khuniform.com/)  
 Tel:&nbsp;6479 6811&nbsp; &nbsp; Fax: 6474 4037Email:&nbsp;[sales@khuniform.com](mailto:sales@khuniform.com)
 
+Uniform Price List and Name Tag Order
+=======================
+
+Click on the following link to order your child / ward's name tag: [Name Tag Order Form](https://khuniform.com/bgpsnametag/)<br>
+Please refer to the following attachments:  
+[BGPS Uniform Prices 1.1.2022.pdf](/files/BGPS%20Uniform%20Prices%201%20Jan%202022_new%20vendor.pdf) <br>
+[Name Tag Order Form.pdf](/files/Name%20Tag%20Order%20Form.pdf) 
+
+
 School Bus Service
 ====================
 
@@ -38,6 +47,11 @@ Operator: Kosen Transport Pte Ltd
 
 **Period: 1 Jan 2024 to 31 Dec 2025**
 ![](/images/school%20bus.png)
+
+School Bus Request Form
+=======================
+Please refer to the following attachment:<br>
+[School Bus Request Form](/files/091223_Info_Sheet_on_School_bus_Services__BGPS___2024__1.pdf)
 
 Student Care Centre
 ===============

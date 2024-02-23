@@ -92,7 +92,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reena_Sivahnathan.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Reena_Sivahnathan.jpg">
 </div>
 <p>Ms Reena</p>
 </td>

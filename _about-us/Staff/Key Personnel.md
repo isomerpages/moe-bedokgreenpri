@@ -90,7 +90,7 @@ variant: markdown
 <p>Head of Department (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 60%" height="auto" width="100%" alt="" src="/images/Reena_Sivahnathan.jpg">
 </div>
@@ -121,9 +121,6 @@ variant: markdown
 <p>Head of Department (Physical Education &amp; Co-curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" alt="keypersonnel10" src="/images/Key%20Personnel%201/keypersonnel10.jpg">
 </div>

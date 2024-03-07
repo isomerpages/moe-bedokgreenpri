@@ -263,9 +263,8 @@ variant: markdown
 <p>Ms Valerie Cheng Yuning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>valerie_cheng_yuning@schools.gov.sg</u>
-</p>
-</td>
+<p><a href="mailto:valerie_cheng_yuning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_cheng_yuning@schools.gov.sg</u></a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

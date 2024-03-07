@@ -87,6 +87,23 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Level Head (Mother Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="keypersonnel5" src="/images/Chen_Ming_Zhu.jpg">
+</div>
+<p>Ms Chen Ming Zhu
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chen_mingzhu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_mingzhu_a@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Head of Department (Science)</p>
 </td>
 <td rowspan="1" colspan="1">

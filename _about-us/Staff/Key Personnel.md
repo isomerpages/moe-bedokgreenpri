@@ -32,7 +32,7 @@ variant: markdown
 <p>Mr Loh Wei Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/loh_wei_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>luo_weiliang@schools.gov.sg</u></a>
+<p><a href="mailto:loh_wei_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>luo_weiliang@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lim_ee_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ee_sze@schools.gov.sg</u></a>
+<p><a href="mailto:lim_ee_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ee_sze@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: markdown
 <p>Mrs Angeline Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/angeline_chia_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>angeline_chia_lin@schools.gov.sg</u></a>
+<p><a href="mailto:angeline_chia_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>angeline_chia_lin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -81,7 +81,24 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/liu_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liu_peng@schools.gov.sg</u></a>
+<p><a href="mailto:liu_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liu_peng@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (Mother Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" alt="keypersonnel5" src="/images/Chen_Ming_Zhu.jpg">
+</div>
+<p>Ms Chen Ming Zhu
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_mingzhu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_mingzhu_a@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -112,7 +129,7 @@ variant: markdown
 <p>Ms Neo Sin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/neo_sin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_sin_yi@schools.gov.sg</u></a>
+<p><a href="mailto:neo_sin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_sin_yi@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -127,7 +144,7 @@ variant: markdown
 <p>Mr Alvin Thio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/thio_beng_lou_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thio_beng_lou_alvin@schools.gov.sg</u></a>
+<p><a href="mailto:thio_beng_lou_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thio_beng_lou_alvin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -142,7 +159,7 @@ variant: markdown
 <p>Mr Mohd Hasri Bahari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/mohd_hasri_bahari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohd_hasri_bahari@schools.gov.sg</u></a>
+<p><a href="mailto:mohd_hasri_bahari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohd_hasri_bahari@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -157,7 +174,7 @@ variant: markdown
 <p>Mrs Jessie Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lim_chieh_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chieh_sze@schools.gov.sg</u></a>
+<p><a href="mailto:lim_chieh_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chieh_sze@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -172,7 +189,7 @@ variant: markdown
 <p>Mrs Judy Swee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/judy_lim_lian_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judy_lim_lian_soon@schools.gov.sg</u></a>
+<p><a href="mailto:judy_lim_lian_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judy_lim_lian_soon@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -187,7 +204,7 @@ variant: markdown
 <p>Mr Lim Fang Rui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/lim_fang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_fang_rui@schools.gov.sg</u></a>
+<p><a href="mailto:lim_fang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_fang_rui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -202,7 +219,7 @@ variant: markdown
 <p>Ms Ng Jieying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/ng_jieying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_jieying@schools.gov.sg</u></a>
+<p><a href="mailto:ng_jieying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_jieying@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -231,7 +248,7 @@ variant: markdown
 <p>Ms Sangeetha Yadav</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/sangeetha_yadav@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sangeetha_yadav@schools.gov.sg</u></a>
+<p><a href="mailto:sangeetha_yadav@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sangeetha_yadav@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -246,9 +263,8 @@ variant: markdown
 <p>Ms Valerie Cheng Yuning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>valerie_cheng_yuning@schools.gov.sg</u>
-</p>
-</td>
+<p><a href="mailto:valerie_cheng_yuning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_cheng_yuning@schools.gov.sg</u></a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -262,7 +278,7 @@ variant: markdown
 <p>Mdm Lee Oi Foong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_oi_foong_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_oi_foong_margaret@schools.gov.sg</a>
+<p><a href="mailto:lee_oi_foong_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_oi_foong_margaret@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -278,7 +294,7 @@ variant: markdown
 <p>Mdm Halima Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/halimaton_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>halimaton_abdullah@schools.gov.sg</u></a>
+<p><a href="mailto:halimaton_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>halimaton_abdullah@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -294,7 +310,7 @@ variant: markdown
 <p>Ms Li Wenlin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="li_wenlin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_wenlin@schools.gov.sg</a>
+<p><a href="mailto:li_wenlin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_wenlin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -310,7 +326,7 @@ variant: markdown
 <p>Mdm Shariffah Faizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/key-personnel/shariffah_faizah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shariffah_faizah_hassan@schools.gov.sg</u></a>
+<p><a href="mailto:shariffah_faizah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shariffah_faizah_hassan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

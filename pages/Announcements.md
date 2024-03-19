@@ -4,12 +4,6 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-**<u>Music</u>** <br>
-Please click [here](https://www.bedokgreenpri.moe.edu.sg/curriculum/pe-art-and-music-pam/) to find out more about our Music Programme.
-
-**<u>Art Programme</u>** <br>
-Please click [here](https://www.bedokgreenpri.moe.edu.sg/curriculum/pe-art-and-music-pam/) to find out more about our Art Programme.
-
 **<u>Assessment Information Booklet for Parents</u>** <br>
 For essential information and instructions on assessment matters in the school, please click [here](/files/190124_assessment_information_booklet_2024_final2.pdf)
 
@@ -19,8 +13,8 @@ Please click [here](https://www.bedokgreenpri.moe.edu.sg/partners/home-school-pa
 **<u>P1 Orientation 2024</u>** <br>
 Please click [here](https://go.gov.sg/bgpsp12024) to be redirected to the P1 Orientation page. 
 
-**<u>Term 1 Newsletter</u>** <br>
-As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/020124_Term_1_Letter_2024_Final_Version.pdf).
+**<u>Term 2 Newsletter</u>** <br>
+As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/190324_Term_2_Letter_2024_Final.pdf)
 
 **<u>School Calendar</u>** <br>
 Please click [here](/about-us/calendar) to access our school calendar.&nbsp;Thank you.

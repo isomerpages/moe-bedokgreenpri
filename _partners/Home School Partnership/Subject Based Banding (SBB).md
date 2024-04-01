@@ -15,4 +15,4 @@ Subject-based banding (SBB) gives your child the opportunity to take a combinati
   
 
 Click on the link below to access the Primary 4 Subject Based Banding Briefing. <br>
-[2023 P4 SBB Briefing](/files/2023%20p4%20sbb%20briefing%20.pdf)
+

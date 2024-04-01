@@ -3,6 +3,7 @@ title: Subject Based Banding (SBB)
 permalink: /partners/home-school-partnership/subject-based-banding-sbb/
 description: ""
 third_nav_title: Home School Partnership
+variant: markdown
 ---
 Subject-based banding (SBB) gives your child the opportunity to take a combination of subjects at standard and foundation levels based on their strengths. Learn how it works and how to prepare your child.  
 
@@ -13,5 +14,5 @@ Subject-based banding (SBB) gives your child the opportunity to take a combinati
 
   
 
-Click on the link below to download the updated slides for the Primary 4 Subject Based Banding Briefing. <br>
+Click on the link below to access the Primary 4 Subject Based Banding Briefing. <br>
 [2023 P4 SBB Briefing](/files/2023%20p4%20sbb%20briefing%20.pdf)

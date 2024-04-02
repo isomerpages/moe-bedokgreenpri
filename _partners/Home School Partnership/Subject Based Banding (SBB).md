@@ -13,6 +13,3 @@ Subject-based banding (SBB) gives your child the opportunity to take a combinati
 [4\. MOE\_SBB\_TL\_revised 1 Mar 2018](/files/4%20MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
   
-
-Click on the link below to access the Primary 4 Subject Based Banding Briefing. <br>
-

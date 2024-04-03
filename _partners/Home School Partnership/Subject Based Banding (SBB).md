@@ -3,13 +3,14 @@ title: Subject Based Banding (SBB)
 permalink: /partners/home-school-partnership/subject-based-banding-sbb/
 description: ""
 third_nav_title: Home School Partnership
-variant: markdown
+variant: tiptap
 ---
-Subject-based banding (SBB) gives your child the opportunity to take a combination of subjects at standard and foundation levels based on their strengths. Learn how it works and how to prepare your child.  
-
-[1\. MOE\_SBB\_ENG\_revised 1 Mar 2018](/files/1%20MOE_SBB_ENG_revised%201%20Mar%202018.pdf) <br>
-[2\. MOE\_SBB\_CHI\_revised 1 Mar 2018](/files/2%20MOE_SBB_CHI_revised%201%20Mar%202018.pdf) <br>
-[3\. MOE\_SBB\_ML\_revised 1 Mar 2018](/files/3%20MOE_SBB_ML_revised%201%20Mar%202018.pdf) <br>
-[4\. MOE\_SBB\_TL\_revised 1 Mar 2018](/files/4%20MOE_SBB_TL_revised%201%20Mar%202018.pdf)
-
-  
+<p>Subject-based banding (SBB) gives your child the opportunity to take a
+combination of subjects at standard and foundation levels based on their
+strengths. Learn how it works and how to prepare your child.</p>
+<p><a href="/files/1%20MOE_SBB_ENG_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">1. MOE_SBB_ENG_revised 1 Mar 2018</a> 
+<br><a href="/files/2%20MOE_SBB_CHI_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">2. MOE_SBB_CHI_revised 1 Mar 2018</a> 
+<br><a href="/files/3%20MOE_SBB_ML_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">3. MOE_SBB_ML_revised 1 Mar 2018</a> 
+<br><a href="/files/4%20MOE_SBB_TL_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">4. MOE_SBB_TL_revised 1 Mar 2018</a>
+</p>
+<p>Please click here to access the SBB Briefing for 2024.</p>

@@ -13,4 +13,8 @@ strengths. Learn how it works and how to prepare your child.</p>
 <br><a href="/files/3%20MOE_SBB_ML_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">3. MOE_SBB_ML_revised 1 Mar 2018</a> 
 <br><a href="/files/4%20MOE_SBB_TL_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">4. MOE_SBB_TL_revised 1 Mar 2018</a>
 </p>
-<p>Please click here to access the SBB Briefing for 2024.</p>
+<p></p>
+<p></p>
+<p>Please click <a href="https://youtu.be/dY9nKV5pjvk" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+access the SBB Briefing for 2024.</p>
+<p></p>

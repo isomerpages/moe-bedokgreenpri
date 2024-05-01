@@ -4,6 +4,13 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**BGPS Open House 2024**<br>
+![](/images/BGPS_Open_House_2024.jpg)
+
+Are you looking for a nurturing and supportive environment for your child who will be starting Primary 1 soon? BGPS welcomes interested parents to find out more about our school through a guided tour. Scan the QR code or visit [https://go.gov.sg/bgpsopenhouse2024](https://go.gov.sg/bgpsopenhouse2024) to register. 
+
+Closing date: 10 May 2024
+
 **Creative Toy Making &amp; Science Busking Briefing 2024**<br>
 Please click [here](/files/020424_Creative_Science_Toy_Making___Busking_Zoom_Briefing_1_April_2024.pdf) for the briefing slides on Creative Toy Making &amp; Science Busking Briefing cum Hands-On Workshop on 1 April 2024.
 

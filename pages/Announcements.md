@@ -10,9 +10,6 @@ Are you looking for a nurturing and supportive environment for your child who wi
 
 BGPS welcomes interested parents to find out more about our school. Click on the link: [https://go.gov.sg/bgpseopenhouse2024](https://go.gov.sg/bgpseopenhouse2024) to be redirected to our e-Open House page. 
 
-**Creative Toy Making &amp; Science Busking Briefing 2024**<br>
-Please click [here](/files/020424_Creative_Science_Toy_Making___Busking_Zoom_Briefing_1_April_2024.pdf) for the briefing slides on Creative Toy Making &amp; Science Busking Briefing cum Hands-On Workshop on 1 April 2024.
-
 **<u>Assessment Information Booklet for Parents</u>** <br>
 For essential information and instructions on assessment matters in the school, please click [here](/files/190124_assessment_information_booklet_2024_final2.pdf)
 

@@ -3,45 +3,35 @@ title: Mother Tongue
 permalink: /achievements/student/mother-tongue/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
-## 2023
+### 2024
 
-| Cepat Tepat 2023 | |  |
+| Arshiyyah - Tamil Language Competition for Primary Schools | |  |
 | -------- | -------- | -------- |
-|Fourth Place    |     | Zahrunnissa' Binte Kamil Maricar (6 RSL) |
-|    |     | Mohd Azim Bin Mohd Adlil Wafi (6 RSL) |
-|    |     | Muhd Syakir Bin Saad (5 RSL) |
-|    |     | Zafer Kilic (5 RES) |
+| Top 3 Winner    |     | Ashwin Selvakumar (4 Bravery) |
 
-| Singapore Futsing Association 新加坡福清会馆 | |  |
+| Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition | |  |
 | -------- | -------- | -------- |
-|Top Prize    |     | Lin Haoze Lucas (3 Bravery)     |
+|Bronze Award    |     | Guo Ruihan Rosalind (6 Integrity)     |
 
-## 2022
-
-| 13th Goodtalk (Global Village) International Children and Youth Bilingual Speech Conference | |  |
+| YMCA Mandarin Speaking Awards (MSA) | |  |
 | -------- | -------- | -------- |
-|First Award     |     | Wee Xuan Yi Amos (3 Respect)     |
+|Silver Award    |     | Harith Bin Abdul Ghani (4 Bravery)      |
 
-| National Chinese Calligraphy Competition | |  |
+| Piala Cendekia Shahibba 2024  | |  |
 | -------- | -------- | -------- |
-|Merit Award     |     | Ethan Gao Xiang (3 Bravery)     |
-|Top 20     |     | Zhou Yuanzuo (6 Integrity)     |
+|3rd Team Position, East Zone    |     | Muhammad Zufar Bin Mohd Shariff (4 Respect)     |
+|    |     | Sri Nur Alisha Binte Muhammad (5 Resilience)     |
+|    |     | Ramdhan (5 Compassion)     |
+|    |     | Achmad Saiful Rijal Bin Muhammad Fhaizal (6 Resilience)     |
+|    |     | Muhammad Syakir Bin Saad (6 Compassion)     |
 
-| International CL Online Creative Writing Competition | |  |
+| Cepat Tepat 2024  | |  |
 | -------- | -------- | -------- |
-|Gold Award     |     | Zhou Yuanyou (6 Respect)     |
-|     |     | Zhou Yuanzuo (6 Integrity)     |
-|Silver Award     |     | Xiong Junyi (5 Integrity)     |
+|Top 8 Team Placing     |     | Muhammad Irsyad Bin Irwan (5 Integrity)     |
+|    |     | Raiskandar Bin Abdullah (5 Responsibility)     |
+|    |     | Mohammad Izaz Rayyan Bin Mohammad Hazmi (6 Responsibility)     |
+|    |     | Nur Qairina Binte Mohamed Nizam (6 Responsibility)     |
 
-| Speak Mandarin Campaign | |  |
-| -------- | -------- | -------- |
-|Silver Award     |     | Wee Xun Yi Amos (5 Respect)      |
 
-| Perduan Bercerita | |  |
-| -------- | -------- | -------- |
-|Gold with Honours     |     | Mohamad Azim Bin Mohd Adlil Wafi (5 Resilience)      |
-|Silver     |     | Ahamad Bin Adnan (5 Responsibility)      |
-|Bronze     |     | Nur Alysya Binte Muhammad Firdausi  (3 Integrity)      |
-|     |     | Muhammad Alfie Bin Kamal  (4 Compassion)      |
-|     |     | Eilan Na'il Marican Bin Mohammed Shukor (5 Respect)      |

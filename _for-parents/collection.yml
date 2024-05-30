@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Information for Parents.md
       - Assessment Booklet.md
       - Home School Partnership.md

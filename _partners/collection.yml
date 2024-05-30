@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Home School Partnership/.keep
-      - Home School Partnership/Principal's Newsletter.md
       - Home School Partnership/PSLE and DSA Information.md
       - Home School Partnership/Student Learning Space (SLS) Activation.md
       - Home School Partnership/Student Vaccination Exercise.md

@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Home School Partnership/.keep
       - SAC, PSG & Alumni/.keep
       - SAC, PSG & Alumni/SAC, PSG & Alumni.md
       - SAC, PSG & Alumni/School Advisory Committee (SAC).md

@@ -2,14 +2,14 @@ collections:
   for-parents:
     output: true
     order:
-      - Useful Links.md
-      - Student Vaccination Exercise.md
-      - Subject Based Banding (SBB).md
-      - Student Learning Space (SLS) Activation.md
-      - PSLE and DSA Information.md
-      - Principal's Newsletter.md
-      - P1 Parents' Engagement (2024).md
-      - Parent Resource Kit.md
-      - Information for Parents.md
-      - Assessment Booklet.md
       - Home School Partnership.md
+      - Assessment Booklet.md
+      - Information for Parents.md
+      - Parent Resource Kit.md
+      - P1 Parents' Engagement (2024).md
+      - Principal's Newsletter.md
+      - PSLE and DSA Information.md
+      - Student Learning Space (SLS) Activation.md
+      - Subject Based Banding (SBB).md
+      - Student Vaccination Exercise.md
+      - Useful Links.md

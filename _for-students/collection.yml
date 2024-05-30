@@ -2,5 +2,6 @@ collections:
   for-students:
     output: true
     order:
+      - Home based Learning.md
       - Useful Links.md
       - Timetable.md

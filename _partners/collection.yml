@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Home School Partnership/.keep
-      - Home School Partnership/Information for Parents.md
       - Home School Partnership/Parent Resource Kit.md
       - Home School Partnership/P1 Parents' Engagement (2024).md
       - Home School Partnership/Principal's Newsletter.md

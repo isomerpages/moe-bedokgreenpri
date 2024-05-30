@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Resource Kit.md
       - Information for Parents.md
       - Assessment Booklet.md
       - Home School Partnership.md

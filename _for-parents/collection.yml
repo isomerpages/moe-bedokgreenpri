@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Student Vaccination Exercise.md
       - Subject Based Banding (SBB).md
       - Student Learning Space (SLS) Activation.md
       - PSLE and DSA Information.md

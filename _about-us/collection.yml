@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Services/Availabilities.md
       - Our Services/Suppliers & Vendors.md
       - Our Services/.keep
       - Our School/General Information.md

@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/Principal’s Message.md
       - Our School/About Us.md
       - Our School/.keep
       - Vision, Mission & Values.md

@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - General Information/.keep
       - Our School/.keep
       - Our School/About Us.md
       - Our School/Principal’s Message.md
@@ -16,6 +15,7 @@ collections:
       - Our Services/.keep
       - Our Services/Availabilities.md
       - Our Services/Suppliers & Vendors.md
+      - General Information/.keep
       - Staff/.keep
       - Staff/School Leaders.md
       - Staff/School Administrative Team & Allied Educators.md

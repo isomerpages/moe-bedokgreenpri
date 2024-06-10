@@ -113,10 +113,10 @@ There are 8 food stalls in the school canteen. The respective menu and prices of
 | Stall Number | Type of Food | Menu and Price List |
 | --- | --- | --- |
 | 1 | Hot Drinks &amp; Snacks | [Stall 1](/files/Canteen%20Menu%202024/Stall_1_Menu_2024.pdf) |
-| 2 | Malay Rice&nbsp; | [Stall 2](/files/Canteen%20Menu%202024/Stall_2_Menu_2024.pdf) |
-| 3 | Malay Noodles | [Stall 3](/files/Canteen%20Menu%202024/Stall_3_Menu_2024.pdf) |
-| 4 | Chinese Noodles | [Stall 4](/files/Canteen%20Menu%202024/Stall_4_Menu_2024.pdf) |
-| 5 | The Japanese Food | [Stall 5](/files/stall%205_v2.pdf) |
-| 6 | Asian Food Paradise (Halal) | [Stall 6](/files/Canteen%20Menu%202024/Stall_6_Menu_2024.pdf) |
+| 2 | Malay Rice&nbsp; | [Stall 2](/files/Stall_2_Menu_2024.pdf) |
+| 3 | Malay Noodles | [Stall 3](/files/Stall_3_Menu_2024.pdf) |
+| 4 | Chinese Noodles | [Stall 4 ](/files/Stall_4_Menu_2024.pdf) |
+| 5 | The Japanese Food | [Stall 5](/files/Stall_5_Menu_2024.pdf) |
+| 6 | Asian Food Paradise (Halal) | [Stall 6](/files/Stall_6_Menu_2024.pdf) |
 | 7 | Western Food | [Stall 7](/files/Stall%207%20edit.pdf)|
 | 8 | Cold Drinks &amp; Fruits | [Stall 8](/files/Stall%208.pdf)&nbsp;&nbsp; |

@@ -12,10 +12,10 @@ collections:
       - Our Services/.keep
       - Our Services/Availabilities.md
       - Our Services/Suppliers & Vendors.md
-      - General Information/Admission.md
-      - General Information/School Hours.md
-      - General Information/General Information.md
       - General Information/.keep
+      - General Information/General Information.md
+      - General Information/School Hours.md
+      - General Information/Admission.md
       - Staff/.keep
       - Staff/School Leaders.md
       - Staff/School Administrative Team & Allied Educators.md

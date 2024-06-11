@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/Admission.md
       - Our School/School Hours.md
       - Our School/General Information.md
       - Our School/.keep

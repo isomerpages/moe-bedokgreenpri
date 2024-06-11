@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Our School/Admission.md
-      - Our School/School Hours.md
-      - Our School/General Information.md
       - Our School/.keep
       - Our School/About Us.md
       - Our School/Principal’s Message.md
       - Our School/Vision, Mission & Values.md
       - Our School/School Crest, School Motto, School Song.md
       - Our School/Virtual Tour.md
+      - Our School/Admission.md
+      - Our School/School Hours.md
+      - Our School/General Information.md
       - Our School/Privacy Policy.md
       - Our Services/.keep
       - Our Services/Availabilities.md

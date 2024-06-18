@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Admission.md
+      - Principal's Newsletter.md
       - Home School Partnership.md
       - Assessment Booklet.md
       - School Booklist 2024.md
       - Parent Gateway.md
-      - P1 Parents' Engagement (2024).md
-      - Principal's Newsletter.md
-      - PSLE and DSA Information.md
       - Student Learning Space (SLS) Activation.md
+      - P1 Parents' Engagement (2024).md
+      - PSLE and DSA Information.md
       - Subject Based Banding (SBB).md
       - Student Vaccination Exercise.md
       - Useful Links.md

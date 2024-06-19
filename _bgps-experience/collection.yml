@@ -2,6 +2,7 @@ collections:
   bgps-experience:
     output: true
     order:
+      - Physical Sports.md
       - Clubs and Societies.md
       - Co Curricular Activities (CCA).md
       - English Language.md

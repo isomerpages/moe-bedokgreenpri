@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCA)/.keep
-      - Co Curricular Activities (CCA)/Physical Sports.md
       - Co Curricular Activities (CCA)/Uniformed Groups.md
       - Co Curricular Activities (CCA)/Visual and Performing Arts.md
       - CCE/.keep

@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our School
 variant: markdown
 ---
-
 School Procedures
 -----------------
 
@@ -15,14 +14,6 @@ Students who are absent from school must present a medical certificate from a qu
 ##### Visitors to the School
 
 All visitors to the school must report at the&nbsp;school general office and inform the school clerk the purpose of their visit. They must show their Identification Card and in return get a "Visitor's Pass" from the clerk, before proceeding to other parts of the school premises.
-
-##### Leaving School Early  
-If a student is feeling unwell, he/she must inform both the teacher and the parents/guardian.&nbsp;An ill child must be picked up by a parent/guardian, the school will not allow him/her to return home unescorted. The parents/guardian must sign the "Early Departure Register" placed in the office. Parents/Guardians have to produce their Identification Card for verification reasons.
-
-
-##### Dismissal
-
-All parents/guardians must wait at Gate 4 or Gate 5 to receive their children after dismissal. During the inclement weather, they can collect their children from the porch or sheltered part of Gate 4 or Gate 5.
 
 ##### Accidents
 

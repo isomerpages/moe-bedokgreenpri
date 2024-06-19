@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Picking Up Your Child.md
       - Home School Partnership.md
       - Principal's Newsletter.md
       - Admission.md

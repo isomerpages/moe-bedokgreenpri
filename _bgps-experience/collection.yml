@@ -2,6 +2,7 @@ collections:
   bgps-experience:
     output: true
     order:
+      - Lifelong Learning Programme (LLP).md
       - ICT for Learning.md
       - CCE/National Education Social Studies (NESS).md
       - CCE/Values In Action (VIA).md

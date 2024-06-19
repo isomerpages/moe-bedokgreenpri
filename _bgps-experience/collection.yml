@@ -2,6 +2,7 @@ collections:
   bgps-experience:
     output: true
     order:
+      - National Education Social Studies (NESS).md
       - Values In Action (VIA).md
       - Character and Citizenship Education (CCE).md
       - English Language.md

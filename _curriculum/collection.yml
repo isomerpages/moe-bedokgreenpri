@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Signature Programmes/.keep
-      - Signature Programmes/Lifelong Learning Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md

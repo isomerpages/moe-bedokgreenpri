@@ -2,8 +2,8 @@ collections:
   bgps-experience:
     output: true
     order:
-      - PE, Art and Music (PAM).md
-      - Science.md
-      - Mathematics.md
-      - Mother Tongue Languages.md
       - English Language.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - PE, Art and Music (PAM).md

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our School
 variant: markdown
 ---
-School Procedures
+School Rules and Regulations
 -----------------
 
 ##### Absence From School

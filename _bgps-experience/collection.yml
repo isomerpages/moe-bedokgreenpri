@@ -2,6 +2,7 @@ collections:
   bgps-experience:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/.keep
       - Visual and Performing Arts.md
       - Uniformed Groups.md

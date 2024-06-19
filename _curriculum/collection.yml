@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Co Curricular Activities (CCA)/.keep
       - CCE/.keep
       - ICT for Learning/.keep
       - ICT for Learning/ICT for Learning.md

@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Our School
 variant: markdown
 ---
-School Rules and Regulations
------------------
-
 ##### Absence From School
 Students who are absent from school must present a medical certificate from a qualified doctor or a letter from the parent stating reasons for their absence.&nbsp;The school must be informed if the child urgently needs to be away for a long period of time.
 
@@ -20,7 +17,7 @@ All visitors to the school must report at the&nbsp;school general office and inf
 If a student sustains minor injury in the school, the form teacher will attend to the student. If the injury is serious the school will take the initiative to send the student to a clinic or hospital immediately. However, every effort will be made to contact the student's parents before he is taken to the hospital.
 
 
-School Rules
+##### School Rules
 ------------
 
 **B**e proud of our school  
@@ -30,9 +27,7 @@ School Rules
 **E**ngage in meaningful activities and be punctual at all times  
 **N**o student is to leave the school without permission
 
-Uniform
--------
-
+##### Uniform
 The school uniform is to be worn whenever a student comes to school and at all school-related activities including those held during school&nbsp;vacation or outside the school premises.&nbsp;Students are to wear the prescribed school uniform and modifications to the school uniform is not allowed.  
 
 <u>School Uniform</u>
@@ -43,15 +38,12 @@ The school uniform is to be worn whenever a student comes to school and at all s
 
 ![PE Attire](/images/PE%20Attire.jpg)
 
-Canteen Rules
--------------
-
+##### Canteen Rules
 *   Students should not run or play in the canteen.
 *   Students are to queue up to purchase food.
 *   Food and drinks are to be consumed in the canteen only.
 
-Evacuation Drill
-----------------
+##### Evacuation Drill
 
 Once the evacuation&nbsp;siren sounds, stop working and don't start to move out of classroom, unless you are in the vicinity of the incident site. Keep calm and quiet, so that you can hear the evacuation instruction announcement made over the PA system.  
 Follow the teacher's instruction, to close the doors, switch off lights and fans as instructed.
@@ -64,8 +56,7 @@ To use the staircase/evacuation route that is nearer to your classroom to procee
 
 At the assembly area, listen to the roll call carefully.
 
-Good Learning Habits
---------------------
+##### Good Learning Habits
 
 *   You can develop good learning habits to do well in your studies.
 *   Pay careful attention to your teacher in class.
@@ -74,9 +65,6 @@ Good Learning Habits
 *   Do all the homework assigned to you.
 *   Read through and revise all the lessons that have been taught everyday.
 *   To do well in your assessments, you must be hard-working.
-
-Student Welfare
----------------
 
 ##### Fire Drills  
 
@@ -90,9 +78,7 @@ The school will carry out at least one fire drill annually. This is to familiari
 *   Walk close to the side of the road if there is no footpath and in single file if you are part of a group.
 *   Wear light coloured clothes at night to enable motorists to spot you from a distance.
 
-You Can Be A Good Student
--------------------------
-
+##### You Can Be A Good Student
 *   Pack your books according to the day's timetable.  
     
 *   Keep your books and stationery neatly in your school bag.
@@ -107,13 +93,10 @@ You Can Be A Good Student
 *   Keep away from General Office.
 *   Walk briskly along the corridors when you move to another classroom for other activities and lessons.
 
-Guidelines On The Use Of Handphone
-----------------------------------
-
+##### Guidelines On The Use Of Handphone
 Students should not bring their&nbsp;**mobile phones**&nbsp;to school unless special permission has been granted. Students who wish to bring their mobile phones to school must obtain a mobile phone contract from the HOD/CCE.&nbsp;**Music players&nbsp;and&nbsp;handheld computer games should not be brought to school.**
 
-Safety First In School
-----------------------
+##### Safety First In School
 
 *   Always think of safety.
 *   Walk. Do not run along the corridors.
@@ -124,10 +107,9 @@ Safety First In School
 *   Eat and drink at the cafeteria only. Be careful when you are carrying hot soup. Running and playing in the cafeteria may result in you getting hurt as the hot soup may spill over you and you may be scalded.
 *   Be careful when handling a pair of scissors or a penknife during Art &amp; Craft Lesson. Use a pair of scissors with rounded ends.
 
-Examination Regulations
------------------------
+##### Examination Regulations
 
-##### All students must:  
+All students must:  
 
 *   Adhere to the examination regulations and time table strictly.
 

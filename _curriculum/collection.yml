@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - PE, Art and Music (PAM).md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/Clubs and Societies.md

@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - Picking Up Your Child.md
       - Home School Partnership.md
       - Principal's Newsletter.md
       - Admission.md
+      - Picking Up Your Child.md
       - Assessment Booklet.md
       - School Booklist 2024.md
       - P1 Parents' Engagement (2024).md

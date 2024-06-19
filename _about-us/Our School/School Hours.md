@@ -3,6 +3,7 @@ title: School Hours
 permalink: /about-us/general-information/school-hours/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 The school operates from 7:30 a.m. to 1:30 p.m. every weekday for all levels.
 

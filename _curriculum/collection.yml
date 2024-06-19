@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ICT for Learning/.keep
-      - ICT for Learning/ICT for Learning.md
       - Signature Programmes/.keep
       - Signature Programmes/Lifelong Learning Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md

@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue Languages.md
       - Mathematics.md
       - Science.md
       - PE, Art and Music (PAM).md

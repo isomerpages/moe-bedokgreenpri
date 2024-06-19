@@ -3,12 +3,8 @@ title: General Information
 permalink: /about-us/general-information/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
-<img src="/images/School%20Crest%20High%20Resolution.png" style="width:40%">
-
-*   We are a single session Government school.
-*   We offer Chinese, Tamil and Malay Mother Tongue Languages.
-*   As part of empowering our learners and nurturing them as persons of strength and character, we are committed to providing a conducive environment where our students excel academically, cultivate sound moral values and enhance their potential to prepare them to meet the challenges of the 21st century.
 
 School Procedures
 -----------------

@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Admission.md
-      - Principal's Newsletter.md
       - Home School Partnership.md
+      - Principal's Newsletter.md
+      - Admission.md
       - Assessment Booklet.md
       - School Booklist 2024.md
       - P1 Parents' Engagement (2024).md

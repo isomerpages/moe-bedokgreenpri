@@ -2,6 +2,7 @@ collections:
   bgps-experience:
     output: true
     order:
+      - Signature Programmes/Lifelong Learning Programme (LLP).md
       - Signature Programmes/.keep
       - Applied Learning Programme (ALP).md
       - ICT for Learning.md

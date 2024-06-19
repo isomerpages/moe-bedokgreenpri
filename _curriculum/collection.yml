@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT for Learning/.keep
       - Signature Programmes/.keep
       - Signature Programmes/Lifelong Learning Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md

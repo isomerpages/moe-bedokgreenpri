@@ -2,14 +2,6 @@ collections:
   bgps-experience:
     output: true
     order:
-      - Signature Programmes/.keep
-      - Signature Programmes/Lifelong Learning Programme (LLP).md
-      - Signature Programmes/Applied Learning Programme (ALP).md
-      - ICT for Learning.md
-      - CCE/National Education Social Studies (NESS).md
-      - CCE/Values In Action (VIA).md
-      - CCE/Character and Citizenship Education (CCE).md
-      - CCE/.keep
       - English Language.md
       - Mother Tongue Languages.md
       - Mathematics.md
@@ -21,3 +13,11 @@ collections:
       - Co Curricular Activities (CCA)/Physical Sports.md
       - Co Curricular Activities (CCA)/Clubs and Societies.md
       - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - CCE/.keep
+      - CCE/National Education Social Studies (NESS).md
+      - CCE/Values In Action (VIA).md
+      - CCE/Character and Citizenship Education (CCE).md
+      - ICT for Learning.md
+      - Signature Programmes/.keep
+      - Signature Programmes/Lifelong Learning Programme (LLP).md
+      - Signature Programmes/Applied Learning Programme (ALP).md

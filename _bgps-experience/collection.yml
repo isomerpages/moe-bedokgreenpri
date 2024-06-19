@@ -2,9 +2,9 @@ collections:
   bgps-experience:
     output: true
     order:
-      - Signature Programmes/Applied Learning Programme (ALP).md
-      - Signature Programmes/Lifelong Learning Programme (LLP).md
       - Signature Programmes/.keep
+      - Signature Programmes/Lifelong Learning Programme (LLP).md
+      - Signature Programmes/Applied Learning Programme (ALP).md
       - ICT for Learning.md
       - CCE/National Education Social Studies (NESS).md
       - CCE/Values In Action (VIA).md

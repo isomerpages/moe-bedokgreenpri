@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -33,19 +37,14 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Li Han Yu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="li_hanyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_hanyu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Flexi-Adjunct Teachers</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -54,15 +53,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email address</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Yuen Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chong_yuen_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yuen_meng@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -156,46 +146,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Al Amin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="al-amin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">al-amin_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Joyce Seah Siew Keng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="joyce_seah_siew_keng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_seah_siew_keng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Marcia Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="macia_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">macia_yong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Sairi Bin Basri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sairi_basri_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sairi_basri_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Tee Beng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="teo_tee_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_tee_beng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -206,6 +160,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="ching_tiam_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ching_tiam_heng@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Dulcy John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

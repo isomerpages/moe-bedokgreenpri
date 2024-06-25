@@ -2,16 +2,18 @@ collections:
   about-us:
     output: true
     order:
-      - About Us.md
-      - Principal’s Message.md
-      - Vision, Mission & Values.md
-      - School Crest, School Motto, School Song.md
-      - General Information/.keep
-      - General Information/General Information.md
-      - General Information/Admission.md
-      - General Information/School Hours.md
-      - General Information/Suppliers & Vendors.md
-      - General Information/Availabilities.md
+      - Our School/.keep
+      - Our School/About Us.md
+      - Our School/Principal’s Message.md
+      - Our School/Vision, Mission & Values.md
+      - Our School/School Crest, School Motto, School Song.md
+      - Our School/Virtual Tour.md
+      - Our School/School Hours.md
+      - Our School/School Rules and Regulations.md
+      - Our School/Privacy Policy.md
+      - Our Services/.keep
+      - Our Services/Availabilities.md
+      - Our Services/Suppliers & Vendors.md
       - Staff/.keep
       - Staff/School Leaders.md
       - Staff/School Administrative Team & Allied Educators.md
@@ -19,5 +21,3 @@ collections:
       - Staff/Lead & Senior Teachers.md
       - Staff/Teachers.md
       - Staff/Other Teachers.md
-      - Virtual Tour.md
-      - Privacy Policy.md

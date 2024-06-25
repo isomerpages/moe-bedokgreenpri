@@ -3,12 +3,8 @@ collections:
     output: true
     order:
       - Home Based Learning/.keep
-      - Home Based Learning/Home based Learning.md
-      - Home Based Learning/HBL Useful Links.md
       - Discipline.md
       - Student Leadership.md
       - Student Well Being/.keep
       - Student Well Being/Student Well Being.md
       - Student Well Being/Key Programmes.md
-      - Timetable.md
-      - Useful Links.md

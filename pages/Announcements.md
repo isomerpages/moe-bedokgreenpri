@@ -19,8 +19,8 @@ Please click [here](https://www.bedokgreenpri.moe.edu.sg/partners/home-school-pa
 **<u>P1 Orientation 2024</u>** <br>
 Please click [here](https://go.gov.sg/bgpsp12024) to be redirected to the P1 Orientation page. 
 
-**<u>Term 2 Newsletter</u>** <br>
-As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/190324_Term_2_Letter_2024_Final.pdf)
+**<u>Term 3 Newsletter</u>** <br>
+As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked 
 
 **<u>School Calendar</u>** <br>
 Please click [here](/about-us/calendar) to access our school calendar.&nbsp;Thank you.

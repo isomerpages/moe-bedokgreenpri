@@ -66,12 +66,15 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/School Admin &amp; Ops/MR_HAMZAH_BIN_RAHMATHULLA___Copy.jpg">
+</div>
 <p></p>
 <p>Mr Hamzah Bin Rahmathulla</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="hamzah_rahmathulla@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hamzah_rahmathulla@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

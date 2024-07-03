@@ -413,6 +413,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS_WONG_RU_YI_PASSPORT_SIZE.jpg">
+</div>
 <p>Ms Wong Ru Yi</p>
 </td>
 <td rowspan="1" colspan="1">

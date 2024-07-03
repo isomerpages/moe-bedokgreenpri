@@ -80,7 +80,10 @@ variant: tiptap
 <p>Mother Tongue (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/MR_TAY_CHEE_BENG_passport.jpg">
+</div>
+<p>Mr Tay Chee Beng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tay_chee_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chee_beng@schools.gov.sg</a>

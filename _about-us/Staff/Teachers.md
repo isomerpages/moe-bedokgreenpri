@@ -3,7 +3,7 @@ title: Teachers
 permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <h2>Class Form Teachers 2024</h2>
 <table style="minWidth: 50px">
@@ -132,6 +132,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/MS_LUA_YUE_TONG___pp.jpg">
+</div>
 <p>Miss Lua Yue Tong</p>
 </td>
 <td rowspan="1" colspan="1">

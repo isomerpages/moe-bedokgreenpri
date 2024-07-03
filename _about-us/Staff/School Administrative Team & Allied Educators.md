@@ -3,7 +3,7 @@ title: School Administrative Team & Allied Educators
 permalink: /about-us/staff/school-administrative-n-allied-educators/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <h2>Administrative Team</h2>
 <table style="minWidth: 75px">
@@ -73,7 +73,8 @@ variant: markdown
 <p>Mr Hamzah Bin Rahmathulla</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="hamzah_rahmathulla@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hamzah_rahmathulla@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

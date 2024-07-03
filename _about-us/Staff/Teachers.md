@@ -224,6 +224,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/MR_TAY_CHEE_BENG_passport.jpg">
+</div>
 <p>Mr Tay Chee Beng</p>
 </td>
 <td rowspan="1" colspan="1">

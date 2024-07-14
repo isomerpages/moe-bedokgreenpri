@@ -3,7 +3,7 @@ title: Teachers
 permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <h2>Class Form Teachers 2024</h2>
 <table style="minWidth: 50px">
@@ -1382,6 +1382,18 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="khoo_kar_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kar_hoe@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hafiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="hafiz_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafiz_mohamad@schools.gov.sg</a>
 </p>
 </td>
 </tr>

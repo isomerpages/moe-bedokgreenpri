@@ -130,10 +130,6 @@ School Dental Clinic
 
 **The Dental Clinic will be open every alternate week.**
 
-**July 2024 Schedule:** 
-*   8 July - 12 July 2024
-*   22 July - 26 July 2024
-
 If you require any urgent dental treatment and the clinic is closed, please contact one of the following clinics for assistance:
 
 *   **Junyuan Primary School:** 8940 3520
@@ -141,4 +137,3 @@ If you require any urgent dental treatment and the clinic is closed, please cont
 *   **St. Stephen’s Primary School:** 9112 2045
     
 *   **Yu Neng Primary School:** 8338 6574
-

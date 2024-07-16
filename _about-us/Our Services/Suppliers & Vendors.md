@@ -119,4 +119,21 @@ There are 8 food stalls in the school canteen. The respective menu and prices of
 | 5 | The Japanese Food | [Stall 5](/files/Stall_5_Menu_2024.pdf) |
 | 6 | Asian Food Paradise (Halal) | [Stall 6](/files/Stall_6_Menu_2024.pdf) |
 | 7 | Western Food | [Stall 7](/files/Canteen%20Menu%202024/Stall_7_Menu_2024.pdf)|
-| 8 | Cold Drinks &amp; Fruits | [Stall 8](/files/Stall%208.pdf)&nbsp;&nbsp; |
+| 8 | Cold Drinks &amp; Fruits | [Stall 8]  
+
+School Dental Clinic
+====================
+
+**Clinic contact number:** 8940 0687  
+**Operating hours:** 8:00 am to 5:30 pm  
+**Lunch break:** 1:00 pm to 2:00 pm
+
+**The Dental Clinic will be open every alternate week.**
+
+If you require any urgent dental treatment and the clinic is closed, please contact one of the following clinics for assistance:
+
+*   **Junyuan Primary School:** 8940 3520
+    
+*   **St. Stephen’s Primary School:** 9112 2045
+    
+*   **Yu Neng Primary School:** 8338 6574

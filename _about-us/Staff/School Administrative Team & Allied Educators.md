@@ -29,6 +29,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 31%;" height="auto" width="100%" alt="" src="/images/MS_NUR_FATHIAH_BINTE_ABDUL_MALIK.jpg">
+</div>
+<p>Mdm Nur Fathiah Binte Abdul Malik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_fathiah_abdul_malik_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fathiah_abdul_malik_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">

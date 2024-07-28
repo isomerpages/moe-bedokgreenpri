@@ -1357,6 +1357,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/MDM_KAVITHA_RAMASAMY.jpg">
+</div>
+<p>Mdm Kavitha Ramasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ramasamy_kavitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ramasamy_kavitha@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">

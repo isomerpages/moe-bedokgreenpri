@@ -3,7 +3,7 @@ title: Teachers
 permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <h2>Class Form Teachers 2024</h2>
 <table style="minWidth: 50px">
@@ -1216,6 +1216,7 @@ variant: markdown
 </tbody>
 </table>
 <h4>Primary 5 Teachers</h4>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1361,14 +1362,17 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/MDM_KAVITHA_RAMASAMY.jpg">
+<img style="width:35%; margin:0;>
+</div>
+<p>Mdm Kavitha Ramasamy</p>
+</td>
+<td colspan=" height="auto" width="100%" alt="" src="/images/MDM_KAVITHA_RAMASAMY.jpg">
 </div>
 <p>Mdm Kavitha Ramasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ramasamy_kavitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ramasamy_kavitha@schools.gov.sg</a>
+<p><a href="mailto:ramasamy_kavitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ramasamy_kavitha@schools.gov.sg</u></a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>

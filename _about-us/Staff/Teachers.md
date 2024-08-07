@@ -129,21 +129,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/MS_LUA_YUE_TONG___pp.jpg">
-</div>
-<p>Miss Lua Yue Tong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lua_yue_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lua_yue_tong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">

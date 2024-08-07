@@ -1396,7 +1396,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Edited_MR_HAFIZ_BIN_MOHAMAD.jpg">
+<img style="width: 40%; margin:0;" height="auto" width="100%" alt="" src="/images/Edited_MR_HAFIZ_BIN_MOHAMAD.jpg">
 </div>
 <p>Mr Hafiz</p>
 </td>

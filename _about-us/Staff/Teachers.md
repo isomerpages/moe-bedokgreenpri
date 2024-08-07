@@ -1392,10 +1392,14 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+	</td><td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%; margin:0;" height="auto" width="100%" alt="" src="/images/Mohamad_Taib.jpg">
+</div>
+<p>Mr Hafiz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hafiz</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="hafiz_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafiz_mohamad@schools.gov.sg</a>

@@ -3,7 +3,7 @@ title: Teachers
 permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
-variant: tiptap
+variant: markdown
 ---
 <h2>Class Form Teachers 2024</h2>
 <table style="minWidth: 50px">
@@ -124,21 +124,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheyanne_lee_gan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheyanne_lee_gan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/MS_LUA_YUE_TONG___pp.jpg">
-</div>
-<p>Miss Lua Yue Tong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lua_yue_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lua_yue_tong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1410,6 +1395,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%; margin:0;" height="auto" width="100%" alt="" src="/images/Edited_MR_HAFIZ_BIN_MOHAMAD.jpg">
+</div>
 <p>Mr Hafiz</p>
 </td>
 <td rowspan="1" colspan="1">

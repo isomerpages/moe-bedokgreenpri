@@ -167,7 +167,8 @@ variant: tiptap
 <p>Mrs Dulcy John</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:dulcy_john@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dulcy_john@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

@@ -2,6 +2,7 @@ collections:
   bgps-experience:
     output: true
     order:
+      - Total Curriculum Framework/PE, Art and Music (PAM).md
       - Total Curriculum Framework/ICT for Learning.md
       - Total Curriculum Framework/.keep
       - Student Development/Key Programmes.md

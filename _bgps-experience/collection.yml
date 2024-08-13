@@ -2,6 +2,7 @@ collections:
   bgps-experience:
     output: true
     order:
+      - Total Curriculum Framework/English Language.md
       - Total Curriculum Framework/Mother Tongue Languages.md
       - Total Curriculum Framework/Mathematics.md
       - Total Curriculum Framework/Science.md

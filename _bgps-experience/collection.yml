@@ -2,14 +2,14 @@ collections:
   bgps-experience:
     output: true
     order:
-      - Total Curriculum Framework/Student Leadership.md
+      - Total Curriculum Framework/.keep
       - Total Curriculum Framework/English Language.md
       - Total Curriculum Framework/Mother Tongue Languages.md
       - Total Curriculum Framework/Mathematics.md
       - Total Curriculum Framework/Science.md
       - Total Curriculum Framework/PE, Art and Music (PAM).md
       - Total Curriculum Framework/ICT for Learning.md
-      - Total Curriculum Framework/.keep
+      - Total Curriculum Framework/Student Leadership.md
       - Student Development/Key Programmes.md
       - Student Development/Student Well Being.md
       - Student Development/Discipline.md

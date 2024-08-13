@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Total Curriculum Framework/.keep
+      - Student Development/Key Programmes.md
       - Student Development/Student Well Being.md
       - Student Development/Student Leadership.md
       - Student Development/Discipline.md

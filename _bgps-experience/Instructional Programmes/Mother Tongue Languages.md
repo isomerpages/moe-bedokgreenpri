@@ -57,7 +57,6 @@ characters. Additionally, they will learn to effectively express emotions
 in their writing. The aim is to foster confident, expressive writers who
 can articulate their thoughts and creativity through the written word.</p>
 <p></p>
-<h3>Primary 3 - Primary 5 Tamil Language Poetry Writing</h3>
 <p></p>
 <h3>Mother Tongue Celebrations</h3>
 <h4>1. Chinese New Year Celebrations</h4>

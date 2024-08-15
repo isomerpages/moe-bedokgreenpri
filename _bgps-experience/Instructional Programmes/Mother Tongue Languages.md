@@ -203,12 +203,3 @@ understand and appreciate Chinese/Malay culture and values. Students are
 given the platform to learn and communicate (listen and speak) on everyday
 situations in the language and understand as well as provide responses
 to conversations or verbal narratives on selected issues.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>

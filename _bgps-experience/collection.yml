@@ -2,22 +2,25 @@ collections:
   bgps-experience:
     output: true
     order:
-      - English Language.md
-      - Mother Tongue Languages.md
-      - Mathematics.md
-      - Science.md
-      - PE, Art and Music (PAM).md
+      - Instructional Programmes/.keep
+      - Instructional Programmes/English Language.md
+      - Instructional Programmes/Mother Tongue Languages.md
+      - Instructional Programmes/Mathematics.md
+      - Instructional Programmes/Science.md
+      - Instructional Programmes/PE, Art and Music (PAM).md
+      - Instructional Programmes/ICT for Learning.md
+      - CCE/.keep
+      - CCE/National Education Social Studies (NESS).md
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Positive Discipline & Student Leadership.md
+      - CCE/Student Well Being.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Visual and Performing Arts.md
       - Co Curricular Activities (CCA)/Uniformed Groups.md
       - Co Curricular Activities (CCA)/Physical Sports.md
       - Co Curricular Activities (CCA)/Clubs and Societies.md
       - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
-      - CCE/.keep
-      - CCE/Character and Citizenship Education (CCE).md
-      - CCE/Values In Action (VIA).md
-      - CCE/National Education Social Studies (NESS).md
-      - ICT for Learning.md
       - Signature Programmes/.keep
       - Signature Programmes/Lifelong Learning Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md
+      - Customised Student Programmes/.keep

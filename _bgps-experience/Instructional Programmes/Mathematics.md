@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
 variant: markdown
+third_nav_title: Instructional Programmes
 ---
 **Vision** <br>
 To Be Analytical Thinkers and Problem Solvers

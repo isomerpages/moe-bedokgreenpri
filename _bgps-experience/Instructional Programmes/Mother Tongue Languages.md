@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /curriculum/mother-tongue-languages/
 description: ""
+third_nav_title: Instructional Programmes
 ---
 **Vision** <br>
 Empowered Learners, Confident, Joyful and Proficient Communicators of the Mother Tongue Language

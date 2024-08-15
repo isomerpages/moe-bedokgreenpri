@@ -2,6 +2,7 @@
 title: Science
 permalink: /curriculum/science/
 description: ""
+third_nav_title: Instructional Programmes
 ---
 #### **Vision**&nbsp;<br>
 A scientist in every student

@@ -3,6 +3,7 @@ title: PE, Art and Music (PAM)
 permalink: /curriculum/pe-art-and-music-pam/
 description: ""
 variant: markdown
+third_nav_title: Instructional Programmes
 ---
 **Vision** <br>
 Healthy body, fit-for-life &amp; every child engaged in the visual and performing arts

@@ -2,6 +2,7 @@
 title: ICT for Learning
 permalink: /curriculum/ict-for-learning/
 description: ""
+third_nav_title: Instructional Programmes
 ---
 ##### Vision
 

@@ -3,8 +3,4 @@ collections:
     output: true
     order:
       - Home Based Learning/.keep
-      - Discipline.md
-      - Student Leadership.md
       - Student Well Being/.keep
-      - Student Well Being/Student Well Being.md
-      - Student Well Being/Key Programmes.md

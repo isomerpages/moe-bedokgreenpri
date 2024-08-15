@@ -3,289 +3,103 @@ title: Mother Tongue Languages
 permalink: /curriculum/mother-tongue-languages/
 description: ""
 third_nav_title: Instructional Programmes
+variant: tiptap
 ---
-**Vision** <br>
-Empowered Learners, Confident, Joyful and Proficient Communicators of the Mother Tongue Language
-
-**Mission** <br>
-To nurture students to be effective communicators and passionate learners of their Mother Tongue Language.
-
-Key Programmes
---------------
-<br> 
-
-**MTL Champions**  
-
-  
-
-MTL Champions who shows leadership capacity are identified to serve the school community. They assist the teachers to lead reading activities and help teachers in the running of internal language competition. They also promote the MT Language by designing the noticeboard in school.&nbsp;
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/grp%20discussion%201.jpeg" alt="grp discussion 1" style="width:75%;">  
-  
-
-
+<p><strong>Vision</strong> 
+<br>Empowered Learners, Confident, Joyful and Proficient Communicators of
+the Mother Tongue Language</p>
+<p><strong>Mission</strong> 
+<br>To nurture students to be effective communicators and passionate learners
+of their Mother Tongue Language.</p>
+<h2>Key Programmes</h2>
+<h3>Mother Tongue Language Structured Reading Programme</h3>
+<p>The Mother Tongue Language (MTL) Reading Programme is an integral part
+of our language curriculum, designed to promote the joy of reading. Through
+teacher-guided reading sessions, students are engaged with captivating
+stories. From designing bookmarks to making of little books, students have
+numerous opportunities to express their creativity after reading. Additionally,
+we share stories and books recommendation through SLS to motivate and inspire
+our young readers.</p>
+<p></p>
+<h3>Mother Tongue Language Fortnight</h3>
+<p>Mother Tongue Language (MTL) Fortnight aims to create an immersive environment
+for learning and appreciating Mother Tongue Languages and Cultures. Students
+are exposed to a wide variety of activities such as Chinese Brush Painting,
+traditional Malay costumes, and Indian musical instruments during these
+two eventful weeks, with the hope that these culturally rich activities
+would deepen our students’ understanding of their cultural roots and promote
+the learning of MTL in a fun and engagement way.</p>
+<h3>Primary 4 Mother Tongue Cultural Camps</h3>
+<p>The Cultural Activities aim to provide an immersive environment for students
+to learn and use the Mother Tongue Languages as well as to appreciate its
+Culture though hands-on activities.</p>
+<p></p>
+<h3>Higher Mother Tongue Programmes</h3>
+<p>The school provides the Higher Mother Tongue (HMT) programme for eligible
+students from Primary 5 to Primary 6. Additionally, selected students in
+Primary 3 and 4 who demonstrate aptitude and interest are offered the HMT
+Language programme. To enhance the learning journey of HMT students, we
+offer enriched experiences that challenge and expand their language proficiency.</p>
+<p></p>
+<h4>Primary 3 Chinese Language Little Reporter</h4>
+<p>Little Reporter Programme is designed to help our Higher Chinese Language
+students further develop their skills in communication, collaboration,
+as well as 21st Century Competencies such as critical, adaptive, and inventive
+thinking. The programme will consist of seven sessions which include learn
+about the basic tasks of a reporter, develop speaking and writing skills,
+conduct interviews on specific topics, and finally complete a report.</p>
+<p></p>
+<h3>Primary 5 Malay Language Writer‘s Club</h3>
+<p>The Malay Language Writer's Club Programme is designed for students with
+a flair for writing. Participants will receive training in crafting compelling
+narrative essays, focusing on developing ideas through setting, plot, and
+characters. Additionally, they will learn to effectively express emotions
+in their writing. The aim is to foster confident, expressive writers who
+can articulate their thoughts and creativity through the written word.</p>
+<p></p>
+<h3>Primary 3 - Primary 5 Tamil Language Poetry Writing</h3>
+<p></p>
+<h3>Mother Tongue Celebrations</h3>
+<h4>1. Chinese New Year Celebrations</h4>
+<p>At BGPS, the Chinese New Year Celebrations serve as a valuable platform
+for educating students about the traditions, customs, and cultural significance
+of this important festival. This initiative aims to deepen students' understanding
+and appreciation of Singapore's rich cultural heritage. In line with our
+school's core value of compassion, BGPS collaborates with charity organisations
+for the Hongbao donation drive, nurturing in our students a sense of empathy
+and a spirit of generosity towards the less fortunate in our community.</p>
+<h4>2. Hari Raya Celebrations</h4>
+<p>Hari Raya @BGPS was an enriching experience where our students delved
+deep into the significance and cultural richness of this auspicious occasion.
+For a Hari Raya pre-event activity, students used the SLS platform to learn
+about the significance of fasting and celebrating Hari Raya. They explored
+traditional Hari Raya foods, songs, and participated in engaging recess
+activities to immerse themselves in the customs. Students enjoyed the all-time
+favorite kuihs, traditional attire, and a popular photobooth. The festivities
+continued by combining the assembly with International Friendship Day,
+offering insights into Hari Raya celebrations across ASEAN countries, fostering
+cultural understanding and appreciation among students.</p>
+<h4>3. Deepavali Celebrations</h4>
+<p>Deepavali, also known as Diwali, is a vibrant and joyous festival celebrated
+by Hindus around the world. In Singapore, Deepavali is a time of festivity,
+symbolising the triumph of light over darkness and good over evil. In primary
+schools, Deepavali is an occasion to celebrate diversity, promote cultural
+understanding, and educate students about the significance of the festival.</p>
+<h3>Conversational Chinese and Malay Programme</h3>
+<p>The Conversational Chinese/Malay Programme (CCM) is an enrichment programme
+for non-Chinese/non-Malay pupils who are interested in learning Chinese/Malay
+language and its culture. Learning Conversational Chinese/Malay provides
+students with the facility to communicate with their peers, and to better
+understand and appreciate Chinese/Malay culture and values. Students are
+given the platform to learn and communicate (listen and speak) on everyday
+situations in the language and understand as well as provide responses
+to conversations or verbal narratives on selected issues.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/presentation%202.jpeg" alt="presentation 2" style="width:75%;">  
-  
-
-
-* * *
-
-**Reading Programme**
-
-  
-
-The reading programme aims to develop student's interest in learning. Guided reading and reading activities are carried out. MT Champion assists teachers to carry out reading activities or competitions to encourage students to read.
-
-[Chinese Reading Programme](/curriculum/mother-tongue-languages/chinese-language)
-
-[Malay Reading Programme](/curriculum/mother-tongue-languages/malay-language)
-
-[Tamil Reading Programme](/curriculum/mother-tongue-languages/tamil-language)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/IMG20200921163615.jpeg" alt="Reading Programme" style="width:75%;">  
-  
-
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Slide11.jpeg" alt="Reading Programme" style="width:75%;">  
-  
-
-
-<br>
-
-  
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Slide13.jpeg" alt="Reading Programme" style="width:75%;">  
-  
-
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Slide15.jpeg" alt="Reading Programme" style="width:75%;">  
-  
-
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Slide_7.jpeg" alt="School" style="width:75%;">  
-  
-
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/students%20enjoying%201.jpeg" alt="School" style="width:75%;">  
-  
-
-
-<br> 
-
-
-  
-
-#### MT Fortnight
-
-  
-
-The MTL Fortnight activities are designed to expose students to different cultural aspect of the Mother Tongue languages while exposing pupils to the authentic use of language. Different levels of the pupils will engage in different activities. At the end of their 6 years, they will be exposed to different aspects of the culture. Some activities are designed using S.T.R.E.A.M. It is a comprehensive, unique and holistic educational approach that integrates Science, Technology, Reading, Engineering, Arts and Mathematics into the teaching and learning process. This approach allows the students to apply their learning in real life situations.&nbsp;  
-
-The table below shows the different activities for each level:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6bzh{background-color:#ffffff;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fdoi{color:#081A4A;text-align:left;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ysz0{background-color:#dddddd;text-align:left;vertical-align:top}
-.tg .tg-8i02{color:#081A4A;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-6bzh"></th>
-    <th class="tg-feqv"><span style="font-weight:700;font-style:normal">Chinese Language</span></th>
-    <th class="tg-feqv"><span style="font-weight:700;font-style:normal">Malay Language</span></th>
-    <th class="tg-ysz0"><span style="font-weight:700;font-style:normal">Tamil Language</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fdoi">Primary 1</td>
-    <td class="tg-8i02">(i) Tongue Twister<br>(ii) S.T.R.E.A.M (Rocket Launcher)<br>(iii) Introduction to Mooncake Festival</td>
-    <td class="tg-8i02">(i) Malay Traditional Children Song (Lagu tradisional kanak-kanak)<br>(ii) Batu Seremban</td>
-    <td class="tg-fdoi">Panchathantra Kathigal</td>
-  </tr>
-  <tr>
-    <td class="tg-fdoi">Primary 2</td>
-    <td class="tg-8i02">(i) Nursery Rhymes<br>(ii) Introduction to Dumpling Festival<br>(iii) S.T.R.E.A.M (Balloon Driven Dragon Boat)</td>
-    <td class="tg-8i02">(i) Speech and Drama - Traditional Malay Children Story (Penglipur Lara Cerita Kit)<br>(ii) Batu Seremban</td>
-    <td class="tg-8i02">Folk Dance<br>Persons of Fames</td>
-  </tr>
-  <tr>
-    <td class="tg-fdoi"> Primary 3</td>
-    <td class="tg-8i02">(i) Gu Zheng<br>(ii) Learning about Hungry Ghost Festival <br>(iii) S.T.R.E.A.M (Rainbow Disc)</td>
-    <td class="tg-8i02"> (i) Poetry/Lyrics Writing - Leftenan Adnan (Kursus Sajak)<br>(ii) Gasing/Capteh</td>
-    <td class="tg-fdoi"> Paavayin Parvaniyil (Puppetry)</td>
-  </tr>
-  <tr>
-    <td class="tg-fdoi">Primary 4 </td>
-    <td class="tg-8i02">(i) Chinese Shadow Puppetry Making and Drama<br>(ii) S.T.R.E.A.M (Puppet Theater)<br>(iii) Peking Opera Show </td>
-    <td class="tg-fdoi"> (i) Hosting Workshop (Pengacara / Kem TV)<br></td>
-    <td class="tg-fdoi">Villupattu</td>
-  </tr>
-  <tr>
-    <td class="tg-fdoi"> Primary 5</td>
-    <td class="tg-8i02">(i) Chinese Painting Workshop<br>(ii) S.T.R.E.A.M (whales) </td>
-    <td class="tg-8i02">(i) Debate (Bahas)<br>(ii) Lambung Kain </td>
-    <td class="tg-fdoi">Therukoothu  </td>
-  </tr>
-  <tr>
-    <td class="tg-fdoi"> Primary 6</td>
-    <td class="tg-8i02">(i) Jeopardy Game<br>(ii) Chinese Chess<br>(iii) S.T.R.E.A.M (Motorised Boat)<br>(iv) River Safari Trail</td>
-    <td class="tg-fdoi">(i) Melukis Batik (Batik Painting) </td>
-    <td class="tg-fdoi"> Parai Adital</td>
-  </tr>
-</tbody>
-</table>
-
-Details of the respective MTL Fortnight Activities for the different language can be found in the respective MTL Fortnight newsletter below.  
-
-**FILM (Fun in Learning Mother Tongue)**
-
-FILM was an initiative that started out in 2020 with the aim of sharing activities that enable both parent and child to participate to further inculcate and nurture the child's interest in the MTL. As such, the MTL Department would like to continue promoting such learning between parents and students through a repository of parent-child activities for language skills.&nbsp;
-
-
-* * *
-
-**Higher Mother Tongue&nbsp;**
-
-The school offers Higher Mother Tongue for students who meet the criteria in Primary 5 and 6. We also offer Higher Chinese Language to selected students who shows capacity and interest in Primary 3 and 4.  
-
-* * *
-
-**SHINE&nbsp;**
-
-  
-
-Through various internal competitions, students deepen their interest in the learning of their language.  
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; width: 815px; height: 105px;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 814px; border: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" colspan="3" width="623"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;"><b style="margin: 0px; outline: 0px; padding: 0px;">Chinese</b></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: rgb(231, 230, 230);" valign="top" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Skills</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Level</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Competition / Platforms</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" rowspan="2" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Reading</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P1 – P6 CL</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Reading Competitions (Craft or Book Reviews)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P1 – P6 CL</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Text Recital Competition</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Writing</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P3 – P6 CL</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Composition Competition</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" rowspan="3" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Oral</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P1 CL</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Singing Competition</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P2 CL</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Poem Recital Composition</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P3 – P5 CL</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Story Telling Competition</span></p></td></tr></tbody></table>
-
-  
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; width: 815px; height: 148px;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 814px; border: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" colspan="3" width="623"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;"><b style="margin: 0px; outline: 0px; padding: 0px;">Malay</b></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: rgb(231, 230, 230);" valign="top" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Skills</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Level</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Competition / Platforms</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" rowspan="4" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Reading</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P1 – P2</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Choral Reading and Singing Competition</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P3 – P4</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Poetry Reading</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P5 – P6</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Script Reading</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P1 – P6</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Spelling Bee Competition</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" rowspan="2" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Writing</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P3 – P4</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Creative Writing (Poem (Pantun) Competition)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P5 – P6</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Essay Writing Competition</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" rowspan="3" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Oral</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P1 – P2</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Show and Tell</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P3 – P4</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Berpantun, Bersyair</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P5 – P6</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Pidato Competition</span></p></td></tr></tbody></table>
-
-  
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; width: 815px; height: 136px;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 814px; border: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" colspan="3" width="623"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;"><b style="margin: 0px; outline: 0px; padding: 0px;">Tamil</b></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: rgb(231, 230, 230);" valign="top" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Skills</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Level</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: rgb(231, 230, 230);" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Competition / Platforms</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Oral</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P1</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Story Telling Competition</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Oral</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P2</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Singing Competition with A Recycled Musical Instrument</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Writing and Reading</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P3</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Readers Theatre – groups of 3</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="90"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Oral Writing and Oral ICT</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 99pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="132"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P4</span></p><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P5</span></p><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">P6</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 301.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="402"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">Poetry Recitation – Haiky &amp; Poem of Famous Tamil Poets</span></p><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; font-size: 1rem !important; font-family: Rubik, sans-serif !important;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-family: Verdana, sans-serif; font-size: 1rem !important;">One Act Play / Create a Video on a Given Topic &amp; upload in Padlet</span></p></td></tr></tbody></table>
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/58393585-0000-44b1-8ed3-0992461341dd.jpeg" alt="SHINE" style="width:75%;">  
-  
-
-
-<br>  
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/IMG-20190305-WA0010.jpeg" alt="SHINE" style="width:75%;">  
-  
-
-<br> 
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/SHINE.jpeg" alt="SHINE" style="width:75%;">  
-  
-
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/IMG-20190305-WA0012%20-%20Copy.jpeg" alt="SHINE" style="width:75%;">
+</p>
+<p></p>

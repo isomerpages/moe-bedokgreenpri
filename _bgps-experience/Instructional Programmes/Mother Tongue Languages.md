@@ -20,8 +20,42 @@ stories. From designing bookmarks to making of little books, students have
 numerous opportunities to express their creativity after reading. Additionally,
 we share stories and books recommendation through SLS to motivate and inspire
 our young readers.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_29_at_3_28_10_PM.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_29_at_3_28_09_PM.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_30_at_16_07_15.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_30_at_16_07_15__1_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Mother Tongue Language Fortnight</h3>
 <p>Mother Tongue Language (MTL) Fortnight aims to create an immersive environment
 for learning and appreciating Mother Tongue Languages and Cultures. Students
@@ -30,10 +64,41 @@ traditional Malay costumes, and Indian musical instruments during these
 two eventful weeks, with the hope that these culturally rich activities
 would deepen our students’ understanding of their cultural roots and promote
 the learning of MTL in a fun and engagement way.</p>
+<p></p>
 <h3>Primary 4 Mother Tongue Cultural Camps</h3>
 <p>The Cultural Activities aim to provide an immersive environment for students
 to learn and use the Mother Tongue Languages as well as to appreciate its
 Culture though hands-on activities.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3>Higher Mother Tongue Programmes</h3>
 <p>The school provides the Higher Mother Tongue (HMT) programme for eligible
@@ -68,6 +133,28 @@ and appreciation of Singapore's rich cultural heritage. In line with our
 school's core value of compassion, BGPS collaborates with charity organisations
 for the Hongbao donation drive, nurturing in our students a sense of empathy
 and a spirit of generosity towards the less fortunate in our community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_09_at_10_58_40_AM.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_09_at_10_22_45_AM.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4>2. Hari Raya Celebrations</h4>
 <p>Hari Raya @BGPS was an enriching experience where our students delved
 deep into the significance and cultural richness of this auspicious occasion.
@@ -79,6 +166,28 @@ favorite kuihs, traditional attire, and a popular photobooth. The festivities
 continued by combining the assembly with International Friendship Day,
 offering insights into Hari Raya celebrations across ASEAN countries, fostering
 cultural understanding and appreciation among students.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_30_at_15_59_31.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_30_at_15_55_59.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4>3. Deepavali Celebrations</h4>
 <p>Deepavali, also known as Diwali, is a vibrant and joyous festival celebrated
 by Hindus around the world. In Singapore, Deepavali is a time of festivity,

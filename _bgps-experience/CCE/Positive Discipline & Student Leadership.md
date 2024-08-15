@@ -31,15 +31,25 @@ GRACE is a guiding principle that permeates our school culture, encouraging stud
 Our student leadership program is a comprehensive and innovative approach to developing young leaders. The program consists of four key components: Design Thinking, the Student Leadership Challenge Trainings, Student Ambassador training with SMRT and Home Visit Exchange Programme. 
 
 ##### Design Thinking 
+![](/images/DT_2.jpg)
+
+![](/images/DT_1.jpg)
+
 The Design Thinking component encourages students to think creatively and develop solutions to real-world problems. Through workshops and projects, students learn to empathize, ideate, prototype, and test their ideas, fostering a mindset of innovation and experimentation.
 
 ##### The Student Leadership Challenge
+![](/images/SLC_1.jpg)
+
+![](/images/SLC_2.jpg)
+
 The Student Leadership Challenge training equips students with the skills and knowledge to become effective leaders. Based on the acclaimed book "The Leadership Challenge" by Kouzes and Posner, this training focuses on five key practices: Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act, and Encourage the Heart.
 
 ##### Student Ambassador training with SMRT
 As student ambassadors, students are trained to enhancing the commuter experience by providing assistance and support to passengers on SMRT trains and stations such as providing directions and information, assisting with luggage or mobility needs, and even simply offering a smile and a kind word to brighten someone's day. By being proactive and approachable, the students aim to create a more positive and supportive environment for all commuters, making their daily travels more enjoyable and stress-free. 
 
 ##### Home Visit Exchange Programme 
+![](/images/Home_Visit_1.jpg)
+
 The Home Visit Exchange Programme provides a unique opportunity for students to connect with their peers from The Japanese School, Singapore. Through home visits and cultural exchanges, students develop empathy, understanding, and global perspectives, broadening their horizons and fostering lifelong friendships.
 
 These interconnected programs empower our student leaders to become confident, creative, and compassionate leaders, equipped to make a positive impact in their communities and beyond. By integrating design thinking, leadership skills, and cultural exchange, we aim to nurture a new generation of leaders who will shape the future with vision, courage, and heart.

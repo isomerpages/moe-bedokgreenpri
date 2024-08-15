@@ -8,7 +8,6 @@ variant: tiptap
 <h4><strong>Vision</strong>&nbsp;<br></h4>
 <p>A scientist in every student</p>
 <p></p>
-<h2>Customising curriculum to deepen student’ learning using the Expose-Enrich-Excel approach</h2>
 <p></p>
 <p></p>
 <h2>Inquiry based learning</h2>

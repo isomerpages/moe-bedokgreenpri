@@ -5,16 +5,25 @@ description: ""
 variant: markdown
 third_nav_title: CCE
 ---
-### Overview of CCE@BGPS
+#### Objectives:
 
-CCE is integral to the holistic development of the students at BGPS. We are guided by the school values and school motto 'Persevere and Succeed' to help students realise the vision of being Empowered Learners, Persons of Strength and Character. This is in line with the school's mission where we want to bring out every child's personal best. <br>
+Inculcate values and build social-emotional competencies with 7 habits in our students to develop them to be good individuals and active citizens.
 
-![](/images/CCE%202021%20Curriculum%20Frame.png)
+#### Key Programmes / Activities:
+##### The Leader in Me
+The Leader in Me (7 Habits of Highly Effective People) is used as an approach to develop   self-leadership in our students. Explicit teaching of the 7 habits are taught during level-based assembly talks and    through   designated 7 Habits periods for the Primary 1 and 2. For Primary 3 to Primary 6, students learn the 7 Habits via integration in the different subjects and CCE content areas. 7 Habits posters with developmentally appropriate descriptors are placed in classrooms to aid  students' understanding and application of these principles.
 
-In BGPS, CCE is integrated and infused in both curriculum and co-curriculum programmes for an overall school experience of the students. 
+##### Star Awards
+The Star Awards are given out to deserving students who have demonstrated the school values of Responsibility, Integrity, Resilience, Compassion and Respect through their words and actions. Students will receive a value collar pin and a certificate of commendation.
+
+##### CCE (FTGP) Lessons
+CCE (FTGP) lessons involve the explicit teaching and learning of fundamental social-emotional skills which are anchored on values and citizenship dispositions. The activities, reflections and discussions during the lessons also help strengthen positive Teacher-Student Relationships (TSR) and build supportive peer relationships. Topics related to the  six CCE content areas - Cyber Wellness, Education and Career Guidance, Family Education, Mental Health, National Education, and Sexuality Education  are explored and discussed in a developmentally appropriate manner during the lessons. Curriculum time is set aside within CCE (FTGP) lessons for the four NE Commemorative Days  
+
+During CCE (FTGP) lessons, time is also allocated for P3-P6 students to plan and implement projects where they can contribute to school and community. Through these opportunities, students learn to reflect on their experience, put values into practice and think about how they can continue to contribute meaningfully. Besides the level-based VIA, students are given everyday responsibilities in the class so that they develop a sense of responsibility and care for their own shared spaces.
 
 
-### CCE Programmes
+##### MOE Sexuality Education in Schools
+Sexuality Education (SEd) lessons are taught in CCE (FTGP) at Primary 5 and 6.  Students  learn about physiological, social, and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 **MOE Sexuality Education in Schools**
 

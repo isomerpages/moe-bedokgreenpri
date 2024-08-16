@@ -113,3 +113,43 @@ kindness</p>
 character can be thankful for. Independently, students also work on acrostic
 poems and crossword puzzles to do with gratitude.</p>
 <p></p>
+<h3>Empowered To Read Too (ETRT)</h3>
+<p>The Empowered To Read Too (ETRT) Programmes is implemented at Primary
+1 and Primary 2 to providing literacy support for students not placed in
+the Learning Support Programme but still struggling to read independently.
+The programme aims to enable students to be fluent readers by using games
+and grade-appropriate texts to teach recognition of high frequency words
+and reading fluency. Lessons are conducted daily by EL trained teachers
+for 30 minutes per session. Students’ progress are monitored regularly.</p>
+<p></p>
+<h3>Learning Support Programme (LSP)</h3>
+<p>LSP is a specialised early intervention programme meant to provide support
+to children entering P1 with weak English language and literacy skills.
+Students are identified through the Early Literacy Indicators, a group
+screening instrument developed by MOE, at the beginning of each year. LSP
+Lessons are conducted daily for 30 minutes per session. LSP is taught by
+qualified Learning Support Coordinators (LSCs) who have been trained by
+MOE HQ to implement the programme.</p>
+<p></p>
+<h3>School-based Dyslexia Remediation Programme (SDR)</h3>
+<p>The School-based Dyslexia Remediation (SDR) programme is a two-year intervention
+programme for Primary 3 and 4 students. These students are identified for
+support through a systematic screening process for dyslexia conducted at
+the end of the Primary 2 Learning Support Programme. The programme aims
+to enable students to read and spell independently and to understand a
+variety of texts using comprehension strategies.</p>
+<h3>Reading Remediation Programme (RRP)</h3>
+<p>The Reading Remediation Programme (RRP) is a literacy support programme
+implemented at Primary 3 and Primary 4 to support students with reading
+difficulties but who do not have dyslexia. Lessons are conducted twice
+a week outside of curriculum hours. The duration of each lesson is 45 minutes.
+During the lessons, students will learn various strategies to help them
+in word recognition, oral reading fluency and reading comprehension.</p>
+<p>The Primary 5 Reading Remediation Programme (P5 RRP) is a&nbsp;<strong>structured approach&nbsp;</strong>for
+providing&nbsp;<strong>remediation </strong>to low progress learners taking
+Standard English Language, to enable them to read&nbsp;<strong>with fluency&nbsp;</strong>and<strong>&nbsp;understanding.</strong>&nbsp;It
+also ensures continuity of support for students in P4 RRP and School-based
+Dyslexia Remediation Programme (SDR) taking Standard EL who are still facing
+reading difficulties.</p>
+<p></p>
+<p></p>

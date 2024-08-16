@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Vision</h4>
 <p>To develop future-ready and responsible digital learners with skills to
 navigate, curate, collaborate in the digital world.</p>
-<h4>Mission </h4>
+<h4>Mission</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To equip pupils with the required ICT skills as well as imbuing them with
@@ -173,7 +173,6 @@ Our Stories.</p>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan</a>
 </p>
-<p>&nbsp;</p>
 <p><strong>Digital Access @ Home site:</strong>
 </p>
 <p><em>DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.</em>

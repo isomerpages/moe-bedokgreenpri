@@ -3,7 +3,7 @@ title: Teachers
 permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <h2>Class Form Teachers 2024</h2>
 <table style="minWidth: 50px">
@@ -108,22 +108,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shadelina_mohd_shariffudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shadelina_mohd_shariffudin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/miss%20cheyanne%20lee%20gan.jpg">
-</div>
-<p></p>
-<p>Miss Cheyanne Lee Gan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheyanne_lee_gan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheyanne_lee_gan@schools.gov.sg</a>
 </p>
 </td>
 </tr>

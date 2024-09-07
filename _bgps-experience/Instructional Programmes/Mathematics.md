@@ -30,8 +30,31 @@ of mathematical problems.</p>
 </li>
 </ul>
 <h2>Authentic and Experiential</h2>
-<p><strong>Learning Experiences for Math Conceptual Learning </strong>
+<p><strong>Learning Experiences for Math Conceptual Learning</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Our approach to teaching math is centered around hands-on learning experiences
 that make math both fun and meaningful for our students. We use a variety
 of math manipulatives, such as fraction discs, play money, and other interactive
@@ -43,6 +66,22 @@ need to succeed in their academic journey and beyond.</p>
 <p></p>
 <p><strong>Math@Home Programme</strong>
 </p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Our Math@Home program is designed specifically for lower primary students.
 Math@Home provides an platform for parents and children to connect and
 bond over the holidays through a series of engaging real-world activities
@@ -54,10 +93,55 @@ these activities are crafted to be both educational and fun.</p>
 <p>By integrating math into daily routines, Math@Home helps children see
 the relevance and importance of math in their lives, enhancing their understanding
 and appreciation of the subject.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h2>Tech-enabled&nbsp;</h2>
 <p><strong>Infusion of E-Pedagogy into Mathematics curriculum</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>We enhance student learning through the effective use of e-pedagogy. Our
 curriculum incorporates the use of various apps and technology to support
 and enrich the learning experience. By utilising these tools, we promote
@@ -71,6 +155,22 @@ of mathematical concepts.</p>
 <h2>Future-Oriented:</h2>
 <p><strong>UC3 problem-solving approach</strong>
 </p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_8.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Our problem-solving approach, UC3, is rooted in George Pólya's problem-solving
 principles.</p>
 <p>UC3, which stands for Understand, Choose, Carry out, and Check, is integrated

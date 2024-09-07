@@ -1,5 +1,5 @@
 ---
-title: ICT for Learning
+title: Ed Tech Programmes
 permalink: /curriculum/ict-for-learning/
 description: ""
 third_nav_title: Instructional Programmes

@@ -176,7 +176,8 @@ variant: tiptap
 <p>Mdm Rohani Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rohani_ahmad_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohani_ahmad_c@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

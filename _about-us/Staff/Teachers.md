@@ -113,6 +113,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/ms%20choo%20jia%20en%20audrey.jpg">
+</div>
+<p>Ms Choo Jia En Audrey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:audrey_choo_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_choo_jia_en@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,21 +310,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fazidah_bt_soeratman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fazidah_bt_soeratman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/ms%20choo%20jia%20en%20audrey.jpg">
-</div>
-<p>Ms Choo Jia En Audrey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:audrey_choo_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_choo_jia_en@schools.gov.sg</a>
 </p>
 </td>
 </tr>

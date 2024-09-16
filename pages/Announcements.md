@@ -4,12 +4,6 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-**BGPS E-Open House 2024**<br>
-![](/images/BGPS_E_Open_House_2024.jpg)
-Are you looking for a nurturing and supportive environment for your child who will be starting Primary 1 soon?
-
-BGPS welcomes interested parents to find out more about our school. Click on the link: [https://go.gov.sg/bgpseopenhouse2024](https://go.gov.sg/bgpseopenhouse2024) to be redirected to our e-Open House page. 
-
 **<u>Assessment Information Booklet for Parents</u>** <br>
 For essential information and instructions on assessment matters in the school, please click [here](/files/190124_assessment_information_booklet_2024_final2.pdf)
 
@@ -19,8 +13,8 @@ Please click [here](https://www.bedokgreenpri.moe.edu.sg/partners/home-school-pa
 **<u>P1 Orientation 2024</u>** <br>
 Please click [here](https://go.gov.sg/bgpsp12024) to be redirected to the P1 Orientation page. 
 
-**<u>Term 3 Newsletter</u>** <br>
-As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/BGPS_103_24_Term_3_Letter_2024_Final_Version.pdf)
+**<u>Term 4 Newsletter</u>** <br>
+As part of our efforts to keep you abreast of developments in the school, a copy of the Principal’s Newsletter for the end of term is parked [here](/files/BGPS_147_24_Term_4_Letter_2024_Final_Version.pdf)
 
 **<u>School Calendar</u>** <br>
 Please click [here](/about-us/calendar) to access our school calendar.&nbsp;Thank you.

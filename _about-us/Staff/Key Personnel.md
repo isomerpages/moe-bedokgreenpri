@@ -3,9 +3,14 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -38,7 +43,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English)</p>
+<p>Level Head (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -107,7 +112,6 @@ variant: markdown
 <p>Head of Department (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-
 <div class="isomer-image-wrapper">
 <img style="width: 60%" height="auto" width="100%" alt="" src="/images/Reena_Sivahnathan.jpg">
 </div>
@@ -264,7 +268,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:valerie_cheng_yuning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_cheng_yuning@schools.gov.sg</u></a>
-</p></td>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

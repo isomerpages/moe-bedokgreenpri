@@ -46,7 +46,7 @@ support, please visit:</p>
 <p>Extensive Reading</p>
 </li>
 </ul>
-<p><strong>Our P1 students working collaboratively in their literacy stations: </strong>
+<p><strong>Our P1 students working collaboratively in their literacy stations:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -189,7 +189,6 @@ poems and crossword puzzles to do with gratitude.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <h3>Empowered To Read Too (ETRT)</h3>
 <p>The Empowered To Read Too (ETRT) Programmes is implemented at Primary
 1 and Primary 2 to providing literacy support for students not placed in
@@ -208,6 +207,9 @@ Lessons are conducted daily for 30 minutes per session. LSP is taught by
 qualified Learning Support Coordinators (LSCs) who have been trained by
 MOE HQ to implement the programme.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
 <h3>School-based Dyslexia Remediation Programme (SDR)</h3>
 <p>The School-based Dyslexia Remediation (SDR) programme is a two-year intervention
 programme for Primary 3 and 4 students. These students are identified for
@@ -215,6 +217,10 @@ support through a systematic screening process for dyslexia conducted at
 the end of the Primary 2 Learning Support Programme. The programme aims
 to enable students to read and spell independently and to understand a
 variety of texts using comprehension strategies.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+</div>
 <h3>Reading Remediation Programme (RRP)</h3>
 <p>The Reading Remediation Programme (RRP) is a literacy support programme
 implemented at Primary 3 and Primary 4 to support students with reading

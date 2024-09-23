@@ -46,6 +46,35 @@ support, please visit:</p>
 <p>Extensive Reading</p>
 </li>
 </ul>
+<p><strong>Our P1 students working collaboratively in their literacy stations:</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Reading is an important skill that needs to be developed in children.
 The ability to learn about new subjects depends on the ability to read.
 Hence, the school has initiated programmes such as KidsREAD, Star Readers
@@ -78,6 +107,28 @@ early age.</p>
 <p>For more details on KidsREAD, please visit&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">http://www.nlb.gov.sg/kidsread/</a></strong>
 </p>
 <p></p>
+<p><strong>Our students enjoying themselves during KidsRead:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Star Readers Programme</h3>
 <p>The Star Reader Programme aims to:</p>
 <ul data-tight="true" class="tight">
@@ -113,6 +164,31 @@ kindness</p>
 character can be thankful for. Independently, students also work on acrostic
 poems and crossword puzzles to do with gratitude.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Empowered To Read Too (ETRT)</h3>
 <p>The Empowered To Read Too (ETRT) Programmes is implemented at Primary
 1 and Primary 2 to providing literacy support for students not placed in
@@ -138,6 +214,7 @@ support through a systematic screening process for dyslexia conducted at
 the end of the Primary 2 Learning Support Programme. The programme aims
 to enable students to read and spell independently and to understand a
 variety of texts using comprehension strategies.</p>
+<p></p>
 <h3>Reading Remediation Programme (RRP)</h3>
 <p>The Reading Remediation Programme (RRP) is a literacy support programme
 implemented at Primary 3 and Primary 4 to support students with reading

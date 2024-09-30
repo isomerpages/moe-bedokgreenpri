@@ -14,25 +14,24 @@ Primary 1 Registration Website. The information below can be found on the
 Ministry of Education website. For further details, please refer to the
 link below.</p>
 <p>[P1 Registration](<a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>)</p>
-<p>#### DOCUMENTS REQUIRED AT TIME OF REGISTRATION</p>
-<p></p>
+<h4>DOCUMENTS REQUIRED AT TIME OF REGISTRATION</h4>
 <p><strong>A. For Children who are Singapore Citizens</strong>
 </p>
-<p>1\. The child's Singapore Birth Certificate.</p>
-<p>2\. The child's Singapore Citizenship Certificate for those who are not
+<p>1. The child's Singapore Birth Certificate.</p>
+<p>2. The child's Singapore Citizenship Certificate for those who are not
 Singapore Citizens at the time of birth.</p>
-<p>3\. Singapore NRIC of both parents or Entry/Re-entry Permits of parents
+<p>3. Singapore NRIC of both parents or Entry/Re-entry Permits of parents
 if they do not possess Singapore NRIC.</p>
-<p><strong>B. For Children who are Singapore Permanent Residents</strong>
+<p><strong>B. For Children who are Singapore Permanent Resident</strong>
 </p>
-<p>1.The child’s Birth Certificate</p>
-<p>2\. Singapore NRIC of both parents or Entry/Re-entry Permits of parents
+<p>1. The child's Singapore Birth Certificate.</p>
+<p>2. Singapore NRIC of both parents or Entry/Re-entry Permits of parents
 if they do not possess Singapore NRIC.</p>
 <p><strong>C. For Children who are Non-Singapore Citizens and Non-Singapore Permanent Residents</strong>
 </p>
-<p>1\. The child's Birth Certificate.</p>
-<p>2\. The child's Passport and Dependant Pass (if applicable).</p>
-<p>3\. Parents' travel document/Singapore NRIC/Entry or Re-entry Permit/Employment
+<p>1. The child's Birth Certificate.</p>
+<p>2. The child's Passport and Dependant Pass (if applicable).</p>
+<p>3. Parents' travel document/Singapore NRIC/Entry or Re-entry Permit/Employment
 Pass/Work Permit.</p>
 <p><strong>D. Immunisation Certificates</strong>
 </p>
@@ -72,7 +71,7 @@ certificate of the sibling must be provided.</p>
 </p>
 <p>A letter from the organisation to certify that the parent is a member
 endorsed by the organisation directly connected to the school must be provided.</p>
-<p><strong>J.Proof of Purchase of Yet-to-be Completed Property</strong>
+<p><strong>J. Proof of Purchase of Yet-to-be Completed Property</strong>
 </p>
 <p>An original Sales and Purchase document is required if the address of
 a yet-to-be completed private property is used for registration. In the

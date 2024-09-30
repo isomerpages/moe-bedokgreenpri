@@ -5,12 +5,13 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: tiptap
 ---
-<h4><strong>Vision</strong>&nbsp;<br></h4>
+<h3><strong>Vision</strong>&nbsp;<br></h3>
 <p>A scientist in every student</p>
 <p></p>
-<p></p>
-<p></p>
-<h2>Inquiry based learning</h2>
+<h3><strong>Goals</strong></h3>
+<h4><br>1) Customising curriculum to deepen students' learning using the Expose-Enrich-Excel approach. </h4>
+<h4>2) Inquiry based learning </h4>
+<h2></h2>
 <p>The customised Science curriculum which is anchored on Inquiry-based Learning
 (IBL) seeks to stimulate students’ curiosity and interest in the world
 around them by building in students a strong foundation in scientific concepts
@@ -18,7 +19,7 @@ of reasoning and analytical skills in problem-solving and decision making.
 It also equips them with ethics and attitudes to engage in Science-related
 experiences as reflective citizens.</p>
 <p></p>
-<h2>Key Programmes</h2>
+<h3><strong>Key Programmes</strong></h3>
 <h3>Differentiated</h3>
 <h4>Excellence 2000 (E2K) Science</h4>
 <p>This two year Science enrichment programme for selected Primary 4 and
@@ -35,7 +36,7 @@ concepts in an interactive way.</p>
 </p>
 <p>Students demonstrated their understanding of light and shadows by putting
 up a Wayang Kulit performance.</p>
-<h4>Authentic and Experiential</h4>
+<h3>Authentic and Experiential</h3>
 <p><strong>P4 ‘Our Class Sunflowers’ Project</strong>
 </p>
 <p>What better way to learn about the parts of a plant than growing your

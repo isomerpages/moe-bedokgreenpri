@@ -2,6 +2,7 @@ collections:
   bgps-experience:
     output: true
     order:
+      - Behavioural Indicators and Learning Dispositions.md
       - Total Curriculum Framework.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language.md

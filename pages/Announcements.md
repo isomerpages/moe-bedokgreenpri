@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+**<u>P1 Orientation 2025</u>** <br>
+Please click [here](https://sites.google.com/moe.edu.sg/bedokgreenprimary) to access the P1 Orientation 2025 microsite. 
+
+
 **<u>Assessment Information Booklet for Parents</u>** <br>
 For essential information and instructions on assessment matters in the school, please click [here](/files/190124_assessment_information_booklet_2024_final2.pdf)
 

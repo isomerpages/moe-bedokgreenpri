@@ -332,7 +332,7 @@ variant: tiptap
 <p>Ms Tan Si Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_si_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_lin@schools.gov.sg</a> 
+<p><a href="mailto:tan_si_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -623,7 +623,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Audrey Choo.jpeg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Audrey Choo.jpeg">
 </div>
 <p>Ms Choo Jia En Audrey</p>
 </td>
@@ -695,7 +695,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P1 Teachers/miss lee xuan harn .jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/P1 Teachers/miss lee xuan harn .jpg">
 </div>
 <p>Miss Lee Xuan Harn</p>
 </td>
@@ -741,7 +741,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P1 Teachers/miss nur aliah .jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/P1 Teachers/miss nur aliah .jpg">
 </div>
 <p>Miss Nur ‘Aliah</p>
 </td>

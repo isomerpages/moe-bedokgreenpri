@@ -110,14 +110,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Wee Siang Joycelyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Sairi Bin Basri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,14 +137,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Asmah Mansoor Alkadree</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Silvarajoo Prakasam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,6 +151,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:manimagaliammal_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manimagaliammal_ramachandran@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Wee Siang Joycelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Asmah Mansoor Alkadree</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

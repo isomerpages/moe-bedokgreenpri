@@ -83,28 +83,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aysha Bee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="aysha_bee_ebrahim_marican@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aysha_bee_ebrahim_marican@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Fadlin Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="fadlin_mohamed_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fadlin_mohamed_yusoff@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Eliza Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="eliza_han_fu_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eliza_han_fu_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -119,15 +101,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dawn Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lee_liang_khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_liang_khim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Irene Sng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,11 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Silverajoo</p>
+<p>Ms Lim Wee Siang Joycelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="silvarajoo_prakasam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">silvarajoo_prakasam@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -164,20 +136,45 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Dulcy John</p>
+<p>Mdm Rose Binty Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dulcy_john@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dulcy_john@schools.gov.sg</a>
+<p><a href="mailto:rose_binty_salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rose_binty_salleh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohani Bte Ahmad</p>
+<p>Mrs Asmah Mansoor Alkadree</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rohani_ahmad_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohani_ahmad_c@schools.gov.sg</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Silvarajoo Prakasam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="silvarajoo_prakasam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">silvarajoo_prakasam@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Manimagaliammal d/o Ramachandran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:manimagaliammal_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manimagaliammal_ramachandran@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Li Han Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

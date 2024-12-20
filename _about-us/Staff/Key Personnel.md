@@ -43,15 +43,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (English)</p>
+<p>Head of Department (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" alt="keypersonnel3" src="/images/Key%20Personnel%201/keypersonnel3.jpg">
 </div>
-<p>Ms Lim Ee Sze
-<br>
-</p>
+<p>Ms Lim Ee Sze</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ee_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ee_sze@schools.gov.sg</u></a>
@@ -75,15 +73,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mother Tongue)</p>
+<p>Level Head (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P5 Teachers/mrs christina koh .jpg">
+</div>
+<p>Ms Christina Wong Hsui Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="christina_wong_hsui_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">christina_wong_hsui_peng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Mother Tongue Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" alt="keypersonnel5" src="/images/Key%20Personnel%201/keypersonnel5.jpg">
 </div>
-<p>Mr Liu Peng
-<br>
-</p>
+<p>Mr Liu Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liu_peng@schools.gov.sg</u></a>
@@ -92,19 +103,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (Mother Tongue)</p>
+<p>Level Head (Mother Tongue Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" alt="keypersonnel5" src="/images/Chen_Ming_Zhu.jpg">
 </div>
-<p>Ms Chen Ming Zhu
-<br>
-</p>
+<p>Ms Chen Ming Zhu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_mingzhu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_mingzhu_a@schools.gov.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Ms Lyana Sarie Dewi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -184,6 +205,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head (National Education &amp; Social Studies)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Ms Tan Si Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_si_lin@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_si_lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Character &amp; Citizenship Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P2 Teachers/ms tan jinwen mavis .jpg">
+</div>
+<p>Ms Tan Jinwen Mavis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_jjinwen_mavis@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_jjinwen_mavis@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Head of Department (Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,6 +243,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:judy_lim_lian_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judy_lim_lian_soon@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Leadership)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hidahny Bte Mustaffa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nur_hidahny_mustaffa@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_hidahny_mustaffa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -224,6 +285,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_jieying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_jieying@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P5 Teachers/ms lynn tay .jpg">
+</div>
+<p>Ms Lynn Tay Ern Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lynn_tay_ern_hwee@schools.gov.sg" rel="noopener nofollow" target="_blank">lynn_tay_ern_hwee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -279,27 +355,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%" height="auto" width="100%" alt="" src="/images/foongmargaret.jpeg">
 </div>
-<p></p>
 <p>Mdm Lee Oi Foong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_oi_foong_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_oi_foong_margaret@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Middle Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/mdmhalimaton.jpeg">
-</div>
-<p></p>
-<p>Mdm Halima Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:halimaton_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>halimaton_abdullah@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -311,7 +370,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%" height="auto" width="100%" alt="" src="/images/103) MS LI WENLIN.jpeg">
 </div>
-<p></p>
 <p>Ms Li Wenlin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -327,7 +385,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%" height="auto" width="100%" alt="" src="/images/Sharifah Faiiza.jpeg">
 </div>
-<p></p>
 <p>Mdm Shariffah Faizah</p>
 </td>
 <td rowspan="1" colspan="1">

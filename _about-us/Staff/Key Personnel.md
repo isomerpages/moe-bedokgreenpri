@@ -227,7 +227,7 @@ variant: tiptap
 <p>Ms Tan Jinwen Mavis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_jjinwen_mavis@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_jjinwen_mavis@schools.gov.sg</a>
+<p><a href="tan_jjinwen_mavis@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_jinwen_mavis@schools.gov.sg</a>
 </p>
 </td>
 </tr>

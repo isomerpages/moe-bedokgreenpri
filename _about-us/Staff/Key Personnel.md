@@ -77,7 +77,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P5 Teachers/mrs christina koh .jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/P5 Teachers/mrs christina koh .jpg">
 </div>
 <p>Ms Christina Wong Hsui Peng</p>
 </td>
@@ -222,7 +222,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P2 Teachers/ms tan jinwen mavis .jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/P2 Teachers/ms tan jinwen mavis .jpg">
 </div>
 <p>Ms Tan Jinwen Mavis</p>
 </td>
@@ -294,7 +294,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P5 Teachers/ms lynn tay .jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/P5 Teachers/ms lynn tay .jpg">
 </div>
 <p>Ms Lynn Tay Ern Hwee</p>
 </td>

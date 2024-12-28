@@ -1100,7 +1100,7 @@ variant: markdown
 <p>Mr Daniel Seah</p>
 </td>
 <td colspan="1" rowspan="1">
-<p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:daniel_seah_wen_hao@schools.gov.sg">daniel_seah_wen_hao@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1188,8 +1188,7 @@ variant: markdown
 <p>Ms Lyana Sarie Dewi</p>
 </td>
 <td colspan="1" rowspan="1">
-<p>
-	
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lyana_sarie_dewi_mohamed@schools.gov.sg">lyana_sarie_dewi_mohamed@schools.gov.sg</a>	
 </p>
 </td>
 </tr>

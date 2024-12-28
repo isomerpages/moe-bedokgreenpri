@@ -207,7 +207,7 @@ variant: markdown
 <p>Ms Tan Lay Ming Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_lay_ming_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_ming_a@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -589,6 +589,36 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td colspan="1" rowspan="1">
+<div class="isomer-image-wrapper">
+<img src="/images/Staff%20Photos/P1%20Teachers/miss%20chin%20ching%20shia%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+</div>
+<p>Miss Chin Ching Shia</p>
+</td>
+<td colspan="1" rowspan="1">
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chin_ching_shia@schools.gov.sg">chin_ching_shia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">
+<p></p>
+</td>
+<td colspan="1" rowspan="1">
+<div class="isomer-image-wrapper">
+<img src="/images/Staff%20Photos/P3%20Teachers/mr%20liu%20peng%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+</div>
+<p>Mr Liu Peng</p>
+</td>
+<td colspan="1" rowspan="1">
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:liu_peng@schools.gov.sg">liu_peng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">

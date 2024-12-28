@@ -1096,13 +1096,11 @@ variant: markdown
 <p></p>
 </td>
 <td colspan="1" rowspan="1">
-<div class="isomer-image-wrapper">
 
-</div>
 <p>Mr Daniel Seah</p>
 </td>
 <td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href=""></a>
+<p>
 </p>
 </td>
 </tr>
@@ -1186,13 +1184,12 @@ variant: markdown
 	<p></p>
 </td>
 <td colspan="1" rowspan="1">
-<div class="isomer-image-wrapper">
 
-</div>
 <p>Ms Lyana Sarie Dewi</p>
 </td>
 <td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href=""></a>
+<p>
+	
 </p>
 </td>
 </tr>

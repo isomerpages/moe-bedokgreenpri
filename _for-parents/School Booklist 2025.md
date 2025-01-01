@@ -19,4 +19,3 @@ Please refer to the respective booklists:<br>
 [P6 HMT Booklist](/files/Booklist/2025/P6__HMT.pdf)<br>
 [P6 STD Booklist](/files/Booklist/2025/P6__STD.pdf)<br>
 [P6 FDN Booklist](/files/Booklist/2025/P6__FDN.pdf)<br>
-

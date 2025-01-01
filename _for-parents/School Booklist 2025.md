@@ -19,3 +19,5 @@ Please refer to the respective booklists:<br>
 [P6 HMT Booklist](/files/P6__HMT_.pdf)<br>
 [P6 STD Booklist](/files/P6__STD_.pdf)<br>
 [P6 FDN Booklist](/files/P6__FDN_.pdf)<br>
+
+[Primary 6](/files/Booklist/2025/P6__STD.pdf)

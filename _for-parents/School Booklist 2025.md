@@ -8,6 +8,7 @@ School Textbooks (P1-6) Booklist 2025
 -------------------------------------
 
 Click on the following link to purchase your school books online: &nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)  
+
 Please refer to the respective booklists:<br>
 [P1 Booklist](/files/Booklist/2025/P1.pdf)<br>
 [P2 Booklist](/files/Booklist/2025/P2.pdf)<br>

@@ -31,7 +31,7 @@ mind.</p>
 <h3>&nbsp;<strong>1.&nbsp;&nbsp;&nbsp; Our School Vision</strong></h3>
 <p>At the heart of the BGPS Total Curriculum Framework, we are guided by <em>our school’s </em>Vision
 of developing “<em>Empowered Learners, Persons of Strength and Character”. </em>Cascasding
-further down is our School’s Mission “<em>To empower BGPians to learn how to learn and succeed, and nurture them to be confident persons and concerned citizens”. </em>
+further down is our School’s Mission “<em>To empower BGPians to learn how to learn and succeed, and nurture them to be confident persons and concerned citizens”.</em>
 </p>
 <p></p>
 <h3><strong>&nbsp;2.&nbsp;&nbsp; Our Beliefs towards Teaching and Learning</strong></h3>

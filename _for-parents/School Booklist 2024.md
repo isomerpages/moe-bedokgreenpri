@@ -4,12 +4,12 @@ permalink: /about-us/school-booklist/
 description: ""
 variant: markdown
 ---
-School Textbooks (P1-6) Booklist 2024
+School Textbooks (P1-6) Booklist 2025
 -------------------------------------
 
 Click on the following link to purchase your school books online: &nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)  
 Please refer to the respective booklists:<br>
-[P1 Booklist](/files/P1.pdf)<br>
+[P1 Booklist](/files/booklist/2025/P1.pdf)<br>
 [P2 Booklist](/files/P2.pdf)<br>
 [P3 Booklist](/files/P3.pdf)<br>
 [P4 Booklist](/files/P4.pdf)<br>

@@ -24,13 +24,13 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <h4>Year Head (P1 &amp; 2)</h4>
 <div class="isomer-image-wrapper">
-<img style="width:20%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20sangeetha%20yadav%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20sangeetha%20yadav%20.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Assistant Year Head (P2)</h4>
 <div class="isomer-image-wrapper">
-<img style="width:25%; margin:0;" height="auto" width="100%" src="/images/valariecheng.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/valariecheng.jpg">
 </div>
 </td>
 </tr>
@@ -73,7 +73,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20fang%20fang%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20fang%20fang%20.jpg">
 </div>
 <p>Mdm Fang Fang</p>
 </td>
@@ -100,7 +100,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/miss%20jubilee%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/miss%20jubilee%20.jpg">
 </div>
 <p>Miss Jubilee Lim</p>
 </td>
@@ -115,7 +115,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20suryati%20shariff%20marican%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20suryati%20shariff%20marican%20.jpg">
 </div>
 <p>Mdm Suryati Shariff</p>
 </td>
@@ -130,7 +130,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20andrea%20chua%20cher%20lih%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20andrea%20chua%20cher%20lih%20.jpg">
 </div>
 <p>Miss Andrea Chua Cher Lih</p>
 </td>
@@ -145,7 +145,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mr%20dave%20liu%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mr%20dave%20liu%20.jpg">
 </div>
 <p>Mr Dave Liu</p>
 </td>
@@ -160,7 +160,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20sharifah%20mahani%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20sharifah%20mahani%20.jpg">
 </div>
 <p>Miss Sharifah Mahani</p>
 </td>
@@ -175,7 +175,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mr%20kenneth%20wong.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mr%20kenneth%20wong.jpg">
 </div>
 <p>Mr Kenneth Wong</p>
 </td>
@@ -190,7 +190,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20nur%20ashikin%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20nur%20ashikin%20.jpg">
 </div>
 <p>Miss Nur Ashikin</p>
 </td>
@@ -216,7 +216,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/ms%20farzanah.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/ms%20farzanah.jpg">
 </div>
 <p>Ms Farzanah d/o Abdul Samad</p>
 </td>
@@ -231,7 +231,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Ler_Yu_Min.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Ler_Yu_Min.jpg">
 </div>
 <p></p>
 <p>Ms Ler Yu Min</p>
@@ -247,7 +247,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/ms%20nurul%20shamin.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/ms%20nurul%20shamin.jpg">
 </div>
 <p>Mdm Nurul Shamin</p>
 </td>
@@ -283,7 +283,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Sim_Mei_Choon_Donna.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Sim_Mei_Choon_Donna.jpg">
 </div>
 <p>Ms Sim Mei Choon Donna</p>
 </td>
@@ -298,7 +298,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mr%20poon%20long%20javier%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mr%20poon%20long%20javier%20.jpg">
 </div>
 <p></p>
 <p>Mr Poon Long Javier</p>
@@ -314,7 +314,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/miss%20shadelina.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/miss%20shadelina.jpg">
 </div>
 <p></p>
 <p>Ms Shadelina Bte Mohd Shariffudin</p>
@@ -342,7 +342,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/ms%20lim%20sock%20keow%20noel%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/ms%20lim%20sock%20keow%20noel%20.jpg">
 </div>
 <p></p>
 <p>Ms Lim Sock Keow Noel</p>
@@ -358,7 +358,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Chen_Ming_Zhu.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Chen_Ming_Zhu.jpg">
 </div>
 <p></p>
 <p>Ms Chen Ming Zhu</p>
@@ -374,7 +374,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mdm%20chia%20sock%20lang%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mdm%20chia%20sock%20lang%20.jpg">
 </div>
 <p></p>
 <p>Mdm Chia Sock Lang</p>
@@ -390,7 +390,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/ms%20nurul%20aini%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/ms%20nurul%20aini%20.jpg">
 </div>
 <p></p>
 <p>Ms Nurul Aini</p>
@@ -406,7 +406,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mr%20alvin%20thio%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mr%20alvin%20thio%20.jpg">
 </div>
 <p>Mr Thio Beng Lou Alvin</p>
 </td>
@@ -421,7 +421,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/ms%20irene%20kway%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/ms%20irene%20kway%20.jpg">
 </div>
 <p></p>
 <p>Ms Irene Kway</p>
@@ -437,7 +437,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mr%20gwee%20boon%20tiong%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mr%20gwee%20boon%20tiong%20.jpg">
 </div>
 <p>Mr Gwee Boon Tiong</p>
 </td>
@@ -452,7 +452,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Farhana_DO_Mohamed_Ali_Jinnah.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Farhana_DO_Mohamed_Ali_Jinnah.jpg">
 </div>
 <p>Ms Farhana d/o Mohamed Ali Jinnah</p>
 </td>
@@ -467,7 +467,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/ms%20tse%20min%20yan%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/ms%20tse%20min%20yan%20.jpg">
 </div>
 <p></p>
 <p>Ms Tse Min Yan</p>
@@ -483,7 +483,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mr%20muhammad%20khairi%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mr%20muhammad%20khairi%20.jpg">
 </div>
 <p>Mr Muhammad Khairi Iqbal</p>
 </td>
@@ -498,7 +498,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20jee%20si%20min%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20jee%20si%20min%20.jpg">
 </div>
 <p>Miss Jee Si Min</p>
 </td>
@@ -513,7 +513,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mdm%20fazidah%20soeratman.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mdm%20fazidah%20soeratman.jpg">
 </div>
 <p>Mdm Fazidah Soeratman</p>
 </td>
@@ -528,7 +528,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/valariecheng.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/valariecheng.jpg">
 </div>
 <p></p>
 <p>Miss Valerie Cheng Yuning</p>
@@ -555,7 +555,7 @@ variant: markdown
 <h4>Year Head (P3 &amp; 4)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:20%; margin:0;" height="auto" width="100%" src="/images/foongmargaret.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/foongmargaret.jpeg">
 </div>
 </td>
 </tr>
@@ -593,7 +593,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P1%20Teachers/miss%20chin%20ching%20shia%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P1%20Teachers/miss%20chin%20ching%20shia%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Miss Chin Ching Shia</p>
 </td>
@@ -608,7 +608,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P3%20Teachers/mr%20liu%20peng%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P3%20Teachers/mr%20liu%20peng%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mr Liu Peng</p>
 </td>
@@ -623,7 +623,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35% ; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20hainoon%20jahria.jpg">
+<img style="width:100px ; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20hainoon%20jahria.jpg">
 </div>
 <p>Mrs Hainoon Azeez</p>
 </td>
@@ -638,7 +638,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mr%20nor%20azarizal%20mohamed%20passport%20size.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mr%20nor%20azarizal%20mohamed%20passport%20size.jpg">
 </div>
 <p>Mr Nor Azarizal Mohamed</p>
 </td>
@@ -653,7 +653,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Audrey Choo.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Audrey Choo.jpeg">
 <p>Ms Choo Jia En Audrey</p>
 </div></td>
 <td rowspan="1" colspan="1">
@@ -667,7 +667,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20hilwah.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20hilwah.jpg">
 </div>
 <p>Ms Hilwah Binte Lukman</p>
 </td>
@@ -682,7 +682,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20chung%20pei%20ling%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20chung%20pei%20ling%20.jpg">
 </div>
 <p>Ms Chung Pei Ling</p>
 </td>
@@ -697,7 +697,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20sylvina%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20sylvina%20.jpg">
 </div>
 <p>Ms Sylvina Maylie Nathan Tan</p>
 </td>
@@ -724,7 +724,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff Photos/P1 Teachers/miss lee xuan harn .jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff Photos/P1 Teachers/miss lee xuan harn .jpg">
 </div>
 <p>Miss Lee Xuan Harn</p>
 </td>
@@ -739,7 +739,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Reena_Sivahnathan.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Reena_Sivahnathan.jpg">
 </div>
 <p></p>
 <p>Ms Reena Sivahnanthan</p>
@@ -755,7 +755,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20jayasarasvathi%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20jayasarasvathi%20.jpg">
 </div>
 <p>Ms Jayasarasvathi Durai Kannu</p>
 </td>
@@ -770,7 +770,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff Photos/P1 Teachers/miss nur aliah .jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff Photos/P1 Teachers/miss nur aliah .jpg">
 </div>
 <p>Miss Nur ‘Aliah</p>
 </td>
@@ -806,7 +806,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/ms%20elissa%20chew%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P4%20Teachers/ms%20elissa%20chew%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Chew Mei-Hua Elissa Ann</p>
 </td>
@@ -821,7 +821,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/ms%20ong%20su%20san%20faith%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P4%20Teachers/ms%20ong%20su%20san%20faith%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Ong Su San Faith</p>
 </td>
@@ -836,7 +836,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/lohweileong.jpeg" alt="" width="100%" height="auto" style="width: 35%; margin:0;">
+<img src="/images/lohweileong.jpeg" alt="" width="100%" height="auto" style="width: 100px; margin:0;">
 </div>
 <p>Mr Loh Wei Leong</p>
 </td>
@@ -851,7 +851,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P3%20Teachers/mrs%20jacinta%20gomes%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P3%20Teachers/mrs%20jacinta%20gomes%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mrs Jacinta Gomes</p>
 </td>
@@ -866,7 +866,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P6%20Teachers/ms%20neo%20sin%20yi%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P6%20Teachers/ms%20neo%20sin%20yi%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Neo Sin Yi</p>
 </td>
@@ -881,7 +881,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P2%20Teachers/mr%20chin%20seng%20choy%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P2%20Teachers/mr%20chin%20seng%20choy%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mr Chin Seng Choy Lance</p>
 </td>
@@ -896,7 +896,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/ms%20sri%20idayu%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P4%20Teachers/ms%20sri%20idayu%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Sri Idayu</p>
 </td>
@@ -911,7 +911,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P6%20Teachers/mdm%20toh%20jit%20ho%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P6%20Teachers/mdm%20toh%20jit%20ho%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mdm Toh Jit Ho</p>
 </td>
@@ -926,7 +926,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P2%20Teachers/ms%20tan%20jinwen%20mavis%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P2%20Teachers/ms%20tan%20jinwen%20mavis%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Tan Jinwen Mavis</p>
 </td>
@@ -941,7 +941,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/mr%20darren.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P4%20Teachers/mr%20darren.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mr Keng Xing Wei Darren</p>
 </td>
@@ -956,7 +956,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/mdm%20tan%20yee%20chie%20pamela%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P4%20Teachers/mdm%20tan%20yee%20chie%20pamela%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mdm Tan Yee Chie Pamela</p>
 </td>
@@ -971,7 +971,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mrs%20ng%20yen%20nee%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/mrs%20ng%20yen%20nee%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mrs Ng Yen Nee</p>
 </td>
@@ -986,7 +986,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P6%20Teachers/mr%20mazlan%20muhammad%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P6%20Teachers/mr%20mazlan%20muhammad%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mr Mazlan Bin Muhammad</p>
 </td>
@@ -1015,14 +1015,14 @@ variant: markdown
 <h4>Year Head (P5 &amp; 6)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:20%; margin:0;" height="auto" width="100%" src="/images/103)%20MS%20LI%20WENLIN.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/103)%20MS%20LI%20WENLIN.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Assistant Year Head (P5)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:20%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg">
 </div>
 </td>
 </tr>
@@ -1066,7 +1066,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P3%20Teachers/ms%20lim%20poh%20tse%20ellen.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P3%20Teachers/ms%20lim%20poh%20tse%20ellen.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Lim Poh Tse Ellen</p>
 </td>
@@ -1081,7 +1081,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/ms%20lim%20ee%20sze%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/ms%20lim%20ee%20sze%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Lim Ee Sze</p>
 </td>
@@ -1109,7 +1109,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/mr%20leung%20pak%20kin%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P4%20Teachers/mr%20leung%20pak%20kin%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mr Leung Pak Kin</p>
 </td>
@@ -1124,7 +1124,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/ms%20ng%20jieying%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P4%20Teachers/ms%20ng%20jieying%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Ng Jieying</p>
 </td>
@@ -1139,7 +1139,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mdm Shariffah Faizah binte Hassan A</p>
 </td>
@@ -1154,7 +1154,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P2%20Teachers/ms%20ros%20farzana%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P2%20Teachers/ms%20ros%20farzana%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Ros Farzana</p>
 </td>
@@ -1169,7 +1169,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mr%20ng%20chee%20keong%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/mr%20ng%20chee%20keong%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mr Ng Chee Keong</p>
 </td>
@@ -1197,7 +1197,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P3%20Teachers/ms%20nur%20zahirah%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P3%20Teachers/ms%20nur%20zahirah%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Nur Zahirah</p>
 </td>
@@ -1212,7 +1212,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P6%20Teachers/ms%20tan%20wei%20wen%20passport%20size.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P6%20Teachers/ms%20tan%20wei%20wen%20passport%20size.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Tan Wei Wen</p>
 </td>
@@ -1227,7 +1227,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20zaidah%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20zaidah%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mdm Zaidah Yusoff</p>
 </td>
@@ -1242,7 +1242,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Mohamad_Taib.jpg" alt="" width="100%" height="auto" style="width: 35%; margin:0;">
+<img src="/images/Mohamad_Taib.jpg" alt="" width="100%" height="auto" style="width: 100px; margin:0;">
 </div>
 <p>Mr Mohamad Taib Bin Majid</p>
 </td>
@@ -1257,7 +1257,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mrs%20christina%20koh%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/mrs%20christina%20koh%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mrs Christina Koh</p>
 </td>
@@ -1272,7 +1272,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20khairiah%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20khairiah%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mdm Khairiah Binte Abdulmajid H</p>
 </td>
@@ -1287,7 +1287,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/ms%20lynn%20tay%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/ms%20lynn%20tay%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Lynn Tay Ern Hwee</p>
 </td>
@@ -1302,7 +1302,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mr%20mages%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P5%20Teachers/mr%20mages%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mr Pasupathy Magesvaran</p>
 </td>
@@ -1317,7 +1317,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Mrs Lee Mei Yin</p>
 </td>
@@ -1332,7 +1332,7 @@ variant: markdown
 </td>
 <td colspan="1" rowspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P2%20Teachers/mr%20lukman%20nurhakim%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P2%20Teachers/mr%20lukman%20nurhakim%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p></p>
 <p>Mr Lukman Nurhakim</p>
@@ -1369,7 +1369,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Tan_Ho_Teck.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Tan_Ho_Teck.jpg">
 </div>
 <p></p>
 <p>Mr Tan Ho Teck</p>
@@ -1385,7 +1385,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mrs%20angeline%20ong%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mrs%20angeline%20ong%20.jpg">
 </div>
 <p>Mrs Angeline Ong</p>
 </td>
@@ -1400,7 +1400,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/ms%20june%20lee%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/ms%20june%20lee%20.jpg">
 </div>
 <p>Ms Lee Suan Ling June</p>
 </td>
@@ -1415,7 +1415,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/mr%20mohd%20hasri%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/mr%20mohd%20hasri%20.jpg">
 </div>
 <p>Mr Mohammad Hasri</p>
 </td>
@@ -1430,7 +1430,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P1%20Teachers/ms%20chua%20shu%20hui%20vivan%20.jpg" width="100%" height="auto" style="width:35%; margin:0;">
+<img src="/images/Staff%20Photos/P1%20Teachers/ms%20chua%20shu%20hui%20vivan%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
 </div>
 <p>Ms Chua Shu Hui Vivian</p>
 </td>
@@ -1445,7 +1445,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mrs%20jessie%20soh%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mrs%20jessie%20soh%20.jpg">
 </div>
 <p>Mrs Jessie Soh</p>
 </td>
@@ -1460,7 +1460,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mdm%20nurhana%20hafiz%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mdm%20nurhana%20hafiz%20.jpg">
 </div>
 <p>Mdm Nurhana Hafiz</p>
 </td>
@@ -1475,7 +1475,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mr%20lim%20fang%20rui%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mr%20lim%20fang%20rui%20.jpg">
 </div>
 <p>Mr Lim Fang Rui</p>
 </td>
@@ -1490,7 +1490,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/ms%20danielle%20passport%20size.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/ms%20danielle%20passport%20size.jpg">
 </div>
 <p>Ms Danielle Rachel Chong</p>
 </td>
@@ -1505,7 +1505,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%; margin:0;" height="auto" width="100%" alt="" src="/images/140) Miss Khoo Kar Hoe.jpeg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/140) Miss Khoo Kar Hoe.jpeg">
 </div>
 <p>Ms Khoo Kar Hoe</p>
 </td>
@@ -1520,7 +1520,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%; margin:0;" height="auto" width="100%" alt="" src="/images/Edited_MR_HAFIZ_BIN_MOHAMAD.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Edited_MR_HAFIZ_BIN_MOHAMAD.jpg">
 </div>
 <p>Mr Hafiz</p>
 </td>
@@ -1535,7 +1535,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%; margin:0;" height="auto" width="100%" alt="" src="/images/Amarjit_Singh.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Amarjit_Singh.jpg">
 </div>
 <p></p>
 <p>Mr Amarjit Singh</p>
@@ -1551,7 +1551,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:35%; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mdm%20zahidah%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mdm%20zahidah%20.jpg">
 </div>
 <p>Mdm Zahidah Shamsul</p>
 </td>
@@ -1566,7 +1566,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/MR_TAY_CHEE_BENG_passport.jpg">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/MR_TAY_CHEE_BENG_passport.jpg">
 </div>
 <p>Mr Tay Chee Beng</p>
 </td>

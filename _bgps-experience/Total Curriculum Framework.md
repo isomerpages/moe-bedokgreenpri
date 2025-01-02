@@ -74,7 +74,7 @@ will also place strong emphasis on the development of a growth mindset,
 adaptability.</p>
 <h3><strong>4.&nbsp;&nbsp;&nbsp; Our Focus Areas</strong></h3>
 <p>In support of the three broad approaches, six focus areas were identified:</p>
-<h3>(a)&nbsp; Purpose-driven Assessment and Feedback</h3>
+<h4>(a)&nbsp; Purpose-driven Assessment and Feedback</h4>
 <p>Assessment and feedback are integral to our students’ learning progress.
 We believe in designing assessment and feedback that is fit for purpose
 for both teachers and students. Such data will help teachers deepen understanding

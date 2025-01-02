@@ -21,93 +21,127 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://allears.estl.edu.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/all%20ears%20form%20builder.png">
-</div>
+</a>
+	</div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://sites.google.com/moe.edu.sg/bgps-edtech-support-tools/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt2%20bestportal.png">
+</a>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt3bgps.png">
+</a>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://schoolcockpit.moe.gov.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt16_school%20cockpit.png">
+</a>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://bgps.edupage.org">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt4edupage.png">
+</a>
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://form.gov.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt5_form.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://www.hrp.gov.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt6_hr&amp;payroll.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt7%20hr%20online.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://iexams.seab.gov.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt8_iexam.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://icon.moe.edu.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt9_moe%20icon.png">
+</a>	
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://idp.mims.moe.gov.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt11_mims%20portal.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://intranet.moe.gov.sg/Pages/Home.aspx">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt12_moe%20intranet.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://opal2.moe.edu.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt13_opal.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://pg.moe.edu.sg">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt14_parents'%20gateway.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="https://scmobile.moe.edu.sg">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt15_sc%20mobile.png">
+</a>
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
+<a href="https://learning.moe.edu.sg/">
+</a><div class="isomer-image-wrapper"><a href="https://learning.moe.edu.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt17_sls.png">
+</a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<a href="">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt18tap.png">
+</a>
 </div>
 <p>
 <br>

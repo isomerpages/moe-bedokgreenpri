@@ -35,7 +35,7 @@ variant: markdown
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="">
+<a href="https://bedokgreenprimarysch.padlet.org/auth/login">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt3bgps.png">
 </a>
 </div>

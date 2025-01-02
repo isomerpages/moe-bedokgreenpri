@@ -6,7 +6,7 @@ description: ""
 ---
 ##### **School Principal**
 
-<figure style="width:60%">
+<figure style="width:85%">
 
 <img src="/images/benjaminyong.jpg" style="width:100px">
 
@@ -20,13 +20,13 @@ description: ""
 <table class="tg" style="table-layout: fixed; width: 100%;">
   <tbody>
     <tr>
-      <td style="width:33%; vertical-align: top;">
-        <img src="/images/yeoshohor.jpg" alt="Mr Yeo Sho Hor" style="width:100px;margin:0;"><br>
+      <td style="width:33%; text-align: center;">
+        <img src="/images/yeoshohor.jpg" alt="Mr Yeo Sho Hor" style="width:100px;"><br>
         Mr Yeo Sho Hor<br>
         <a href="mailto:yeo_sho_hor@schools.gov.sg">yeo_sho_hor@schools.gov.sg</a>
       </td>
-			 <td style="width:33%; vertical-align: top;">
-        <img src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg" alt="Mr Chua Kok Seng" style="width:100px;margin:0;"><br>
+			 <td style="width:33%; text-align: center;">
+        <img src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg" alt="Mr Chua Kok Seng" style="width:100px;"><br>
         Mr Chua Kok Seng<br>
         <a href="mailto:chua_kok_seng@schools.gov.sg">chua_kok_seng@schools.gov.sg</a>
       </td>

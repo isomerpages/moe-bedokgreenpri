@@ -73,7 +73,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20fang%20fang%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20fang%20fang%20.jpg">
 </div>
 <p>Mdm Fang Fang</p>
 </td>
@@ -115,7 +115,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20suryati%20shariff%20marican%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mdm%20suryati%20shariff%20marican%20.jpg">
 </div>
 <p>Mdm Suryati Shariff</p>
 </td>
@@ -145,7 +145,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mr%20dave%20liu%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mr%20dave%20liu%20.jpg">
 </div>
 <p>Mr Dave Liu</p>
 </td>

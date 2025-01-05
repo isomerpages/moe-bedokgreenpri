@@ -87,6 +87,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Nur_Hidahny.jpg">
+</div>
 <p>Ms Nur Hidahny Binte Mustaffa</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,6 +207,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Rachel_Tan_Lay_Ming.jpg">
+</div>
 <p>Ms Tan Lay Ming Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -329,6 +335,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Tan_Si_Lin.jpg">
+</div>
 <p>Ms Tan Si Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -711,6 +720,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Nur_Amira.jpg">
+</div>
 <p>Ms Nur Amira Binte Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1095,7 +1107,9 @@ variant: markdown
 <p></p>
 </td>
 <td colspan="1" rowspan="1">
-
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Daniel_Seah_Wen_Hao.jpg">
+</div>
 <p>Mr Daniel Seah</p>
 </td>
 <td colspan="1" rowspan="1">
@@ -1180,10 +1194,12 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-	<p></p>
+<p></p>
 </td>
 <td colspan="1" rowspan="1">
-
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Lyana_Sarie_Dewi.jpg">
+</div>
 <p>Ms Lyana Sarie Dewi</p>
 </td>
 <td colspan="1" rowspan="1">

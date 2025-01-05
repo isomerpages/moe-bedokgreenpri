@@ -122,7 +122,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Lyana_Sarie_Dewi.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Lyana_Sarie_Dewi.jpg">
 </div>
 <p>Ms Lyana Sarie Dewi</p>
 </td>
@@ -212,7 +212,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Tan_Si_Lin.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Tan_Si_Lin.jpg">
 </div>
 <p>Ms Tan Si Lin</p>
 </td>
@@ -257,7 +257,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Nur_Hidahny.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Nur_Hidahny.jpg">
 </div>
 <p>Ms Nur Hidahny Bte Mustaffa</p>
 </td>

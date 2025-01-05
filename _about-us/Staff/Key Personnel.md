@@ -3,7 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -121,11 +121,14 @@ variant: tiptap
 <p>Subject Head (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Lyana_Sarie_Dewi.jpg">
+</div>
 <p>Ms Lyana Sarie Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lyana_sarie_dewi_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lyana_sarie_dewi_mohamed@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +211,9 @@ variant: tiptap
 <p>Subject Head (National Education &amp; Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Tan_Si_Lin.jpg">
+</div>
 <p>Ms Tan Si Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,6 +256,9 @@ variant: tiptap
 <p>Subject Head (Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Nur_Hidahny.jpg">
+</div>
 <p>Ms Nur Hidahny Bte Mustaffa</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -2,7 +2,7 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong><u>Term 1 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
@@ -13,13 +13,6 @@ access the P1 Orientation 2025 microsite.</p>
 <p><strong><u>Assessment Information Booklet for Parents</u></strong> 
 <br>For essential information and instructions on assessment matters in the
 school, please click <a href="/files/Forms/2025/Assessment_Information_Booklet_2025_Final2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p><strong><u>P1 Parents' Engagement 2024</u></strong> 
-<br>Please click <a href="https://www.bedokgreenpri.moe.edu.sg/partners/home-school-partnership/parents-engagement-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the briefing slides and Q&amp;A responses during the P1 Parents'
-Engagement Session.</p>
-<p><strong><u>P1 Orientation 2024</u></strong> 
-<br>Please click <a href="https://go.gov.sg/bgpsp12024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-be redirected to the P1 Orientation page.</p>
 <p><strong><u>School Calendar</u></strong> 
 <br>Please click <a href="https://www.bedokgreenpri.moe.edu.sg/schoolcalendar/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access our school calendar.&nbsp;Thank you.</p>

@@ -4,4 +4,4 @@ permalink: /partners/home-school-partnership/assessment-booklet/
 description: ""
 variant: markdown
 ---
-[Assessment Information Booklet 2024](/files/190124_assessment_information_booklet_2024_final2.pdf)
+Assessmen[](/files/Assessment_Information_Booklet_2025_Final2.pdf)t Information Booklet 2025

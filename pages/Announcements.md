@@ -4,6 +4,8 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+<p><strong><u>P1 Parents' Engagement 2025</u></strong> 
+<br>Please click <a href="/partners/home-school-partnership/parents-engagement-2025/" rel="noopener nofollow" target="_blank">here</a> to access the briefing slides during the P1 Parents' Engagement Session.</p>
 <p><strong><u>Assessment Information Booklet for Parents</u></strong> 
 <br>For essential information and instructions on assessment matters in the
 school, please click <a href="/files/Forms/2025/Assessment_Information_Booklet_2025_Final2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>

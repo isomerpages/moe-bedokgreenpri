@@ -176,7 +176,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/view/bgpsrequest/home" rel="noopener noreferrer nofollow" target="_blank">ICT Request Form</a>
+<p><a href="https://sites.google.com/moe.edu.sg/bgps-edtech-support-tools/ict-request?authuser=0" rel="noopener noreferrer nofollow" target="_blank">ICT Request Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

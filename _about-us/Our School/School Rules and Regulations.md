@@ -16,7 +16,6 @@ All visitors to the school must report at the&nbsp;school general office and inf
 
 If a student sustains minor injury in the school, the form teacher will attend to the student. If the injury is serious the school will take the initiative to send the student to a clinic or hospital immediately. However, every effort will be made to contact the student's parents before he is taken to the hospital.
 
-
 ##### School Rules
 ------------
 

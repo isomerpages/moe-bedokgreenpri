@@ -190,11 +190,22 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe8f7TRr4lXRDv02lNMK3PgBEQepJQ5szMNP3uFX-4AdvxLJw/viewform" rel="noopener noreferrer nofollow" target="_blank">Student Councillors</a>
+<p><a href="https://forms.gle/kCa7kMGP91v4i3Yz6" rel="noopener noreferrer nofollow" target="_blank">Student Councillors Request Form</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.gle/wzSSEKAGCxJ6qinJA" rel="noopener noreferrer nofollow" target="_blank">The Mobile Marketplace Request Form</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+</p>
+</td>
+</tr>
+<tr>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Forms/2025/Ad_hoc_Bus_Services_Work_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Adhoc Bus Booking Form for 2025</a>
 </p>

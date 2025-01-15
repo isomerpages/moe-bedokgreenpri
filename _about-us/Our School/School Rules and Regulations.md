@@ -16,7 +16,6 @@ All visitors to the school must report at the&nbsp;school general office and inf
 
 If a student sustains minor injury in the school, the form teacher will attend to the student. If the injury is serious the school will take the initiative to send the student to a clinic or hospital immediately. However, every effort will be made to contact the student's parents before he is taken to the hospital.
 
-
 ##### School Rules
 ------------
 
@@ -106,45 +105,3 @@ Students should not bring their&nbsp;**mobile phones**&nbsp;to school unless spe
 *   Once you come to school, it is your responsibility to remain in the school until dismissal time.
 *   Eat and drink at the cafeteria only. Be careful when you are carrying hot soup. Running and playing in the cafeteria may result in you getting hurt as the hot soup may spill over you and you may be scalded.
 *   Be careful when handling a pair of scissors or a penknife during Art &amp; Craft Lesson. Use a pair of scissors with rounded ends.
-
-##### Examination Regulations
-
-All students must:  
-
-*   Adhere to the examination regulations and time table strictly.
-
-*   Be punctual for all examinations. Latecomers will not be given extra time.
-
-*   Produce medical certificates or relevant documents if they are absent.
-
-*   Students are not allowed to sit for the test or assessment on the next day.
-
-*   Bring only their pencil boxes/mathematical sets into the examination room.
-
-*   Sit according to their register numbers.
-
-*   Remain silent before the start of each examination.
-
-*   Raise their hands to get invigilator's attention if they need any assistance. Pupils are not allowed to borrow any form of stationery when the test or examination is in progress.
-
-*   Stop writing as soon as the announcement to stop writing is given.
-
-*   Remain seated and silent when the invigilator is collecting the question papers and answer scripts. They are only allowed to move or collect their belongings when permission has been given by the invigilator.
-
-*   Ensure there is no cheating in the form of verbal communication, hand signals or passing of written information when the examination is in progress. Answer scripts must not be placed in such a position that others can read them.
-
-**If caught cheating, any of the following actions will be taken as deemed fit by the school:-**  
-
-*   suspension  
-    
-*   deduction of marks  
-    
-*   performing corrective work  
-    
-*   warning / counselling  
-    
-*   conferencing between teachers and parents  
-    
-*   close monitoring by form / subject teacher(s) / the Discipline Committee  
-    
-*   any other actions as deemed necessary by the Principal, Vice-Principal or Discipline Committee.

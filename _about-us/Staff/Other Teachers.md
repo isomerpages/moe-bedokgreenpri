@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Manimagaliammal d/o Ramachandran</p>
+<p>Ms Manimagaliammal d/o Ramachandran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:manimagaliammal_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manimagaliammal_ramachandran@schools.gov.sg</a>

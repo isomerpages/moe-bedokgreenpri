@@ -222,7 +222,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/ms%20farzanah.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/ms_farzanah.jpg">
 </div>
 <p>Ms Farzanah d/o Abdul Samad</p>
 </td>

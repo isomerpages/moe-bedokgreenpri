@@ -2,10 +2,21 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<p><strong><u>Inaugural East Zone Design Thinking Conference 2025</u></strong>
+<br>Get ready for the inaugural East Zone Design Thinking Conference 2025!
+Bedok Green Primary School is thrilled to host this exciting event on Thursday,
+3 April 2025, from 2.30 pm to 5.30 pm. Open to students from all backgrounds,
+this conference aims to foster curiosity, inventive thinking, and creativity
+among young leaders. No prior knowledge of design thinking is required!</p>
+<p>Register your students' interest by Friday, 7 February 2025, and join
+us for an unforgettable learning experience!</p>
+<p>For more information, please email Mrs Judy Swee, HOD Discipline, at
+<a rel="noopener noreferrer nofollow" target="_blank">judy_lim_lian_soon@schools.gov.sg</a>.</p>
 <p><strong><u>P1 Parents' Engagement 2025</u></strong> 
-<br>Please click <a href="/partners/home-school-partnership/parents-engagement-2025/" rel="noopener nofollow" target="_blank">here</a> to access the briefing slides during the P1 Parents' Engagement Session.</p>
+<br>Please click <a href="/partners/home-school-partnership/parents-engagement-2025/" rel="noopener nofollow" target="_blank">here</a> to
+access the briefing slides during the P1 Parents' Engagement Session.</p>
 <p><strong><u>Assessment Information Booklet for Parents</u></strong> 
 <br>For essential information and instructions on assessment matters in the
 school, please click <a href="/files/Forms/2025/Assessment_Information_Booklet_2025_Final3.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>

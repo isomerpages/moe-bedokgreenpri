@@ -200,5 +200,3 @@ about the commencement of the programme via Parents Gateway. Parents can
 contact the school at &nbsp;<a href="mailto:6442%205416" rel="noopener noreferrer nofollow" target="_blank">6442 5416</a> or email <a rel="noopener noreferrer nofollow" target="_blank">bgps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p></p>
-<p></p>

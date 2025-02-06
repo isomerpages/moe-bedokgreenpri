@@ -2,7 +2,7 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong><u>Inaugural East Zone Design Thinking Conference 2025</u></strong>
 <br>Get ready for the inaugural East Zone Design Thinking Conference 2025!

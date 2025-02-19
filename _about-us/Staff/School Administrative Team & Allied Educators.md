@@ -82,7 +82,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Siti_Zulriah__PP_size_.jpg">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Siti_Zulriah__PP_size_.jpg">
 </div>
 <p>Mdm Siti Zulriah Binte Mohd Rahmat</p>
 </td>
@@ -336,7 +336,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Ng_Jun_Song__PP_size_.jpg">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Ng_Jun_Song__PP_size_.jpg">
 </div>
 <p>Mr Ng Jun Song</p>
 </td>
@@ -440,7 +440,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Juslyn_Chan_Shih_Yun__PP_Size_.jpg">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Juslyn_Chan_Shih_Yun__PP_Size_.jpg">
 </div>
 <p>Ms Juslyn Chan Shih Yun</p>
 </td>

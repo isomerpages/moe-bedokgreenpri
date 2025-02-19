@@ -3,7 +3,7 @@ title: School Administrative Team & Allied Educators
 permalink: /about-us/staff/school-administrative-n-allied-educators/
 description: ""
 third_nav_title: Staff
-variant: tiptap
+variant: markdown
 ---
 <h2>Administrative Team</h2>
 <table style="minWidth: 75px">
@@ -73,6 +73,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_li_king@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_li_king@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Siti_Zulriah__PP_size_.jpg">
+</div>
+<p>Mdm Siti Zulriah Binte Mohd Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_zulriah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zulriah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -315,6 +330,20 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer (OSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Ng_Jun_Song__PP_size_.jpg">
+</div>
+<p>Mr Ng Jun Song</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Allied Educators</h2>
@@ -402,6 +431,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sheryl_wong_shi_hui@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Juslyn_Chan_Shih_Yun__PP_Size_.jpg">
+</div>
+<p>Ms Juslyn Chan Shih Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:juslyn_chan_shih_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juslyn_chan_shih_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -227,11 +227,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/ms%20june%20tan.jpg">
-</div>
-<p>
-<br>Ms June Tan</p>
+<p>Mdm Sayani Ahamad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

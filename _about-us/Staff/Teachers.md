@@ -738,7 +738,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Darren_Cheah_Jun_Han__PP_Size_.jpg">
+<img style="width:100px" height="auto" width="100%" alt="" src="/images/Darren_Cheah_Jun_Han__PP_Size_.jpg">
 </div>
 <p>Mr Darren Cheah Jun Han</p>
 </td>
@@ -1229,7 +1229,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saidah_Shufiyah__PP_size_.jpg">
+<img style="width:100px" height="auto" width="100%" alt="" src="/images/Saidah_Shufiyah__PP_size_.jpg">
 </div>
 <p>Miss Saidah Shufiyah Binte Imam Supaat</p>
 </td>

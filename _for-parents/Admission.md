@@ -7,7 +7,7 @@ description: ""
 <p>The school welcomes new admissions or transfers. Please refer to the Ministry
 of Education website for information on student admission. Alternatively,
 you may also contact the school at 6442 5416 for further details.</p>
-<p>[<a href="https://www.moe.gov.sg/primary](https://www.moe.gov.sg/primary)" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary](https://www.moe.gov.sg/primary)</a>
+<p><a href="https://www.moe.gov.sg/primary" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary</a>
 </p>
 <p>The information below is taken directly from the Ministry of Education's
 Primary 1 Registration Website. The information below can be found on the

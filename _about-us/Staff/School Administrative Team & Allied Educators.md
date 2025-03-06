@@ -228,7 +228,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAYANI_AHAMAD__PP_Size_.jpg">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/SAYANI_AHAMAD__PP_Size_.jpg">
 </div>
 <p>Mdm Sayani Ahamad</p>
 </td>

@@ -728,9 +728,7 @@ variant: tiptap
 <p>Ms Nur Amira Binte Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_amira_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amira_rahim@school</a>
-</p>
-<p><a href="mailto:nur_amira_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s.gov.sg</a>
+<p><a href="mailto:nur_amira_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amira_rahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>

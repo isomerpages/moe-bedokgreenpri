@@ -213,7 +213,8 @@ variant: markdown
 <p>Ms Tan Lay Ming Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lay_ming_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_ming_a@schools.gov.sg</a></p>
+<p><a href="mailto:tan_lay_ming_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_ming_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -600,34 +601,34 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>3 Integrity</p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P1%20Teachers/miss%20chin%20ching%20shia%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/miss%20chin%20ching%20shia%20.jpg">
 </div>
 <p>Miss Chin Ching Shia</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chin_ching_shia@schools.gov.sg">chin_ching_shia@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_ching_shia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ching_shia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P3%20Teachers/mr%20liu%20peng%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mr%20liu%20peng%20.jpg">
 </div>
 <p>Mr Liu Peng</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:liu_peng@schools.gov.sg">liu_peng@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -663,8 +664,9 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Audrey Choo.jpeg">
+</div>
 <p>Ms Choo Jia En Audrey</p>
-</div></td>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:audrey_choo_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>audrey_choo_jia_en@schools.gov.sg</u></a>
 </p>
@@ -727,6 +729,21 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_amira_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amira_rahim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/Darren_Cheah_Jun_Han__PP_Size_.jpg">
+</div>
+<p>Mr Darren Cheah Jun Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:darren_chean_jun_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">darren_chean_jun_han@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -818,12 +835,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/ms%20elissa%20chew%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/ms%20elissa%20chew%20.jpg">
 </div>
 <p>Ms Chew Mei-Hua Elissa Ann</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chew_mei-hua_elissa_ann@schools.gov.sg">chew_mei-hua_elissa_ann@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_mei-hua_elissa_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_mei-hua_elissa_ann@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -833,12 +850,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/ms%20ong%20su%20san%20faith%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/ms%20ong%20su%20san%20faith%20.jpg">
 </div>
 <p>Ms Ong Su San Faith</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ong_su_san@schools.gov.sg">ong_su_san@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_su_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_su_san@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -848,12 +865,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/lohweileong.jpeg" alt="" width="100%" height="auto" style="width: 100px; margin:0;">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/lohweileong.jpeg">
 </div>
 <p>Mr Loh Wei Leong</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="luo_weiliang@schools.gov.sg">luo_weiliang@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="luo_weiliang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luo_weiliang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -863,12 +880,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P3%20Teachers/mrs%20jacinta%20gomes%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mrs%20jacinta%20gomes%20.jpg">
 </div>
 <p>Mrs Jacinta Gomes</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jacinta_mary_de_almeida@schools.gov.sg">jacinta_mary_de_almeida@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jacinta_mary_de_almeida@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jacinta_mary_de_almeida@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -878,12 +895,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P6%20Teachers/ms%20neo%20sin%20yi%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/ms%20neo%20sin%20yi%20.jpg">
 </div>
 <p>Ms Neo Sin Yi</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:neo_sin_yi@schools.gov.sg">neo_sin_yi@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_sin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_sin_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -893,12 +910,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P2%20Teachers/mr%20chin%20seng%20choy%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mr%20chin%20seng%20choy%20.jpg">
 </div>
 <p>Mr Chin Seng Choy Lance</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chin_seng_choy@schools.gov.sg">chin_seng_choy@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_seng_choy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_seng_choy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -908,12 +925,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/ms%20sri%20idayu%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/ms%20sri%20idayu%20.jpg">
 </div>
 <p>Ms Sri Idayu</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sri_idayu_mohamed_idris@schools.gov.sg">sri_idayu_mohamed_idris@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sri_idayu_mohamed_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sri_idayu_mohamed_idris@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -923,12 +940,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P6%20Teachers/mdm%20toh%20jit%20ho%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mdm%20toh%20jit%20ho%20.jpg">
 </div>
 <p>Mdm Toh Jit Ho</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_jit_ho_adeline@schools.gov.sg">toh_jit_ho_adeline@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_jit_ho_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_jit_ho_adeline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -938,12 +955,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P2%20Teachers/ms%20tan%20jinwen%20mavis%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/ms%20tan%20jinwen%20mavis%20.jpg">
 </div>
 <p>Ms Tan Jinwen Mavis</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_jinwen_mavis@schools.gov.sg">tan_jinwen_mavis@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jinwen_mavis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jinwen_mavis@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -953,27 +970,27 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/mr%20darren.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/mr%20darren.jpg">
 </div>
 <p>Mr Keng Xing Wei Darren</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:keng_xing_wei_darren@schools.gov.sg">keng_xing_wei_darren@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:keng_xing_wei_darren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">keng_xing_wei_darren@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/mdm%20tan%20yee%20chie%20pamela%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/mdm%20tan%20yee%20chie%20pamela%20.jpg">
 </div>
 <p>Mdm Tan Yee Chie Pamela</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yee_chie_pamela@schools.gov.sg">tan_yee_chie_pamela@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yee_chie_pamela@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_chie_pamela@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -983,31 +1000,30 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mrs%20ng%20yen%20nee%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mrs%20ng%20yen%20nee%20.jpg">
 </div>
 <p>Mrs Ng Yen Nee</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:neo_yen_nee@schools.gov.sg">neo_yen_nee@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_yen_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_yen_nee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P6%20Teachers/mr%20mazlan%20muhammad%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mr%20mazlan%20muhammad%20.jpg">
 </div>
 <p>Mr Mazlan Bin Muhammad</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mazlan_b_muhammad@schools.gov.sg">mazlan_b_muhammad@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mazlan_b_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mazlan_b_muhammad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-
 </tbody>
 </table>
 <p></p>
@@ -1078,42 +1094,42 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P3%20Teachers/ms%20lim%20poh%20tse%20ellen.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20lim%20poh%20tse%20ellen.jpg">
 </div>
 <p>Ms Lim Poh Tse Ellen</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_poh_tse_ellen@schools.gov.sg">lim_poh_tse_ellen@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_poh_tse_ellen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_poh_tse_ellen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/ms%20lim%20ee%20sze%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/ms%20lim%20ee%20sze%20.jpg">
 </div>
 <p>Ms Lim Ee Sze</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_ee_sze@schools.gov.sg">lim_ee_sze@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ee_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ee_sze@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Daniel_Seah_Wen_Hao.jpg">
 </div>
 <p>Mr Daniel Seah</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:daniel_seah_wen_hao@schools.gov.sg">daniel_seah_wen_hao@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daniel_seah_wen_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_seah_wen_hao@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1123,12 +1139,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/mr%20leung%20pak%20kin%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/mr%20leung%20pak%20kin%20.jpg">
 </div>
 <p>Mr Leung Pak Kin</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:leung_pak_kin@schools.gov.sg">leung_pak_kin@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leung_pak_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leung_pak_kin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1138,42 +1154,42 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P4%20Teachers/ms%20ng%20jieying%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P4%20Teachers/ms%20ng%20jieying%20.jpg">
 </div>
 <p>Ms Ng Jieying</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_jieying@schools.gov.sg">ng_jieying@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_jieying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jieying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mdm%20shariffah%20.jpg">
 </div>
 <p>Mdm Shariffah Faizah binte Hassan A</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:shariffah_faizah_hassan@schools.gov.sg">shariffah_faizah_hassan@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shariffah_faizah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_faizah_hassan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P2%20Teachers/ms%20ros%20farzana%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/ms%20ros%20farzana%20.jpg">
 </div>
 <p>Ms Ros Farzana</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ros_farzana_roskhaider@schools.gov.sg"><u>ros_farzana_roskhaider@schools.gov.sg</u></a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ros_farzana_roskhaider@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ros_farzana_roskhaider@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1183,12 +1199,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mr%20ng%20chee%20keong%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mr%20ng%20chee%20keong%20.jpg">
 </div>
 <p>Mr Ng Chee Keong</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ng_chee_keong_b@schools.gov.sg">ng_chee_keong_b@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_chee_keong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chee_keong_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1196,29 +1212,14 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Lyana_Sarie_Dewi.jpg">
 </div>
 <p>Ms Lyana Sarie Dewi</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lyana_sarie_dewi_mohamed@schools.gov.sg">lyana_sarie_dewi_mohamed@schools.gov.sg</a>	
-</p>
-</td>
-</tr>
-<tr>
-<td colspan="1" rowspan="1">
-<p>5 Resilience</p>
-</td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P3%20Teachers/ms%20nur%20zahirah%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
-</div>
-<p>Ms Nur Zahirah</p>
-</td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_zahirah_kassim@schools.gov.sg">nur_zahirah_kassim@schools.gov.sg</a>
+<p><a href="mailto:lyana_sarie_dewi_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lyana_sarie_dewi_mohamed@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1228,12 +1229,42 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P6%20Teachers/ms%20tan%20wei%20wen%20passport%20size.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/Saidah_Shufiyah__PP_size_.jpg">
+</div>
+<p>Miss Saidah Shufiyah Binte Imam Supaat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:saidah_shufiyah_imam_supaat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saidah_shufiyah_imam_supaat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/ms%20nur%20zahirah%20.jpg">
+</div>
+<p>Ms Nur Zahirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_zahirah_kassim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zahirah_kassim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/ms%20tan%20wei%20wen%20passport%20size.jpg">
 </div>
 <p>Ms Tan Wei Wen</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_wei_wen@schools.gov.sg">tan_wei_wen@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wei_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_wen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1243,12 +1274,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20zaidah%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mdm%20zaidah%20.jpg">
 </div>
 <p>Mdm Zaidah Yusoff</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zaidah_yusoff@schools.gov.sg">zaidah_yusoff@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zaidah_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaidah_yusoff@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1258,12 +1289,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Mohamad_Taib.jpg" alt="" width="100%" height="auto" style="width: 100px; margin:0;">
+<img style="width: 100px; margin:0;" height="auto" width="100%" alt="" src="/images/Mohamad_Taib.jpg">
 </div>
 <p>Mr Mohamad Taib Bin Majid</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mohamad_taib_majid@schools.gov.sg">mohamad_taib_majid@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mohamad_taib_majid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_taib_majid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1273,12 +1304,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mrs%20christina%20koh%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mrs%20christina%20koh%20.jpg">
 </div>
 <p>Mrs Christina Koh</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:christina_wong_hsui_peng@schools.gov.sg">christina_wong_hsui_peng@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christina_wong_hsui_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christina_wong_hsui_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1288,12 +1319,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mdm%20khairiah%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mdm%20khairiah%20.jpg">
 </div>
 <p>Mdm Khairiah Binte Abdulmajid H</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/keng_xing_wei_darren@schools.gov.sg">khairiah_abdulmajid_h@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.bedokgreenpri.moe.edu.sg/about-us/staff/teachers/keng_xing_wei_darren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairiah_abdulmajid_h@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1303,12 +1334,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/ms%20lynn%20tay%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/ms%20lynn%20tay%20.jpg">
 </div>
 <p>Ms Lynn Tay Ern Hwee</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lynn_tay_ern_hwee@schools.gov.sg">lynn_tay_ern_hwee@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lynn_tay_ern_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lynn_tay_ern_hwee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1316,45 +1347,45 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>5 Graciousness</p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P5%20Teachers/mr%20mages%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P5%20Teachers/mr%20mages%20.jpg">
 </div>
 <p>Mr Pasupathy Magesvaran</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:pasupathy_magesvaran@schools.gov.sg">pasupathy_magesvaran@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pasupathy_magesvaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pasupathy_magesvaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg">
 </div>
 <p>Mrs Lee Mei Yin</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_mei_yin@schools.gov.sg">lim_mei_yin@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_mei_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td colspan="1" rowspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P2%20Teachers/mr%20lukman%20nurhakim%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P2%20Teachers/mr%20lukman%20nurhakim%20.jpg">
 </div>
 <p></p>
 <p>Mr Lukman Nurhakim</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lukman_nurhakim_noordin@schools.gov.sg">lukman_nurhakim_noordin@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lukman_nurhakim_noordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lukman_nurhakim_noordin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1446,12 +1477,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img src="/images/Staff%20Photos/P1%20Teachers/ms%20chua%20shu%20hui%20vivan%20.jpg" width="100%" height="auto" style="width:100px; margin:0;">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/ms%20chua%20shu%20hui%20vivan%20.jpg">
 </div>
 <p>Ms Chua Shu Hui Vivian</p>
 </td>
-<td colspan="1" rowspan="1">
-<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_shu_hui_vivian@schools.gov.sg">chua_shu_hui_vivian@schools.gov.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_shu_hui_vivian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shu_hui_vivian@schools.gov.sg</a>
 </p>
 </td>
 </tr>

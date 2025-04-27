@@ -2,8 +2,20 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<p><strong><u>Open House 2025</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BGPS_Open_House_2025.png">
+</div>
+<p>Are you looking for a nurturing and supportive environment for your child
+who will be starting Primary 1 soon? BGPS welcomes interested parents to
+find out more about our school through a guided tour.</p>
+<p>Scan the QR code or visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bgpsopenhouse2025</a> to
+register!</p>
+<p><em>Closing date: 9 May 2025</em>.</p>
 <p><strong><u>Inaugural East Zone Design Thinking Conference 2025</u></strong>
 <br>Get ready for the inaugural East Zone Design Thinking Conference 2025!
 Bedok Green Primary School is thrilled to host this exciting event on Thursday,

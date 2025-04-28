@@ -13,7 +13,7 @@ variant: tiptap
 <p>Are you looking for a nurturing and supportive environment for your child
 who will be starting Primary 1 soon? BGPS welcomes interested parents to
 find out more about our school through a guided tour.</p>
-<p>Scan the QR code or visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bgpsopenhouse2025</a> to
+<p>Scan the QR code or visit <a href="https://form.gov.sg/6803b45bc6c10aa2adbb8578" rel="noopener nofollow" target="_blank">https://go.gov.sg/bgpsopenhouse2025</a> to
 register!</p>
 <p><em>Closing date: 9 May 2025</em>.</p>
 <p><strong><u>Inaugural East Zone Design Thinking Conference 2025</u></strong>

@@ -131,8 +131,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<a href="https://learning.moe.edu.sg/">
-</a><div class="isomer-image-wrapper"><a href="https://learning.moe.edu.sg/">
+<a href="https://vle.learning.moe.edu.sg/">
+</a><div class="isomer-image-wrapper"><a href="https://vle.learning.moe.edu.sg/">
 <img style="width: 100%" height="auto" width="100%" src="/images/Teachers%20Only%20Page/bgt17_sls.png">
 </a>
 </div>

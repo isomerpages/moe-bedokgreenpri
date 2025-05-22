@@ -906,6 +906,21 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+
+</div>
+<p>Ms Veronica Lathar Naidu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:veronica_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_naidu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">

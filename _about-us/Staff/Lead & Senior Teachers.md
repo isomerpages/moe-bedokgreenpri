@@ -137,21 +137,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/Senior%20Teachers/ms%20lim%20sock%20keow%20noel%20.jpg">
-</div>
-<p>Ms Lim Sock Keow Noel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua-lim_sock_keow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua-lim_sock_keow@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,6 +180,22 @@ variant: markdown
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/Senior%20Teachers/ms%20lim%20sock%20keow%20noel%20.jpg">
+</div>
+<p>Ms Lim Sock Keow Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua-lim_sock_keow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua-lim_sock_keow@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+	
 <tr>
 <td rowspan="1" colspan="1">
 <p>Learning Needs (Educational Support)</p>

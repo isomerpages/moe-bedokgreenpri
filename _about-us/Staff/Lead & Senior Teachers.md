@@ -96,7 +96,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/100 MDM ZAHIDAH SHAMSUL.jpg">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff%20Photos/2025/Mdm_Zahidah_Shamsul__PP_Size_.jpg">
 </div>
 <p>Mdm Zahidah Shamsul</p>
 </td>
@@ -111,7 +111,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-
+<img style="width:30%" height="auto" width="100%" src="/images/Staff%20Photos/2025/MS_VERONICA_LATHAR_NAIDU__PP_Size__3.jpg">
 </div>
 <p>Ms Veronica Lathar Naidu</p>
 </td>

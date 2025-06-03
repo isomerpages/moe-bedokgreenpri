@@ -910,7 +910,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/MS_VERONICA_LATHAR_NAIDU__PP_Size__3.jpg">
 </div>
 <p>Ms Veronica Lathar Naidu</p>
 </td>
@@ -1613,7 +1613,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mdm%20zahidah%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/Mdm_Zahidah_Shamsul__PP_Size_.jpg">
 </div>
 <p>Mdm Zahidah Shamsul</p>
 </td>

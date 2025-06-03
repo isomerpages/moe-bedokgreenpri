@@ -182,7 +182,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Primary</p>
+<p>Lower Primary Learners</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">

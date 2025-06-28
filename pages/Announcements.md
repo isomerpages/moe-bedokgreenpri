@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>Term 2 Newsletter</u></strong> 
+<br>As part of our efforts to keep you abreast of developments in the school,
+a copy of the Principal’s Newsletter for Term 2 is parked <a href="/files/Forms/2025/BGPS_001_Term_1_Letter_2025_Final_Version.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong><u>Open House 2025</u></strong>
 </p>
 <p></p>

@@ -3,7 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -158,21 +158,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neo_sin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_sin_yi@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department (Physical Education &amp; Co-curricular Activities)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel10" src="/images/Key%20Personnel%201/keypersonnel10.jpg">
-</div>
-<p>Mr Alvin Thio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thio_beng_lou_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thio_beng_lou_alvin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

@@ -16,7 +16,9 @@ Tel: 64640111
 Fax: 64640110  
 Online Store:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
-Opens Monday to Friday, 8.30 a.m. to 3 p.m.  
+Opens:<br>
+Monday, 8.00 a.m. to 2.30 p.m. <br>
+Tuesday to Friday, 8.30 a.m. to 3.00 p.m. <br>
 (Lunch hour: 12 noon to 1 p.m.)
 
 School Uniform Supplier

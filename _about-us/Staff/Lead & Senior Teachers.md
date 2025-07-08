@@ -137,6 +137,21 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Miss_Lim_Ying_Lin__PP_Size_.jpg">
+</div>
+<p>Miss Lim Ying Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_ying_lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,7 +210,6 @@ variant: markdown
 </p>
 </td>
 </tr>
-	
 <tr>
 <td rowspan="1" colspan="1">
 <p>Learning Needs (Educational Support)</p>

@@ -58,6 +58,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Level Head (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/P6 Teachers/ms tse min yan .jpg">
+</div>
+<p>Ms Tse Min Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tse_min_yan@schools.gov.sg" rel="noopener nofollow" target="_blank">tse_min_yan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Head of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">

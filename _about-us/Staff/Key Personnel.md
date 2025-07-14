@@ -3,7 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -53,6 +53,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ee_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ee_sze@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/P6 Teachers/ms tse min yan .jpg">
+</div>
+<p>Ms Tse Min Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tse_min_yan@schools.gov.sg" rel="noopener nofollow" target="_blank">tse_min_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>

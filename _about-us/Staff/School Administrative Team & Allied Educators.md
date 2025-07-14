@@ -200,8 +200,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg">
 </div>
-<p>
-<br>Mr Andersen Ooi</p>
+<p>Mr Andersen Ooi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sanjiv Anthony Savarimuthu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

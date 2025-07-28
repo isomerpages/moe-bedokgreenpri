@@ -3,7 +3,7 @@ title: Teachers
 permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
-variant: tiptap
+variant: markdown
 ---
 <h2>Class Form Teachers 2025</h2>
 <table style="minWidth: 50px">
@@ -229,6 +229,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hui_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_chin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nuryn Aniqah Binte Mohamad Zulkifli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuryn_aniqah_mohamad_zulkifli_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuryn_aniqah_mohamad_zulkifli_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -796,7 +808,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4 Teachers</h4>
-<table style="minWidth: 75px">
+<p></p><table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -865,12 +877,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/P3%20Teachers/mrs%20jacinta%20gomes%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/MS_VERONICA_LATHAR_NAIDU__PP_Size__3.jpg">
 </div>
-<p>Mrs Jacinta Gomes</p>
+<p>Ms Veronica Lathar Naidu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jacinta_mary_de_almeida@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jacinta_mary_de_almeida@schools.gov.sg</a>
+<p><a href="mailto:veronica_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_naidu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -890,19 +902,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Staff%20Photos/2025/MS_VERONICA_LATHAR_NAIDU__PP_Size__3.jpg">
-</div>
-<p>Ms Veronica Lathar Naidu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:veronica_naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_naidu@schools.gov.sg</a>
-</p>
-</td>
+
+
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -931,6 +932,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sri_idayu_mohamed_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sri_idayu_mohamed_idris@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Liu Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Liu_Jing_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jing_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

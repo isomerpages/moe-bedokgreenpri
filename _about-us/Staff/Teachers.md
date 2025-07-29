@@ -237,6 +237,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nuryn_Aniqah_Binte_Mohamad_Zulkifli__PP_size_.jpg">
+</div>
 <p>Miss Nuryn Aniqah Binte Mohamad Zulkifli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -808,7 +811,8 @@ variant: markdown
 </tbody>
 </table>
 <h4>Primary 4 Teachers</h4>
-<p></p><table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -902,10 +906,6 @@ variant: markdown
 </td>
 </tr>
 <tr>
-
-
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>4 Responsibility</p>
 </td>
@@ -940,6 +940,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Liu_Jing_Edited__PP_Size_.jpg">
+</div>
 <p>Miss Liu Jing</p>
 </td>
 <td rowspan="1" colspan="1">

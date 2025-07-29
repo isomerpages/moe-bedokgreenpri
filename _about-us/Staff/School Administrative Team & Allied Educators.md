@@ -33,7 +33,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 31%;" height="auto" width="100%" alt="" src="/images/MS_NUR_FATHIAH_BINTE_ABDUL_MALIK.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/MS_NUR_FATHIAH_BINTE_ABDUL_MALIK.jpg">
 </div>
 <p>Mdm Nur Fathiah Binte Abdul Malik</p>
 </td>
@@ -48,7 +48,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/115)%20MR%20DE%20SILVA%20CHRISTOPHER%20BRYAN.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/115)%20MR%20DE%20SILVA%20CHRISTOPHER%20BRYAN.jpeg">
 </div>
 <p>
 <br>Mr De Silva Christopher</p>
@@ -64,7 +64,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Li%20King.png">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Li%20King.png">
 </div>
 <p>
 <br>Mdm Lim Li King
@@ -82,7 +82,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Siti_Zulriah__PP_size_.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Siti_Zulriah__PP_size_.jpg">
 </div>
 <p>Mdm Siti Zulriah Binte Mohd Rahmat</p>
 </td>
@@ -97,7 +97,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/147%20Mdm%20Liew%20Siew%20Hong%20Alicia.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/147%20Mdm%20Liew%20Siew%20Hong%20Alicia.jpeg">
 </div>
 <p>
 <br>Mdm Lim Siew Hong</p>
@@ -113,7 +113,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/138)%20Mdm%20Tety%20Suzanna%20Binte%20Sulaiman.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/138)%20Mdm%20Tety%20Suzanna%20Binte%20Sulaiman.jpeg">
 </div>
 <p>
 <br>Mdm Tety Suzanna Sulaiman
@@ -131,7 +131,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/141)%20Mr%20Leow%20Zi%20Jian.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/141)%20Mr%20Leow%20Zi%20Jian.jpeg">
 </div>
 <p>
 <br>Mr Leow Zi Jian</p>
@@ -150,7 +150,7 @@ variant: tiptap
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/95)%20MDM%20LIM%20LIAN%20CHOO.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/95)%20MDM%20LIM%20LIAN%20CHOO.jpeg">
 </div>
 <p>
 <br>Mdm Lim Lian Choo</p>
@@ -166,7 +166,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/135)%20Mdm%20Evelyn%20Yap%20Poh%20Kwee.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/135)%20Mdm%20Evelyn%20Yap%20Poh%20Kwee.jpeg">
 </div>
 <p>
 <br>Ms Evelyn Yap Poh Kwee</p>
@@ -182,7 +182,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/koh%20poh%20lin%20jane.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/koh%20poh%20lin%20jane.jpg">
 </div>
 <p>
 <br>Mdm Koh Poh Lin Jane</p>
@@ -198,7 +198,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg">
 </div>
 <p>Mr Andersen Ooi</p>
 </td>
@@ -211,6 +211,10 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sanjiv_Anthony_Savarimuthu__PP_Size_.jpg">
+</div>
 <p>Mr Sanjiv Anthony Savarimuthu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +227,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/SAYANI_AHAMAD__PP_Size_.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/SAYANI_AHAMAD__PP_Size_.jpg">
 </div>
 <p>Mdm Sayani Ahamad</p>
 </td>
@@ -237,7 +241,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mdm%20dhalina%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mdm%20dhalina%20.jpg">
 </div>
 <p>
 <br>Mdm Dhalina Bte Nari</p>
@@ -252,7 +256,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/miss%20efi%20elfina%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/miss%20efi%20elfina%20.jpg">
 </div>
 <p>
 <br>Ms Efi Elfina</p>
@@ -267,7 +271,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/ms%20lina%20tay.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/ms%20lina%20tay.jpg">
 </div>
 <p>
 <br>Ms Lina Tay</p>
@@ -282,7 +286,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mdm%20weevin%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mdm%20weevin%20.jpg">
 </div>
 <p>
 <br>Mdm Weevin Henry Fernando</p>
@@ -297,7 +301,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mdm%20kayati%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mdm%20kayati%20.jpg">
 </div>
 <p>
 <br>Mdm Kayati Salikin</p>
@@ -315,7 +319,7 @@ variant: tiptap
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/hobenghong.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/hobenghong.jpg">
 </div>
 <p>
 <br>Mdm Ho Beng Hong</p>
@@ -330,7 +334,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Ng_Jun_Song__PP_size_.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Ng_Jun_Song__PP_size_.jpg">
 </div>
 <p>Mr Ng Jun Song</p>
 </td>
@@ -368,7 +372,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/134)%20Ms%20Kee%20Ee%20Kheng.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/134)%20Ms%20Kee%20Ee%20Kheng.jpeg">
 </div>
 <p>
 <br>Ms Kee Ee Kheng</p>
@@ -384,7 +388,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/155)%20Mdm%20Suriani%20Bte%20Abd%20Shukor.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/155)%20Mdm%20Suriani%20Bte%20Abd%20Shukor.jpeg">
 </div>
 <p>
 <br>Mdm Suriani</p>
@@ -400,7 +404,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Allied%20Educators/mrs%20descalsota%20teodora%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Allied%20Educators/mrs%20descalsota%20teodora%20.jpg">
 </div>
 <p>
 <br>Mrs Descalsota Teodora
@@ -414,11 +418,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Allied%20Educators/ms%20sheryl%20wong%20.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Allied%20Educators/ms%20sheryl%20wong%20.jpg">
 </div>
 <p>
 <br>Ms Sheryl Wong Shi Hui</p>
@@ -434,7 +438,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Juslyn_Chan_Shih_Yun__PP_Size_.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Juslyn_Chan_Shih_Yun__PP_Size_.jpg">
 </div>
 <p>Ms Juslyn Chan Shih Yun</p>
 </td>
@@ -449,7 +453,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/128)%20Ms%20Janice%20Aw%20Chiew%20Khim.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/128)%20Ms%20Janice%20Aw%20Chiew%20Khim.jpeg">
 </div>
 <p>
 <br>Ms Janice Aw
@@ -467,7 +471,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Siang%20Hua.jpeg">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/Siang%20Hua.jpeg">
 </div>
 <p>
 <br>Mr See Siang Hua</p>

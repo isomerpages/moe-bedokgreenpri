@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>Term 4 Newsletter</u></strong> 
+<br>As part of our efforts to keep you abreast of developments in the school,
+a copy of the Principal’s Newsletter for Term 4 is parked <a href="/files/Forms/2025/BGPS_175_25_Term_4_Letter_2025_Final_Version__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong><u>Term 3 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
 a copy of the Principal’s Newsletter for Term 3 is parked <a href="/files/Forms/2025/BGPS_126_25_Term_3_Letter_2025_Final_Version.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

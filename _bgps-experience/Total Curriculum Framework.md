@@ -5,115 +5,101 @@ variant: tiptap
 description: ""
 ---
 <h2>BGPS Total Curriculum Framework</h2>
-<p>To prepare our students for the Future of Learning, the BGPS Total Curriculum
-Framework sets the focus and direction for our school’s curriculum and
-co-curriculum to achieve our desired student outcomes of:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A Responsible Learner who Takes Ownership (of Own Actions and Own Learning)</p>
-</li>
-<li>
-<p>A Confident Person who is Resilient (in the Face of Hard Work and Challenges)</p>
-</li>
-<li>
-<p>A Compassionate Person who Cares for one another (including the Community
-and the Environment)</p>
-</li>
-</ul>
-<p>The BGPS Total Curriculum Framework outlines our beliefs towards teaching
-and learning, the broad approaches towards total curriculum, focus areas
-as well as learning experiences that were designed with our students in
-mind.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BGPS_TCF_Final_Version.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Total_Curriculum.png">
 </div>
-<h3>&nbsp;<strong>1.&nbsp;&nbsp;&nbsp; Our School Vision</strong></h3>
-<p>At the heart of the BGPS Total Curriculum Framework, we are guided by <em>our school’s </em>Vision
-of developing “<em>Empowered Learners, Persons of Strength and Character”. </em>Cascasding
-further down is our School’s Mission “<em>To empower BGPians to learn how to learn and succeed, and nurture them to be confident persons and concerned citizens”.</em>
-</p>
+<h3><strong>Desired Student Outcomes of the BGPS Total Curriculum</strong></h3>
+<p>To prepare BGPians for the Future of Learning, the BGPS Total Curriculum
+Framework sets the focus and direction for the school’s curriculum and
+co-curriculum to achieve the school’s vision of Empowered Learners, Persons
+of Strength and Character. The vision is unpacked as Desired Student Outcomes
+(DSOs) that are also called Behavioural Indicators as follows:</p>
 <p></p>
-<h3><strong>&nbsp;2.&nbsp;&nbsp; Our Beliefs towards Teaching and Learning</strong></h3>
+<h4>(a)&nbsp; A Learner who Takes Ownership (of Own Actions and Own Learning)</h4>
+<p>BGPS seeks to develop <strong>A Learner who Takes Ownership</strong> of
+his own actions and own learning, and who displays the values of responsibility
+and integrity. BGPians take charge of themselves by taking pride in their
+own work, distinguishing right from wrong, and making responsible choices.
+They are also curious and inventive as they display a lively curiosity
+about their surroundings, have awareness of the arts, and can innovate
+and solve problems. They also take the initiative in their learning as
+demonstrated in the learning dispositions of ownership (<em>make efforts to do work with pride, complete learning tasks proactively</em>)
+and resourcefulness (<em>explore and discover new learning and new ideas with joy, find solutions to problems from multiple perspectives</em>).</p>
+<h4>(b)&nbsp; A Person who is Resilient (in the Face of Hard Work and Challenges)</h4>
+<p>In this rapidly evolving world, the school is committed to helping the
+BGPian to become <strong>A Person who is Resilient</strong> in the face of
+hard work and challenges. BGPians strive for their personal best by being
+determined to improve and succeed, organising and planning ahead, and having
+healthy habits. BGPians are also self-assured through awareness of their
+own strengths and areas for growth, have a sense of self-worth and are
+able to think for and express themselves confidently. These would be demonstrated
+through the learning dispositions of perseverance (<em>keep working at a task or challenge to complete it, do not give up because of failures or mistakes but strive to do better</em>)
+and engagement (<em>reflect and contribute thoughtfully to discussions of learning activities, ask questions to deepen understanding</em>).</p>
+<p></p>
+<h4>(c)&nbsp; A Person who Cares for One Another (including the Community and the Environment)</h4>
+<p>BGPS places strong emphasis on character and values education with the
+goal to nurture <strong>A Person who Cares for One Another. </strong>As
+citizens of the world, BGPians will have empathy to cooperate, share, and
+care for others as well as the environment. They appreciate diversity and
+value inclusivity. They will also feel a sense of belonging as they grow
+to know and love BGPS and Singapore.</p>
+<p>Taking cognisance of the three DSOs above, the BGPS Total Curriculum Framework
+outlines the school’s beliefs towards teaching and learning, the broad
+approaches proposed for the total curriculum, focus areas as well as learning
+experiences that are designed with BGPians in mind.</p>
+<p></p>
+<h3><strong>1.&nbsp;&nbsp;&nbsp; BGPS Vision</strong></h3>
+<p>The Total Curriculum Framework is centred on the<em> </em>BGPS<em> </em>Vision
+of developing “<em>Empowered Learners, Persons of Strength and Character”, </em>and
+the BGPS Mission, “<em>To empower BGPians to learn how to learn and succeed, and nurture them to be confident persons and concerned citizens”.</em>
+</p>
+<h3><strong>2.&nbsp;&nbsp;&nbsp; Beliefs towards Teaching and Learning</strong></h3>
+<p>The school’s beliefs towards teaching and learning: “<em>Every child is unique and should be well-supported</em>”
+and <em>“Every child can learn, wants to learn and can do well”</em> are
+in alignment with the BGPS philosophy of <em>“Every child matters”.</em>
+</p>
 <h4>(a)&nbsp; Every child is unique and should be well-supported.</h4>
-<p>We recognise that all our students are distinctive individuals who learn
-differently, and it is our role to ensure that we provide customised supported
-for their growth.</p>
+<p>BGPS recognises that all BGPians are distinctive individuals who learn
+differently, and it is the BGPS educator’s role to ensure that customised
+support for BGPians’ holistic development and growth is provided.</p>
 <h4>(b)&nbsp; Every child can learn, wants to learn, and can do well.</h4>
-<p>We believe that every BGPS student has the capacity and will to learn
-and succeed and we have to harness this well to help them fulfil their
-utmost potential.</p>
-<h3><strong>3.&nbsp;&nbsp;&nbsp; Our Broad Approaches towards Teaching and Learning</strong></h3>
-<p>Taking reference from our beliefs, we have outlined three broad approaches
-for our BGPS Total Curriculum framework:</p>
+<p>BGPS believes that every BGPian has the capacity and will to learn and
+succeed and BGPS educators have to harness this well to help them fulfil
+their utmost potential.</p>
+<h3><strong>3.&nbsp;&nbsp;&nbsp; Broad Approaches towards Teaching and Learning</strong></h3>
+<p>Taking reference from the school’s beliefs, three broad approaches for
+the BGPS Total Curriculum Framework have been outlined:</p>
 <h4>(a)&nbsp; Enable All Learners</h4>
-<p>We cultivate an inclusive perspective where our teachers understand, value
-and accommodate to diverse learning needs. We understand and value our
-students’ learning differences and work towards making learning inclusive
-through appropriate support, intervention-based initiatives, and strengths-based
-approaches to talent development.</p>
-<p>In enabling our learners, we also want them to develop awareness of their
-strengths and areas of growth as we help them work towards developing their
-talents in various domains.</p>
+<p>BGPS educators need to understand BGPians’ needs to make learning accessible
+for them in support of their attainment of knowledge, skills, and competencies.</p>
+<p>BGPS seeks to cultivate an inclusive perspective where BGPS educators
+understand, value and accommodate diverse learning needs of BGPians. BGPS
+educators understand and value BGPians’ learning differences and work towards
+making learning inclusive through appropriate support, intervention-based
+initiatives, and strengths-based approaches to talent development, because
+of the school’s belief that every BGPian is a unique individual with intrinsic
+worth. In enabling all learners, it is aspired for BGPians to be more self-aware
+of their strengths and areas for growth as they are not only supported,
+but feel supported, in developing their talents in various domains.</p>
 <h4>(b)&nbsp; Enrich Students’ Learning</h4>
-<p>We aim to contextualise learning for our students to broaden their perspectives
-of the world around them. We seek to deepen and broaden students’ learning
-through exposure to world affairs, contemporary issues, and global concerns
-through a localised lens. Through these, students will develop critical
-21<sup>st</sup> century competencies, develop globalised perspectives and
-work towards being advocates for the environment.</p>
+<p>BGPS aims to contextualise learning for BGPians to broaden their perspectives
+of the world around them. In contextualising learning, BGPS seeks to deepen
+and broaden BGPians’ thinking through exposure to world affairs, contemporary
+issues, and global concerns in a localised lens. Through these authentic
+contexts, students will develop critical Emerging 21<sup>st</sup> Century
+Competencies (E21CCs) and globalised perspectives, and work towards being
+advocates for the environment.</p>
 <h4>(c)&nbsp; Empower Learners to be Future-ready</h4>
-<p>We understand that the future world our students will be navigating through
-will be constantly evolving.</p>
-<p>Being future-ready means that our students develop habits, dispositions
-and competencies that are critical to adapt to the ever-changing world.</p>
-<p>They will need to work on building their socio-emotional competencies,
-developing positive dispositions, and mastering digital literacies. We
-will also place strong emphasis on the development of a growth mindset,
-7 Habits and building healthy habits for them to develop resilience and
-adaptability.</p>
-<h3><strong>4.&nbsp;&nbsp;&nbsp; Our Focus Areas</strong></h3>
-<p>In support of the three broad approaches, six focus areas were identified:</p>
-<h4>(a)&nbsp; Purpose-driven Assessment and Feedback</h4>
-<p>Assessment and feedback are integral to our students’ learning progress.
-We believe in designing assessment and feedback that is fit for purpose
-for both teachers and students. Such data will help teachers deepen understanding
-of our students’ needs and our students gain self-awareness to reflect
-on their strengths and areas of growth. This will all come together to
-help our students to move forward in their growth in various areas.</p>
-<h4>(b)&nbsp; Differentiated</h4>
-<p>Based on the insight gathered from purposeful assessment and feedback,
-learning can be differentiated so that we can bring out the best in our
-students, regardless of their needs, strengths, and areas for growth. Thus,
-to foster students’ growth, learning is specially designed to cater to
-our students’ varied interests, talents and abilities.</p>
-<h4>(c)&nbsp; Authentic and Experiential</h4>
-<p>We aim to expose students to real-world contexts and perspectives and
-to provide opportunities for sense-making, deepening and application of
-learning. This means providing students with opportunities for them to
-be curious about the world around them, think critically, adaptively and
-inventively to problem-solve, and communicate confidently and effectively
-while working collaboratively.</p>
-<h4>(d)&nbsp; Global-minded</h4>
-<p>Being global-minded means that students need to be exposed to the world
-they live in and the global issues that affect them. Thereafter, they will
-need to discover how they connect and fit into that world. Coupled with
-the right values, we aim to nurture advocates with a willingness to take
-action on global issues while remaining rooted to our school and nation
-as citizens of the world. &nbsp;</p>
-<h4>(e)&nbsp; Future-oriented</h4>
-<p>In an ever-evolving world, it is important for our students to develop
-soft skills, like flexibility, adaptability, time management and conflict
-resolution, that will help them to navigate any situation that they will
-eventually encounter. Besides soft skills, they will also need to pick
-up healthy habits and coping mechanisms to develop good physical, mental
-and emotional health.&nbsp;</p>
-<h4>(f)&nbsp;&nbsp;&nbsp; Tech-enabled</h4>
-<p>With educational technology as a key enabler for the Future of Learning,
-we are committed to developing our students to have the knowledge, skills,
-competencies, and values for them to be savvy digital learners as they
-navigate the online environment and digital space.</p>
-<h3><strong>5.&nbsp;&nbsp;&nbsp; Learning Experiences</strong></h3>
+<p>The future world that BGPians will be navigating through is constantly
+evolving into one that is volatile, uncertain, complex, and ambiguous.
+Being future-ready means that BGPians must develop habits, dispositions
+and competencies that are critical for the future. They will need to work
+on building their socio-emotional competencies, developing positive dispositions,
+and mastering digital literacies. Strong emphasis will also be placed on
+the development of a growth mindset, 7 Habits and building of healthy habits
+for them to develop resilience and adaptability.</p>
+<h3><strong>4.&nbsp;&nbsp;&nbsp; Focus Areas</strong></h3>
 <p>The focus areas are actualised through the various learning experiences
 that our students go through. The curriculum and co-curriculum learning
 experiences are broadly categorised as follows:</p>

@@ -127,22 +127,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Executive (AE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/141)%20Mr%20Leow%20Zi%20Jian.jpeg">
-</div>
-<p>
-<br>Mr Leow Zi Jian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="leow_zi_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leow_zi_jian@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -418,21 +418,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Juslyn_Chan_Shih_Yun__PP_Size_.jpg">
-</div>
-<p>Ms Juslyn Chan Shih Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:juslyn_chan_shih_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juslyn_chan_shih_yun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">

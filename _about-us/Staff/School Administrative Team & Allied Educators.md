@@ -127,26 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer (CSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/95)%20MDM%20LIM%20LIAN%20CHOO.jpeg">
-</div>
-<p>
-<br>Mdm Lim Lian Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lim_lian_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_lian_choo@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer (CSO)</p>
+<p>Admin Executive (AE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -157,6 +138,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="evelyn_yap_poh_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>evelyn_yap_poh_kwee@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer (CSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/95)%20MDM%20LIM%20LIAN%20CHOO.jpeg">
+</div>
+<p>
+<br>Mdm Lim Lian Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_lian_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_lian_choo@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -413,21 +410,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sheryl_wong_shi_hui@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Juslyn_Chan_Shih_Yun__PP_Size_.jpg">
-</div>
-<p>Ms Juslyn Chan Shih Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:juslyn_chan_shih_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juslyn_chan_shih_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>

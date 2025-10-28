@@ -146,9 +146,6 @@ variant: tiptap
 <p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:100px; margin:0;" height="auto" width="100%" src="/images/95)%20MDM%20LIM%20LIAN%20CHOO.jpeg">
 </div>

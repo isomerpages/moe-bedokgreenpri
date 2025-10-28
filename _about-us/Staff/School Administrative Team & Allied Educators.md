@@ -127,6 +127,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Executive (AE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/135)%20Mdm%20Evelyn%20Yap%20Poh%20Kwee.jpeg">
+</div>
+<p>
+<br>Ms Evelyn Yap Poh Kwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="evelyn_yap_poh_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>evelyn_yap_poh_kwee@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,22 +157,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_lian_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_lian_choo@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer (CSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/135)%20Mdm%20Evelyn%20Yap%20Poh%20Kwee.jpeg">
-</div>
-<p>
-<br>Ms Evelyn Yap Poh Kwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="evelyn_yap_poh_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>evelyn_yap_poh_kwee@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

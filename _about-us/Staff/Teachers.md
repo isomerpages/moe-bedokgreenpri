@@ -238,7 +238,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nuryn_Aniqah_Binte_Mohamad_Zulkifli__PP_size_.jpg">
+<img style="width: 100px;  margin:0;" height="auto" width="100%" alt="" src="/images/Nuryn_Aniqah_Binte_Mohamad_Zulkifli__PP_size_.jpg">
 </div>
 <p>Miss Nuryn Aniqah Binte Mohamad Zulkifli</p>
 </td>
@@ -941,7 +941,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Liu_Jing_Edited__PP_Size_.jpg">
+<img style="width: 100px;  margin:0;" height="auto" width="100%" alt="" src="/images/Liu_Jing_Edited__PP_Size_.jpg">
 </div>
 <p>Miss Liu Jing</p>
 </td>

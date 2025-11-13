@@ -4,7 +4,7 @@ permalink: /about-us/school-booklist/
 description: ""
 variant: tiptap
 ---
-<h2>School Textbooks (P1-6) Booklist 2025</h2>
+<h2>School Textbooks (P1-6) Booklist 2026</h2>
 <p>Click on the following link to purchase your school books online: &nbsp;
 <a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>

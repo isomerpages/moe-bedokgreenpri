@@ -13,10 +13,10 @@ variant: tiptap
 <br><a href="/files/Booklist/2026/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist</a>
 <br><a href="/files/Booklist/2026/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist</a>
 <br><a href="/files/Booklist/2026/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist</a>
-<br><a href="/files/Booklist/2026/P5__HTM_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 HMT Booklist</a>
+<br><a href="/files/Booklist/2026/P5__HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 HMT Booklist</a>
 <br><a href="/files/Booklist/2026/P5__STD_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 STD Booklist</a>
 <br><a href="/files/Booklist/2026/P5__FDN_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 FDN Booklist</a>
-<br><a href="/files/Booklist/2026/P6__HTM_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 HMT Booklist</a>
+<br><a href="/files/Booklist/2026/P6__HMT_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 HMT Booklist</a>
 <br><a href="/files/Booklist/2026/P6__STD_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 STD Booklist</a>
 <br><a href="/files/Booklist/2026/P6__FDN_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist</a>
 <br>

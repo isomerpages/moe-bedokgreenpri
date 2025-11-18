@@ -30,8 +30,4 @@ a copy of the Principal’s Newsletter for Term 1 is parked <a href="/files/Form
 home to help our children start school right.</p>
 <p>Click <a href="/files/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information.</p>
-<p><strong><u>Parents Gateway</u></strong> 
-<br>Parents Gateway (PG) is the main communication platform used by the school
-to reach out to parents.</p>
-<p>To download&nbsp;the mobile app&nbsp;and perform a simple one-time on
-boarding process, please click <a href="/partners/home-school-partnership/parent-resource-kit" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>

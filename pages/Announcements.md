@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>P1 First Steps @ BGPS (18 November 2025)</u></strong> 
+<br>Please click <a href="https://sites.google.com/moe.edu.sg/bedokgreenprimary" rel="noopener nofollow" target="_blank">here</a> to
+access the P1 First Steps @ BGPS (2026 Intake) microsite.</p>
 <p><strong><u>Term 4 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
 a copy of the Principal’s Newsletter for Term 4 is parked <a href="/files/Forms/2025/BGPS_175_25_Term_4_Letter_2025_Final_Version__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

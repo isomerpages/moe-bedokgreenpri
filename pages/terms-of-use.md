@@ -10,7 +10,7 @@ Thank you for visiting Bedok Green Primary School's school website. By accessing
 #### **Proprietary Rights**
 2. This Web Site is maintained by Bedok Green Primary School. It is owned by Bedok Green Primary School.
 
-3. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Corporation Primary School.
+3. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Bedok Green Primary School.
 #### **Privacy Policy**
 4. Click [here](https://www.bedokgreenpri.moe.edu.sg/privacy/) to review this Web Site Privacy Statement.
 #### **Restrictions on Use of Materials**

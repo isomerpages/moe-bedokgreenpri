@@ -47,9 +47,6 @@ access our school calendar.&nbsp;Thank you.</p>
 <p><strong><u>Term 1 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
 a copy of the Principal’s Newsletter for Term 1 is parked <a href="/files/Forms/2025/BGPS_001_Term_1_Letter_2025_Final_Version.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong><u>P1 Orientation 2025</u></strong> 
-<br>Please click <a href="https://sites.google.com/moe.edu.sg/bedokgreenprimary" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the P1 Orientation 2025 microsite.</p>
 <p><strong><u>P1 SLS Activation Exercise Instructions for Parents</u></strong> 
 <br>Click <a href="/partners/home-school-partnership/student-learning-space-sls-activation" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the guide on activating your child’s SLS account.&nbsp;</p>

@@ -25,9 +25,6 @@ access our school calendar.&nbsp;Thank you.</p>
 <p><strong><u>Term 1 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
 a copy of the Principal’s Newsletter for Term 1 is parked <a href="/files/Forms/2025/BGPS_001_Term_1_Letter_2025_Final_Version.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong><u>P1 SLS Activation Exercise Instructions for Parents</u></strong> 
-<br>Click&nbsp;<a href="https://youtu.be/YTLJBmTqdYM" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view the online video.&nbsp;Thank you.</p>
 <p><strong><u>Parent Kit - Starting School Right</u></strong> 
 <br>The latest issue of Parent Kit provides tips on how what you can do at
 home to help our children start school right.</p>

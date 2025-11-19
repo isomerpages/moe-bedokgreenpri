@@ -15,3 +15,7 @@ have to produce their Identification Card for verification reasons.</p>
 after dismissal. During the inclement weather, they can collect their children
 from the porch or sheltered part of Gate 1, 4 or 5.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_dismissal_gate_timings_p1__p2.jpg">
+</div>
+<p></p>

@@ -179,7 +179,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg">
+<img style="width: 100px;  margin:0;" height="auto" width="100%" alt="" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg">
 </div>
 <p>Mr Andersen Ooi</p>
 </td>

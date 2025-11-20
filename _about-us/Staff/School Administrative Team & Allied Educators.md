@@ -3,7 +3,7 @@ title: School Administrative Team & Allied Educators
 permalink: /about-us/staff/school-administrative-n-allied-educators/
 description: ""
 third_nav_title: Staff
-variant: tiptap
+variant: markdown
 ---
 <h2>Administrative Team</h2>
 <table style="minWidth: 75px">
@@ -179,7 +179,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100px; margin:0;" height="auto" width="100%" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg">
+<img style="width: 100px;  margin:0;" height="auto" width="100%" alt="" src="/images/School%20Admin%20&amp;%20Ops/mr%20andersen%20.jpg">
 </div>
 <p>Mr Andersen Ooi</p>
 </td>
@@ -194,7 +194,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sanjiv_Anthony_Savarimuthu__PP_Size_.jpg">
+<img style="width:100px; margin:0;" height="auto" width="100%" alt="" src="/images/Sanjiv_Anthony_Savarimuthu__PP_Size_.jpg">
 </div>
 <p>Mr Sanjiv Anthony Savarimuthu</p>
 </td>

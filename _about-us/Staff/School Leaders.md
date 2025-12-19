@@ -20,9 +20,9 @@ variant: markdown
 
 <figure style="width:85%">
 
-<img src="/images/yeoshohor.jpg" alt="Mr Yeo Sho Hor" style="width:100px;"><br>
-Mr Yeo Sho Hor<br>
-<a href="mailto:yeo_sho_hor@schools.gov.sg">yeo_sho_hor@schools.gov.sg</a>
+
+Mrs Senthil Poonkodi<br>
+<a href="mailto:senthil_poonkodi@schools.gov.sg">senthil_poonkodi@schools.gov.sg</a>
 
 </figure>
 

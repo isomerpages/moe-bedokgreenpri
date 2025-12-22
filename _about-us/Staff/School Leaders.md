@@ -20,7 +20,7 @@ variant: markdown
 
 <figure style="width:85%">
 
-
+<img src="/images/Staff%20Photos/2026/Mrs_Senthil_Poonkodi__PP_size_.jpg" alt="Mrs Senthil Poonkodi" style="width:100px;">	
 Mrs Senthil Poonkodi<br>
 <a href="mailto:senthil_poonkodi@schools.gov.sg">senthil_poonkodi@schools.gov.sg</a>
 
@@ -30,7 +30,7 @@ Mrs Senthil Poonkodi<br>
 
 <figure style="width:85%">
 
-<img src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg" alt="Mr Chua Kok Seng" style="width:100px;"><br>
+<img src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg" alt="Mr Chua Kok Seng" style="width:100px;">
 Mr Chua Kok Seng<br>
 <a href="mailto:chua_kok_seng@schools.gov.sg">chua_kok_seng@schools.gov.sg</a>
 

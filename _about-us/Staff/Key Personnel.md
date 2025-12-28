@@ -3,7 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -25,21 +25,6 @@ variant: markdown
 <p><strong>Email</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="lohweileong" src="/images/lohweileong.jpeg">
-</div>
-<p>Mr Loh Wei Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_wei_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>luo_weiliang@schools.gov.sg</u></a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -103,21 +88,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mother Tongue Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel5" src="/images/Key%20Personnel%201/keypersonnel5.jpg">
-</div>
-<p>Mr Liu Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liu_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liu_peng@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Level Head (Mother Tongue Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,6 +144,17 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neo_sin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_sin_yi@schools.gov.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Physical Education &amp; Co-curricular Activities)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

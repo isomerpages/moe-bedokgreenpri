@@ -32,7 +32,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Robert_Loo_Leong_Tuan__PP_.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Mr_Robert_Loo_Leong_Tuan__PP_.jpg">
 </div>
 <p>Mr Robert Loo Leong Tuan</p>
 </td>
@@ -104,7 +104,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Isaac_Foo_Yong_Wei__PP_.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Mr_Isaac_Foo_Yong_Wei__PP_.jpg">
 </div>
 <p>Mr Isaac Foo Yong Wei</p>
 </td>
@@ -206,7 +206,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Georgiana_Phua_Hui_Shan__PP_Size_.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Ms_Georgiana_Phua_Hui_Shan__PP_Size_.jpg">
 </div>
 <p>Ms Georgina Phua Hui Shan</p>
 </td>

@@ -91,7 +91,7 @@ circumstances and personal challenges to do well. Azaan was featured in
 the media for his resilience and ability to persevere in the midst of challenges,
 and his heartwarming story can be found <a href="https://www.asiaone.com/singapore/psle-leukemia-cancer-exam-boy-student-chemotherapy" rel="noopener nofollow" target="_blank">here</a> and
 <a href="https://www.beritaharian.sg/singapura/leukemia-tidak-halang-pelajar-raih-keputusan-baik-psle" rel="noopener nofollow" target="_blank">here</a>together with media stories <a href="https://www.zaobao.com.sg/news/singapore/story20241120-5376148" rel="noopener nofollow" target="_blank">here</a> and
-<a href="https://www.zaobao.com.sg/news/singapore/story20231122-1451759" rel="noopener nofollow" target="_blank">here</a>of our previous BGPians of the Year, Gan Xuan Ee and Matthew Loi
+<a href="https://www.beritaharian.sg/singapura/leukemia-tidak-halang-pelajar-raih-keputusan-baik-psle" rel="noopener nofollow" target="_blank">here</a>of our previous BGPians of the Year, Gan Xuan Ee and Matthew Loi
 respectively. Ong Zee Xuan (6 Respect/2025) was also the winner of the
 Malathi Das Bilingual Award for excelling in both the English and Mother
 Tongue Languages.</p>

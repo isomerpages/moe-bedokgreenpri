@@ -29,7 +29,7 @@ variant: tiptap
 <h1>Uniform Price List and Name Tag Order</h1>
 <p>Click on the following link to order your child / ward's name tag: <a href="https://khuniform.com/bgpsnametag/" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a>
 <br>Please refer to the following attachments:
-<br><a href="/files/BGPS%20Uniform%20Prices%201%20Jan%202022_new%20vendor.pdf" rel="noopener noreferrer nofollow" target="_blank">BGPS Uniform Prices 1.1.2022.pdf</a> 
+<br><a href="/files/Uniform_Price_List.pdf" rel="noopener nofollow" target="_blank">Uniform Price List </a>
 <br><a href="/files/Name%20Tag%20Order%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form.pdf</a>
 </p>
 <h1>School Bus Service</h1>
@@ -37,14 +37,14 @@ variant: tiptap
 <br>School Bus Operator and Bus Fare
 <br>Operator: Kosen Transport Pte Ltd
 <br>Contact No.: 96801592</p>
-<p><strong>Period: 1 Jan 2024 to 31 Dec 2025</strong>
+<p><strong>Period: 1 Jan 2026 to 31 Dec 2026</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school%20bus.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sch_bus_price.jpg">
 </div>
 <h1>School Bus Request Form</h1>
 <p>Please refer to the following attachment:
-<br><a href="/files/091223_Info_Sheet_on_School_bus_Services__BGPS___2024__1.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Request Form</a>
+<br><a href="/files/Info_Sheet_on_School_bus_Services__BGPS___2026_.pdf" rel="noopener nofollow" target="_blank">School Bus Request Form</a>
 </p>
 <h1>Student Care Centre</h1>
 <p>Ace @ Work Student Care

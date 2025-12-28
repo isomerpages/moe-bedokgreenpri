@@ -32,12 +32,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="lohweileong" src="/images/lohweileong.jpeg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Mr_Robert_Loo_Leong_Tuan__PP_.jpg">
 </div>
-<p>Mr Loh Wei Leong</p>
+<p>Mr Robert Loo Leong Tuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_wei_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>luo_weiliang@schools.gov.sg</u></a>
+<p><a href="mailto:loo_leong_tuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_leong_tuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -76,13 +76,10 @@ variant: markdown
 <p>Head of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel4" src="/images/Key%20Personnel%201/keypersonnel4.jpg">
-</div>
-<p>Mrs Angeline Ong</p>
+<p>Mdm Evi Mazlinda bte Mazlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:angeline_chia_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>angeline_chia_lin@schools.gov.sg</u></a>
+<p><a href="mailto:evi_mazlinda_mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evi_mazlinda_mazlan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -103,16 +100,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mother Tongue Language)</p>
+<p>Head of Department (Mother Tongue Languages)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel5" src="/images/Key%20Personnel%201/keypersonnel5.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Mr_Isaac_Foo_Yong_Wei__PP_.jpg">
 </div>
-<p>Mr Liu Peng</p>
+<p>Mr Isaac Foo Yong Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liu_peng@schools.gov.sg</u></a>
+<p><a href="mailto:isaac_foo_yong_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">isaac_foo_yong_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -178,6 +175,18 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Head of Department (Physical Education &amp; Co-curricular Activities)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_mei_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head (Physical Education &amp; Co-curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,6 +197,21 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_hasri_bahari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohd_hasri_bahari@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Aesthetics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Ms_Georgiana_Phua_Hui_Shan__PP_Size_.jpg">
+</div>
+<p>Ms Georgina Phua Hui Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:georgiana_phua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">georgiana_phua@schools.gov.sg</a>
 </p>
 </td>
 </tr>

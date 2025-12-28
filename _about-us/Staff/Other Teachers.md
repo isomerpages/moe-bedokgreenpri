@@ -110,15 +110,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Sng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="irene_sng_wei_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irene_sng_wei_wei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Sairi Bin Basri</p>
 </td>
 <td rowspan="1" colspan="1">

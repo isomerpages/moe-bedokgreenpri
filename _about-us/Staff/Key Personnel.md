@@ -97,7 +97,8 @@ variant: tiptap
 <p>Mr Isaac Foo Yong Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:isaac_foo_yong_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">isaac_foo_yong_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +169,8 @@ variant: tiptap
 <p>Ms Soh Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:soh_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_mei_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

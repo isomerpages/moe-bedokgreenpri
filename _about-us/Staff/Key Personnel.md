@@ -76,13 +76,10 @@ variant: tiptap
 <p>Head of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel4" src="/images/Key%20Personnel%201/keypersonnel4.jpg">
-</div>
-<p>Mrs Angeline Ong</p>
+<p>Mdm Evi Mazlinda bte Mazlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:angeline_chia_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>angeline_chia_lin@schools.gov.sg</u></a>
+<p><a href="mailto:evi_mazlinda_mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evi_mazlinda_mazlan@schools.gov.sg</a>
 </p>
 </td>
 </tr>

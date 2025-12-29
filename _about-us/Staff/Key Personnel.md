@@ -187,9 +187,6 @@ variant: tiptap
 <p>Head of Department (Character &amp; Citizenship Education CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel11" src="/images/Key%20Personnel%201/keypersonnel11.jpg">
-</div>
 <p>Mrs Jessie Soh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,9 +235,6 @@ variant: tiptap
 <p>Subject Head (Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Nur_Hidahny.jpg">
-</div>
 <p>Ms Nur Hidahny Bte Mustaffa</p>
 </td>
 <td rowspan="1" colspan="1">

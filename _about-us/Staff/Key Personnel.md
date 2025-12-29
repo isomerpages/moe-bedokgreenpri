@@ -3,7 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -31,9 +31,6 @@ variant: markdown
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Mr_Robert_Loo_Leong_Tuan__PP_.jpg">
-</div>
 <p>Mr Robert Loo Leong Tuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,9 +43,6 @@ variant: markdown
 <p>Head of Department (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel3" src="/images/Key%20Personnel%201/keypersonnel3.jpg">
-</div>
 <p>Ms Lim Ee Sze</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,9 +55,6 @@ variant: markdown
 <p>Level Head (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/P6 Teachers/ms tse min yan .jpg">
-</div>
 <p>Ms Tse Min Yan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,9 +79,6 @@ variant: markdown
 <p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/P5 Teachers/mrs christina koh .jpg">
-</div>
 <p>Ms Christina Wong Hsui Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,9 +91,6 @@ variant: markdown
 <p>Head of Department (Mother Tongue Languages)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Mr_Isaac_Foo_Yong_Wei__PP_.jpg">
-</div>
 <p>Mr Isaac Foo Yong Wei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,9 +103,6 @@ variant: markdown
 <p>Level Head (Mother Tongue Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel5" src="/images/Chen_Ming_Zhu.jpg">
-</div>
 <p>Ms Chen Ming Zhu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,9 +115,6 @@ variant: markdown
 <p>Subject Head (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Lyana_Sarie_Dewi.jpg">
-</div>
 <p>Ms Lyana Sarie Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,9 +127,6 @@ variant: markdown
 <p>Head of Department (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Reena_Sivahnathan.jpg">
-</div>
 <p>Ms Reena</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,9 +139,6 @@ variant: markdown
 <p>Level Head (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel8" src="/images/Key%20Personnel%201/keypersonnel8.jpg">
-</div>
 <p>Ms Neo Sin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,9 +163,6 @@ variant: markdown
 <p>Subject Head (Physical Education &amp; Co-curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel9" src="/images/Key%20Personnel%201/keypersonnel9.jpg">
-</div>
 <p>Mr Mohd Hasri Bahari</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,10 +175,7 @@ variant: markdown
 <p>Subject Head (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Ms_Georgiana_Phua_Hui_Shan__PP_Size_.jpg">
-</div>
-<p>Ms Georgina Phua Hui Shan</p>
+<p>Ms Georgiana Phua Hui Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:georgiana_phua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">georgiana_phua@schools.gov.sg</a>
@@ -235,9 +202,6 @@ variant: markdown
 <p>Subject Head (National Education &amp; Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/2025/Tan_Si_Lin.jpg">
-</div>
 <p>Ms Tan Si Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,9 +214,6 @@ variant: markdown
 <p>Subject Head (Character &amp; Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/P2 Teachers/ms tan jinwen mavis .jpg">
-</div>
 <p>Ms Tan Jinwen Mavis</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,9 +226,6 @@ variant: markdown
 <p>Head of Department (Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel12" src="/images/Key%20Personnel%201/keypersonnel12.jpg">
-</div>
 <p>Mrs Judy Swee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,9 +253,6 @@ variant: markdown
 <p>Subject Head (Student Well-being)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel13" src="/images/Key%20Personnel%201/keypersonnel13.jpg">
-</div>
 <p>Mr Lim Fang Rui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -310,9 +265,6 @@ variant: markdown
 <p>Head of Department (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel14" src="/images/Key%20Personnel%201/keypersonnel14.jpg">
-</div>
 <p>Ms Ng Jieying</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,9 +277,6 @@ variant: markdown
 <p>Subject Head (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Staff Photos/P5 Teachers/ms lynn tay .jpg">
-</div>
 <p>Ms Lynn Tay Ern Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,9 +303,6 @@ variant: markdown
 <p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" alt="keypersonnel2" src="/images/Key%20Personnel%201/keypersonnel2.jpg">
-</div>
 <p>Ms Sangeetha Yadav</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,9 +315,6 @@ variant: markdown
 <p>Assistant Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/valariecheng.jpg">
-</div>
 <p>Ms Valerie Cheng Yuning</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,9 +327,6 @@ variant: markdown
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/foongmargaret.jpeg">
-</div>
 <p>Mdm Lee Oi Foong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -399,9 +339,6 @@ variant: markdown
 <p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/103) MS LI WENLIN.jpeg">
-</div>
 <p>Ms Li Wenlin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -414,9 +351,6 @@ variant: markdown
 <p>Assistant Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%" height="auto" width="100%" alt="" src="/images/Sharifah Faiiza.jpeg">
-</div>
 <p>Mdm Shariffah Faizah</p>
 </td>
 <td rowspan="1" colspan="1">

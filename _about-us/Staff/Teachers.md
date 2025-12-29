@@ -253,41 +253,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Suryati Shariff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suryati_shariff_marican@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suryati_shariff_marican@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Hui Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_chin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Primary 2 Teachers</h4>
@@ -477,79 +442,11 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Poon Long Javier</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poon_long_javier@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poon_long_javier@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Ming Zhu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chen_mingzhu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_mingzhu_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurul Aini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nurul_aini_zainol@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_aini_zainol@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Bravery</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -557,17 +454,28 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <h3>Middle Primary</h3>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Year Head (P3 &amp; 4)</h4>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<h4>Year Head (P4)</h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Oi Foong Margaret
 <br><a href="lee_oi_fong_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_oi_foong_margaret@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choo Jia En Audrey</p>
+<p><a href="mailto:audrey_choo_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>audrey_choo_jia_en@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -733,183 +641,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_faizal_suleiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faizal_suleiman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Chin Ching Shia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chin_ching_shia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ching_shia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Hainoon Azeez</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hainoon_jahria_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hainoon_jahria_hassan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Nor Azarizal Mohamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nor_azarizal_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_azarizal_mohamed@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Choo Jia En Audrey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:audrey_choo_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>audrey_choo_jia_en@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hilwah Binte Lukman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hilwah_lukman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hilwah_lukman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chung Pei Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chung_pei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_pei_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sylvina Maylie Nathan Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sylvina_maylie_nathan_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvina_maylie_nathan_tan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Darren Cheah Jun Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:darren_chean_jun_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">darren_chean_jun_han@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Xuan Harn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_xuan_harn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_xuan_harn@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Reena Sivahnanthan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="reena_sivahnanthan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">reena_sivahnanthan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Bravery</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jayasarasvathi Durai Kannu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:/jayasarasvathi_durai_kannu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jayasarasvathi_durai_kannu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Nur ‘Aliah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_aliah_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_aliah_dafir@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

@@ -90,12 +90,11 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Kway</p>
+<p>Miss Valerie Cheng Yuning</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kway_irene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kway_irene@schools.gov.sg</a>
-</p>
-</td>
+<td colspan="1" rowspan="1">
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:valerie_cheng_yuning@schools.gov.sg">valerie_cheng_yuning@schools.gov.sg</a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

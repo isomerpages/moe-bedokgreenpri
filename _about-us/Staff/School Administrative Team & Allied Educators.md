@@ -105,6 +105,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Executive (AE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Poon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:serene_poon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">serene_poon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">

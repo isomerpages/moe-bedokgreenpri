@@ -863,18 +863,18 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Year Head (P5 &amp; 6)</h4>
+<h4>Assistant Year Head (P5)</h4>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Assistant Year Head (P5)</h4>
+<h4>Assistant Year Head (P6)</h4>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Wenlin
-<br><a href="li_wenlin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_wenlin@schools.gov.sg</a>
+<p>Ms Neo Sin Yi
+<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:neo_sin_yi@schools.gov.sg">neo_sin_yi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1288,7 +1288,7 @@ variant: markdown
 </tr>
 <tr>
 <td colspan="1" rowspan="1">
-<p>5 Graciousness</p>
+<p>6 Graciousness</p>
 </td>
 <td colspan="1" rowspan="1">
 <p>Mr Pasupathy Magesvaran</p>

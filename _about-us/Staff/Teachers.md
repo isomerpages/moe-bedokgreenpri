@@ -882,6 +882,25 @@ variant: markdown
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Covering Year Head (P5)</h4>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jessie Soh
+<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_chieh_sze@schools.gov.sg">lim_chieh_sze@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Primary 5 Teachers</h4>

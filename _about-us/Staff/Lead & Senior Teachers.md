@@ -3,7 +3,7 @@ title: Lead & Senior Teachers
 permalink: /about-us/staff/lead-n-senior-teachers/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <h3>Lead Teacher</h3>
 <table style="minWidth: 75px">
@@ -29,13 +29,22 @@ variant: markdown
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Key Personnel 1/keypersonnel7.jpg">
-</div>
 <p>Ms Khoo Kar Hoe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="khoo_kar_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kar_hoe@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurhana Hafiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurhana_hafiz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhana_hafiz@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -62,27 +71,9 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/Senior%20Teachers/mdm%20nurhana%20hafiz%20passport%20size.jpg">
-</div>
-<p>Mdm Nurhana Hafiz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurhana_hafiz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhana_hafiz@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mother Tongue (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff Photos/MR_TAY_CHEE_BENG_passport.jpg">
-</div>
 <p>Mr Tay Chee Beng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,9 +86,6 @@ variant: markdown
 <p>Mother Tongue (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Staff%20Photos/2025/Mdm_Zahidah_Shamsul__PP_Size_.jpg">
-</div>
 <p>Mdm Zahidah Shamsul</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,9 +98,6 @@ variant: markdown
 <p>Mother Tongue (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Staff%20Photos/2025/MS_VERONICA_LATHAR_NAIDU__PP_Size__3.jpg">
-</div>
 <p>Ms Veronica Lathar Naidu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,9 +110,6 @@ variant: markdown
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/Senior%20Teachers/mr%20chin%20seng%20choy%20.jpg">
-</div>
 <p>Mr Chin Seng Choy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,9 +122,6 @@ variant: markdown
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="100%" alt="" src="/images/Miss_Lim_Ying_Lin__PP_Size_.jpg">
-</div>
 <p>Miss Lim Ying Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,9 +134,6 @@ variant: markdown
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/Senior%20Teachers/mr%20ng%20chee%20keong%20.jpg">
-</div>
 <p>Mr Ng Chee Keong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,9 +146,6 @@ variant: markdown
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/Senior%20Teachers/mr%20mazlan%20muhammad%20.jpg">
-</div>
 <p>Mr Mazlan Muhammad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,9 +158,6 @@ variant: markdown
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/P6%20Teachers/mr%20nor%20azarizal%20mohamed%20passport%20size.jpg">
-</div>
 <p>Mr Nor Azarizal Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,9 +170,6 @@ variant: markdown
 <p>Lower Primary Learners</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/Senior%20Teachers/ms%20lim%20sock%20keow%20noel%20.jpg">
-</div>
 <p>Ms Lim Sock Keow Noel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,9 +182,6 @@ variant: markdown
 <p>Learning Needs (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" src="/images/Staff%20Photos/P1%20Teachers/mrs%20lim%20mei%20yin.jpg">
-</div>
 <p>Mrs Lee Mei Yin</p>
 </td>
 <td rowspan="1" colspan="1">

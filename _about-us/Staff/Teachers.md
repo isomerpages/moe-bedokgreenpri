@@ -877,14 +877,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shariffah Faizah Binte Hassan A
+<p>Mdm Shariffah Faizah
 <br><a href="shariffah_faizah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_faizah_hassan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Covering Year Head (P5)</h4>
+<h4>Covering Year Head (P5 &amp; 6)</h4>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

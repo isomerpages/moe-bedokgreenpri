@@ -318,7 +318,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Primary)</p>
+<p>Assistant Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Choo Jia En Audrey</p>

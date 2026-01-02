@@ -55,7 +55,7 @@ variant: tiptap
 <p>Level Head (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tse Min Yan</p>
+<p>Miss Tse Min Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tse_min_yan@schools.gov.sg" rel="noopener nofollow" target="_blank">tse_min_yan@schools.gov.sg</a>
@@ -79,7 +79,7 @@ variant: tiptap
 <p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christina Wong Hsui Peng</p>
+<p>Mrs Christina Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="christina_wong_hsui_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">christina_wong_hsui_peng@schools.gov.sg</a>
@@ -297,7 +297,7 @@ variant: tiptap
 <p>Assistant Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Cheng Yuning</p>
+<p>Miss Valerie Cheng Yuning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:valerie_cheng_yuning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_cheng_yuning@schools.gov.sg</u></a>

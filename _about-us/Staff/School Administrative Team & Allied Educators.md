@@ -96,7 +96,7 @@ variant: tiptap
 <p>Admin Executive (AE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Evelyn Yap Poh Kwee</p>
+<p>Mdm Evelyn Yap Poh Kwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="evelyn_yap_poh_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>evelyn_yap_poh_kwee@schools.gov.sg</u></a>
@@ -132,7 +132,7 @@ variant: tiptap
 <p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Poh Lin Jane</p>
+<p>Ms Koh Poh Lin Jane</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="koh_poh_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_poh_lin@schools.gov.sg</u></a>
@@ -177,7 +177,7 @@ variant: tiptap
 <p>Laboratory Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dhalina Bte Nari</p>
+<p>Ms Dhalina Bte Nari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -199,7 +199,7 @@ variant: tiptap
 <p>Operation Support Officer (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lina Tay</p>
+<p>Mdm Tay Lina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -278,7 +278,7 @@ variant: tiptap
 <p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kee Ee Khen</p>
+<p>Ms Kee Ee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="kee_ee_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kee_ee_kheng@schools.gov.sg</u></a>

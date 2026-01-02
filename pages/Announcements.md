@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong><u>Term 1 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
-a copy of the Principal’s Newsletter for Term 1 is parked <a href="/files/2026/Term_1_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+a copy of the Principal’s Newsletter for Term 1 is parked <a href="/files/Forms/2026/Term_1_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong><u>P1 First Steps @ BGPS (18 November 2025)</u></strong> 
 <br>Please click <a href="https://sites.google.com/moe.edu.sg/bedokgreenprimary" rel="noopener nofollow" target="_blank">here</a> to
 access the P1 First Steps @ BGPS (2026 Intake) microsite.</p>

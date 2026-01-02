@@ -136,18 +136,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Neo Sin Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_sin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_sin_yi@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Head of Department (Physical Education &amp; Co-curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,18 +227,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="nur_hidahny_mustaffa@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_hidahny_mustaffa@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Student Well-being)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Fang Rui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_fang_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_fang_rui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -349,6 +325,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shariffah_faizah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shariffah_faizah_hassan@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Sin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_sin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_sin_yi@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

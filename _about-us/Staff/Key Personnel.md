@@ -318,13 +318,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
+<p>Assistant Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Wenlin</p>
+<p>Ms Choo Jia En Audrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_wenlin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_wenlin@schools.gov.sg</a>
+<p><a href="mailto:audrey_choo_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>audrey_choo_jia_en@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

@@ -41,7 +41,7 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhana Hafiz</p>
+<p>Ms Nurhana Hafiz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurhana_hafiz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhana_hafiz@schools.gov.sg</a>

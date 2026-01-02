@@ -208,7 +208,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department (E21CC)</p>
+<p>Head of Department (Emerging 21st Century Competencies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Wenlin</p>

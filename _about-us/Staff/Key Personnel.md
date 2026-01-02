@@ -208,6 +208,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Head of Department (E21CC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Li Wenlin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_wenlin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_wenlin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Head of Department (Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">

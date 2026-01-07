@@ -45,32 +45,10 @@ school students. Organised by Science Centre Singapore and the Sony Group
 of Companies in Singapore, with the support of the Ministry of Education,
 SCSA offers students a hands-on platform to bring creative ideas to life
 while learning science through play.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_07_at_8_38_45_PM.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic_8.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic_9.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>e-THINK Challenge</h4>
 <p>Students take part in the e-THINK Challenge, organised by Temasek Junior
 College, where Primary 5 and 6 learners apply creative thinking and scientific
@@ -111,28 +89,10 @@ science concepts with storytelling and design.</p>
 <h4>Making a Digestive System Model</h4>
 <p>Using recycled materials, students construct digestive system models and
 justify their design choices through scientific reasoning.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic_22.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_07_at_8_38_46_PM.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic_23.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Creating Energy Toys</h4>
 <p>Students design energy toys to explore energy transfer and transformation
 through hands-on experimentation and problem-solving.</p>

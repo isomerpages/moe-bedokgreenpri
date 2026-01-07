@@ -4,7 +4,7 @@ permalink: /student-matters/timetable/
 variant: markdown
 description: ""
 ---
-Timetable 2025
+Timetable 2026
 -----------------------
 Click on the links for the respective class timetable. <br>
 [P1 Integrity](/files/Timetable/Current/P1_Integrity.pdf)<br>
@@ -13,6 +13,7 @@ Click on the links for the respective class timetable. <br>
 [P1 Resilience](/files/Timetable/Current/P1_Resilience.pdf)<br>
 [P1 Compassion](/files/Timetable/Current/P1_Compassion.pdf)<br>
 [P1 Bravery](/files/Timetable/Current/P1_Bravery.pdf)<br>
+[P1 Graciousness](/files/Timetable/Current/P1_Graciousness.pdf)<br>
 <br>
 [P2 Integrity](/files/Timetable/Current/P2_Integrity.pdf)<br>
 [P2 Respect](/files/Timetable/Current/P2_Respect.pdf)<br>

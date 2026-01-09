@@ -4,6 +4,9 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>P1 Parent Engagement 2026</u></strong>
+<br>Slides and links from the 2026 P1 Parent Engagement sharings are parked
+<a href="https://www.bedokgreenpri.moe.edu.sg/partners/home-school-partnership/parents-engagement-2026/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong><u>Term 1 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
 a copy of the Principal’s Newsletter for Term 1 is parked <a href="/files/Forms/2026/Term_1_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

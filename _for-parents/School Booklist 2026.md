@@ -2,7 +2,7 @@
 title: School Booklist 2026
 permalink: /about-us/school-booklist/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h2>School Textbooks (P1-6) Booklist 2026</h2>
 <p>Click on the following link to purchase your school books online: &nbsp;

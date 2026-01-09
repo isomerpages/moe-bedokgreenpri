@@ -4,9 +4,9 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>P1 Engagement 2026</u></strong>
+<p><strong><u>P1 Parent Engagement 2026</u></strong>
 </p>
-<p>Slides and links from the P1 Engagement 2026 sharings.</p>
+<p>Slides and links from the 2026 P1 Parent Engagement sharings.</p>
 <p><a href="/files/Principal_s_Address_for_P1_Parents_2026.pdf" rel="noopener nofollow" target="_blank">P1 Principal's Address - First Day of School</a>
 </p>
 <p><a href="/files/P1_Character_Development_Sharing_for_Parents_2026.pdf" rel="noopener nofollow" target="_blank">P1 Character Development Matters</a>

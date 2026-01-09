@@ -4,16 +4,9 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-<p><strong><u>P1 Parent Engagement 2026</u></strong>
-</p>
-<p>Slides and links from the 2026 P1 Parent Engagement sharings.</p>
-<p><a href="/files/Principal_s_Address_for_P1_Parents_2026.pdf" rel="noopener nofollow" target="_blank">P1 Principal's Address - First Day of School</a>
-</p>
-<p><a href="/files/P1_Character_Development_Sharing_for_Parents_2026.pdf" rel="noopener nofollow" target="_blank">P1 Character Development Matters</a>
-</p>
-<p><a href="/files/P1_Academic_and_Assessment_Sharing_for_Parents_2026.pdf" rel="noopener nofollow" target="_blank">P1 Academic and Assessment Matters</a>
-</p>
-<p></p>
+<p><strong><u>P1 Parent Engagement 202</u></strong> 
+<br>Slides and links from the 2026 P1 Parent Engagement sharings <a href="/files/Forms/2026/Term_1_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+
 <p><strong><u>Term 1 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
 a copy of the Principal’s Newsletter for Term 1 is parked <a href="/files/Forms/2026/Term_1_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

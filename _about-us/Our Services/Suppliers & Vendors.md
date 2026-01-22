@@ -29,7 +29,7 @@ variant: tiptap
 <h1>Uniform Price List and Name Tag Order</h1>
 <p>Click on the following link to order your child / ward's name tag: <a href="https://khuniform.com/bgpsnametag/" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a>
 <br>Please refer to the following attachments:
-<br><a href="/files/Uniform_Price_List.pdf" rel="noopener nofollow" target="_blank">Uniform Price List </a>
+<br><a href="/files/Uniform_Price_List.pdf" rel="noopener nofollow" target="_blank">Uniform Price List</a>
 </p>
 <h4>Tailor for sewing Name Tag on School Uniform</h4>
 <p><strong>This stall at Blk 58 Market can sew name tag on school uniform. Please approach the shop directly.</strong>

@@ -9,7 +9,3 @@ variant: markdown
     Assessment Information Booklet 2026
   </a>
 </p>
-
-<p>
-  <a target="\_blank" href="/files/2026_Assessment_Information_Booklet.pdf">Assessment Information Booklet 2026</a>
-</p>

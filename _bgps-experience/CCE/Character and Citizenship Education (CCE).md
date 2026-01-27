@@ -40,9 +40,7 @@ Through these opportunities, students learn to reflect on their experience,
 put values into practice and think about how they can continue to contribute
 meaningfully. Besides the level-based VIA, students are given everyday
 responsibilities in the class so that they develop a sense of responsibility
-and care for their own shared spaces.
-<br>
-</p>
+and care for their own shared spaces.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -51,24 +49,26 @@ and care for their own shared spaces.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School-based</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Level-based</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School-based</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level-based</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>P1</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>Everyday Responsibilities</p>
-<p>Clean My School Day</p>
-<p>Friends of Singa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VIA begins with me</p>
@@ -79,7 +79,7 @@ and care for their own shared spaces.
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VIA begins with me</p>
+<p>VIA begins with my family</p>
 </td>
 </tr>
 <tr>
@@ -87,12 +87,18 @@ and care for their own shared spaces.
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Toilet Etiquette Programme</p>
+<p>Clean My School Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Toilets</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friends of Singa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Project Buddy Clean</p>
@@ -102,8 +108,13 @@ and care for their own shared spaces.
 <td rowspan="1" colspan="1">
 <p>P5</p>
 </td>
+<td rowspan="2" colspan="1">
+<p></p>
+<p></p>
+<p>Well-wishes for P6</p>
+</td>
 <td rowspan="1" colspan="1">
-<p>Grow for Life</p>
+<p>Intergenerational Project&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +122,7 @@ and care for their own shared spaces.
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neighbourhood Clean-up / Self / Class-initiated VIA</p>
+<p>Making a Difference with VIA</p>
 </td>
 </tr>
 </tbody>
@@ -122,7 +133,7 @@ and care for their own shared spaces.
 they experience as they mature, develop healthy and rewarding relationships
 including those with members of the opposite sex, and make wise, informed
 and responsible decisions on sexuality matters.</p>
-<p><strong>MOE Sexuality Education in Schools 2025</strong>
+<p><strong>MOE Sexuality Education in Schools 2026</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools aims to
 enable students to understand the physiological, social and emotional changes
@@ -151,21 +162,19 @@ society; and</p>
 <p>(d)&nbsp;&nbsp; Abstinence before marriage is the best protection against
 STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and
 your loved ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF BEDOK GREEN PRIMARY SCHOOL ’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF BEDOK GREEN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for more
-information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
-topics on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship
-Education (CCE)</p>
+Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>5.&nbsp;&nbsp;The subjects that incorporate topics on sexuality include:</p>
+<p>a. Science</p>
+<p>b. Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
@@ -185,18 +194,18 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p>You may click&nbsp;<a href="/files/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>You may click <a href="/files/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the Sexuality Education lessons that will be taught
-in 2025.</p>
+in 2026.</p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. The opt-out form will be made
-available nearer to the dates of the lessons and is also downloadable here:&nbsp;
-<a href="/files/Parent_Opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Opt-Out Form 2025</a>. A notification will be sent to inform parents
+available nearer to the dates of the lessons and is also downloadable here:
+<a href="/files/Parent_Opt_out_form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Opt-Out Form 2026</a>. A notification will be sent to inform parents
 about the commencement of the programme via Parents Gateway. Parents can
-contact the school at &nbsp;<a href="mailto:6442%205416" rel="noopener noreferrer nofollow" target="_blank">6442 5416</a> or email <a rel="noopener noreferrer nofollow" target="_blank">bgps@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+contact the school at 6442 5416 or email <a href="mailto:bgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bgps@moe.edu.sg</a> for discussion or to seek
+clarification about the school’s Sexuality Education programme.</p>
+<p></p>

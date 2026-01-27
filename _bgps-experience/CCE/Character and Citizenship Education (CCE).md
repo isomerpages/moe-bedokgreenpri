@@ -40,9 +40,7 @@ Through these opportunities, students learn to reflect on their experience,
 put values into practice and think about how they can continue to contribute
 meaningfully. Besides the level-based VIA, students are given everyday
 responsibilities in the class so that they develop a sense of responsibility
-and care for their own shared spaces.
-<br>
-</p>
+and care for their own shared spaces.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -51,24 +49,26 @@ and care for their own shared spaces.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School-based</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Level-based</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School-based</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level-based</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>P1</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>Everyday Responsibilities</p>
-<p>Clean My School Day</p>
-<p>Friends of Singa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VIA begins with me</p>
@@ -79,7 +79,7 @@ and care for their own shared spaces.
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VIA begins with me</p>
+<p>VIA begins with my family</p>
 </td>
 </tr>
 <tr>
@@ -87,12 +87,18 @@ and care for their own shared spaces.
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Toilet Etiquette Programme</p>
+<p>Clean My School Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Toilets</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friends of Singa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Project Buddy Clean</p>
@@ -102,8 +108,13 @@ and care for their own shared spaces.
 <td rowspan="1" colspan="1">
 <p>P5</p>
 </td>
+<td rowspan="2" colspan="1">
+<p></p>
+<p></p>
+<p>Well-wishes for P6</p>
+</td>
 <td rowspan="1" colspan="1">
-<p>Grow for Life</p>
+<p>Intergenerational Project&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +122,7 @@ and care for their own shared spaces.
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neighbourhood Clean-up / Self / Class-initiated VIA</p>
+<p>Making a Difference with VIA</p>
 </td>
 </tr>
 </tbody>

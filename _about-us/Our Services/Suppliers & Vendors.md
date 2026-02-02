@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>Opens:
 <br>Monday, 8.00 a.m. to 2.30 p.m.
-<br>Tuesday to Friday, 8.30 a.m. to 3.00 p.m.
+<br>Tuesday to Friday, 8.30 a.m. to 3.30 p.m.
 <br>(Lunch hour: 12 noon to 1 p.m.)</p>
 <h1>School Uniform Supplier</h1>
 <p><strong>KH Uniform Pte Ltd</strong>
@@ -27,7 +27,8 @@ variant: tiptap
 <br>Tel:&nbsp;6479 6811&nbsp; &nbsp; Fax: 6474 4037Email:&nbsp;<a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 </p>
 <h1>Uniform Price List and Name Tag Order</h1>
-<p>Click on the following link to order your child / ward's name tag: <a href="https://khuniform.com/bgpsnametag/" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a>
+<p>Click on the following link to order your child's / ward's name tag:
+<a href="https://khuniform.com/bgpsnametag/" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a>
 <br>Please refer to the following attachments:
 <br><a href="/files/Uniform_Price_List.pdf" rel="noopener nofollow" target="_blank">Uniform Price List</a>
 </p>

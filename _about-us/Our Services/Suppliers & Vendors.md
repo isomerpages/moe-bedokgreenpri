@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>Opens:
 <br>Monday, 8.00 a.m. to 2.30 p.m.
-<br>Tuesday to Friday, 8.30 a.m. to 3.00 p.m.
+<br>Tuesday to Friday, 8.30 a.m. to 3.30 p.m.
 <br>(Lunch hour: 12 noon to 1 p.m.)</p>
 <h1>School Uniform Supplier</h1>
 <p><strong>KH Uniform Pte Ltd</strong>

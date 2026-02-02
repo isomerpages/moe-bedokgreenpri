@@ -94,7 +94,9 @@ The school will carry out at least one fire drill annually. This is to familiari
 *   Walk briskly along the corridors when you move to another classroom for other activities and lessons.
 
 ##### Guidelines On The Use Of Handphone
-Students should not bring their&nbsp;**mobile phones**&nbsp;to school unless special permission has been granted. Students who wish to bring their mobile phones to school must obtain a mobile phone contract from the HOD/CCE.&nbsp;**Music players&nbsp;and&nbsp;handheld computer games should not be brought to school.**
+It is permissible for students to bring their mobile phones/devices to school. However, parents/guardians must complete the acknowledgment slip given in the handbook and return it to the child's/ward's form teacher BEFORE the child/ward is allowed to bring their mobile device to school. 
+Mobile phones are to be switched off during curriculum time and afternoon lessons and for smart watches, they have to be set to 'school mode' during the duration in school.
+Students are only allowed to use mobile phones or smartwatches after school. **Music players&nbsp;and&nbsp;handheld computer games should not be brought to school.**
 
 ##### Safety First In School
 

@@ -6,11 +6,11 @@ third_nav_title: Our School
 variant: markdown
 ---
 ##### Absence From School
-Students who are absent from school must present a medical certificate from a qualified doctor or a letter from the parent stating reasons for their absence.&nbsp;The school must be informed if the child urgently needs to be away for a long period of time.
+Students who are absent from school must present a medical certificate from a qualified doctor or a letter from the parent to the form teacher stating reasons for their absence. If the reason is deemed invalid, the student's attendance would be marked as absent without a valid reason. The Principal must be informed if the child urgently needs to be away for any period of time.
 
 ##### Visitors to the School
-
-All visitors to the school must report at the&nbsp;school general office and inform the school clerk the purpose of their visit. They must show their Identification Card and in return get a "Visitor's Pass" from the clerk, before proceeding to other parts of the school premises.
+    
+For security and safety reasons, all parents and visitors are to register at the security posts and abide by our Safe Management Measures. Parents and visitors will enter the school only by gate 1. They will complete the Visitor Declaration form and state the purpose of their visit to the security staff. They will be issued a visitor sticker and coloured wristband indicating the area they will visit. The coloured wristband is to be worn at all times within the school premises.
 
 ##### Accidents
 
@@ -41,6 +41,7 @@ The school uniform is to be worn whenever a student comes to school and at all s
 *   Students should not run or play in the canteen.
 *   Students are to queue up to purchase food.
 *   Food and drinks are to be consumed in the canteen only.
+*    Students have to fill in the 'meal order form' and submit it to the stall on the day when they stay back after school if they require lunch at the canteen.
 
 ##### Evacuation Drill
 

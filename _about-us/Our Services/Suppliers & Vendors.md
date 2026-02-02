@@ -27,7 +27,8 @@ variant: tiptap
 <br>Tel:&nbsp;6479 6811&nbsp; &nbsp; Fax: 6474 4037Email:&nbsp;<a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 </p>
 <h1>Uniform Price List and Name Tag Order</h1>
-<p>Click on the following link to order your child / ward's name tag: <a href="https://khuniform.com/bgpsnametag/" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a>
+<p>Click on the following link to order your child's / ward's name tag:
+<a href="https://khuniform.com/bgpsnametag/" rel="noopener noreferrer nofollow" target="_blank">Name Tag Order Form</a>
 <br>Please refer to the following attachments:
 <br><a href="/files/Uniform_Price_List.pdf" rel="noopener nofollow" target="_blank">Uniform Price List</a>
 </p>

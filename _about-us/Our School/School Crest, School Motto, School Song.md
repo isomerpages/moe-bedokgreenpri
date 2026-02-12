@@ -3,6 +3,7 @@ title: School Crest, School Motto, School Song
 permalink: /about-us/school-crest-school-motto-school-song/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 School Crest
 ------------
@@ -18,7 +19,7 @@ Persevere and Succeed
 
 School Song
 -----------
-<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ERAIkFICcmU" height="335" width="600"></iframe></div>
+<div style="text-align: center;"><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jA-d8aGQicg?si=HPICCcKVLNU1riA9" height="315" width="560"></iframe></div>
 
 We, in Bedok Green Primary&nbsp; <br>
 We always strive to do our best&nbsp; &nbsp;<br>

@@ -16,36 +16,21 @@ third_nav_title: Instructional Programmes
 </li>
 </ul>
 <h2>Key Programmes</h2>
-<h3>STELLAR Curriculum for P1 to P6</h3>
-<p>The overarching aim of the EL Syllabus 2020 is to <strong>develop effective and affective language use in the students</strong>.
+<h3><strong>STELLAR Curriculum for P1 to P6</strong></h3>
+<p>The overarching aim of the EL Syllabus 2020 is to&nbsp;<strong>develop effective and affective language use in the students</strong>.
 The STELLAR (STrategies for English Language Learning And Reading) curriculum
 aims to strengthen students’ foundation in literacy skills through a variety
 of learner-centred and developmentally appropriate pedagogical approaches
 using Big Books and authentic children’s text.</p>
+<p>&nbsp;</p>
 <p>The vision of STELLAR is to inculcate in children the love for reading
 and build a strong foundation in the English Language. STELLAR is currently
 being implemented from Primary 1 to 6.</p>
 <p>For more information on the STELLAR 2.0 curriculum and targeted literacy
 support, please visit:</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/2020-english-language-primary.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/2020-english-language-primary.pdf</a>
+<p>&nbsp;<a href="https://www.moe.gov.sg/api/media/b8eb0437-67fb-4042-a26c-64fef2af12df/2020-english-language-primary.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language Syllabus 2020 Primary</a>
 </p>
-<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2023/annex-c---moe-pirls-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/news/press/2023/annex-c---moe-pirls-2021.pdf</a>
-</p>
-<p>P1 and P2 STELLAR teaching strategies include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Shared Book Approach (SBA)</p>
-</li>
-<li>
-<p>Exploratory Talk</p>
-</li>
-<li>
-<p>Literacy Stations</p>
-</li>
-<li>
-<p>Extensive Reading</p>
-</li>
-</ul>
+<p></p>
 <p><strong>Our P1 students working collaboratively in their literacy stations:</strong>
 </p>
 <table style="minWidth: 75px">
@@ -58,17 +43,17 @@ support, please visit:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_1.jpg">
 </div>
 </td>
 </tr>

@@ -22,7 +22,7 @@ The STELLAR (STrategies for English Language Learning And Reading) curriculum
 aims to strengthen students’ foundation in literacy skills through a variety
 of learner-centred and developmentally appropriate pedagogical approaches
 using Big Books and authentic children’s text.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The vision of STELLAR is to inculcate in children the love for reading
 and build a strong foundation in the English Language. STELLAR is currently
 being implemented from Primary 1 to 6.</p>
@@ -175,13 +175,14 @@ poems and crossword puzzles to do with gratitude.</p>
 </table>
 <p></p>
 <h3>Empowered To Read Too (ETRT)</h3>
-<p>The Empowered To Read Too (ETRT) Programmes is implemented at Primary
-1 and Primary 2 to providing literacy support for students not placed in
-the Learning Support Programme but still struggling to read independently.
-The programme aims to enable students to be fluent readers by using games
-and grade-appropriate texts to teach recognition of high frequency words
-and reading fluency. Lessons are conducted daily by EL trained teachers
-for 30 minutes per session. Students’ progress are monitored regularly.</p>
+<p>The Empowered To Read (ETR) Programme is implemented at Primary 1 and
+Primary 2 to providing literacy support for students not placed in the
+Learning Support Programme but still struggling to read independently.
+The programme aims to enable students to become fluent readers through
+systematic and explicit phonics instruction. Reading fluency strategies
+are also taught alongside guided reading comprehension to support students’
+overall reading development. Lessons are conducted daily by EL trained
+teachers for 30 minutes per session. Students’ progress are monitored regularly.</p>
 <p></p>
 <h3>Learning Support Programme (LSP)</h3>
 <p>LSP is a specialised early intervention programme meant to provide support

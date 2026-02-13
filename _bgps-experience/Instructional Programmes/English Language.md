@@ -41,25 +41,14 @@ support, please visit:</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Reading is an important skill that needs to be developed in children.
 The ability to learn about new subjects depends on the ability to read.
 Hence, the school has initiated programmes such as KidsREAD, Star Readers

@@ -78,8 +78,6 @@ early age.</p>
 <p>enhance the quality of life of the children and their families.</p>
 </li>
 </ul>
-<p>For more details on KidsREAD, please visit&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">http://www.nlb.gov.sg/kidsread/</a></strong>
-</p>
 <p></p>
 <p><strong>Our students enjoying themselves during KidsRead:</strong>
 </p>
@@ -163,7 +161,7 @@ poems and crossword puzzles to do with gratitude.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Empowered To Read Too (ETRT)</h3>
+<h3>Empowered To Read (ETR)</h3>
 <p>The Empowered To Read (ETR) Programme is implemented at Primary 1 and
 Primary 2 to providing literacy support for students not placed in the
 Learning Support Programme but still struggling to read independently.

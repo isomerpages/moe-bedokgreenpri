@@ -6,105 +6,179 @@ variant: tiptap
 third_nav_title: Instructional Programmes
 ---
 <p><strong>Vision</strong> 
-<br>Healthy body, fit-for-life &amp; every child engaged in the visual and
-performing arts</p>
+<br>Healthy body, healthy mind for every child</p>
 <p><strong>Mission</strong> 
-<br>Provide a comprehensive and balanced programme to help students develop
-a sound mind and healthy body and cultivate a life-long appreciation for
-the Arts</p>
-<h3>Key Programmes</h3>
+<br>Provide a comprehensive and balanced PHE programme to help students pursue
+and enjoy a physically active and healthy lifestyle.</p>
+<h3>Our Key Programmes</h3>
 <hr>
-<p><strong>The PE Programmes</strong> 
-<br>The PE programme is tailored to equip students with the essential skills,
-knowledge and attitudes necessary for them to enjoy an active and healthy
-lifestyle.</p>
-<p>In view of achieving the above objectives, various strategies are incorporated
-through the PE syllabus during lessons.</p>
-<p>The strategies are nurturing and encourages fair play and teamwork during
-PE lessons and CCA sessions; debrief sessions after lessons where good
-values are given praise; grouping of students of different ability, gender
-and race; student self-officiating of games under teachers’ supervision;
-educating students on the need to follow rules and regulations to be enforced
-in a game and providing opportunities for group work, for example, planning,
-creating and performing a routine for learning areas of dance and gymnastics.</p>
-<p><strong>Pre-Assembly Morning Exercises</strong> 
-<br>Students participate in weekly pre-assembly exercise programme, led by
-student volunteers and teachers from the PE Committee. Such programmes
-provide additional platforms for our students to cultivate and engage in
-daily physical activities.</p>
-<p>The school also organizes other forms of physical activities for selected
-level of students before morning assembly as we believe activities as such
-positively impacts the brain and improves cognition, mood, attention and
-academic achievement in students.</p>
-<p><strong>Inter-Class Games</strong> 
-<br>We believe inter-class games helps to promote greater participation in
-physical activities among students. At BGPS, we ensure maximum participation
-rate by ensuring all students take part during the planned activity.</p>
-<p>Class Achievement certificates and Sportsmanship certificates are also
-awarded during the games as we hope students will continue to strive for
-excellence during sporting games, and able to demonstrate sportsmanship
-at the same time.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Inter-Class Games" src="/images/Slide1.jpeg">
-</div>
-<hr>
-<p><strong>SwimSafer Programme</strong> 
-<br>The school organizes the SwimSafer Programme at Heartbeat @ ActiveSG Swimming
-Complexes for students during curriculum time. The objectives of the programme
-were to allow students to learn basic swimming techniques or basic survival
-skills in water, water confidence and aspects of water safety.&nbsp;</p>
-<hr>
-<p><strong>P4 Experience Camp</strong> 
-<br>Since 2019, the school conducts a two-day day camp with our Primary 4
-level students. The objectives of&nbsp;Experience Camp&nbsp;include developing
-students’ outdoor camping skills like tent-building and outdoor cooking.
-Through these learning experiences, we hope our students will be able to
-build greater responsibility and learn to be resilient in the process.
-Team-building activities are also organized during the programme by our
-PE department teachers, aim to develop a better sense of team spirit.</p>
-<hr>
-<p><strong>P5 Adventure Camp</strong> 
-<br>At the&nbsp;<em>P5 Adventure Camp</em>, our students get to experience
-a 3D2N camp at one of our MOE Outdoor Adventure Learning Centres in Singapore.
-The school has taken a spiralled approach when planning the activities
-at this camp such that students will be exposed to higher levels of outdoor
-activities like zip-line, abseiling and high element obstacle course. The
-objectives of this programme focus on developing our students as independent
-individuals, building resilience as they learn to overcome challenges in
-times of difficulties faced.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 Adventure Camp" src="/images/PE%20%20(3).jpeg">
-</div>
-<hr>
-<p><strong>BGPS Active Recess and Empowered Kidz Programme</strong>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical and Heath Education @ BGPS (P1-P6)</strong>
 </p>
-<p>Bedok Green Primary School has adopted the Holistic Health Framework (HHF)
-which was introduced to broaden health promotion beyond obesity and fitness
-management by embracing the total well-being for student and developing
-their intrinsic motivation to lead a healthy lifestyle. This programme
-aims to provide an additional platform for our students to extend their
-learning from the skills learnt during PE lessons through planned daily
-recess activities. Students who require more support with engagement in
-physical activities are also encouraged to participate. The school PE department
-also plans and organizes&nbsp;<em>Learn-to-Play</em>&nbsp;activities, implemented
-together with HPB’s&nbsp;<em>Active Youth Recharge</em>&nbsp;programme,
-to assist targeted students’ in cultivating a healthier lifestyle.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BGPS Active Recess and Empowered Kidz Programme" src="/images/Slide2.jpeg">
-</div>
-<p><strong>Sports Day and Lower Primary Sports Day</strong> 
-<br>School Sports Day Event (P3 to P6) and Lower Primary Games Day (P1 and
-P2) are organised with the aim in providing the students a platform to
-compete while in the spirit of friendship, respect and excellence. The
-programme also aims to emphasize school values such as Integrity, Responsibility,
-Resilience and Compassion.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sports Day and Lower Primary Sports Day" src="/images/PE%20%20(4).jpeg">
-</div>
-<hr>
-<p>
-<br>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The PHE programme includes 7 learning areas such as Dance, Games and Sports,
+Gymnastics, Outdoor Education, Athletics (starts at P4), Physical Health
+and Safety, and Swimming (completed by Primary 6). The school provides
+various platforms for the students to apply their physical skills, knowledge
+and attitude to enjoy active and healthy living and these include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>P1-P2 Games and Adventure Day</strong>
 </p>
+<p>Games and Adventure Day is organised for P1 and P2 students with the aim
+of providing them a platform to apply the psychomotor skills learnt during
+Physical and Health Education lessons. Students compete in the spirit of
+friendship, respect and excellence whilst demonstrating our school values
+of Integrity, Responsibility, Resilience and Compassion through various
+planned games. This programme offers young learners an opportunity to showcase
+their physical abilities in a supportive environment, fostering healthy
+competition and character development. Parents are also invited to be part
+of the experience, either as spectators or as participants in selected
+activities alongside their child, strengthening parent–child bonding and
+shared learning. Through engaging activities, students build confidence,
+develop teamwork skills and strengthen bonds with their peers whilst celebrating
+their achievements together.</p>
+<p></p>
+</li>
+<li>
+<p><strong>P3-P6 Inter-Class Games</strong>
+</p>
+<p>The school believes that inter-class games promote greater participation
+in physical activities and enhance social interaction amongst students.
+At BGPS, all students take part in the planned games to ensure maximum
+participation. These inter-class games serve as a culmination of the lessons
+learnt during the semester and provide a meaningful platform to end the
+term with friendly competitions in the spirit of fun and enjoyment. The
+focus is on students demonstrating the Olympic values of excellence, friendship
+and respect, rather than on winning, as they apply their skills, support
+one another and celebrate participation together.</p>
+<p></p>
+</li>
+<li>
+<p><strong>P3 SwimSafer Programme</strong>
+</p>
+</li>
+</ul>
+<p>The school organises the SwimSafer Programme for P3 students at Heartbeat
+@ Bedok and Our Tampines Hub Swimming Complexes during curriculum time
+in Term 1. The objectives of the programme are to allow students to learn
+basic swimming techniques and water survival skills, build water confidence,
+and enjoy swimming as a healthy physical activity. The programme consists
+of eight sessions of 1.5 hours each. At the end of the programme, students
+must pass both a practical test and an online theory test to receive their
+SwimSafer certificates. Students enjoy bonding time with their friends
+whilst learning to be more responsible by taking care of themselves and
+their belongings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+</div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>P4 Outdoor Experience Day Camp</strong>
+</p>
+<p>Since 2019, the school has conducted a 2-day day camp for our Primary
+4 students. The camp aims to:</p>
+<p>a) introduce basic outdoor skills,</p>
+<p>b) build mental resilience and self-care habits, and</p>
+<p>c) foster interaction and cooperation in a communal setting.</p>
+<p>Students engage in outdoor activities involving skills such as orienteering
+around the school, outdoor cooking and team-building exercises. They also
+have the opportunity to experience basic indoor wall climbing at an external
+height-based facility, conducted by qualified instructors with accompanying
+teachers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
+</div>
+<p></p>
+</li>
+<li>
+<p><strong>P5 Adventure Camp</strong>
+</p>
+</li>
+</ul>
+<p>At the P5 Adventure Camp, our students experience a 3D2N camp at one of
+Singapore's MOE Outdoor Adventure Learning Centres. The school has taken
+a spiralled approach when planning the camp activities, ensuring that students
+are exposed to higher levels of outdoor activities such as zip-lining,
+abseiling and high element obstacle courses. This builds upon the students'
+experience from the Outdoor Experience Day in P4, where they learnt basic
+outdoor skills in preparation for this P5 overnight camp. The objectives
+of this programme focus on developing our students as independent individuals
+and building resilience as they learn to overcome challenges during difficult
+times.</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Grow Well @ SG and Empowered Kidz Programme</strong>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p>BGPS has adopted the Grow Well @SG package for P1–P3 students in 2025,
+focusing on sleep, nutrition, screen time and physical activity. The programme
+educates students on healthy lifestyle choices through age-appropriate
+guidance and personalised health plans, helping them to understand how
+these habits support their health and learning. PE teachers and Form Teachers
+play a key role by reinforcing these messages through PE lessons, classroom
+discussions and daily routines, ensuring a whole-school approach to student
+well-being. In 2026, the programme will be scaled up to include P4–P6 students,
+benefiting all students. Concurrently, the school provides additional intervention
+through the Empowered Kidz Programme for students requiring more support
+with physical activity engagement and weight management. The school plans
+and organises Learn-to-Play activities, implemented alongside HPB's Active
+Youth Recharge programme, to assist targeted students in cultivating healthier
+lifestyles and developing positive habits for life.</p>
+<p><strong>Active Recess Play</strong>
+</p>
+<p>Students are encouraged to engage in active play during all recess breaks
+at BGPS. Equipment for various sports is provided, including footballs,
+basketballs, badminton racquets and rugby balls for P3-P6 students. P1-P2
+students are given age-appropriate equipment such as small balls, sponge
+balls and hula hoops. Teachers are deployed to supervise and ensure student
+safety during play. Students can be seen enjoying games with their friends,
+building connections and team spirit whilst improving their sports skills.
+These active recess sessions provide an excellent opportunity for students
+to stay physically active and burn calories in a fun, social environment.</p>
+<p><strong>Active Fridays</strong>
+</p>
+<p>Students participate in a weekly pre-assembly exercise programme every
+Friday morning, led by student volunteers and teachers from the PE Department.
+This provides an additional platform for our students to cultivate and
+engage in regular physical activities. During Active Fridays, teachers
+plan different types of physical activities for two distinct segments of
+students (Lower and Upper Primary) to cater to their varied interests and
+ensure better engagement. The school strongly believes that these activities
+will positively impact students' brain function and improve their cognition,
+mood, attention and academic achievement.</p>
 <hr>
 <p><strong>P1 &amp; P2 Programme for Active Learning (PAL)</strong> 
 <br>At BGPS, all our P1 and P2 students undergo PAL modules during school

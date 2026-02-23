@@ -113,6 +113,22 @@ older students maintain digital portfolios on the Student Learning Space
 partners in the Bedok area. Selected Higher Ability Learners also work
 with professional artists through the <strong>Artist-in-School Scheme</strong>,
 culminating in exhibitions that provide authentic audiences for their work.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ArtSlide6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1__Art.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3_Art.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ArtSlide5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.jpg">
+</div>
 <h3><strong>Music Education</strong></h3>
 <p>Music education develops students as <strong>active listeners, performers and creators</strong>.
 Our Music programme emphasises joyful participation, strong musical foundations
@@ -199,4 +215,11 @@ and arrangement using digital tools such as GarageBand.</p>
 <p>Students are given opportunities to perform and share their learning during
 class activities and school events, helping them develop confidence, teamwork
 and communication skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music_Slide1_JPG.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music_Slide2_JPGE.jpg">
+</div>
 <p></p>

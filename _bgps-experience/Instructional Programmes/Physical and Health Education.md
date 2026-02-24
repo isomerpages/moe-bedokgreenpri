@@ -74,12 +74,12 @@ one another and celebrate participation together.</p>
 </ul>
 <p>The school organises the SwimSafer Programme for P3 students at Heartbeat
 @ Bedok and Our Tampines Hub Swimming Complexes during curriculum time
-in Term 1. The objectives of the programme are to allow students to learn
-basic swimming techniques and water survival skills, build water confidence,
-and enjoy swimming as a healthy physical activity. The programme consists
-of eight sessions of 1.5 hours each. At the end of the programme, students
-must pass both a practical test and an online theory test to receive their
-SwimSafer certificates. Students enjoy bonding time with their friends
+in Semester 1. The objectives of the programme are to allow students to
+learn basic swimming techniques and water survival skills, build water
+confidence, and enjoy swimming as a healthy physical activity. The programme
+consists of eight sessions of 1.5 hours each. At the end of the programme,
+students must pass both a practical test and an online theory test to receive
+their SwimSafer certificates. Students enjoy bonding time with their friends
 whilst learning to be more responsible by taking care of themselves and
 their belongings.</p>
 <div class="isomer-image-wrapper">

@@ -34,6 +34,8 @@ and attitude to enjoy active and healthy living and these include:</p>
 <li>
 <p><strong>P1-P2 Games and Adventure Day</strong>
 </p>
+</li>
+</ul>
 <p>Games and Adventure Day is organised for P1 and P2 students with the aim
 of providing them a platform to apply the psychomotor skills learnt during
 Physical and Health Education lessons. Students compete in the spirit of
@@ -48,10 +50,12 @@ shared learning. Through engaging activities, students build confidence,
 develop teamwork skills and strengthen bonds with their peers whilst celebrating
 their achievements together.</p>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>P3-P6 Inter-Class Games</strong>
 </p>
+</li>
+</ul>
 <p>The school believes that inter-class games promote greater participation
 in physical activities and enhance social interaction amongst students.
 At BGPS, all students take part in the planned games to ensure maximum
@@ -62,7 +66,7 @@ focus is on students demonstrating the Olympic values of excellence, friendship
 and respect, rather than on winning, as they apply their skills, support
 one another and celebrate participation together.</p>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>P3 SwimSafer Programme</strong>
 </p>
@@ -90,6 +94,8 @@ their belongings.</p>
 <li>
 <p><strong>P4 Outdoor Experience Day Camp</strong>
 </p>
+</li>
+</ul>
 <p>Since 2019, the school has conducted a 2-day day camp for our Primary
 4 students. The camp aims to:</p>
 <p>a) introduce basic outdoor skills,</p>
@@ -109,7 +115,7 @@ teachers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
 </div>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>P5 Adventure Camp</strong>
 </p>

@@ -3,7 +3,7 @@ title: Suppliers & Vendors
 permalink: /about-us/general-information/suppliers-n-vendors/
 description: ""
 third_nav_title: Our Services
-variant: tiptap
+variant: markdown
 ---
 <h1>School Bookshop</h1>
 <p><strong>Pacific Bookstores Pte Ltd</strong> 

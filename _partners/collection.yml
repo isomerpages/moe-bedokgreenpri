@@ -3,9 +3,8 @@ collections:
     output: true
     order:
       - Our Partners.md
-      - SAC, PSG & Alumni/.keep
-      - SAC, PSG & Alumni/School Advisory Committee (SAC).md
-      - SAC, PSG & Alumni/Parent Support Group (PSG).md
-      - SAC, PSG & Alumni/Junior Alumni Club.md
+      - School Advisory Committee (SAC).md
+      - Parent Support Group (PSG).md
+      - Junior Alumni Club.md
       - Partnership with Community Groups.md
       - Partnership with Other External Organisations.md

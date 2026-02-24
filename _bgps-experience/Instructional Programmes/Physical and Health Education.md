@@ -131,7 +131,6 @@ outdoor skills in preparation for this P5 overnight camp. The objectives
 of this programme focus on developing our students as independent individuals
 and building resilience as they learn to overcome challenges during difficult
 times.</p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -139,12 +138,8 @@ times.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Grow Well @ SG and Empowered Kidz Programme</strong>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grow Well @ SG and Empowered Kidz Programme</strong>
 </p>
-</li>
-</ol>
 </td>
 </tr>
 </tbody>

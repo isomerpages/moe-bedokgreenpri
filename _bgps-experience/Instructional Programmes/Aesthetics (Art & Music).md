@@ -150,7 +150,7 @@ and opportunities for creative expression.</p>
 <p>Lessons focus on singing, playing instruments, listening and creating
 music. Students experience music through both vocals and instruments, building
 confidence and enjoyment.</p>
-<p><strong>Progressive Instrumental Learning</strong>
+<p><strong><em>Progressive Instrumental Learning</em></strong>
 </p>
 <p>Students learn instruments in a structured and age-appropriate manner:</p>
 <ul data-tight="true" class="tight">

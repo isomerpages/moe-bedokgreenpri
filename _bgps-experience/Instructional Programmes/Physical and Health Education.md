@@ -239,9 +239,7 @@ follows:</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p>PAL aims to nurture the 3Cs in students, namely Curiosity, Cooperation
 and Confidence. This is done through planned lessons which are experiential
 in nature and students get to learn in creative ways. Lesson are also designed

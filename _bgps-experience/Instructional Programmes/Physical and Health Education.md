@@ -169,6 +169,14 @@ safety during play. Students can be seen enjoying games with their friends,
 building connections and team spirit whilst improving their sports skills.
 These active recess sessions provide an excellent opportunity for students
 to stay physically active and burn calories in a fun, social environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AR__2_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AR.png">
+</div>
 <p><strong>Active Fridays</strong>
 </p>
 <p>Students participate in a weekly pre-assembly exercise programme every
@@ -239,4 +247,16 @@ and Confidence. This is done through planned lessons which are experiential
 in nature and students get to learn in creative ways. Lesson are also designed
 to be fun and enjoyable while social and emotional competencies are developed,
 and new skills and interests are discovered.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_PAL.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1__2_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1.png">
+</div>
 <p></p>

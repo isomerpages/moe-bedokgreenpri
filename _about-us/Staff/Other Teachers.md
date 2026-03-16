@@ -137,15 +137,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chui Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chui_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chui_choo@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lian Wee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,14 +163,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Bavithra Arumughanath</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jap Ren Huei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

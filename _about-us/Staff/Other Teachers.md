@@ -146,15 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Quek Shu Mien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_shu_mien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_shu_mien@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lian Wee Lee</p>
 </td>
 <td rowspan="1" colspan="1">

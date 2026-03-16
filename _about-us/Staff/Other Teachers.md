@@ -164,14 +164,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sitoe Yew Sing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Eliza Tan Bin Har</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -137,37 +137,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chui Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chui_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chui_choo@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Quek Shu Mien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_shu_mien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_shu_mien@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lian Wee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lian_wee_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_wee_lee@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sitoe Yew Sing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -196,7 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jap Ren Huei</p>
+<p>Mdm Goh Swee Eem</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -204,7 +178,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Swee Eem</p>
+<p>Mdm Chow Jee Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

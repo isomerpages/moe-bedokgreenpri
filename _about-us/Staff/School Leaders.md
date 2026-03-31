@@ -24,7 +24,7 @@ variant: markdown
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Leong_Kit_Yee_edited.jpg">
+<img style="width: 100px" height="auto" width="100%" alt="" src="/images/Mdm_Leong_Kit_Yee_edited.jpg">
 </div>
 <p>Ms Leong Kit Yee
 <br><a href="mailto:leong_kit_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_kit_yee@schools.gov.sg</a>

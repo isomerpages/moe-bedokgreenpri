@@ -3,42 +3,36 @@ title: School Leaders
 permalink: /about-us/staff/school-leaders/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-##### **School Principal**
-
-<figure style="width:85%">
-
-<img src="/images/benjaminyong.jpg" style="width:100px">
-
-<figcaption> <strong> Mr Benjamin Yong </strong> 
-<br><a href="mailto:benjamin_yong@schools.gov.sg">benjamin_yong@schools.gov.sg</a></figcaption>
-
-</figure>
-
-##### **Vice-Principal**
-
-<figure style="width:85%">
-
-<img src="/images/Staff%20Photos/2026/Mrs_Senthil_Poonkodi__PP_size_.jpg" alt="Mrs Senthil Poonkodi" style="width:100px;">	
-Mrs Senthil Poonkodi<br>
-<a href="mailto:senthil_poonkodi@schools.gov.sg">senthil_poonkodi@schools.gov.sg</a>
-
-</figure>
-<br>
-<figure style="width:85%">
-
-Ms Leong Kit Yee<br>
-<a href="mailto:leong_kit_yee@schools.gov.sg">leong_kit_yee@schools.gov.sg</a>
-
-</figure>
-
-##### **Vice-Principal (Admin)**
-
-<figure style="width:85%">
-
-<img src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg" alt="Mr Chua Kok Seng" style="width:100px;">
-Mr Chua Kok Seng<br>
-<a href="mailto:chua_kok_seng@schools.gov.sg">chua_kok_seng@schools.gov.sg</a>
-
-</figure>
+<h5><strong>School Principal</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width:100px" height="auto" width="100%" src="/images/benjaminyong.jpg">
+</div>
+<p><strong> Mr Benjamin Yong </strong>
+<br><a href="mailto:benjamin_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_yong@schools.gov.sg</a>
+</p>
+<h5><strong>Vice-Principal</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width:100px;" height="auto" width="100%" alt="Mrs Senthil Poonkodi" src="/images/Staff%20Photos/2026/Mrs_Senthil_Poonkodi__PP_size_.jpg">
+</div>
+<p>Mrs Senthil Poonkodi
+<br><a href="mailto:senthil_poonkodi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">senthil_poonkodi@schools.gov.sg</a>
+</p>
+<p>
+<br><strong>Vice-Principal</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Leong_Kit_Yee_edited.jpg">
+</div>
+<p>Ms Leong Kit Yee
+<br><a href="mailto:leong_kit_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_kit_yee@schools.gov.sg</a>
+</p>
+<h5><strong>Vice-Principal (Admin)</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width:100px;" height="auto" width="100%" alt="Mr Chua Kok Seng" src="/images/mr%20chua%20kok%20seng%20passport%20size.jpg">
+</div>
+<p>Mr Chua Kok Seng
+<br><a href="mailto:chua_kok_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kok_seng@schools.gov.sg</a>
+</p>

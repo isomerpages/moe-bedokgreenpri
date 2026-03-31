@@ -29,7 +29,7 @@ Mrs Senthil Poonkodi<br>
 <figure style="width:85%">
 
 Ms Leong Kit Yee<br>
-<a href="mailto:Leong_Kit_Yee@schools.gov.sg">Leong_Kit_Yee@schools.gov.sg</a>
+<a href="mailto:leong_kit_yee@schools.gov.sg">leong_kit_yee@schools.gov.sg</a>
 
 </figure>
 

@@ -20,8 +20,8 @@ variant: markdown
 <br><a href="mailto:senthil_poonkodi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">senthil_poonkodi@schools.gov.sg</a>
 </p>
 <p>
-<br><strong>Vice-Principal</strong>
-</p>
+</p><h5><strong>Vice-Principal</strong></h5>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100px" height="auto" width="100%" alt="" src="/images/Mdm_Leong_Kit_Yee_edited.jpg">

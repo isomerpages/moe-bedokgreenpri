@@ -25,6 +25,13 @@ Mrs Senthil Poonkodi<br>
 <a href="mailto:senthil_poonkodi@schools.gov.sg">senthil_poonkodi@schools.gov.sg</a>
 
 </figure>
+<br>
+<figure style="width:85%">
+
+Ms Leong Kit Yee<br>
+<a href="mailto:Leong_Kit_Yee@schools.gov.sg">Leong_Kit_Yee@schools.gov.sg</a>
+
+</figure>
 
 ##### **Vice-Principal (Admin)**
 

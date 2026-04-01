@@ -4,6 +4,15 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p>Bedok Green Primary School is gearing up to celebrate a significant milestone—its
+25th Anniversary! This special occasion marks a remarkable journey of growth,
+excellence in education, and a strong commitment to community building.
+One of the key highlights of the celebrations is the Anniversary Dinner
+on Friday, 29 May 2026.</p>
+<p>Alumni from across the years, current students, parents, former staff
+and partners are invited to join us in this joyous celebration as we honour
+BGPS’s legacy and shared achievements</p>
+<p></p>
 <p><strong><u>P1 Parent Engagement 2026</u></strong>
 <br>Slides and links from the 2026 P1 Parent Engagement sharings are parked
 <a href="https://www.bedokgreenpri.moe.edu.sg/partners/home-school-partnership/parents-engagement-2026/" rel="noopener nofollow" target="_blank">here</a>.</p>

@@ -216,6 +216,33 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheryl Tien Yick Song</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tien_Yick_Song@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tien_Yick_Song@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Thavaselvi D/O Selliah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thavaselvi_selliah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thavaselvi_selliah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Annur Munirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:annur_munirah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">annur_munirah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

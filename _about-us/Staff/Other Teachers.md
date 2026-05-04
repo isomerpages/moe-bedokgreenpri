@@ -149,7 +149,7 @@ variant: tiptap
 <p>Mdm Eliza Tan Bin Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Eliza_Tan_Har_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Eliza_Tan_Har_B@schools.gov.sg</a>
+<p><a href="mailto:Eliza_Tan_Har_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eliza_tan_har_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -221,7 +221,7 @@ variant: tiptap
 <p>Ms Cheryl Tien Yick Song</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tien_Yick_Song@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tien_Yick_Song@schools.gov.sg</a>
+<p><a href="mailto:Tien_Yick_Song@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tien_yick_song@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -149,7 +149,8 @@ variant: tiptap
 <p>Mdm Eliza Tan Bin Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Eliza_Tan_Har_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Eliza_Tan_Har_B@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +158,8 @@ variant: tiptap
 <p>Mdm Veni d/o Raman Samikanu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:veni_raman_samikanu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veni_raman_samikanu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +167,8 @@ variant: tiptap
 <p>Mdm Bavithra Arumughanath</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:bavithra_arumughanath_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bavithra_arumughanath_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +176,8 @@ variant: tiptap
 <p>Mdm Goh Swee Eem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_swee_eem_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_swee_eem_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +185,35 @@ variant: tiptap
 <p>Mdm Chow Jee Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chow_jee_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_jee_soon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mazlan Bin Muhammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mazlan_b_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mazlan_b_muhammad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Hainoon Azeez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hainoon_jahria_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hainoon_jahria_hassan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Lay Ming Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_lay_ming_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_ming_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

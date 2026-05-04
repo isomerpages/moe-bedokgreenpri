@@ -171,6 +171,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Zheng Xu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zheng_Xu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_xu_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,18 +307,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hidahny_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidahny_mustaffa@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Zheng Xu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Zheng_Xu_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_xu_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

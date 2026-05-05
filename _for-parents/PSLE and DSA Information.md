@@ -24,6 +24,5 @@ Click [here](http://www.seab.gov.sg/) to access more information on PSLE rela
 
 ### Direct-Schools Admission (DSA)
 
-Please click on the file below to obtain more information on DSA 2023  
+Please click [here](https://www.moe.gov.sg/secondary/dsa) to obtain more information on DSA.  
   
-[DSA Information 2023](/files/31072023%20dsa%20info.pdf)

@@ -4,6 +4,19 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>BGPS e-Open House 2026</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BGPS_e_Open_House_2026_Final.png">
+</div>
+<p>Are you looking for a nurturing and supportive environment for your child
+who will be starting Primary 1 next year?</p>
+<p>BGPS welcomes interested parents to find out more about our school. Click
+on the link: <a href="https://go.gov.sg/bgpseopenhouse2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bgpseopenhouse2026</a>&nbsp;
+to be redirected to our e-Open House page.</p>
+<p></p>
+<p><strong><u>BGPS 25th Anniversary</u></strong>
+</p>
 <p>Bedok Green Primary School is gearing up to celebrate a significant milestone—its
 25th Anniversary! This special occasion marks a remarkable journey of growth,
 excellence in education, and a strong commitment to community building.

@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>Term 3 Newsletter</u></strong> 
+<br>As part of our efforts to keep you abreast of developments in the school,
+a copy of the Principal’s Newsletter for Term 3 is parked <a href="/files/121_2026_Term_3_Revised_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p><strong><u>BGPS e-Open House 2026</u></strong>
 </p>
 <div class="isomer-image-wrapper">

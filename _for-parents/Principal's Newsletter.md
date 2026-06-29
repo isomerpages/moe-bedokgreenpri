@@ -6,7 +6,7 @@ variant: markdown
 ---
 **<u>2026 Newsletters</u>** <br>
 [Term 1 Letter](/files/Forms/2026/Term_1_Letter_2026.pdf)<br>
-
+[Term 3 Letter](/files/121_2026_Term_3_Revised_Letter_2026.pdf)<br>
 
 **<u>2025 Newsletters</u>** <br>
 [Term 1 Letter](/files/Forms/2025/BGPS_001_Term_1_Letter_2025_Final_Version.pdf)<br>

@@ -32,10 +32,10 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Fathiah Binte Abdul Malik</p>
+<p>Ms Jasmine Lim Tze Yeun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fathiah_abdul_malik_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fathiah_abdul_malik_a@schools.gov.sg</a>
+<p><a href="mailto:Jasmine_Lim_Tze_Yeun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_lim_tze_yeun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -117,6 +117,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Executive (AE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Amirah binte Batiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Amirah_Batiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_batiah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,6 +148,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="koh_poh_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_poh_lin@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer (CSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheong May Keng Brenda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Cheong_may_Keng_Brenda_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_may_keng_brenda_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -166,7 +190,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sayani Ahamad</p>
+<p>Mdm Jocelyn Toh Bee Kiaw</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

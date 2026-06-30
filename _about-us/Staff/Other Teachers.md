@@ -119,15 +119,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Asmah Mansoor Alkadree</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:asmah_mansoor_alkadree_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">asmah_mansoor_alkadree_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Roslina Binte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,15 +141,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Eliza_Tan_Har_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eliza_tan_har_b@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Veni d/o Raman Samikanu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:veni_raman_samikanu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veni_raman_samikanu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -236,11 +218,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Annur Munirah</p>
+<p>Mdm Pakkiam Etti Goundan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:annur_munirah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">annur_munirah@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

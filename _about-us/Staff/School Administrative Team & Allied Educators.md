@@ -117,6 +117,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Executive (AE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Amirah binte Batiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Amirah_Batiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_batiah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">

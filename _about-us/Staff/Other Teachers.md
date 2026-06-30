@@ -155,15 +155,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Veni d/o Raman Samikanu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:veni_raman_samikanu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veni_raman_samikanu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Bavithra Arumughanath</p>
 </td>
 <td rowspan="1" colspan="1">

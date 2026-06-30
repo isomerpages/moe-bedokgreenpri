@@ -119,15 +119,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Asmah Mansoor Alkadree</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:asmah_mansoor_alkadree_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">asmah_mansoor_alkadree_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Roslina Binte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,15 +213,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thavaselvi_selliah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thavaselvi_selliah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Annur Munirah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:annur_munirah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">annur_munirah@schools.gov.sg</a>
 </p>
 </td>
 </tr>

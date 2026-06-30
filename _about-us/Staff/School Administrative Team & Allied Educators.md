@@ -198,6 +198,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jocelyn Toh Bee Kiaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Laboratory Assistant</p>
 </td>
 <td rowspan="1" colspan="1">

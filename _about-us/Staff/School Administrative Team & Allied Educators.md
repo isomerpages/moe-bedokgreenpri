@@ -32,10 +32,11 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jasmine Lim Tze Yeun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Jasmine_Lim_Tze_Yeun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_lim_tze_yeun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

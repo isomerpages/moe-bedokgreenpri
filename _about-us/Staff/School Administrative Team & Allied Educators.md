@@ -32,11 +32,10 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Fathiah Binte Abdul Malik</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fathiah_abdul_malik_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fathiah_abdul_malik_a@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

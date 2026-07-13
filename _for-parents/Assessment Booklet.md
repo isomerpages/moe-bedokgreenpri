@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <p>
-  <a rel="noopener" target="_blank" href="/files/2026_Assessment_Information_Booklet.pdf">
+  <a rel="noopener" target="_blank" href="/files/Assessment_Information_Booklet_2026__Final_July_.pdf">
     Assessment Information Booklet 2026
   </a>
 </p>

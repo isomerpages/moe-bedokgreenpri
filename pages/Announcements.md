@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>Assessment Information Booklet for Parents</u></strong> 
+<br>For essential information and instructions on assessment matters in the
+school, please click <a href="/files/Assessment_Information_Booklet_2026__Final_July_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p><strong><u>Term 3 Newsletter</u></strong> 
 <br>As part of our efforts to keep you abreast of developments in the school,
 a copy of the Principal’s Newsletter for Term 3 is parked <a href="/files/121_2026_Term_3_Revised_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

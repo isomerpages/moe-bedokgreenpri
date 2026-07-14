@@ -148,18 +148,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Physical Education &amp; Co-curricular Activities)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Hasri Bahari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_hasri_bahari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohd_hasri_bahari@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">

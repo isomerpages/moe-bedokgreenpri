@@ -182,15 +182,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Hainoon Azeez</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hainoon_jahria_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hainoon_jahria_hassan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Lay Ming Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +212,8 @@ variant: tiptap
 <p>Mdm Pakkiam Etti Goundan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Pakkiam_Etti_Goundan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pakkiam_etti_goundan_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

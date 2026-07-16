@@ -86,7 +86,7 @@ variant: tiptap
 <p>Mdm Fadlin Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fadlin_mohamed_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fadlin_mohamed_yusoff@schools.gov.sg</a>
+<p><a href="mailto:fadlin_mohamed_yusoff_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fadlin_mohamed_yusoff_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

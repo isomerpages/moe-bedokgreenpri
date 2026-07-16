@@ -731,6 +731,21 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Ho Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ho_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ho_teck@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Nor Azarizal Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -173,15 +173,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mazlan Bin Muhammad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mazlan_b_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mazlan_b_muhammad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Lay Ming Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,6 +205,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Pakkiam_Etti_Goundan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pakkiam_etti_goundan_a@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Foo Tiang Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Foo_Tiang_Weng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_tiang_weng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Wee Siang Joycelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

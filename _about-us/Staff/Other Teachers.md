@@ -173,15 +173,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mazlan Bin Muhammad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mazlan_b_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mazlan_b_muhammad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Lay Ming Rachel</p>
 </td>
 <td rowspan="1" colspan="1">

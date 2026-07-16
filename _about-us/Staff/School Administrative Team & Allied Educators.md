@@ -198,17 +198,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Laboratory Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Dhalina Bte Nari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -268,6 +257,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Jun Song</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer (OSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Dhalina Bte Nari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

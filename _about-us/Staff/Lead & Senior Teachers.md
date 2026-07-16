@@ -143,18 +143,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mazlan Muhammad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mazlan_b_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mazlan_b_muhammad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">

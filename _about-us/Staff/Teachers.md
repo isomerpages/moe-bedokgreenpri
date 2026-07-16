@@ -713,7 +713,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Fiona Amanda Putri Binte Herman Yadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Fiona_Amanda_Putri_Herman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fiona_amanda_putri_herman@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Ho Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ho_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ho_teck@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nor Azarizal Mohamed</p>

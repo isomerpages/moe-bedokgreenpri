@@ -86,7 +86,7 @@ variant: tiptap
 <p>Mdm Fadlin Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fadlin_mohamed_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fadlin_mohamed_yusoff@schools.gov.sg</a>
+<p><a href="mailto:fadlin_mohamed_yusoff_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fadlin_mohamed_yusoff_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -185,7 +185,7 @@ variant: tiptap
 <p>Ms Tan Lay Ming Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lay_ming_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_ming_a@schools.gov.sg</a>
+<p><a href="mailto:tan_lay_ming_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_ming_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>

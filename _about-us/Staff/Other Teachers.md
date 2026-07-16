@@ -207,6 +207,23 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Foo Tiang Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Foo_Tiang_Weng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_tiang_weng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Wee Siang Joycelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

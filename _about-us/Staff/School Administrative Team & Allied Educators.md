@@ -82,20 +82,6 @@ variant: tiptap
 <p>Admin Executive (AE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tety Suzanna Sulaiman
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tety_suzanna_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tety_suzanna_sulaiman@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Executive (AE)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Evelyn Yap Poh Kwee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,17 +232,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Beng Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer (OSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Jun Song</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

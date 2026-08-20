@@ -221,7 +221,8 @@ variant: tiptap
 <p>Miss Lim Wee Siang Joycelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:joycelyn_lim_wee_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joycelyn_lim_wee_siang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

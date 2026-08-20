@@ -324,6 +324,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nursima Solang Abdul Samad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nursima_solang_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursima_solang_abdul_samad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -345,6 +357,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="leow_zi_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>see_siang_hua@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Management Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mack Aung Khant Tun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mack_aung_khant_tun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mack_aung_khant_tun@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -360,18 +360,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Management Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mack Aung Khant Tun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mack_aung_khant_tun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mack_aung_khant_tun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

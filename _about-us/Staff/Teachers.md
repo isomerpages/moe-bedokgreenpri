@@ -246,18 +246,6 @@ variant: tiptap
 <p>1 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Marissa Binte Mohamad Kefli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Marissa_Mohamad_Kefli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_marissa_mohamad_kefli@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lim Sock Keow Noel</p>
 </td>
 <td rowspan="1" colspan="1">
